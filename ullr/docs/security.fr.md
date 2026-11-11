@@ -75,9 +75,6 @@ Seulement l'appareil photo, pour photographier la cible, et l'accès à Internet
 **Quelqu'un vérifie-t-il l'application ?**
 Chaque modification est testée automatiquement : plus de 75 tests couvrent le comptage, les consignes envoyées à l'IA, et exactement ce qui sort du téléphone. La conception a été revue sous l'angle de la confidentialité et de la sécurité, et les bibliothèques utilisées sont tenues à jour.
 
-**Et si j'utilise l'application Claude au lieu d'une clé ?**
-La photo recadrée passe alors par votre propre compte Claude, comme l'une de vos conversations. Ullr ne voit jamais vos identifiants Claude.
-
 ## Une bonne habitude
 
 !!! tip "Trois minutes, une seule fois"

@@ -70,18 +70,19 @@ You fix any circled arrow with one tap, add a missed arrow or remove another arc
 
 <div class="shots" markdown>
 <figure markdown>
-![Settings: scoring method and the choice of Anthropic, OpenAI or Google Gemini.](images/screenshots/settings.png){ .shot }
+![Settings: scoring method and the choice of AI service.](images/screenshots/settings.png){ .shot }
 <figcaption>Choosing the AI in Settings</figcaption>
 </figure>
 </div>
 
-| Service | How | Notes |
-|---------|-----|-------|
-| **Anthropic Claude** | Your own API key | Recommended. |
-| **OpenAI** | Your own API key | Same instructions. Not yet tested on real target photos. |
-| **Google Gemini** | Your own API key | Same instructions. Not yet tested on real target photos. |
-| **Claude app** | Copy and paste, no key | Uses your own Claude account or subscription. |
-| **By hand** | Nothing | Always possible, on any end. |
+| Service | How |
+|---------|-----|
+| **Anthropic (Claude)** | Your own API key |
+| **Google (Gemini)** | Your own API key |
+| **OpenAI** | Your own API key |
+| **By hand** | Nothing: always possible, on any end |
+
+All three services receive exactly the same instructions. Pick the one you prefer, and change it any time.
 
 ## At the range
 

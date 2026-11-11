@@ -41,8 +41,6 @@ Settings shows the same list, under **What is sent to …**, for the service you
 !!! warning "Gemini: use a key with billing on"
     On Google's free tier, your target photos may be used by Google and seen by reviewers. Use a key from a Google Cloud project with billing turned on. Ullr can't check this for you.
 
-With the **Claude app** method, the trimmed photo and the prompt go through your own Claude account, and stay in that conversation like any other chat.
-
 ## Your API key
 
 - It's stored encrypted on the phone, never shown again, and never put in an export.

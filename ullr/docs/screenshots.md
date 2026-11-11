@@ -56,8 +56,8 @@ Taken with **Ullr Demo**, a version of the app filled with six months of made-up
 
 <div class="shots" markdown>
 <figure markdown>
-![Settings: scoring method AI service API, and the choice of Anthropic, OpenAI or Google Gemini.](images/screenshots/settings.png){ .shot }
-<figcaption><b>Choice of AI.</b> Anthropic (recommended), OpenAI or Google Gemini.</figcaption>
+![Settings: scoring method AI service API, and the choice of service.](images/screenshots/settings.png){ .shot }
+<figcaption><b>Choice of AI.</b> The service of your choice, with your own key.</figcaption>
 </figure>
 <figure markdown>
 ![Settings privacy section: the send only the target area switch, and what is sent and never sent.](images/screenshots/settings-privacy.png){ .shot }

@@ -56,8 +56,8 @@ Prises avec **Ullr Demo**, une version de l'application remplie de six mois de s
 
 <div class="shots" markdown>
 <figure markdown>
-![Réglages : la méthode API d'un service d'IA, et le choix entre Anthropic, OpenAI et Google Gemini.](images/screenshots/fr/settings.png){ .shot }
-<figcaption><b>Le choix de l'IA.</b> Anthropic (recommandé), OpenAI ou Google Gemini.</figcaption>
+![Réglages : la méthode API d'un service d'IA, et le choix du service.](images/screenshots/fr/settings.png){ .shot }
+<figcaption><b>Le choix de l'IA.</b> Le service de votre choix, avec votre propre clé.</figcaption>
 </figure>
 <figure markdown>
 ![La section Confidentialité des réglages : l'option N'envoyer que la zone de la cible, et ce qui est envoyé et ce qui ne l'est jamais.](images/screenshots/fr/settings-privacy.png){ .shot }

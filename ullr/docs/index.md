@@ -80,7 +80,7 @@ hide:
 |---|---|
 | **Any session** | Place, date, bow type (traditional, recurve, olympic, compound) and bow, distance, target face, number of paper faces, any number of arrows per end. |
 | **Your scoring rule** | X = 10, inner 10 only (World Archery compound) or X = 11, chosen per session, with a default in Settings. Change it later and every total is recalculated. |
-| **Choice of AI** | Anthropic Claude (recommended), OpenAI or Google Gemini with your own key, or the Claude app by copy and paste, with no key. |
+| **The AI service of your choice** | Anthropic (Claude), Google (Gemini) or OpenAI, with your own API key. All three get the same instructions. |
 | **Works at the range** | No signal? Photos are saved and scored when the phone is back online. You can always score an end by hand. |
 | **Bows** | Several bows, with a catalog of current compound bows (PSE, Hoyt, Mathews, Bowtech), draw weight and draw length. |
 | **English and French** | The whole app follows your phone's language. |

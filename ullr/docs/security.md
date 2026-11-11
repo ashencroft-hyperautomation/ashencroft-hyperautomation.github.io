@@ -75,9 +75,6 @@ Only the camera, to photograph the target, and internet access, to score with an
 **Is someone checking the app?**
 Every change is tested automatically, more than 75 tests that cover scoring, the instructions sent to the AI, and exactly what leaves the phone. The design was reviewed for privacy and security, and the libraries it uses are kept up to date.
 
-**What if I use the Claude app instead of a key?**
-Then the trimmed photo goes through your own Claude account, as one of your conversations. Ullr never sees your Claude login.
-
 ## A good habit
 
 !!! tip "Three minutes, once"

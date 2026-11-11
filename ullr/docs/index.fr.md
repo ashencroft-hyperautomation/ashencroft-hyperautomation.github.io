@@ -80,7 +80,7 @@ hide:
 |---|---|
 | **Toutes vos séances** | Lieu, date, type d'arc (traditionnel, classique, olympique, à poulies) et arc, distance, blason, nombre de blasons sur la butte, n'importe quel nombre de flèches par volée. |
 | **Votre règle de comptage** | X = 10, 10 intérieur seulement (arc à poulies World Archery) ou X = 11, choisie pour chaque séance, avec une valeur par défaut dans les réglages. Changez-la plus tard : tous les totaux sont recalculés. |
-| **Le choix de l'IA** | Claude d'Anthropic (recommandé), OpenAI ou Google Gemini avec votre propre clé, ou l'application Claude en copier-coller, sans clé. |
+| **Le service d'IA de votre choix** | Anthropic (Claude), Google (Gemini) ou OpenAI, avec votre propre clé API. Les trois reçoivent les mêmes consignes. |
 | **Pensé pour le pas de tir** | Pas de réseau ? Les photos sont enregistrées et comptées dès que le téléphone est de nouveau en ligne. Vous pouvez toujours saisir une volée à la main. |
 | **Vos arcs** | Plusieurs arcs, avec un catalogue d'arcs à poulies actuels (PSE, Hoyt, Mathews, Bowtech), puissance et allonge. |
 | **Français et anglais** | Toute l'application suit la langue de votre téléphone. |

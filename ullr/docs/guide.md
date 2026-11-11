@@ -27,26 +27,22 @@ The app follows your phone's language (English or French). On Android 13 and lat
 
 | Method | You need | How it works |
 |--------|----------|--------------|
-| **AI service API (automatic)** (*API d’un service d’IA*) | An API key for Anthropic, OpenAI or Google | Each photo is scored in the background. The end is ready to check a few seconds later. |
-| **Claude app (copy and paste)** (*Application Claude*) | The Claude app on your phone | You share the photo and a prompt to the Claude app, then paste its answer back. No key needed. |
+| **AI service API (automatic)** (*API d’un service d’IA*) | An API key for the AI service of your choice (Anthropic, Google or OpenAI) | Each photo is scored in the background. The end is ready to check a few seconds later. |
 | **Score by hand** | Nothing | Available on every end, with any method. |
 
 ### Choose the AI service
 
-![Settings: scoring method, then the AI service choice: Anthropic (Claude), OpenAI or Google (Gemini), then the key for the chosen service.](images/screenshots/settings.png){ .shot width="240" }
+![Settings: scoring method, then the choice of AI service, then the key for the chosen service.](images/screenshots/settings.png){ .shot width="240" }
 
 With the API method, **Settings → AI service** (*Service d’IA*) offers:
 
-| Service | Models | Notes |
-|---------|--------|-------|
-| **Anthropic (Claude)** | Opus 5.5 (default), Sonnet 5.5 | Recommended: the instructions were designed and tested with Claude. |
-| **OpenAI** | GPT-6.1 Sol (default), GPT-6 Astra (most capable, about 5 times the price) | Not tested on real target photos yet. |
-| **Google (Gemini)** | Gemini 4 Carbon (default), Gemini 3.8 Flash (faster, cheaper) | Not tested on real target photos yet. Use a key from a project with billing turned on (see [Privacy](privacy.md)). |
+| Service | Models |
+|---------|--------|
+| **Anthropic (Claude)** | Opus 5.5 (default), Sonnet 5.5 (cheaper) |
+| **Google (Gemini)** | Gemini 4 Carbon (default), Gemini 3.8 Flash (faster, cheaper). Use a key from a project with billing turned on (see [Privacy](privacy.md)). |
+| **OpenAI** | GPT-6.1 Sol (default), GPT-6 Astra (most capable, about 5 times the price) |
 
 Each service keeps its own key, so you can switch and come back without typing a key again.
-
-!!! note "A Claude Pro or Max subscription"
-    Ullr can't sign in with a Claude subscription: Anthropic only allows those logins in its own apps. The **Claude app (copy and paste)** method is the permitted way to score with your subscription.
 
 ### Get and save an API key
 
@@ -65,7 +61,7 @@ The key is stored encrypted on the phone. It is never shown again, and **Remove 
 
 | Model | Per end | 30-end session |
 |-------|---------|----------------|
-| Claude Opus 5.5 (default) | about $0.05–0.10 | about $1.50–3.00 |
+| Claude Opus 5.5 | about $0.05–0.10 | about $1.50–3.00 |
 | Claude Sonnet 5.5 | about $0.03–0.05 | about $0.75–1.50 |
 | GPT-6.1 Sol | about $0.02–0.05 | about $0.60–1.50 |
 | GPT-6 Astra | about $0.10–0.25 | about $3–7.50 |
@@ -101,7 +97,7 @@ The key is stored encrypted on the phone. It is never shown again, and **Remove 
 | waiting to score (*en attente de comptage*) | No network yet, or queued. It starts by itself when the network comes back. |
 | scoring… (*comptage en cours…*) | The AI is reading the photo. |
 | ready to check (*à vérifier*) | Open it and confirm. |
-| not scored (*non comptée*) | Something went wrong. Tap to retry, score by hand, or use the Claude app. |
+| not scored (*non comptée*) | Something went wrong. Tap to retry or score by hand. |
 
 You don't have to wait: shoot the next end while the previous one is being scored.
 
@@ -198,7 +194,7 @@ Changing a bow later doesn't change past sessions.
 
 **The end says "not scored".** Open it to see why:
 
-- *No API key:* add one in Settings, or switch to the Claude app.
+- *No API key:* add the chosen service's key in Settings.
 - *Key refused:* the key was deleted or mistyped. Check it in Settings.
 - *Service unavailable:* the app retried three times. Tap **Retry** (*Réessayer*) later.
 - *No credit left:* add credit with that service, or raise its limit, then retry.

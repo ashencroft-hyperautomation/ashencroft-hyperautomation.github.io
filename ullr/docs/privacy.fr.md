@@ -41,8 +41,6 @@ Les réglages affichent la même liste, sous **Ce qui est envoyé à …**, pour
 !!! warning "Gemini : utilisez une clé avec la facturation activée"
     Avec l'offre gratuite de Google, vos photos de cible peuvent être utilisées par Google et vues par des examinateurs. Utilisez une clé d'un projet Google Cloud avec la facturation activée. Ullr ne peut pas le vérifier à votre place.
 
-Avec la méthode **Application Claude**, la photo recadrée et le texte passent par votre propre compte Claude, et restent dans cette conversation comme n'importe quel autre échange.
-
 ## Votre clé API
 
 - Elle est chiffrée sur le téléphone, n'est plus jamais affichée, et n'est jamais mise dans un export.

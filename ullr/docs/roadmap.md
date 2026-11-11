@@ -7,7 +7,7 @@ Ullr is a personal project, built in the open. Here's where it stands.
 - [x] Sessions with any bow, face, number of paper faces and arrows per end, including two 3-spot faces at once
 - [x] AI scoring from a photo, with uncertain arrows circled and a one-tap fix
 - [x] The line rule and your scoring rule (X = 10, inner 10, X = 11) explained to the AI with every photo
-- [x] Choice of AI: Anthropic Claude, OpenAI or Google Gemini with your own key, or the Claude app with no key
+- [x] The AI service of your choice (Anthropic, Google or OpenAI), with your own key
 - [x] Works without signal: photos are saved and scored later, or scored by hand
 - [x] Dashboard, history, scoresheet and score-by-end chart
 - [x] Bows, with a catalog of current compound bows, draw weight and draw length

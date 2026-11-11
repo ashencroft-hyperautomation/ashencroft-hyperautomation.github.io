@@ -27,26 +27,22 @@ L'application suit la langue de votre téléphone (français ou anglais). Sur An
 
 | Méthode | Il vous faut | Fonctionnement |
 |---------|--------------|----------------|
-| **API d’un service d’IA (automatique)** | Une clé API Anthropic, OpenAI ou Google | Chaque photo est comptée en arrière-plan. La volée est prête à vérifier quelques secondes plus tard. |
-| **Application Claude (copier-coller)** | L'application Claude sur votre téléphone | Vous partagez la photo et un texte avec l'application Claude, puis vous collez sa réponse. Pas de clé. |
+| **API d’un service d’IA (automatique)** | Une clé API du service d'IA de votre choix (Anthropic, Google ou OpenAI) | Chaque photo est comptée en arrière-plan. La volée est prête à vérifier quelques secondes plus tard. |
 | **Saisir à la main** | Rien | Possible sur chaque volée, avec n'importe quelle méthode. |
 
 ### Choisir le service d'IA
 
-![Réglages : la méthode de comptage, puis le choix du service d'IA : Anthropic (Claude), OpenAI ou Google (Gemini), puis la clé du service choisi.](images/screenshots/fr/settings.png){ .shot width="240" }
+![Réglages : la méthode de comptage, puis le choix du service d'IA, puis la clé du service choisi.](images/screenshots/fr/settings.png){ .shot width="240" }
 
 Avec la méthode API, **Réglages → Service d’IA** propose :
 
-| Service | Modèles | Remarques |
-|---------|---------|-----------|
-| **Anthropic (Claude)** | Opus 5.5 (par défaut), Sonnet 5.5 | Recommandé : les consignes ont été conçues et testées avec Claude. |
-| **OpenAI** | GPT-6.1 Sol (par défaut), GPT-6 Astra (le plus puissant, environ 5 fois plus cher) | Pas encore testé sur de vraies photos de cible. |
-| **Google (Gemini)** | Gemini 4 Carbon (par défaut), Gemini 3.8 Flash (plus rapide, moins cher) | Pas encore testé sur de vraies photos de cible. Utilisez une clé d'un projet avec la facturation activée (voir [Confidentialité](privacy.md)). |
+| Service | Modèles |
+|---------|---------|
+| **Anthropic (Claude)** | Opus 5.5 (par défaut), Sonnet 5.5 (moins cher) |
+| **Google (Gemini)** | Gemini 4 Carbon (par défaut), Gemini 3.8 Flash (plus rapide, moins cher). Utilisez une clé d'un projet avec la facturation activée (voir [Confidentialité](privacy.md)). |
+| **OpenAI** | GPT-6.1 Sol (par défaut), GPT-6 Astra (le plus puissant, environ 5 fois plus cher) |
 
 Chaque service garde sa propre clé : vous pouvez changer de service et revenir sans retaper de clé.
-
-!!! note "Un abonnement Claude Pro ou Max"
-    Ullr ne peut pas se connecter avec un abonnement Claude : Anthropic n'autorise ces connexions que dans ses propres applications. La méthode **Application Claude (copier-coller)** est la façon autorisée de compter avec votre abonnement.
 
 ### Obtenir et enregistrer une clé API
 
@@ -65,7 +61,7 @@ La clé est chiffrée sur le téléphone. Elle n'est plus jamais affichée, et *
 
 | Modèle | Par volée | Séance de 30 volées |
 |--------|-----------|---------------------|
-| Claude Opus 5.5 (par défaut) | environ 0,05–0,10 $ US | environ 1,50–3,00 $ US |
+| Claude Opus 5.5 | environ 0,05–0,10 $ US | environ 1,50–3,00 $ US |
 | Claude Sonnet 5.5 | environ 0,03–0,05 $ US | environ 0,75–1,50 $ US |
 | GPT-6.1 Sol | environ 0,02–0,05 $ US | environ 0,60–1,50 $ US |
 | GPT-6 Astra | environ 0,10–0,25 $ US | environ 3–7,50 $ US |
@@ -101,7 +97,7 @@ La clé est chiffrée sur le téléphone. Elle n'est plus jamais affichée, et *
 | en attente de comptage | Pas encore de réseau, ou en file d'attente. Le comptage démarre tout seul au retour du réseau. |
 | comptage en cours… | L'IA lit la photo. |
 | à vérifier | Ouvrez-la et validez. |
-| non comptée | Un problème est survenu. Touchez pour réessayer, saisir à la main ou utiliser l'application Claude. |
+| non comptée | Un problème est survenu. Touchez pour réessayer ou saisir à la main. |
 
 Pas besoin d'attendre : tirez la volée suivante pendant que la précédente est comptée.
 
@@ -198,7 +194,7 @@ Modifier un arc plus tard ne change pas les séances passées.
 
 **La volée indique « non comptée ».** Ouvrez-la pour savoir pourquoi :
 
-- *Pas de clé API :* ajoutez-en une dans les réglages, ou passez à l'application Claude.
+- *Pas de clé API :* ajoutez celle du service choisi dans les réglages.
 - *Clé refusée :* la clé a été supprimée ou mal tapée. Vérifiez-la dans les réglages.
 - *Service indisponible :* l'application a réessayé trois fois. Touchez **Réessayer** plus tard.
 - *Plus de crédit :* ajoutez du crédit chez le service, ou relevez sa limite, puis réessayez.

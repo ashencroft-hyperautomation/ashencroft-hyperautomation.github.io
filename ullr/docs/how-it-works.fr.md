@@ -70,18 +70,19 @@ Vous corrigez une flèche entourée d'une touche, ajoutez une flèche oubliée o
 
 <div class="shots" markdown>
 <figure markdown>
-![Réglages : la méthode de comptage et le choix entre Anthropic, OpenAI et Google Gemini.](images/screenshots/fr/settings.png){ .shot }
+![Réglages : la méthode de comptage et le choix du service d'IA.](images/screenshots/fr/settings.png){ .shot }
 <figcaption>Choisir l'IA dans les réglages</figcaption>
 </figure>
 </div>
 
-| Service | Comment | Remarques |
-|---------|---------|-----------|
-| **Claude d'Anthropic** | Votre propre clé API | Recommandé. |
-| **OpenAI** | Votre propre clé API | Mêmes consignes. Pas encore testé sur de vraies photos de cible. |
-| **Google Gemini** | Votre propre clé API | Mêmes consignes. Pas encore testé sur de vraies photos de cible. |
-| **Application Claude** | Copier-coller, sans clé | Utilise votre propre compte ou abonnement Claude. |
-| **À la main** | Rien | Toujours possible, sur chaque volée. |
+| Service | Comment |
+|---------|---------|
+| **Anthropic (Claude)** | Votre propre clé API |
+| **Google (Gemini)** | Votre propre clé API |
+| **OpenAI** | Votre propre clé API |
+| **À la main** | Rien : toujours possible, sur chaque volée |
+
+Les trois services reçoivent exactement les mêmes consignes. Vous choisissez celui que vous préférez, et vous pouvez en changer à tout moment.
 
 ## Au pas de tir
 
