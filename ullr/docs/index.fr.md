@@ -51,12 +51,24 @@ hide:
 <figcaption>Deux flèches à vérifier, entourées en orange</figcaption>
 </figure>
 <figure markdown>
+![Une flèche signalée sélectionnée : les deux zones possibles selon l'IA, 9 et 10, mises en évidence avec sa confiance.](images/screenshots/fr/review-select.png){ .shot }
+<figcaption>Une touche pour choisir la bonne zone</figcaption>
+</figure>
+<figure markdown>
 ![Résumé de séance avec un total de 1084, un graphique des volées et la feuille de marque.](images/screenshots/fr/session.png){ .shot }
 <figcaption>Résumé de la séance et feuille de marque</figcaption>
 </figure>
 <figure markdown>
 ![Tableau de bord avec les séances, la moyenne par flèche, le meilleur total, le nombre de X et les séances récentes.](images/screenshots/fr/dashboard.png){ .shot }
 <figcaption>Tableau de bord</figcaption>
+</figure>
+<figure markdown>
+![Historique : les séances par mois, avec un filtre par arc.](images/screenshots/fr/history.png){ .shot }
+<figcaption>Toutes vos séances passées</figcaption>
+</figure>
+<figure markdown>
+![Réglages : la méthode de comptage et le choix du service d'IA.](images/screenshots/fr/settings.png){ .shot }
+<figcaption>Le choix de l'IA</figcaption>
 </figure>
 </div>
 

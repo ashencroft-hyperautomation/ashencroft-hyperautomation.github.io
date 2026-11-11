@@ -4,6 +4,17 @@ Comment utiliser Ullr, du premier arc à la fin d'une séance. Les noms des bout
 
 ## Premiers pas
 
+<div class="shots" markdown>
+<figure markdown>
+![Écran de chargement avec l'icône de la cible sculptée et une barre de progression.](images/screenshots/fr/loading.png){ .shot }
+<figcaption>L’écran de chargement</figcaption>
+</figure>
+<figure markdown>
+![Tableau de bord avec les séances, la moyenne par flèche, le meilleur total, le nombre de X et les séances récentes.](images/screenshots/fr/dashboard.png){ .shot }
+<figcaption>Le tableau de bord</figcaption>
+</figure>
+</div>
+
 1. Ouvrez l'application. Après un court écran de chargement, vous arrivez au **Tableau de bord**.
 2. Ajoutez un arc : **Ajouter un arc**. Voir [Vos arcs](#vos-arcs).
 3. Choisissez comment les volées sont comptées, dans les **Réglages**. Voir la section suivante.
@@ -136,6 +147,17 @@ Touchez ensuite **Valider · volée suivante** pour revenir directement à l'app
 
 ## Terminer une séance et revoir l'historique
 
+<div class="shots" markdown>
+<figure markdown>
+![Historique : les séances par mois, avec un filtre par arc.](images/screenshots/fr/history.png){ .shot }
+<figcaption>L’historique, filtré par arc</figcaption>
+</figure>
+<figure markdown>
+![Une volée passée : la photo de deux trispots avec six flèches et leurs zones.](images/screenshots/fr/review.png){ .shot }
+<figcaption>Une volée passée, avec sa photo</figcaption>
+</figure>
+</div>
+
 - **Écran de séance** : la feuille de marque (volée par volée, cumul), le graphique **Score par volée** avec la ligne de moyenne, la meilleure et la moins bonne volée.
 - **Changez la règle de comptage** d'une séance à tout moment. Tous ses totaux sont recalculés.
 - **Terminer**. Les volées non validées ne comptent pas tant que vous ne les validez pas, ce que vous pouvez encore faire plus tard.
@@ -155,6 +177,17 @@ Touchez ensuite **Valider · volée suivante** pour revenir directement à l'app
 **Réglages → Règle de comptage par défaut** fixe la règle des nouvelles séances : **World Archery** (10 intérieur pour l'arc à poulies, X = 10 pour les autres arcs ; par défaut), **X = 10 pour tous les arcs**, ou **X = 11 pour l'arc à poulies**.
 
 ## Vos arcs
+
+<div class="shots" markdown>
+<figure markdown>
+![Liste des arcs : un arc classique et deux arcs à poulies avec puissance, allonge et valeurs par défaut.](images/screenshots/fr/bows.png){ .shot }
+<figcaption>Vos arcs</figcaption>
+</figure>
+<figure markdown>
+![Modifier l'arc : arc à poulies, PSE Drive NXT du catalogue avec ses caractéristiques, 62 lb, allonge 30,5 pouces, description des flèches.](images/screenshots/fr/bow-edit.png){ .shot }
+<figcaption>Partir du catalogue</figcaption>
+</figure>
+</div>
 
 L'onglet **Arcs** liste vos arcs.
 

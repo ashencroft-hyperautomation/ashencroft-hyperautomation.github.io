@@ -38,6 +38,13 @@ It reports the ring as drawn, not points. That's on purpose: Ullr turns rings in
 
 ## 4. Ullr circles what you should check
 
+<div class="shots" markdown>
+<figure markdown>
+![Review of an end: markers on six arrows, two circled in amber, and 2 to check.](images/screenshots/review-check.png){ .shot }
+<figcaption>Two arrows circled to check</figcaption>
+</figure>
+</div>
+
 An arrow is circled in amber when:
 
 - the AI gave a second ring (it's near a line);
@@ -50,9 +57,23 @@ Why several signals? An AI's confidence isn't always right. The dangerous case i
 
 ## 5. You confirm
 
+<div class="shots" markdown>
+<figure markdown>
+![A flagged arrow selected: the ring picker highlights the AI's two candidate rings, 9 and 10, with its confidence.](images/screenshots/review-select.png){ .shot }
+<figcaption>Pick the right ring, then confirm</figcaption>
+</figure>
+</div>
+
 You fix any circled arrow with one tap, add a missed arrow or remove another archer's, and confirm. Only then does the end count. Each end keeps its photo, so you can always check it again.
 
 ## Choice of AI
+
+<div class="shots" markdown>
+<figure markdown>
+![Settings: scoring method and the choice of Anthropic, OpenAI or Google Gemini.](images/screenshots/settings.png){ .shot }
+<figcaption>Choosing the AI in Settings</figcaption>
+</figure>
+</div>
 
 | Service | How | Notes |
 |---------|-----|-------|

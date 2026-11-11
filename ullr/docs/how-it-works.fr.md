@@ -38,6 +38,13 @@ Elle donne la zone telle qu'elle est dessinée, pas les points. C'est voulu : Ul
 
 ## 4. Ullr entoure ce qu'il faut vérifier
 
+<div class="shots" markdown>
+<figure markdown>
+![Vérification d’une volée : un repère sur six flèches, deux entourées en orange, et 2 à vérifier.](images/screenshots/fr/review-check.png){ .shot }
+<figcaption>Deux flèches entourées à vérifier</figcaption>
+</figure>
+</div>
+
 Une flèche est entourée en orange quand :
 
 - l'IA a donné une deuxième zone (elle est près d'une ligne) ;
@@ -50,9 +57,23 @@ Pourquoi plusieurs signaux ? La confiance d'une IA n'est pas toujours juste. Le 
 
 ## 5. Vous validez
 
+<div class="shots" markdown>
+<figure markdown>
+![Une flèche signalée sélectionnée : le choix de la zone met en évidence les deux zones possibles selon l'IA, 9 et 10, avec sa confiance.](images/screenshots/fr/review-select.png){ .shot }
+<figcaption>Choisir la bonne zone, puis valider</figcaption>
+</figure>
+</div>
+
 Vous corrigez une flèche entourée d'une touche, ajoutez une flèche oubliée ou retirez celle d'un autre archer, et validez. C'est seulement alors que la volée compte. Chaque volée garde sa photo : vous pouvez toujours la revoir.
 
 ## Le choix de l'IA
+
+<div class="shots" markdown>
+<figure markdown>
+![Réglages : la méthode de comptage et le choix entre Anthropic, OpenAI et Google Gemini.](images/screenshots/fr/settings.png){ .shot }
+<figcaption>Choisir l'IA dans les réglages</figcaption>
+</figure>
+</div>
 
 | Service | Comment | Remarques |
 |---------|---------|-----------|

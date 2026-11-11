@@ -4,6 +4,17 @@ How to use Ullr, from the first bow to the end of a session. Button names are in
 
 ## First steps
 
+<div class="shots" markdown>
+<figure markdown>
+![Loading screen with the carved target icon and a progress bar.](images/screenshots/loading.png){ .shot }
+<figcaption>The loading screen</figcaption>
+</figure>
+<figure markdown>
+![Dashboard with sessions, average per arrow, best total, X count and recent sessions.](images/screenshots/dashboard.png){ .shot }
+<figcaption>The Dashboard</figcaption>
+</figure>
+</div>
+
 1. Open the app. After a short loading screen you see the **Dashboard** (*Tableau de bord*).
 2. Add a bow: **Add bow** (*Ajouter un arc*). See [Bows](#bows).
 3. Choose how ends are scored, in **Settings** (*Réglages*). See the next section.
@@ -136,6 +147,17 @@ Then tap **Confirm · shoot next end** (*Valider · volée suivante*) to go stra
 
 ## Finish a session and look back
 
+<div class="shots" markdown>
+<figure markdown>
+![History: sessions grouped by month, with a filter by bow.](images/screenshots/history.png){ .shot }
+<figcaption>History, filtered by bow</figcaption>
+</figure>
+<figure markdown>
+![A past end: the photo of two triple faces with six arrows and their rings.](images/screenshots/review.png){ .shot }
+<figcaption>A past end, with its photo</figcaption>
+</figure>
+</div>
+
 - **Session screen** (*Séance*): the scoresheet (end by end, running total), the **Score by end** chart with the average line, and the best and worst ends.
 - **Change the scoring rule** of a session at any time. All its totals are recalculated.
 - **Finish** (*Terminer*). Ends that aren't confirmed don't count until you confirm them, which you can still do later.
@@ -155,6 +177,17 @@ Then tap **Confirm · shoot next end** (*Valider · volée suivante*) to go stra
 **Settings → Default scoring rule** sets the rule new sessions start with: **World Archery** (inner 10 for compound, X = 10 for other bows; the default), **X = 10 for all bows**, or **X = 11 for compound**.
 
 ## Bows
+
+<div class="shots" markdown>
+<figure markdown>
+![Bows list: a recurve and two compound bows with draw weight, draw length and defaults.](images/screenshots/bows.png){ .shot }
+<figcaption>Your bows</figcaption>
+</figure>
+<figure markdown>
+![Edit bow: compound, PSE Drive NXT from the catalog with its specs, 62 lb, 30.5 inch draw length, arrow description.](images/screenshots/bow-edit.png){ .shot }
+<figcaption>Starting from the catalog</figcaption>
+</figure>
+</div>
 
 The **Bows** tab (*Arcs*) lists your bows.
 

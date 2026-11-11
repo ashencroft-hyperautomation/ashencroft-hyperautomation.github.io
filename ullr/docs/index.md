@@ -51,12 +51,24 @@ hide:
 <figcaption>Two arrows to check, circled in amber</figcaption>
 </figure>
 <figure markdown>
+![A flagged arrow selected: the AI's two candidate rings, 9 and 10, highlighted with its confidence.](images/screenshots/review-select.png){ .shot }
+<figcaption>One tap to pick the right ring</figcaption>
+</figure>
+<figure markdown>
 ![Session summary with total 1084, a bar chart of end totals and the scoresheet.](images/screenshots/session.png){ .shot }
 <figcaption>Session summary and scoresheet</figcaption>
 </figure>
 <figure markdown>
 ![Dashboard with sessions, average per arrow, best total, X count and recent sessions.](images/screenshots/dashboard.png){ .shot }
 <figcaption>Dashboard</figcaption>
+</figure>
+<figure markdown>
+![History: sessions grouped by month, with a filter by bow.](images/screenshots/history.png){ .shot }
+<figcaption>Every past session</figcaption>
+</figure>
+<figure markdown>
+![Settings: scoring method and the choice of AI service.](images/screenshots/settings.png){ .shot }
+<figcaption>Your choice of AI</figcaption>
 </figure>
 </div>
 

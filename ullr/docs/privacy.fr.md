@@ -2,9 +2,11 @@
 
 En bref : **votre historique reste sur votre téléphone.** Seule la photo de la cible en sort, et seulement pour être comptée, par le service d'IA que vous avez choisi.
 
-## Ce qui reste sur votre téléphone
+## Ce qu'Ullr garde, et où
 
-Vos séances, scores, lieux, arcs et photos sont gardés dans l'espace privé d'Ullr sur le téléphone.
+![Ce qu'Ullr garde, uniquement sur votre téléphone : vos arcs et vos lieux mènent aux séances ; chaque séance a des volées avec leur photo ; chaque volée a ses flèches ; les réglages gardent la langue, la méthode de comptage et la clé API, chiffrée.](images/diagrams/data-stored.fr.png)
+
+C'est tout : vos arcs et vos lieux, vos séances, chaque volée avec sa photo, et chaque flèche. Rien sur vous en tant que personne, pas de compte, pas de contacts. Tout est gardé dans l'espace privé d'Ullr sur le téléphone.
 
 - Les autres applications ne peuvent pas les lire, et les photos ne sont pas dans votre galerie.
 - Rien ne part automatiquement vers une sauvegarde en ligne ou un nouveau téléphone.
@@ -12,6 +14,8 @@ Vos séances, scores, lieux, arcs et photos sont gardés dans l'espace privé d'
 - **Désinstaller l'application efface tout.** L'export arrive bientôt (voir la [feuille de route](roadmap.md)) : d'ici là, gardez l'application installée.
 
 ## Ce qui est envoyé, et quand
+
+![Ce qui sort de votre téléphone : tout reste sur le téléphone, sauf, seulement quand une volée est comptée, la photo recadrée, votre configuration et votre clé, envoyées chiffrées au service d'IA choisi, qui ne renvoie que les scores.](images/diagrams/data-sent.fr.png){ width="560" }
 
 Seulement quand une volée est comptée par un service d'IA, par une connexion chiffrée, à ce service seulement :
 
@@ -55,3 +59,5 @@ Créez une clé réservée à Ullr et fixez une limite de dépenses chez le serv
 | Internet | Pour le comptage par un service d'IA |
 
 Aucune autorisation de position, de contacts, de micro ou de stockage. L'import d'une photo passe par le sélecteur de photos d'Android, qui ne donne à Ullr que la photo que vous choisissez.
+
+Pour en savoir plus sur la protection de vos données : [Sécurité](security.md).

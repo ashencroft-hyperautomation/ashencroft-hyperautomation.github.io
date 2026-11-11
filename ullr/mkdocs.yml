@@ -55,6 +55,7 @@ plugins:
             Screenshots: Captures d'écran
             How it works: Fonctionnement
             Privacy: Confidentialité
+            Security: Sécurité
             App icon: L'icône
             Roadmap: Feuille de route
 
@@ -77,5 +78,6 @@ nav:
   - Screenshots: screenshots.md
   - How it works: how-it-works.md
   - Privacy: privacy.md
+  - Security: security.md
   - App icon: icon.md
   - Roadmap: roadmap.md

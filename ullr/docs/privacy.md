@@ -2,9 +2,11 @@
 
 Short version: **your records stay on your phone.** Only the photo of the target leaves it, and only to be scored, by the AI service you chose.
 
-## What stays on your phone
+## What Ullr keeps, and where
 
-Your sessions, scores, places, bows and photos are kept in Ullr's private storage on the phone.
+![What Ullr keeps, all on your phone: your bows and places lead to sessions; each session has ends with their photo; each end has its arrows; settings hold the language, the scoring method and the API key, encrypted.](images/diagrams/data-stored.png)
+
+That's all of it: your bows and places, your sessions, each end with its photo, and each arrow. Nothing about you as a person, no account, no contacts. All of it is kept in Ullr's private storage on the phone.
 
 - Other apps can't read them, and the photos are not in your gallery.
 - Nothing goes to a cloud backup or to a new phone automatically.
@@ -12,6 +14,8 @@ Your sessions, scores, places, bows and photos are kept in Ullr's private storag
 - **Uninstalling the app deletes everything.** Export is coming (see the [roadmap](roadmap.md)), so keep the app installed until then.
 
 ## What is sent, and when
+
+![What leaves your phone: everything stays on the phone except, only when an end is scored, the trimmed photo, your setup and your key, sent encrypted to the AI service you chose, which sends back only the scores.](images/diagrams/data-sent.png){ width="560" }
 
 Only when an end is scored with an AI service, over an encrypted connection, to that service only:
 
@@ -55,3 +59,5 @@ Create a key just for Ullr and set a spending limit with the service. If you los
 | Internet | For scoring with an AI service |
 
 No location, contacts, microphone or storage permissions. Importing a photo uses Android's photo picker, which only gives Ullr the photo you choose.
+
+More on how your data is protected: [Security](security.md).
