@@ -15,13 +15,7 @@ Ullr is a personal project, built in the open. Here's where it stands.
 - [x] Privacy by design: photos trimmed to the target, hidden data removed, nothing about you or your phone sent
 - [x] Ullr Demo, with six months of sample sessions to try every screen
 
-## Next
-
-- [ ] **Measure accuracy on real photos:** about a hundred real ends, scored by hand, run through each AI service. Goal: at least 95 % of wrong scores circled for you to check.
-- [ ] First real scoring with OpenAI and Gemini keys
-- [ ] Release build for everyday use
-
-## Then
+## Coming
 
 - [ ] **Your data, your way:** export (everything, data only, or photos only) to a folder you choose, free up space by removing exported photos, and share a session summary by email or message
 - [ ] Statistics: average over time, score distribution, where your arrows group, fatigue over a session
@@ -33,7 +27,6 @@ Ullr is a personal project, built in the open. Here's where it stands.
 
 ## Ideas
 
-- [ ] Copy and paste through the ChatGPT and Gemini apps too
 - [ ] Restore an export on a new phone
 - [ ] Scoring without your own API key, for archers who don't want one
 - [ ] Barebow as a bow type

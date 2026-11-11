@@ -77,7 +77,7 @@ You fix any circled arrow with one tap, add a missed arrow or remove another arc
 
 | Service | How | Notes |
 |---------|-----|-------|
-| **Anthropic Claude** | Your own API key | Recommended: the instructions were designed and tested with Claude. |
+| **Anthropic Claude** | Your own API key | Recommended. |
 | **OpenAI** | Your own API key | Same instructions. Not yet tested on real target photos. |
 | **Google Gemini** | Your own API key | Same instructions. Not yet tested on real target photos. |
 | **Claude app** | Copy and paste, no key | Uses your own Claude account or subscription. |
@@ -87,6 +87,6 @@ You fix any circled arrow with one tap, add a missed arrow or remove another arc
 
 There's often no signal at a range. Ullr saves every photo first, and scoring waits for the network. It starts by itself when the phone is back online. If you need the score now, enter it by hand. Closing the app loses nothing.
 
-## How accurate is it?
+## Reliability
 
-Not measured on real photos yet. That's the next step: about a hundred photos of real ends, scored by hand, run through each AI to measure how many wrong scores get circled. The target is that at least 95 % of wrong scores are circled for you to check. See the [roadmap](roadmap.md).
+There is no guarantee of reliability. How accurate the scoring is depends a lot on the quality of the photo, the angle it was taken from, and the AI model you chose. At any time, the AI can make mistakes. That's why uncertain arrows are circled, and why you confirm every end: always check your arrows in the target before you pull them.

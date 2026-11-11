@@ -93,8 +93,6 @@ The key is stored encrypted on the phone. It is never shown again, and **Remove 
     - **Distance**, **target face**, **paper faces** (for 3-spot faces: how many are on the boss, for example 2 faces = 6 spots), and **arrows per end** (any number, often 3 or 6).
     - **Scoring rule**: set from Settings and the bow type. See [Scoring rules](#scoring-rules).
 
-    Everything you choose here is explained to the AI with each photo: the face and its rings, how many spots, how many arrows to look for, and what each ring is worth under your rule.
-
 3. Shoot your end, walk to the target and tap **Take photo** (*Prendre la photo*). Stand in front of the target and fit the face in the circle on screen. You can also pick a photo from your gallery.
 4. The end appears in the scoresheet with its status:
 
@@ -106,16 +104,6 @@ The key is stored encrypted on the phone. It is never shown again, and **Remove 
 | not scored (*non comptée*) | Something went wrong. Tap to retry, score by hand, or use the Claude app. |
 
 You don't have to wait: shoot the next end while the previous one is being scored.
-
-### With the Claude app (copy and paste)
-
-On the end's review screen:
-
-1. Tap **Share to Claude** (*Partager avec Claude*). The photo goes to the Claude app, and the prompt is copied.
-2. In the Claude app, paste the prompt and send it.
-3. Copy Claude's **whole** answer, come back to Ullr, paste it, and tap **Use this answer** (*Utiliser cette réponse*).
-
-If the answer can't be read, the app says why. Ask Claude to answer again with the same prompt.
 
 ## Review an end
 

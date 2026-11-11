@@ -15,13 +15,7 @@ Ullr est un projet personnel, construit au grand jour. Voici où il en est.
 - [x] La confidentialité dès la conception : photos recadrées sur la cible, données cachées retirées, rien sur vous ni sur votre téléphone n'est envoyé
 - [x] Ullr Demo, avec six mois de séances d'exemple pour essayer chaque écran
 
-## Ensuite
-
-- [ ] **Mesurer la fiabilité sur de vraies photos :** une centaine de vraies volées, comptées à la main, passées dans chaque service d'IA. Objectif : au moins 95 % des erreurs entourées pour que vous les vérifiiez.
-- [ ] Premiers vrais comptages avec des clés OpenAI et Gemini
-- [ ] Une version finale pour l'usage de tous les jours
-
-## Puis
+## À venir
 
 - [ ] **Vos données, à votre façon :** export (tout, les données seules ou les photos seules) vers le dossier de votre choix, libérer de la place en retirant les photos exportées, et partager un résumé de séance par courriel ou message
 - [ ] Statistiques : moyenne dans le temps, répartition des scores, où se groupent vos flèches, fatigue au fil d'une séance
@@ -33,7 +27,6 @@ Ullr est un projet personnel, construit au grand jour. Voici où il en est.
 
 ## Idées
 
-- [ ] Le copier-coller avec les applications ChatGPT et Gemini aussi
 - [ ] Restaurer un export sur un nouveau téléphone
 - [ ] Le comptage sans votre propre clé API, pour les archers qui n'en veulent pas
 - [ ] L'arc nu comme type d'arc

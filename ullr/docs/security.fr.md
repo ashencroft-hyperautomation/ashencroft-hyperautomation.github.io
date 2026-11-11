@@ -2,7 +2,7 @@
 
 Ullr a été conçu pour qu'il y ait très peu de choses à protéger hors de votre téléphone, et que ce qui en sort soit réduit au minimum. Voici ce qui vous protège, vous et vos données, en mots simples.
 
-![Ce qui sort de votre téléphone : tout reste sur le téléphone, sauf, seulement quand une volée est comptée, la photo recadrée, votre configuration et votre clé, envoyées chiffrées au service d'IA choisi, qui ne renvoie que les scores.](images/diagrams/data-sent.fr.png){ width="640" }
+![Ce qui sort de votre téléphone : tout reste sur le téléphone, sauf, seulement quand une volée est comptée, la photo recadrée, les paramètres de la séance et votre clé, envoyées chiffrées au service d'IA choisi, qui ne renvoie que les scores.](images/diagrams/data-sent.fr.png){ width="640" }
 
 ## Ce qui vous protège
 
@@ -64,7 +64,7 @@ Ullr a été conçu pour qu'il y ait très peu de choses à protéger hors de vo
 Votre historique est protégé par l'écran de verrouillage du téléphone, comme vos autres applications. Par prudence, supprimez votre clé API sur le site du service d'IA : elle cesse de fonctionner aussitôt. Une limite de dépenses chez le service garantit que personne ne pourra jamais dépenser plus.
 
 **Le service d'IA voit-il mon historique ?**
-Non. Il reçoit seulement la photo de la volée comptée, votre configuration pour cette volée (blason, nombre de flèches, règle de comptage, description des flèches) et votre clé. Voir [Confidentialité](privacy.md) pour ce que chaque service en fait.
+Non. Il reçoit seulement la photo de la volée comptée, les paramètres de la séance (blason, nombre de flèches, règle de comptage, description des flèches) et votre clé. Voir [Confidentialité](privacy.md) pour ce que chaque service en fait.
 
 **Ullr me piste-t-il ou affiche-t-il des publicités ?**
 Non. Pas de statistiques d'utilisation, pas de publicité, pas de pistage. L'application ne demande ni votre position, ni vos contacts, ni le micro, ni vos fichiers.

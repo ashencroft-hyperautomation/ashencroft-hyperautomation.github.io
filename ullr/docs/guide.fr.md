@@ -93,8 +93,6 @@ La clé est chiffrée sur le téléphone. Elle n'est plus jamais affichée, et *
     - **Distance**, **blason**, **blasons sur la butte** (pour les trispots : combien il y en a sur la butte, par exemple 2 blasons = 6 spots) et **flèches par volée** (n'importe quel nombre, souvent 3 ou 6).
     - **Comptage** : la règle, proposée d'après les réglages et le type d'arc. Voir [Règles de comptage](#regles-de-comptage).
 
-    Tout ce que vous choisissez ici est expliqué à l'IA avec chaque photo : le blason et ses zones, le nombre de spots, le nombre de flèches à chercher, et ce que vaut chaque zone selon votre règle.
-
 3. Tirez votre volée, allez à la cible et touchez **Prendre la photo**. Placez-vous face à la cible et cadrez le blason dans le cercle. Vous pouvez aussi choisir une photo dans votre galerie.
 4. La volée apparaît dans la feuille de marque avec son état :
 
@@ -106,16 +104,6 @@ La clé est chiffrée sur le téléphone. Elle n'est plus jamais affichée, et *
 | non comptée | Un problème est survenu. Touchez pour réessayer, saisir à la main ou utiliser l'application Claude. |
 
 Pas besoin d'attendre : tirez la volée suivante pendant que la précédente est comptée.
-
-### Avec l'application Claude (copier-coller)
-
-Sur l'écran de vérification de la volée :
-
-1. Touchez **Partager avec Claude**. La photo part vers l'application Claude, et le texte est copié.
-2. Dans l'application Claude, collez le texte et envoyez-le.
-3. Copiez **toute** la réponse de Claude, revenez dans Ullr, collez-la et touchez **Utiliser cette réponse**.
-
-Si la réponse est illisible, l'application dit pourquoi. Demandez à Claude de répondre à nouveau avec le même texte.
 
 ## Vérifier une volée
 

@@ -22,7 +22,7 @@ Ullr envoie une seule requête au service d'IA que vous avez choisi. Elle contie
 |--------|----------------|
 | **La photo** | La cible, recadrée. |
 | **Comment lire une cible** | La même pour chaque volée. Trouver les flèches plantées dans le blason, pas les anciens trous ni les flèches des autres archers. Donner le point où chaque tube entre dans le blason, pas l'encoche. Appliquer la règle de la ligne : un tube qui touche une ligne prend la zone la plus haute. Signaler une flèche proche d'une ligne, et dire à quel point elle est sûre. |
-| **Votre configuration** | Tirée de la séance : le blason et ses zones, le nombre de blasons et de spots (2 trispots = 6 spots), le nombre de flèches à chercher, votre règle de comptage avec la valeur de chaque zone, et la description de vos flèches. |
+| **Les paramètres de la séance** | Tirés de la séance : le blason et ses zones, le nombre de blasons et de spots (2 trispots = 6 spots), le nombre de flèches à chercher, votre règle de comptage avec la valeur de chaque zone, et la description de vos flèches. |
 | **Le format de réponse** | Une liste de champs fixe, pour que la réponse soit toujours lisible. |
 
 ## 3. L'IA répond
@@ -77,7 +77,7 @@ Vous corrigez une flèche entourée d'une touche, ajoutez une flèche oubliée o
 
 | Service | Comment | Remarques |
 |---------|---------|-----------|
-| **Claude d'Anthropic** | Votre propre clé API | Recommandé : les consignes ont été conçues et testées avec Claude. |
+| **Claude d'Anthropic** | Votre propre clé API | Recommandé. |
 | **OpenAI** | Votre propre clé API | Mêmes consignes. Pas encore testé sur de vraies photos de cible. |
 | **Google Gemini** | Votre propre clé API | Mêmes consignes. Pas encore testé sur de vraies photos de cible. |
 | **Application Claude** | Copier-coller, sans clé | Utilise votre propre compte ou abonnement Claude. |
@@ -87,6 +87,6 @@ Vous corrigez une flèche entourée d'une touche, ajoutez une flèche oubliée o
 
 Il y a souvent peu de réseau sur un terrain de tir. Ullr enregistre d'abord chaque photo, et le comptage attend le réseau. Il démarre tout seul dès que le téléphone est de nouveau en ligne. Si vous voulez le score tout de suite, saisissez-le à la main. Fermer l'application ne fait rien perdre.
 
-## Est-ce fiable ?
+## Fiabilité
 
-Ce n'est pas encore mesuré sur de vraies photos. C'est la prochaine étape : une centaine de photos de vraies volées, comptées à la main, passées dans chaque IA pour mesurer combien d'erreurs sont entourées. L'objectif : au moins 95 % des erreurs entourées pour que vous les vérifiiez. Voir la [feuille de route](roadmap.md).
+Il n'y a aucune garantie de fiabilité. La justesse du comptage dépend beaucoup de la qualité de la photo, de l'angle de prise de vue et du modèle d'IA choisi. En tout temps, l'IA peut se tromper. C'est pourquoi les flèches incertaines sont entourées, et c'est pourquoi c'est vous qui validez chaque volée : vérifiez toujours vos flèches dans la cible avant de les retirer.

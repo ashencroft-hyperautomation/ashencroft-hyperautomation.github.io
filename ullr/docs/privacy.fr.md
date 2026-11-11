@@ -15,12 +15,12 @@ C'est tout : vos arcs et vos lieux, vos séances, chaque volée avec sa photo, e
 
 ## Ce qui est envoyé, et quand
 
-![Ce qui sort de votre téléphone : tout reste sur le téléphone, sauf, seulement quand une volée est comptée, la photo recadrée, votre configuration et votre clé, envoyées chiffrées au service d'IA choisi, qui ne renvoie que les scores.](images/diagrams/data-sent.fr.png){ width="560" }
+![Ce qui sort de votre téléphone : tout reste sur le téléphone, sauf, seulement quand une volée est comptée, la photo recadrée, les paramètres de la séance et votre clé, envoyées chiffrées au service d'IA choisi, qui ne renvoie que les scores.](images/diagrams/data-sent.fr.png){ width="560" }
 
 Seulement quand une volée est comptée par un service d'IA, par une connexion chiffrée, à ce service seulement :
 
 - **la photo de la volée**, sans données cachées (ni position, ni modèle de téléphone) et, par défaut, recadrée sur la zone de la cible ;
-- **votre configuration** : blason, nombre de blasons, nombre de flèches et règle de comptage, et la description de vos flèches ;
+- **les paramètres de la séance** : blason, nombre de blasons, nombre de flèches et règle de comptage, et la description de vos flèches ;
 - **votre clé API**, qui identifie votre compte chez ce service.
 
 **Jamais envoyés :** votre nom, vos lieux, votre historique, vos scores, ni les caractéristiques de votre téléphone. Les informations techniques que les applications envoient d'habitude sur le téléphone (version d'Android, processeur) sont remplacées par « unknown » (inconnu).
