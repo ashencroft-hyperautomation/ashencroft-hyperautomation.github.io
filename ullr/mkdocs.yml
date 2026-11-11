@@ -1,0 +1,81 @@
+# Public website for end users (English and French). Built by tools/site.py; no security or developer pages here.
+site_name: Ullr
+site_description: Archery records with AI scoring, for Android. Photograph the target, check the arrows the AI is unsure about, keep your history on your phone.
+site_url: https://ashencroft-hyperautomation.github.io/ullr/
+copyright: Ullr — a personal archery project
+
+theme:
+  name: material
+  language: en
+  logo: images/icons/3-carved-target.png
+  favicon: images/icons/3-carved-target.png
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Light mode
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - toc.follow
+    - content.tooltips
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          name: English
+          default: true
+          build: true
+        - locale: fr
+          name: Français
+          build: true
+          site_name: Ullr
+          site_description: Le carnet de tir à l'arc avec comptage par IA, pour Android. Photographiez la cible, vérifiez les flèches dont l'IA doute, gardez votre historique sur votre téléphone.
+          nav_translations:
+            Home: Accueil
+            User guide: Guide
+            Screenshots: Captures d'écran
+            How it works: Fonctionnement
+            Privacy: Confidentialité
+            App icon: L'icône
+            Roadmap: Feuille de route
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - User guide: guide.md
+  - Screenshots: screenshots.md
+  - How it works: how-it-works.md
+  - Privacy: privacy.md
+  - App icon: icon.md
+  - Roadmap: roadmap.md
