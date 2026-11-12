@@ -96,9 +96,45 @@ Seul le vrai tir rapporte : **10 points d’expérience** par volée confirmée,
 
 - **Dix insignes** pour de vraies étapes : votre première volée, votre premier X, une volée parfaite, dix X dans une séance, 100 et 1 000 flèches, dix séances, un nouveau record personnel, tirer en campagne, en 3D ou en para-tir à l’arc, et quatre semaines de suite.
 - **Records personnels** pour chaque épreuve (distance, blason et nombre de flèches). Chacun pose une coupe sur l’étagère, et les plaques s’allument au fil des insignes. Touchez un record pour ouvrir sa séance.
-- Un nouveau niveau ou un nouvel insigne est annoncé par **un cor et une bannière**, une seule fois.
+- Un nouveau niveau ou un nouvel insigne est annoncé par **une fanfare et une bannière**, une seule fois. Battre un record personnel sur une épreuve déjà tirée fait sonner **le cor de guerre**.
 - Tout est calculé à partir de vos séances : supprimez une séance et ce qu’elle a rapporté disparaît avec elle.
 - **Remettre à zéro l’expérience et les insignes**, au bas des trophées, vous ramène au niveau 1 sans insigne, après confirmation. Vos séances, vos scores et vos records restent ; à partir de là, ce que vous tirez rapporte de nouveau de l’expérience et des insignes, et les trophées indiquent depuis quand. Pour effacer aussi les séances, voir [Stockage et sauvegarde](backup.md#effacer-les-donnees).
+
+## Récompenses
+
+Ce que vous gagnez en tirant débloque des **récompenses**, listées au mur des trophées. Rien ne s’achète, et toutes les autres tenues sont libres dès le départ.
+
+| Récompense | Comment la gagner |
+|------------|-------------------|
+| **Diadème d’or**, au miroir | Atteindre le niveau 3 |
+| **Cape dorée**, au miroir | Atteindre le niveau 5 |
+| **Tunique pourpre royale**, au miroir | Atteindre le niveau 8 |
+| **Médaille**, au miroir | Gagner l’insigne *Nouveau record* |
+| **Une bannière dans la maison**, sur le mur de gauche | Gagner l’insigne *Dix séances* |
+| **Une peau de bête près du tapis** | Gagner l’insigne *1 000 flèches* |
+
+<div class="shots" markdown>
+<figure markdown>
+![La maison avec ses deux décorations : une bannière guède à cible dorée sur le mur de gauche, et une peau d’ours près du tapis.](images/screenshots/fr/game-hall-rewards.png){ .shot }
+<figcaption>La bannière et la peau de bête, gagnées.</figcaption>
+</figure>
+<figure markdown>
+![Les récompenses au mur des trophées : diadème d’or, cape dorée, tunique pourpre royale et médaille au miroir; une bannière et une peau de bête dans la maison.](images/screenshots/fr/game-rewards.png){ .shot }
+<figcaption><b>Récompenses</b>, au mur des trophées.</figcaption>
+</figure>
+<figure markdown>
+![Au miroir, À gagner : diadème d’or au niveau 3, cape dorée au niveau 5, tunique pourpre royale au niveau 8, médaille avec l’insigne Nouveau record.](images/screenshots/fr/game-earn.png){ .shot }
+<figcaption><b>À gagner</b>, au miroir.</figcaption>
+</figure>
+</div>
+
+Les tenues à gagner attendent au bas du miroir sous **À gagner**; une fois gagnées, elles rejoignent les autres, et **Au hasard** peut les choisir. Après une remise à zéro, une récompense que vous portez reste en place.
+
+## Les saisons
+
+Le pas de tir suit le calendrier : neige et conifères en hiver (de décembre à février), fleurs et arbres en fleurs au printemps, vert en été, et arbres rouges et dorés aux feuilles qui tombent en automne (de septembre à novembre).
+
+![Le pas de tir aux quatre saisons, côte à côte : l’hiver sous la neige avec des conifères et des flocons, le printemps en fleurs, l’été vert avec des papillons, l’automne aux arbres rouges et dorés et aux feuilles tombées.](images/screenshots/fr/game-seasons.png)
 
 ## Sons et musique
 
@@ -133,4 +169,4 @@ Le mode jeu n’envoie rien. L’apparence de votre archer, votre compagnon et v
 
 ## La suite
 
-Le mode jeu est un aperçu. À venir : des tenues débloquées par les niveaux et les insignes. Voir la [feuille de route](roadmap.md).
+Le mode jeu est un aperçu. Voir la [feuille de route](roadmap.md) pour la suite.

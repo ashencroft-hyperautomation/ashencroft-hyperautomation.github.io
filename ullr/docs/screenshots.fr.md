@@ -162,6 +162,14 @@ Prises avec **Ullr Demo**, une version de l'application remplie de six mois de s
 ![Réglages au style du jeu : un menu Méthode de comptage, Règles de comptage, Confidentialité, Apparence et jeu, Langue, et Stockage et sauvegarde.](images/screenshots/fr/game-settings.png){ .shot }
 <figcaption><b>Les réglages, regroupés par thème.</b></figcaption>
 </figure>
+<figure markdown>
+![La maison avec une bannière sur le mur de gauche et une peau d’ours près du tapis, toutes deux gagnées.](images/screenshots/fr/game-hall-rewards.png){ .shot }
+<figcaption><b>Décorations gagnées.</b> Une bannière et une peau de bête.</figcaption>
+</figure>
+<figure markdown>
+![Les récompenses au mur des trophées : des tenues au miroir, des décorations dans la maison.](images/screenshots/fr/game-rewards.png){ .shot }
+<figcaption><b>Récompenses.</b> Gagnées en tirant.</figcaption>
+</figure>
 </div>
 
 Tout sur le [mode jeu](game.md).

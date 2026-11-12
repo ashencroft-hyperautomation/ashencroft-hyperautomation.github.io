@@ -162,6 +162,14 @@ Taken with **Ullr Demo**, a version of the app filled with six months of made-up
 ![Settings in the game look: a menu of Scoring method, Scoring rules, Privacy, Appearance and game, Language, and Storage and backup.](images/screenshots/game-settings.png){ .shot }
 <figcaption><b>Settings, grouped by topic.</b></figcaption>
 </figure>
+<figure markdown>
+![The hall with a banner on the left wall and a bear pelt by the rug, both earned.](images/screenshots/game-hall-rewards.png){ .shot }
+<figcaption><b>Decorations, earned.</b> A banner and a pelt.</figcaption>
+</figure>
+<figure markdown>
+![The trophy wall's rewards: outfits at the mirror, decorations in the hall.](images/screenshots/game-rewards.png){ .shot }
+<figcaption><b>Rewards.</b> Earned by shooting.</figcaption>
+</figure>
 </div>
 
 All about [game mode](game.md).

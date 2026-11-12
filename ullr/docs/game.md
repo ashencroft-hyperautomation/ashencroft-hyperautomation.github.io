@@ -96,9 +96,45 @@ Only real shooting earns anything: **10 experience** for each confirmed end, **3
 
 - **Ten badges** for real milestones: your first end, your first X, a perfect end, ten X in one session, 100 and 1,000 arrows, ten sessions, a new personal best, trying field, 3D or para archery, and four weeks in a row.
 - **Personal bests** for each round (distance, face and number of arrows). Each one puts a cup on the trophy shelf, and the plaques light up as badges come in. Tap a record to open its session.
-- A new level or badge is announced with a **horn and a banner**, once.
+- A new level or badge is announced with a **fanfare and a banner**, once. Beating a personal best on a round you've shot before sounds the **war horn**.
 - It's all worked out from your sessions: delete a session and what it earned goes with it.
 - **Reset experience and badges** (*Remettre à zéro l’expérience et les insignes*), at the bottom of the trophies, starts again at level 1 with no badges, after asking. Your sessions, scores and personal bests stay; from then on, what you shoot earns experience and badges again, and the trophies say since when. To erase sessions too, see [Storage and backup](backup.md#erase-data).
+
+## Rewards
+
+What you earn by shooting unlocks **rewards**, listed at the trophy wall. Nothing is bought, and every other outfit is free from the start.
+
+| Reward | How to earn it |
+|--------|----------------|
+| **Gold circlet**, at the mirror | Reach level 3 |
+| **Gold cloak**, at the mirror | Reach level 5 |
+| **Royal purple tunic**, at the mirror | Reach level 8 |
+| **Medal**, at the mirror | Earn the badge *New record* |
+| **A banner in the hall**, on the left wall | Earn the badge *Ten sessions* |
+| **A pelt by the rug** | Earn the badge *1,000 arrows* |
+
+<div class="shots" markdown>
+<figure markdown>
+![The hall with both decorations: a woad banner with a gold target on the left wall, and a bear pelt beside the rug.](images/screenshots/game-hall-rewards.png){ .shot }
+<figcaption>The banner and the pelt, earned.</figcaption>
+</figure>
+<figure markdown>
+![The trophy wall's rewards: gold circlet, gold cloak, royal purple tunic and medal at the mirror; a banner and a pelt in the hall.](images/screenshots/game-rewards.png){ .shot }
+<figcaption><b>Rewards</b>, at the trophy wall.</figcaption>
+</figure>
+<figure markdown>
+![At the mirror, To earn: gold circlet at level 3, gold cloak at level 5, royal purple tunic at level 8, medal with the New record badge.](images/screenshots/game-earn.png){ .shot }
+<figcaption><b>To earn</b>, at the mirror.</figcaption>
+</figure>
+</div>
+
+Outfits still to earn wait at the bottom of the mirror under **To earn** (*À gagner*); once earned, they appear with the others, and **Surprise me** can pick them. After a reset, a reward you're wearing stays on.
+
+## Seasons
+
+The range follows the calendar: snow and evergreens in winter (December to February), blossom and wildflowers in spring, green in summer, and red and gold trees with falling leaves in autumn (September to November).
+
+![The range in the four seasons, side by side: winter under snow with evergreens and falling snow, spring with blossom and wildflowers, summer green with butterflies, autumn with red and gold trees and fallen leaves.](images/screenshots/game-seasons.png)
 
 ## Sound and music
 
@@ -133,4 +169,4 @@ Game mode sends nothing. How your archer looks, your companion and your sound se
 
 ## What's next
 
-Game mode is a preview. Coming: outfits unlocked by levels and badges. See the [roadmap](roadmap.md).
+Game mode is a preview. See the [roadmap](roadmap.md) for what's coming.

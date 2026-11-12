@@ -26,7 +26,7 @@ Ullr est un projet personnel, construit au grand jour. Voici où il en est.
 
 ## À venir
 
-- [ ] **Mode jeu :** des tenues débloquées par les niveaux et les insignes
+- [x] **Mode jeu :** des tenues et des décorations gagnées par les niveaux et les insignes, un cor de guerre pour un record personnel, et le pas de tir aux quatre saisons
 
 - [x] **Vos données, à votre façon :** export (tout, les données seules ou les photos seules) vers le dossier de votre choix, restauration sur le même téléphone ou un nouveau, et libérer de la place en retirant les anciennes photos
 - [x] Partager le résumé d’une séance, en texte ou avec une image de la feuille de marque
