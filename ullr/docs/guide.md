@@ -161,6 +161,27 @@ Then tap **Confirm · shoot next end** (*Valider · volée suivante*) to go stra
 
 **Settings → Default scoring rule** sets the rule new sessions start with: **World Archery** (inner 10 for compound, X = 10 for other bows; the default), **X = 10 for all bows**, or **X = 11 for compound**.
 
+## Statistics
+
+The **Stats** tab (in game mode, the **hearth**) shows what matters in training and competition, for a period (4 weeks to all) and a bow:
+
+<div class="shots" markdown>
+<figure markdown>
+![Statistics: period and bow filters, average per arrow, arrows shot, sessions, ends, X, shares of 10 and X, gold and misses, and the average per arrow by session.](images/screenshots/stats.png){ .shot }
+<figcaption>Level, volume and trend</figcaption>
+</figure>
+<figure markdown>
+![Where your arrows group: every arrow on one target, the group centre and the spread.](images/screenshots/stats-group.png){ .shot }
+<figcaption>Where your arrows group</figcaption>
+</figure>
+</div>
+
+- **Average per arrow** and its trend by session, **arrows shot** and **arrows per week** (training volume over 12 weeks).
+- Shares of **10 and X**, **gold** (9 to X) and **misses**, and how many arrows land in each ring.
+- **Consistency:** your best end, the end-to-end spread (lower is steadier), and the second half of your sessions against the first (fatigue).
+- **Where your arrows group:** every arrow the AI placed, on one target, with the group centre (high, low, left or right: handy for sight marks) and the spread.
+- **Rounds:** for each round you shoot, your best, average and last score.
+
 ## Bows
 
 <div class="shots" markdown>

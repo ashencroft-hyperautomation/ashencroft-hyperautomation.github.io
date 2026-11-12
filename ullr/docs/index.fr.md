@@ -33,7 +33,7 @@ hide:
 
     ---
 
-    Tableau de bord, toutes vos séances, feuille de marque et graphique des volées. Chaque volée garde sa photo.
+    Tableau de bord, toutes vos séances, feuille de marque, graphique des volées, et des **statistiques** : tendance, volume, zones, régularité et groupement de vos flèches. Chaque volée garde sa photo.
 
 -   :material-gamepad-variant-outline: **Ou jouez-le comme un jeu**
 

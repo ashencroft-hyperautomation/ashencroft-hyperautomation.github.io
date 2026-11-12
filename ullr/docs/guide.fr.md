@@ -161,6 +161,27 @@ Touchez ensuite **Valider · volée suivante** pour revenir directement à l'app
 
 **Réglages → Règle de comptage par défaut** fixe la règle des nouvelles séances : **World Archery** (10 intérieur pour l'arc à poulies, X = 10 pour les autres arcs ; par défaut), **X = 10 pour tous les arcs**, ou **X = 11 pour l'arc à poulies**.
 
+## Statistiques
+
+L’onglet **Stats** (en mode jeu, l’**âtre**) montre ce qui compte à l’entraînement et en compétition, sur une période (4 semaines à tout) et pour un arc :
+
+<div class="shots" markdown>
+<figure markdown>
+![Statistiques : filtres de période et d’arc, moyenne par flèche, flèches tirées, séances, volées, X, parts de 10 et X, d’or et de manqués, et la moyenne par flèche par séance.](images/screenshots/fr/stats.png){ .shot }
+<figcaption>Niveau, volume et tendance</figcaption>
+</figure>
+<figure markdown>
+![Où se groupent vos flèches : toutes les flèches sur une même cible, le centre du groupe et la dispersion.](images/screenshots/fr/stats-group.png){ .shot }
+<figcaption>Où se groupent vos flèches</figcaption>
+</figure>
+</div>
+
+- **Moyenne par flèche** et sa tendance par séance, **flèches tirées** et **flèches par semaine** (volume d’entraînement sur 12 semaines).
+- Parts de **10 et X**, d’**or** (9 à X) et de **manqués**, et combien de flèches dans chaque zone.
+- **Régularité :** votre meilleure volée, l’écart d’une volée à l’autre (plus c’est bas, plus c’est régulier), et la seconde moitié de vos séances contre la première (fatigue).
+- **Où se groupent vos flèches :** toutes les flèches placées par l’IA, sur une même cible, avec le centre du groupe (haut, bas, gauche ou droite : utile pour régler le viseur) et la dispersion.
+- **Épreuves :** pour chaque épreuve tirée, votre meilleur score, votre moyenne et votre dernier score.
+
 ## Vos arcs
 
 <div class="shots" markdown>

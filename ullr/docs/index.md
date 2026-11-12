@@ -33,7 +33,7 @@ hide:
 
     ---
 
-    Dashboard, every past session, a scoresheet and a score-by-end chart. Each end keeps its photo.
+    Dashboard, every past session, a scoresheet and a score-by-end chart, and **statistics**: trend, volume, rings, consistency and where your arrows group. Each end keeps its photo.
 
 -   :material-gamepad-variant-outline: **Or play it like a game**
 

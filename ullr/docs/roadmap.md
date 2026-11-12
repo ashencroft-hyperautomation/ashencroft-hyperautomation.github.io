@@ -23,7 +23,7 @@ Ullr is a personal project, built in the open. Here's where it stands.
 - [ ] **Game mode:** outfits unlocked by levels and badges
 
 - [ ] **Your data, your way:** export (everything, data only, or photos only) to a folder you choose, free up space by removing exported photos, and share a session summary by email or message
-- [ ] Statistics: average over time, score distribution, where your arrows group, fatigue over a session
+- [x] Statistics: average over time, volume, score distribution, consistency, fatigue over a session, where your arrows group, records per round
 - [ ] Best scores per round type (for example 18 m, 60 arrows)
 
 ## Google Play

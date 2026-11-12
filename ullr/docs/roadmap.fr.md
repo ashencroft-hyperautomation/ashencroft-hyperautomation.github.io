@@ -23,7 +23,7 @@ Ullr est un projet personnel, construit au grand jour. Voici où il en est.
 - [ ] **Mode jeu :** des tenues débloquées par les niveaux et les insignes
 
 - [ ] **Vos données, à votre façon :** export (tout, les données seules ou les photos seules) vers le dossier de votre choix, libérer de la place en retirant les photos exportées, et partager un résumé de séance par courriel ou message
-- [ ] Statistiques : moyenne dans le temps, répartition des scores, où se groupent vos flèches, fatigue au fil d'une séance
+- [x] Statistiques : moyenne dans le temps, volume, répartition des scores, régularité, fatigue au fil d'une séance, groupement de vos flèches, records par épreuve
 - [ ] Meilleurs scores par type d'épreuve (par exemple 18 m, 60 flèches)
 
 ## Google Play

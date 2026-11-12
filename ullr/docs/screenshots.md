@@ -65,6 +65,23 @@ Taken with **Ullr Demo**, a version of the app filled with six months of made-up
 </figure>
 </div>
 
+## Statistics
+
+<div class="shots" markdown>
+<figure markdown>
+![Statistics: filters, average, volume, shares and trend.](images/screenshots/stats.png){ .shot }
+<figcaption><b>Statistics.</b> By period and bow.</figcaption>
+</figure>
+<figure markdown>
+![Ring distribution and consistency.](images/screenshots/stats-rings.png){ .shot }
+<figcaption><b>Rings and consistency.</b></figcaption>
+</figure>
+<figure markdown>
+![Where your arrows group, and rounds.](images/screenshots/stats-group.png){ .shot }
+<figcaption><b>Grouping and rounds.</b></figcaption>
+</figure>
+</div>
+
 ## Game mode
 
 <div class="shots" markdown>

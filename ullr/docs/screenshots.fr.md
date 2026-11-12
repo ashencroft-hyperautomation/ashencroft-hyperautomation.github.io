@@ -65,6 +65,23 @@ Prises avec **Ullr Demo**, une version de l'application remplie de six mois de s
 </figure>
 </div>
 
+## Statistiques
+
+<div class="shots" markdown>
+<figure markdown>
+![Statistiques : filtres, moyenne, volume, parts et tendance.](images/screenshots/fr/stats.png){ .shot }
+<figcaption><b>Statistiques.</b> Par période et par arc.</figcaption>
+</figure>
+<figure markdown>
+![Répartition des zones et régularité.](images/screenshots/fr/stats-rings.png){ .shot }
+<figcaption><b>Zones et régularité.</b></figcaption>
+</figure>
+<figure markdown>
+![Où se groupent vos flèches, et les épreuves.](images/screenshots/fr/stats-group.png){ .shot }
+<figcaption><b>Groupement et épreuves.</b></figcaption>
+</figure>
+</div>
+
 ## Mode jeu
 
 <div class="shots" markdown>

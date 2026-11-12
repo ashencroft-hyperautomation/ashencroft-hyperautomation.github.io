@@ -33,7 +33,7 @@ Turn it on in **Settings → Mode → Game (preview)** (*Réglages → Mode → 
 | **Trophy wall** | Your trophies: level, badges and personal bests |
 | **Writing desk** | Settings |
 | **Mirror** | Your archer |
-| **Hearth** | Your statistics, "by the fire": last session, average per arrow, best total, X count |
+| **Hearth** | Your statistics, "by the fire" |
 | **Door** | The range |
 
 | On the range | Opens |

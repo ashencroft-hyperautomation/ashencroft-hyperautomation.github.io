@@ -33,7 +33,7 @@ Activez-le dans **Réglages → Mode → Jeu (aperçu)**. **Normal** revient en 
 | **Mur des trophées** | Vos trophées : niveau, insignes et records personnels |
 | **Bureau** | Les réglages |
 | **Miroir** | Votre archer |
-| **Âtre** | Vos statistiques, « au coin du feu » : dernière séance, moyenne par flèche, meilleur total, nombre de X |
+| **Âtre** | Vos statistiques, « au coin du feu » |
 | **Porte** | Le pas de tir |
 
 | Sur le pas de tir | Ouvre |
