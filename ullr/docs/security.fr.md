@@ -56,6 +56,18 @@ Ullr a été conçu pour qu'il y ait très peu de choses à protéger hors de vo
 
     Aucun score ne compte tant que vous n'avez pas validé la volée. Les flèches incertaines sont entourées pour que vous les vérifiiez.
 
+-   :material-broom: **Rien ne traîne**
+
+    ---
+
+    Les copies faites pour un partage sont effacées une fois utilisées, et une séance abandonnée emporte ses photos.
+
+-   :material-package-variant-closed-check: **Des composants vérifiés**
+
+    ---
+
+    Chaque bibliothèque de l'application est vérifiée à chaque compilation contre une empreinte enregistrée, et leur liste complète accompagne chaque version.
+
 </div>
 
 ## Les questions des archers

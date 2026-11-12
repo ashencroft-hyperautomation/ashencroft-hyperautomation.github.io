@@ -56,6 +56,18 @@ Ullr was designed so that there's very little to protect away from your phone, a
 
     No score counts until you confirm the end. Uncertain arrows are circled for you to check.
 
+-   :material-broom: **Nothing left lying around**
+
+    ---
+
+    Copies made for sharing are deleted once used, and a discarded session takes its photos with it.
+
+-   :material-package-variant-closed-check: **Checked building blocks**
+
+    ---
+
+    Every library inside the app is checked against a recorded fingerprint at each build, and the full list is kept with every build.
+
 </div>
 
 ## Questions archers ask
