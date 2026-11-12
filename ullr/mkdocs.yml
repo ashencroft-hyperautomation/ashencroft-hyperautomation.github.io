@@ -65,7 +65,8 @@ plugins:
             Checking arrows: Vérifier les flèches
             Scoring rules: Règles de comptage
             Bows: Arcs
-            History and statistics: Historique et statistiques
+            History: Historique
+            Statistics: Statistiques
             Storage and backup: Stockage et sauvegarde
             Look and language: Apparence et langue
             About: À propos
@@ -108,7 +109,8 @@ nav:
       - Checking arrows: review.md
       - Scoring rules: rules.md
       - Bows: bows.md
-      - History and statistics: stats.md
+      - History: history.md
+      - Statistics: stats.md
       - Storage and backup: backup.md
       - Look and language: look.md
   - About:

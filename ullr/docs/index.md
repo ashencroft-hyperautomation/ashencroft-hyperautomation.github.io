@@ -103,7 +103,7 @@ Same records, same scoring: pick the one you like, and switch at any time in **S
 
     All your bows, drawn as their type, with a catalog of current compound bows.
 
--   :material-chart-bar: **[History and statistics](stats.md)**
+-   :material-chart-bar: **[Statistics](stats.md)**
 
     ---
 

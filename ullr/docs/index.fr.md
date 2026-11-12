@@ -103,7 +103,7 @@ Les mêmes données, le même comptage : choisissez celle qui vous plaît, et ch
 
     Tous vos arcs, dessinés selon leur type, avec un catalogue d’arcs à poulies actuels.
 
--   :material-chart-bar: **[Historique et statistiques](stats.md)**
+-   :material-chart-bar: **[Statistiques](stats.md)**
 
     ---
 

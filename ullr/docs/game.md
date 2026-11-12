@@ -53,7 +53,7 @@ Walk to the **mirror** to dress your archer. The preview stays at the top while 
 <figcaption><b>The mirror.</b> Pick, and see it at once.</figcaption>
 </figure>
 <figure markdown>
-![Five archers seen from the front, the side and the back: a helmet and beard; a fur hat and fur mantle; a flower crown with braids and a scarf; a headband with a hammer amulet; glasses.](images/game-outfits.png){ width="300" .pixel }
+![Six archers seen from the front, the side and the back: a helmet and beard; a fur hat and fur mantle; a flower crown with braids and a scarf; a headband with a hammer amulet; glasses; and the outfits to earn, gold circlet, gold cloak, royal purple tunic and medal.](images/game-outfits.png){ width="360" .pixel }
 <figcaption><b>Outfits</b>, drawn from every side.</figcaption>
 </figure>
 </div>
@@ -63,9 +63,11 @@ Walk to the **mirror** to dress your archer. The preview stays at the top while 
 | Skin | Five tones |
 | Hair | Long, short, braids or a hood, in five colours |
 | Beard | With or without |
-| Tunic, cloak, trousers | Five colours each, and no cloak if you prefer |
-| Headwear | Helmet, fur hat, flower crown, headband |
-| Accessory | Fur mantle, scarf, hammer amulet, glasses |
+| Tunic, cloak, trousers | Six, five and five colours, and no cloak if you prefer; a **royal purple tunic** (level 8) and a **gold cloak** (level 5) to earn |
+| Headwear | Helmet, fur hat, flower crown, headband; a **gold circlet** to earn (level 3) |
+| Accessory | Fur mantle, scarf, hammer amulet, glasses; a **medal** to earn (badge *New record*) |
+
+![Five archers from the front, side and back, with each hair style (long, short, braids, hood), five skin tones, beards and different tunic and cloak colours.](images/game-avatars.png){ width="330" .pixel }
 
 **Surprise me** (*Au hasard*) picks a random look. Your archer holds the type of your first bow: barebow, recurve or compound.
 
@@ -94,7 +96,23 @@ Only real shooting earns anything: **10 experience** for each confirmed end, **3
 </figure>
 </div>
 
-- **Ten badges** for real milestones: your first end, your first X, a perfect end, ten X in one session, 100 and 1,000 arrows, ten sessions, a new personal best, trying field, 3D or para archery, and four weeks in a row.
+- **Ten badges** for real milestones, gold once earned and grey until then:
+
+| Medal | Badge | How to earn it |
+|:-:|-------|----------------|
+| ![Medal 1](images/game-medal-first-end.png){ width="36" .pixel } | **First end** | Confirm your first end |
+| ![Medal X](images/game-medal-first-x.png){ width="36" .pixel } | **First X** | Shoot an X |
+| ![Medal 10](images/game-medal-perfect-end.png){ width="36" .pixel } | **Perfect end** | Every arrow of an end in the 10 |
+| ![Medal XX](images/game-medal-ten-x.png){ width="36" .pixel } | **Ten X** | 10 X in one session |
+| ![Medal C](images/game-medal-arrows-100.png){ width="36" .pixel } | **100 arrows** | Shoot 100 arrows |
+| ![Medal M](images/game-medal-arrows-1000.png){ width="36" .pixel } | **1,000 arrows** | Shoot 1,000 arrows (also earns the pelt in the hall) |
+| ![Medal S](images/game-medal-sessions-10.png){ width="36" .pixel } | **Ten sessions** | Finish 10 sessions (also earns the banner in the hall) |
+| ![Medal +](images/game-medal-personal-best.png){ width="36" .pixel } | **New record** | Beat your best score on a round (also earns the medal at the mirror) |
+| ![Medal *](images/game-medal-new-discipline.png){ width="36" .pixel } | **Explorer** | Shoot field, 3D or para archery |
+| ![Medal 4](images/game-medal-weeks-4.png){ width="36" .pixel } | **Four weeks** | Shoot four weeks in a row |
+
+![A medal not earned yet, in grey.](images/game-medal-locked.png){ width="36" .pixel } A medal not earned yet stays grey. The mark on each medal (numbers, Roman numerals) reads the same in English and French.
+
 - **Personal bests** for each round (distance, face and number of arrows). Each one puts a cup on the trophy shelf, and the plaques light up as badges come in. Tap a record to open its session.
 - A new level or badge is announced with a **fanfare and a banner**, once. Beating a personal best on a round you've shot before sounds the **war horn**.
 - It's all worked out from your sessions: delete a session and what it earned goes with it.

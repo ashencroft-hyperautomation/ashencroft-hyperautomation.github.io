@@ -118,7 +118,7 @@ Prises avec **Ullr Demo**, une version de l'application remplie de six mois de s
 
 <div class="shots" markdown>
 <figure markdown>
-![Statistiques : filtres, moyenne, volume, parts et tendance.](images/screenshots/fr/stats.png){ .shot }
+![Statistiques : filtres, moyenne, volume, parts et tendance.](images/screenshots/fr/stats-overview.png){ .shot }
 <figcaption><b>Statistiques.</b> Par période et par arc.</figcaption>
 </figure>
 <figure markdown>

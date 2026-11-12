@@ -53,7 +53,7 @@ Rendez-vous au **miroir** pour habiller votre archer. L’aperçu reste en haut 
 <figcaption><b>Le miroir.</b> Choisissez, et voyez le résultat tout de suite.</figcaption>
 </figure>
 <figure markdown>
-![Cinq archers vus de face, de profil et de dos : casque et barbe ; toque et mantelet de fourrure ; couronne de fleurs, tresses et écharpe ; bandeau et amulette marteau ; lunettes.](images/game-outfits.png){ width="300" .pixel }
+![Six archers vus de face, de profil et de dos : casque et barbe; toque et mantelet de fourrure; couronne de fleurs, tresses et écharpe; bandeau et amulette marteau; lunettes; et les tenues à gagner, diadème d’or, cape dorée, tunique pourpre royale et médaille.](images/game-outfits.png){ width="360" .pixel }
 <figcaption><b>Les tenues</b>, dessinées sous tous les angles.</figcaption>
 </figure>
 </div>
@@ -63,9 +63,11 @@ Rendez-vous au **miroir** pour habiller votre archer. L’aperçu reste en haut 
 | Peau | Cinq teintes |
 | Cheveux | Longs, courts, tresses ou capuchon, en cinq couleurs |
 | Barbe | Avec ou sans |
-| Tunique, cape, pantalon | Cinq couleurs chacun, et pas de cape si vous préférez |
-| Coiffe | Casque, toque de fourrure, couronne de fleurs, bandeau |
-| Accessoire | Mantelet de fourrure, écharpe, amulette marteau, lunettes |
+| Tunique, cape, pantalon | Six, cinq et cinq couleurs, et pas de cape si vous préférez; une **tunique pourpre royale** (niveau 8) et une **cape dorée** (niveau 5) à gagner |
+| Coiffe | Casque, toque de fourrure, couronne de fleurs, bandeau; un **diadème d’or** à gagner (niveau 3) |
+| Accessoire | Mantelet de fourrure, écharpe, amulette marteau, lunettes; une **médaille** à gagner (insigne *Nouveau record*) |
+
+![Cinq archers de face, de profil et de dos, avec chaque coiffure (longs, courts, tresses, capuchon), cinq teintes de peau, des barbes et des couleurs de tunique et de cape différentes.](images/game-avatars.png){ width="330" .pixel }
 
 **Au hasard** choisit une apparence au hasard. Votre archer tient le type de votre premier arc : arc nu, arc recourbé ou arc à poulies.
 
@@ -94,7 +96,23 @@ Seul le vrai tir rapporte : **10 points d’expérience** par volée confirmée,
 </figure>
 </div>
 
-- **Dix insignes** pour de vraies étapes : votre première volée, votre premier X, une volée parfaite, dix X dans une séance, 100 et 1 000 flèches, dix séances, un nouveau record personnel, tirer en campagne, en 3D ou en para-tir à l’arc, et quatre semaines de suite.
+- **Dix insignes** pour de vraies étapes, en or une fois gagnés, en gris d’ici là :
+
+| Médaille | Insigne | Comment l’obtenir |
+|:-:|--------|-------------------|
+| ![Médaille 1](images/game-medal-first-end.png){ width="36" .pixel } | **Première volée** | Confirmer votre première volée |
+| ![Médaille X](images/game-medal-first-x.png){ width="36" .pixel } | **Premier X** | Tirer un X |
+| ![Médaille 10](images/game-medal-perfect-end.png){ width="36" .pixel } | **Volée parfaite** | Toutes les flèches d’une volée dans le 10 |
+| ![Médaille XX](images/game-medal-ten-x.png){ width="36" .pixel } | **Dix X** | 10 X dans une même séance |
+| ![Médaille C](images/game-medal-arrows-100.png){ width="36" .pixel } | **100 flèches** | Tirer 100 flèches |
+| ![Médaille M](images/game-medal-arrows-1000.png){ width="36" .pixel } | **1 000 flèches** | Tirer 1 000 flèches (rapporte aussi la peau de bête dans la maison) |
+| ![Médaille S](images/game-medal-sessions-10.png){ width="36" .pixel } | **Dix séances** | Terminer 10 séances (rapporte aussi la bannière dans la maison) |
+| ![Médaille +](images/game-medal-personal-best.png){ width="36" .pixel } | **Nouveau record** | Battre votre meilleur score sur une épreuve (rapporte aussi la médaille au miroir) |
+| ![Médaille *](images/game-medal-new-discipline.png){ width="36" .pixel } | **Explorateur** | Tirer en campagne, en 3D ou en para-tir à l’arc |
+| ![Médaille 4](images/game-medal-weeks-4.png){ width="36" .pixel } | **Quatre semaines** | Tirer quatre semaines de suite |
+
+![Une médaille pas encore gagnée, en gris.](images/game-medal-locked.png){ width="36" .pixel } Une médaille pas encore gagnée reste grise. Le signe sur chaque médaille (chiffres, chiffres romains) se lit pareil en français et en anglais.
+
 - **Records personnels** pour chaque épreuve (distance, blason et nombre de flèches). Chacun pose une coupe sur l’étagère, et les plaques s’allument au fil des insignes. Touchez un record pour ouvrir sa séance.
 - Un nouveau niveau ou un nouvel insigne est annoncé par **une fanfare et une bannière**, une seule fois. Battre un record personnel sur une épreuve déjà tirée fait sonner **le cor de guerre**.
 - Tout est calculé à partir de vos séances : supprimez une séance et ce qu’elle a rapporté disparaît avec elle.

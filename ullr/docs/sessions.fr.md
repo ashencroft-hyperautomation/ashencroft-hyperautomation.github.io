@@ -21,7 +21,7 @@ Dans l’onglet **Accueil**, touchez **Commencer une séance**, puis remplissez 
 - **Date** : maintenant, par défaut.
 - **Discipline** : tir sur cible (par défaut), tir en campagne, tir 3D ou para-tir à l’arc.
 - **Type d’arc** (arc nu, arc recourbé ou arc à poulies, chacun avec son petit dessin) et **arc**. Les valeurs par défaut de l’arc remplissent le reste. Voir [Arcs](bows.md).
-- **Distance**, **blason**, **blasons sur la butte** (pour les trispots : combien il y en a sur la butte, par exemple 2 blasons = 6 spots) et **flèches par volée** (n’importe quel nombre, souvent 3 ou 6).
+- **Distance**, **blason**, **blasons sur la butte** (pour les trispots : combien il y en a sur la butte, par exemple 2 blasons = 6 spots) et **flèches par volée** (n’importe quel nombre, souvent 3 ou 6). Les blasons suivent la discipline : blasons de tir sur cible, blasons de **campagne** (80, 60, 40 cm, ou 20 cm en colonnes de trois), ou la cible **3D**. Voir [Campagne et 3D](rules.md#campagne-et-3d).
 - **Comptage** : la règle, proposée d’après les réglages et le type d’arc. Voir [Règles de comptage](rules.md).
 
 ## Tirer une volée

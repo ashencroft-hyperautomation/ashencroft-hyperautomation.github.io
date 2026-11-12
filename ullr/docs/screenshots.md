@@ -118,7 +118,7 @@ Taken with **Ullr Demo**, a version of the app filled with six months of made-up
 
 <div class="shots" markdown>
 <figure markdown>
-![Statistics: filters, average, volume, shares and trend.](images/screenshots/stats.png){ .shot }
+![Statistics: filters, average, volume, shares and trend.](images/screenshots/stats-overview.png){ .shot }
 <figcaption><b>Statistics.</b> By period and bow.</figcaption>
 </figure>
 <figure markdown>

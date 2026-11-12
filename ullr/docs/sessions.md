@@ -21,7 +21,7 @@ On the Dashboard, tap **Start session** (*Commencer une séance*), then fill in:
 - **Date**: now by default.
 - **Discipline**: target archery (the default), field archery, 3D archery or para archery.
 - **Bow type** (barebow, recurve bow or compound bow, each with its small drawing) and **bow**. The bow's defaults fill in the rest. See [Bows](bows.md).
-- **Distance**, **target face**, **paper faces** (for 3-spot faces: how many are on the boss, for example 2 faces = 6 spots), and **arrows per end** (any number, often 3 or 6).
+- **Distance**, **target face**, **paper faces** (for 3-spot faces: how many are on the boss, for example 2 faces = 6 spots), and **arrows per end** (any number, often 3 or 6). The faces follow the discipline: target faces, **field** faces (80, 60, 40 cm, or 20 cm in columns of three), or the **3D** animal. See [Field and 3D](rules.md#field-and-3d).
 - **Scoring rule**: set from Settings and the bow type. See [Scoring rules](rules.md).
 
 ## Shoot an end
