@@ -66,27 +66,27 @@ Pourquoi plusieurs signaux ? La confiance d'une IA n'est pas toujours juste. Le 
 
 Vous corrigez une flèche entourée d'une touche, ajoutez une flèche oubliée ou retirez celle d'un autre archer, et validez. C'est seulement alors que la volée compte. Chaque volée garde sa photo : vous pouvez toujours la revoir.
 
-## Le choix de l'IA
+## Trois façons de compter
 
 <div class="shots" markdown>
 <figure markdown>
-![Réglages : la méthode de comptage et le choix du service d'IA.](images/screenshots/fr/settings.png){ .shot }
-<figcaption>Choisir l'IA dans les réglages</figcaption>
+![La page Méthode de comptage : votre propre clé API, le partage avec votre application d’IA, ou le comptage manuel.](images/screenshots/fr/settings.png){ .shot }
+<figcaption>Choisir la méthode dans les réglages</figcaption>
 </figure>
 </div>
 
-| Service | Comment |
+| Méthode | Comment |
 |---------|---------|
-| **Anthropic (Claude)** | Votre propre clé API |
-| **Google (Gemini)** | Votre propre clé API |
-| **OpenAI** | Votre propre clé API |
-| **À la main** | Rien : toujours possible, sur chaque volée |
+| **[Votre propre clé API](scoring-api.md)** | Automatique, en arrière-plan. Anthropic (Claude), Google (Gemini), OpenAI, ou tout service compatible OpenAI à l’adresse que vous indiquez. |
+| **[Partager avec votre application d’IA](scoring-share.md)** | Sans clé : partagez la photo et le texte avec l’application d’IA de votre téléphone, puis collez sa réponse. |
+| **[Manuel](scoring-manual.md)** | Sans IA : touchez chaque flèche sur la photo et choisissez sa zone. Rien n’est envoyé. |
+| **À la main** | Toujours possible, sur chaque volée, quelle que soit la méthode. |
 
-Les trois services reçoivent exactement les mêmes consignes. Vous choisissez celui que vous préférez, et vous pouvez en changer à tout moment.
+Chaque IA reçoit exactement les mêmes consignes. Choisissez ce que vous préférez, et changez à tout moment. Voir [Trois façons de compter](scoring.md).
 
 ## Au pas de tir
 
-Il y a souvent peu de réseau sur un terrain de tir. Ullr enregistre d'abord chaque photo, et le comptage attend le réseau. Il démarre tout seul dès que le téléphone est de nouveau en ligne. Si vous voulez le score tout de suite, saisissez-le à la main. Fermer l'application ne fait rien perdre.
+Il y a souvent peu de réseau sur un terrain de tir. Ullr enregistre d’abord chaque photo, et le comptage automatique attend le réseau. Il démarre tout seul dès que le téléphone est de nouveau en ligne. Si vous voulez le score tout de suite, saisissez-le à la main, ou utilisez le [comptage manuel](scoring-manual.md), qui n’a jamais besoin du réseau. Fermer l’application ne fait rien perdre.
 
 ## Fiabilité
 

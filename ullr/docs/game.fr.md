@@ -121,7 +121,7 @@ En mode jeu, chaque écran prend le style du jeu : bois sombre et or, lettres en
 <figcaption>Vos arcs</figcaption>
 </figure>
 <figure markdown>
-![Réglages au style du jeu : un menu Comptage par IA, Règles de comptage, Confidentialité, Apparence et jeu, Langue, et Stockage et sauvegarde.](images/screenshots/fr/game-settings.png){ .shot }
+![Réglages au style du jeu : un menu Méthode de comptage, Règles de comptage, Confidentialité, Apparence et jeu, Langue, et Stockage et sauvegarde.](images/screenshots/fr/game-settings.png){ .shot }
 <figcaption>Les réglages, regroupés par thème</figcaption>
 </figure>
 </div>

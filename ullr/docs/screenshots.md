@@ -52,12 +52,33 @@ Taken with **Ullr Demo**, a version of the app filled with six months of made-up
 </figure>
 </div>
 
+## Scoring
+
+<div class="shots" markdown>
+<figure markdown>
+![The Scoring method page: what each method does, then your own API key, sharing with your AI app, or manual.](images/screenshots/settings.png){ .shot }
+<figcaption><b>Three ways to score.</b> Your own key, your AI app, or by hand.</figcaption>
+</figure>
+<figure markdown>
+![An OpenAI-compatible service set up: its address, the model id, and the key section named after the service's address.](images/screenshots/scoring-custom.png){ .shot }
+<figcaption><b>Any OpenAI-compatible service.</b> Its address, model and your key.</figcaption>
+</figure>
+<figure markdown>
+![An end waiting for an answer: the card Score with your AI app, with Share, Copy prompt, the answer field and Use this answer.](images/screenshots/scoring-share.png){ .shot }
+<figcaption><b>Share with your AI app.</b> Share, then paste its answer.</figcaption>
+</figure>
+<figure markdown>
+![Manual scoring: arrows placed on the photo of a target, and the ring picker right under the photo.](images/screenshots/scoring-manual.png){ .shot }
+<figcaption><b>Manual.</b> Tap the arrow, pick its ring.</figcaption>
+</figure>
+</div>
+
 ## Settings
 
 <div class="shots" markdown>
 <figure markdown>
-![The AI scoring page of Settings: what scoring does, then the scoring method and the choice of service.](images/screenshots/settings.png){ .shot }
-<figcaption><b>Choice of AI.</b> The service of your choice, with your own key.</figcaption>
+![Settings: one entry per page, each with what is chosen now.](images/screenshots/settings-menu.png){ .shot }
+<figcaption><b>Settings.</b> One page per topic.</figcaption>
 </figure>
 <figure markdown>
 ![The Privacy page of Settings: what leaves the phone, the send only the target area switch, and what is sent and never sent.](images/screenshots/settings-privacy.png){ .shot }
@@ -106,7 +127,7 @@ Taken with **Ullr Demo**, a version of the app filled with six months of made-up
 <figcaption><b>In the game look.</b> Pixel titles and scores.</figcaption>
 </figure>
 <figure markdown>
-![Settings in the game look: a menu of AI scoring, Scoring rules, Privacy, Appearance and game, Language, and Storage and backup.](images/screenshots/game-settings.png){ .shot }
+![Settings in the game look: a menu of Scoring method, Scoring rules, Privacy, Appearance and game, Language, and Storage and backup.](images/screenshots/game-settings.png){ .shot }
 <figcaption><b>Settings, grouped by topic.</b></figcaption>
 </figure>
 </div>

@@ -24,13 +24,13 @@ Ullr was designed so that there's very little to protect away from your phone, a
 
     ---
 
-    The app refuses unencrypted connections, and only talks to the one AI service you chose.
+    The app refuses unencrypted connections, and only talks to the one AI service you chose, at its own address or the https address you gave. With manual scoring, it talks to no one.
 
 -   :material-key-chain-variant: **Your key, locked away**
 
     ---
 
-    Your API key is encrypted with your phone's secure key store (on most phones, a dedicated security chip). It's never shown again, never exported, and only sent to the service it belongs to.
+    Your API key is encrypted with your phone's secure key store (on most phones, a dedicated security chip). It's never shown again, never exported, and only sent to the service it belongs to. Change a service's address and its key is deleted, so it can't follow to the new one.
 
 -   :material-incognito: **Nothing about your phone or you**
 
@@ -75,6 +75,9 @@ Ullr was designed so that there's very little to protect away from your phone, a
 **What if I lose my phone?**
 Your records are protected by your phone's lock screen, like your other apps. To be safe, delete your API key on the AI service's website: it stops working at once. A spending limit with the service means nobody could ever spend more than that.
 
+**I use another service at my own address. Is that safe?**
+Ullr only accepts `https://` addresses, without a user name or password in them. The key you save is only ever sent to that address, and addresses aren't in exports, so a file you restore can't send your key elsewhere. Choose a service you trust: it receives the photo and your key, like the main services.
+
 **Can the AI service see my history?**
 No. It only receives the photo of the end being scored, your setup for that end (face, number of arrows, scoring rule, arrow description) and your key. See [Privacy](privacy.md) for what each service does with it.
 
@@ -82,7 +85,7 @@ No. It only receives the photo of the end being scored, your setup for that end 
 No. There's no analytics, no advertising and no tracking. The app doesn't ask for your location, contacts, microphone or files.
 
 **What permissions does it need?**
-Only the camera, to photograph the target, and internet access, to score with an AI service. Importing a photo uses Android's photo picker, which only gives Ullr the photo you choose.
+Only the camera, to photograph the target, and internet access, to score with an AI service. Manual scoring doesn't use the internet. Importing a photo uses Android's photo picker, which only gives Ullr the photo you choose.
 
 **Is someone checking the app?**
 Every change is tested automatically, more than 75 tests that cover scoring, the instructions sent to the AI, and exactly what leaves the phone. The design was reviewed for privacy and security, and the libraries it uses are kept up to date.

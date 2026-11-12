@@ -1,8 +1,6 @@
-# User guide
+# Getting started
 
-How to use Ullr, from the first bow to the end of a session. Button names are in English, with the French label in brackets: **Start session** (*Commencer une séance*).
-
-## First steps
+From opening the app to your first confirmed end, in five steps. Each step links to its own page. Button names are in English, with the French label in brackets: **Start session** (*Commencer une séance*).
 
 <div class="shots" markdown>
 <figure markdown>
@@ -10,247 +8,73 @@ How to use Ullr, from the first bow to the end of a session. Button names are in
 <figcaption>The loading screen</figcaption>
 </figure>
 <figure markdown>
-![Dashboard with sessions, average per arrow, best total, X count and recent sessions.](images/screenshots/dashboard.png){ .shot }
-<figcaption>The Dashboard</figcaption>
+![Settings: one entry per page, each with what is chosen now.](images/screenshots/settings-menu.png){ .shot }
+<figcaption>Settings, one page per topic</figcaption>
 </figure>
 </div>
 
-1. Open the app. After a short loading screen you see the **Dashboard** (*Tableau de bord*).
-2. Add a bow: **Add bow** (*Ajouter un arc*). See [Bows](#bows).
-3. Choose how ends are scored, in **Settings** (*Réglages*). See the next section.
+## 1. Pick a mode
+
+The app opens in [normal mode](normal.md): tabs and screens. If you'd rather walk an archer around a pixel-art hall, turn on [game mode](game.md) in **Settings → Appearance and game** (*Réglages → Apparence et jeu*). You can switch back at any time.
 
 The app follows your phone's language (English or French). On Android 13 and later you can also choose it in **Settings → Language** (*Langue*).
 
-## Choose how ends are scored
+## 2. Choose how ends are scored
 
-**Settings → AI scoring → Scoring method** (*Réglages → Comptage par IA → Méthode de comptage*):
+**Settings → Scoring method** (*Réglages → Méthode de comptage*):
 
-| Method | You need | How it works |
-|--------|----------|--------------|
-| **AI service API (automatic)** (*API d’un service d’IA*) | An API key for the AI service of your choice (Anthropic, Google or OpenAI) | Each photo is scored in the background. The end is ready to check a few seconds later. |
-| **Score by hand** | Nothing | Available on every end, with any method. |
+| Method | You need | Page |
+|--------|----------|------|
+| **Your own API key** (automatic) | A key from an AI service | [Your own API key](scoring-api.md) |
+| **Share with your AI app** | An AI app on your phone | [Share with your AI app](scoring-share.md) |
+| **Manual** (no AI) | Nothing | [Manual scoring](scoring-manual.md) |
 
-### Choose the AI service
+Not sure? Start with **Manual**: it works right away, and you can change the method later. Past sessions stay as they are.
 
-![The AI scoring page of Settings: what scoring does, the scoring method, then the choice of AI service.](images/screenshots/settings.png){ .shot width="240" }
+## 3. Add a bow
 
-With the API method, **Settings → AI scoring → AI service** (*Service d’IA*) offers:
+**Bows → Add bow** (*Arcs → Ajouter un arc*): a name, the bow type, and the defaults for new sessions. See [Bows](bows.md).
 
-| Service | Models |
-|---------|--------|
-| **Anthropic (Claude)** | Opus 5.5 (default), Sonnet 5.5 (cheaper) |
-| **Google (Gemini)** | Gemini 4 Carbon (default), Gemini 3.8 Flash (faster, cheaper). Use a key from a project with billing turned on (see [Privacy](privacy.md)). |
-| **OpenAI** | GPT-6.1 Sol (default), GPT-6 Astra (most capable, about 5 times the price) |
+## 4. Shoot a session
 
-Each service keeps its own key, so you can switch and come back without typing a key again.
+**Start session** (*Commencer une séance*), fill in the place, bow, distance and face, shoot your first end, then photograph the target. See [Sessions](sessions.md).
 
-### Get and save an API key
+## 5. Check and confirm the end
 
-- **Anthropic:** create a key in the Anthropic Console (console.anthropic.com → API keys). It starts with `sk-ant-`.
-- **OpenAI:** create a key at platform.openai.com → API keys. It starts with `sk-`.
-- **Google Gemini:** create a key in Google AI Studio (aistudio.google.com → Get API key), in a project with billing turned on. It starts with `AIza`.
-
-Then, in Ullr: **Settings → AI scoring → API key** for that service, paste the key, **Save key** (*Enregistrer la clé*), and **Check key** (*Vérifier la clé*). The app tells you whether the key works.
-
-!!! tip "Protect your key"
-    Create a key just for Ullr, and set a low monthly spending limit with the service. If the phone is lost, delete the key there, and nobody can spend more than the limit.
-
-The key is stored encrypted on the phone. It is never shown again, and **Remove key** (*Supprimer la clé*) deletes it, after asking.
-
-**Cost:** you pay the service directly, one request per end. Rough estimates until they are measured on real photos:
-
-| Model | Per end | 30-end session |
-|-------|---------|----------------|
-| Claude Opus 5.5 | about $0.05–0.10 | about $1.50–3.00 |
-| Claude Sonnet 5.5 | about $0.03–0.05 | about $0.75–1.50 |
-| GPT-6.1 Sol | about $0.02–0.05 | about $0.60–1.50 |
-| GPT-6 Astra | about $0.10–0.25 | about $3–7.50 |
-| Gemini 4 Carbon | about $0.02–0.05 | about $0.60–1.50 |
-| Gemini 3.8 Flash | about $0.01–0.02 | about $0.30–0.60 |
-
-## Shoot a session
-
-<div class="shots" markdown>
-<figure markdown>
-![New session form filled in for a compound bow on two vertical triple faces.](images/screenshots/new-session.png){ .shot }
-<figcaption>New session</figcaption>
-</figure>
-<figure markdown>
-![Session screen with the total, the score-by-end chart and the scoresheet.](images/screenshots/session.png){ .shot }
-<figcaption>The session's scoresheet</figcaption>
-</figure>
-</div>
-
-1. On the Dashboard, tap **Start session** (*Commencer une séance*).
-2. Fill in the session:
-    - **Place** (*Lieu*): type a new one, or pick one you used before.
-    - **Date**: now by default.
-    - **Discipline**: target archery (the default), field archery, 3D archery or para archery.
-    - **Bow type** (barebow, recurve bow or compound bow) and **bow**. The bow's defaults fill in the rest.
-    - **Distance**, **target face**, **paper faces** (for 3-spot faces: how many are on the boss, for example 2 faces = 6 spots), and **arrows per end** (any number, often 3 or 6).
-    - **Scoring rule**: set from Settings and the bow type. See [Scoring rules](#scoring-rules).
-
-3. Shoot your end, walk to the target and tap **Take photo** (*Prendre la photo*). Stand in front of the target and fit the face in the circle on screen. You can also pick a photo from your gallery.
-4. The end appears in the scoresheet with its status:
-
-| Status | Meaning |
-|--------|---------|
-| waiting to score (*en attente de comptage*) | No network yet, or queued. It starts by itself when the network comes back. |
-| scoring… (*comptage en cours…*) | The AI is reading the photo. |
-| ready to check (*à vérifier*) | Open it and confirm. |
-| not scored (*non comptée*) | Something went wrong. Tap to retry or score by hand. |
-
-You don't have to wait: shoot the next end while the previous one is being scored.
-
-## Review an end
-
-<div class="shots" markdown>
-<figure markdown>
-![Review of an end: a marker on each of six arrows, two circled in amber, and 2 to check.](images/screenshots/review-check.png){ .shot }
-<figcaption>Two arrows to check</figcaption>
-</figure>
-<figure markdown>
-![A flagged arrow selected: the ring picker highlights the AI's two candidate rings, 9 and 10, with its confidence.](images/screenshots/review-select.png){ .shot }
-<figcaption>Choosing the right ring</figcaption>
-</figure>
-</div>
-
-Each arrow has a white marker with its ring. Pinch to zoom, drag to move, double-tap to reset.
-
-- **Amber circle:** check this arrow. It's near a line, the AI wasn't confident, or two arrows are in the same spot of a 3-spot face.
-- **Tap an arrow** to select it, then tap the right ring. The AI's second choice is highlighted.
-- **Add an arrow** (*Ajouter une flèche*): tap the button, then tap where the arrow is on the photo.
-- **Remove this arrow** (*Retirer cette flèche*): for another archer's arrow, or one counted twice. The app asks first.
-- A banner warns you when the number of arrows found isn't the number shot, or when the photo has problems (glare, blur, face cut off).
-
-Then tap **Confirm · shoot next end** (*Valider · volée suivante*) to go straight back to the camera, or **Confirm and back to session**.
+Check the circled arrows (or place your arrows, in manual scoring), then **Confirm · shoot next end** (*Valider · volée suivante*). See [Checking arrows](review.md).
 
 !!! warning "Check before you pull your arrows"
     The arrows in the target are the proof. If you score from the photo later, zoom in on the circled arrows.
 
-**3-spot faces:** under World Archery rules, only one arrow per spot counts. When two arrows are in the same spot, the app circles them and explains, but doesn't change any score: set the extra one to M yourself if your round uses that rule.
+## Nothing is removed without asking
 
-## Finish a session and look back
-
-<div class="shots" markdown>
-<figure markdown>
-![History: sessions grouped by month, with a filter by bow.](images/screenshots/history.png){ .shot }
-<figcaption>History, filtered by bow</figcaption>
-</figure>
-<figure markdown>
-![A past end: the photo of two triple faces with six arrows and their rings.](images/screenshots/review.png){ .shot }
-<figcaption>A past end, with its photo</figcaption>
-</figure>
-</div>
-
-- **Session screen** (*Séance*): the scoresheet (end by end, running total), the **Score by end** chart with the average line, and the best and worst ends.
-- **Change the scoring rule** of a session at any time. All its totals are recalculated.
-- **Finish** (*Terminer*). Ends that aren't confirmed don't count until you confirm them, which you can still do later.
-- **Dashboard:** sessions, average per arrow, best total, X count and recent sessions. A session in progress shows with **Resume** (*Reprendre*).
-- **History** (*Historique*): every finished session, by month, filtered by bow.
-
-### Scoring rules
-
-| Rule | Points |
-|------|--------|
-| X and 10 count 10 (*X et 10 valent 10*) | The whole 10 ring scores 10. Xs are counted for ties. World Archery recurve and barebow, most clubs. |
-| Inner 10 only (*10 intérieur seulement*) | Only the small inner ring scores 10; the rest of the gold scores 9. World Archery compound; USA Archery and Archery Canada follow World Archery. |
-| X counts 11 (*X vaut 11*) | The X ring scores 11. Some US tournaments, such as the Lancaster Classic. |
-
-**Line rule (all rules):** an arrow that touches the line between two zones scores the higher zone. An arrow in the 8 that touches the 8/9 line is a 9.
-
-**Settings → Scoring rules** (*Règles de comptage*) sets the rule new sessions start with: **World Archery** (inner 10 for compound, X = 10 for other bows; the default), **X = 10 for all bows**, or **X = 11 for compound**.
-
-## Statistics
-
-The **Stats** tab (in game mode, the **hearth**) shows what matters in training and competition, for a period (4 weeks to all) and a bow:
-
-<div class="shots" markdown>
-<figure markdown>
-![Statistics: period and bow filters, average per arrow, arrows shot, sessions, ends, X, shares of 10 and X, gold and misses, and the average per arrow by session.](images/screenshots/stats.png){ .shot }
-<figcaption>Level, volume and trend</figcaption>
-</figure>
-<figure markdown>
-![Where your arrows group: every arrow on one target, the group centre and the spread.](images/screenshots/stats-group.png){ .shot }
-<figcaption>Where your arrows group</figcaption>
-</figure>
-</div>
-
-- **Average per arrow** and its trend by session, **arrows shot** and **arrows per week** (training volume over 12 weeks).
-- Shares of **10 and X**, **gold** (9 to X) and **misses**, and how many arrows land in each ring.
-- **Consistency:** your best end, the end-to-end spread (lower is steadier), and the second half of your sessions against the first (fatigue).
-- **Where your arrows group:** every arrow the AI placed, on one target, with the group centre (high, low, left or right: handy for sight marks) and the spread.
-- **Rounds:** for each round you shoot, your best, average and last score.
-
-## Bows
-
-<div class="shots" markdown>
-<figure markdown>
-![Bows list: two recurve and two compound bows, each marked with a small drawing of its type, with draw weight, draw length and defaults.](images/screenshots/bows.png){ .shot }
-<figcaption>Your bows</figcaption>
-</figure>
-<figure markdown>
-![Edit bow: compound, PSE Drive NXT from the catalog with its specs, 62 lb, 30.5 inch draw length, arrow description.](images/screenshots/bow-edit.png){ .shot }
-<figcaption>Starting from the catalog</figcaption>
-</figure>
-</div>
-
-The **Bows** tab (*Arcs*) lists your bows.
-
-- **Add a bow:** name and bow type. Each type has a small drawing (barebow; recurve with sight and stabilizer; compound with cams) that marks the bow in lists, and the game's bow rack shows the same shapes. For a compound, you can start from a brand and model in the built-in catalog (PSE, Hoyt, Mathews, Bowtech). It fills in the name, shows the model's specs, and warns you if your draw length is outside the model's range.
-- **Draw weight** (lb) and **draw length** (inches). Both accept a comma or a dot.
-- **Arrow description**, for example "black shafts, orange fletching". It's sent with the photo so the AI ignores other archers' arrows on the same boss.
-- **Defaults:** target face, paper faces, distance and arrows per end, used to fill in new sessions.
-
-Changing a bow later doesn't change past sessions. **Remove this bow** asks first; past sessions shot with it are kept.
-
-**Nothing is removed without asking.** Removing a bow, a key or an arrow, deleting an end, discarding a session, freeing up space and restoring an export all ask for confirmation first, in normal and game mode. **Keep** (*Garder*) cancels.
-
-## Game mode
-
-**Settings → Appearance and game → Game (preview)** turns Ullr into a small pixel-art game: your archer walks to the bow rack, the trophy wall, the desk or the shooting line to open your bows, history, settings or a session. **Places** (☰) opens any place without walking, and **Shoot now** goes straight to the camera. At the **mirror**, dress your archer and choose a companion. Sound plays at the media volume; the speaker button turns it off. Full details: [Game mode](game.md).
-
-![The hall in game mode.](images/screenshots/game-hall.png){ .shot width="220" }
-
-## Storage and backup
-
-**Settings → Storage and backup** shows the space your photos and records use, and lets you:
-
-<div class="shots" markdown>
-<figure markdown>
-![Storage and backup: space used; export as everything, records only or photos only; restore from an export.](images/screenshots/storage.png){ .shot }
-<figcaption>Export and restore</figcaption>
-</figure>
-</div>
-
-- **Export** everything, records only, or photos only, as one ZIP file saved where you choose: Downloads, Google Drive, a memory card. Your look, mode and scoring choices come along; API keys never do. Keep the file somewhere private.
-- **Restore** an export on the same phone or a new one. Ullr shows what the file holds and changes nothing until you confirm. Enter your API key again on a new phone.
-- **Free up space** by deleting the full-size photos of sessions older than 3 months, 6 months or a year. Thumbnails, scores and arrows stay.
+Removing a bow, a key or an arrow, deleting an end, discarding a session, changing a service's address (which removes its key), freeing up space and restoring an export all ask for confirmation first, in normal and game mode. **Keep** (*Garder*) cancels.
 
 ## Tips for good photos
 
 - Stand straight in front of the target, not at an angle.
 - Get the whole face, or all the paper faces, in the frame, with a little space around them.
 - Avoid strong shadows and glare, and keep the phone steady.
-- On a busy boss, a precise arrow description helps (fletching and nock colours).
+- On a busy boss, a precise arrow description on your bow helps (fletching and nock colours).
 - Two 3-spot faces in one photo make each spot small. If line-cutters are often wrong, get closer.
 
 ## Questions
 
 **The end says "not scored".** Open it to see why:
 
-- *No API key:* add the chosen service's key in Settings.
+- *No API key:* add the chosen service's key in **Settings → Scoring method**.
+- *Not set up:* an OpenAI-compatible service needs its address and model too.
 - *Key refused:* the key was deleted or mistyped. Check it in Settings.
 - *Service unavailable:* the app retried three times. Tap **Retry** (*Réessayer*) later.
 - *No credit left:* add credit with that service, or raise its limit, then retry.
-- *Bad answer:* retry, or score by hand.
+- *Bad answer:* retry, share with your AI app instead, or score by hand.
 
-**No signal at the range.** Keep shooting. Photos are saved and scored when the phone is back online. You can also score by hand straight away.
+**No signal at the range.** Keep shooting. Photos are saved and scored when the phone is back online. With manual scoring, nothing needs the network at all.
 
 **Another archer's arrow was counted.** Remove it, and add or improve the arrow description on your bow.
 
-**The AI missed an arrow** (a Robin Hood, for example). Tap **Add an arrow**, then tap where it is.
+**The AI missed an arrow** (a Robin Hood, for example). Turn on **Or tap the photo where it is** (*Ou touchez la photo à son emplacement*), tap where the arrow is, then pick its ring.
 
-**The app was closed during a session.** Nothing is lost. The session shows on the Dashboard with **Resume**, and ends waiting to be scored are queued again.
+**The app was closed during a session.** Nothing is lost. The session shows on the Dashboard with **Resume** (*Reprendre*), and ends waiting to be scored are queued again.
 
-**How much space do photos take?** About 0.6–1.2 MB per end. **Settings → Storage and backup** shows the total.
+**How much space do photos take?** About 0.6–1.2 MB per end. **Settings → Storage and backup** shows the total. See [Storage and backup](backup.md).

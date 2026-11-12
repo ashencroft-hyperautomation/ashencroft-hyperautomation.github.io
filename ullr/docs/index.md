@@ -11,108 +11,125 @@ hide:
 
 # Ullr
 
-**Your archery scoresheet, kept for you.** After each end, take a photo of the target. An AI finds your arrows and scores them, and circles the ones it isn't sure about. You check those before you pull your arrows, and every session is saved on your phone with its photos.
+**Your archery scoresheet, kept for you.** After each end, take a photo of the target. An AI finds your arrows and scores them, and circles the ones it isn't sure about. Or skip the AI and tap your arrows on the photo yourself. Every session is saved on your phone with its photos.
 
 *Named after Ullr, the Norse god of archery.*
 
+## Two ways to use it
+
+Same records, same scoring: pick the one you like, and switch at any time in **Settings → Appearance and game**.
+
 <div class="grid cards" markdown>
 
--   :material-camera-outline: **Photo, then score**
+-   :material-view-dashboard-outline: **Normal mode**
 
     ---
 
-    One photo per end. Each arrow gets its ring, X to M, on every World Archery face, including two 3-spot faces at once.
+    ![The dashboard: sessions, average per arrow, best total, X count and recent sessions.](images/screenshots/dashboard.png){ .shot width="200" }
 
--   :material-target: **Uncertain arrows circled**
+    A clear app with tabs: Dashboard, History, Bows, Stats and Settings. Quick at the range.
 
-    ---
+    [Normal mode](normal.md)
 
-    Arrows close to a line are circled in amber. Tap one, pick the right ring, confirm. The line rule applies: touching the 9 line is a 9.
-
--   :material-chart-bar: **Your history**
+-   :material-gamepad-variant-outline: **Game mode**
 
     ---
 
-    Dashboard, every past session, a scoresheet and a score-by-end chart, and **statistics**: trend, volume, rings, consistency and where your arrows group. Each end keeps its photo.
+    ![The hall in pixel art, with the fire, the bow rack, the trophy wall, the mirror and the desk.](images/screenshots/game-hall.png){ .shot width="200" }
 
--   :material-gamepad-variant-outline: **Or play it like a game**
+    Who wants to find their way through text menus? Walk your archer around a Norse hall and a range: the bow rack opens your bows, the shooting line starts a session. Pixel art, music, a companion.
 
-    ---
-
-    An optional game mode: walk your archer around a Norse hall and a range, dress them at the mirror, pick a companion. Pixel art, music and sounds. [Game mode](game.md)
-
--   :material-shield-lock-outline: **Your phone, your data**
-
-    ---
-
-    Records stay on the phone. Only the photo of the target is sent, and only to be scored. No account, no ads, no tracking.
+    [Game mode](game.md)
 
 </div>
 
-## See it
+## Three ways to score
 
-<div class="shots" markdown>
-<figure markdown>
-![Review of an end: markers on six arrows on two triple faces, two of them circled in amber.](images/screenshots/review-check.png){ .shot }
-<figcaption>Two arrows to check, circled in amber</figcaption>
-</figure>
-<figure markdown>
-![A flagged arrow selected: the AI's two candidate rings, 9 and 10, highlighted with its confidence.](images/screenshots/review-select.png){ .shot }
-<figcaption>One tap to pick the right ring</figcaption>
-</figure>
-<figure markdown>
-![Session summary with total 1084, a bar chart of end totals and the scoresheet.](images/screenshots/session.png){ .shot }
-<figcaption>Session summary and scoresheet</figcaption>
-</figure>
-<figure markdown>
-![Dashboard with sessions, average per arrow, best total, X count and recent sessions.](images/screenshots/dashboard.png){ .shot }
-<figcaption>Dashboard</figcaption>
-</figure>
-<figure markdown>
-![History: sessions grouped by month, with a filter by bow.](images/screenshots/history.png){ .shot }
-<figcaption>Every past session</figcaption>
-</figure>
-<figure markdown>
-![Settings: scoring method and the choice of AI service.](images/screenshots/settings.png){ .shot }
-<figcaption>Your choice of AI</figcaption>
-</figure>
+<div class="grid cards" markdown>
+
+-   :material-key-outline: **Your own API key**
+
+    ---
+
+    Automatic. Each photo is scored in the background by the AI service you choose, with your own key: a major service, or any OpenAI-compatible service at the address you give.
+
+    [Your own API key](scoring-api.md)
+
+-   :material-share-variant-outline: **Share with your AI app**
+
+    ---
+
+    No key. Share the photo and a ready-made prompt with the AI app already on your phone, then paste its answer back.
+
+    [Share with your AI app](scoring-share.md)
+
+-   :material-gesture-tap: **Manual**
+
+    ---
+
+    No AI, nothing sent. Tap each arrow on the photo and pick its ring, or skip the photo and tap the scores.
+
+    [Manual scoring](scoring-manual.md)
+
 </div>
 
-[All screenshots](screenshots.md){ .md-button } [How it works](how-it-works.md){ .md-button }
+[Compare the three](scoring.md){ .md-button }
 
-## Play it like a game
+## Features
 
-Turn on **game mode** in Settings and Ullr becomes a small pixel-art game: tap the bow rack, the trophy wall or the shooting line and your archer walks there to open your bows, your history or a session. Same records, same scoring.
+<div class="grid cards" markdown>
 
-<div class="shots" markdown>
-<figure markdown>
-![Game mode: the hall in pixel art, with the fire, the bow rack, the trophy wall, the mirror and the desk; the archer walks to the bow rack.](images/screenshots/game-hall.png){ .shot }
-<figcaption>The hall</figcaption>
-</figure>
-<figure markdown>
-![Game mode: the range, with three targets, the shooting line and a fox following the archer.](images/screenshots/game-range.png){ .shot }
-<figcaption>The range, with a companion</figcaption>
-</figure>
-<figure markdown>
-![Game mode: dressing the archer at the mirror.](images/screenshots/game-mirror.png){ .shot }
-<figcaption>Dress your archer</figcaption>
-</figure>
+-   :material-camera-outline: **[Sessions](sessions.md)**
+
+    ---
+
+    Place, discipline, bow, distance, face and arrows per end. One photo per end, even with no signal.
+
+-   :material-target: **[Checking arrows](review.md)**
+
+    ---
+
+    Uncertain arrows circled in amber. Tap one, pick the right ring. The line rule applies.
+
+-   :material-scale-balance: **[Scoring rules](rules.md)**
+
+    ---
+
+    X = 10, inner 10 only or X = 11, per session. Change it later and every total is recalculated.
+
+-   :material-bow-arrow: **[Bows](bows.md)**
+
+    ---
+
+    All your bows, drawn as their type, with a catalog of current compound bows.
+
+-   :material-chart-bar: **[History and statistics](stats.md)**
+
+    ---
+
+    Every session with its photos, a score-by-end chart, trends, consistency and where your arrows group.
+
+-   :material-archive-outline: **[Storage and backup](backup.md)**
+
+    ---
+
+    Export to one file, restore on a new phone, free up space from old photos.
+
+-   :material-palette-outline: **[Look and language](look.md)**
+
+    ---
+
+    Three themes, including one for bright sunlight. English and French.
+
+-   :material-shield-lock-outline: **[Privacy](privacy.md)**
+
+    ---
+
+    Records stay on the phone. No account, no ads, no tracking. Nothing is removed without asking.
+
 </div>
 
-[Game mode](game.md){ .md-button }
-
-## What it does
-
-| | |
-|---|---|
-| **Any session** | Place, date, discipline (target, field, 3D or para archery), bow type (barebow, recurve or compound) and bow, distance, target face, number of paper faces, any number of arrows per end. |
-| **Your scoring rule** | X = 10, inner 10 only (World Archery compound) or X = 11, chosen per session, with a default in Settings. Change it later and every total is recalculated. |
-| **The AI service of your choice** | Anthropic (Claude), Google (Gemini) or OpenAI, with your own API key. All three get the same instructions. |
-| **Works at the range** | No signal? Photos are saved and scored when the phone is back online. You can always score an end by hand. |
-| **Bows** | Several bows, with a catalog of current compound bows (PSE, Hoyt, Mathews, Bowtech), draw weight and draw length. |
-| **English and French** | The whole app follows your phone's language. |
-| **Your look** | Three themes (Original, Range day for sunlight, Night range for indoors), or the game look. |
-| **Game mode** | Optional: the app as a pixel-art game, with your own archer, a companion, music and sounds. [More](game.md) |
+[All screenshots](screenshots.md){ .md-button } [How it works](how-it-works.md){ .md-button } [Getting started](guide.md){ .md-button .md-button--primary }
 
 ## Status
 

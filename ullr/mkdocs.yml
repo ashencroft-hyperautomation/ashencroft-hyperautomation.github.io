@@ -1,6 +1,6 @@
 # Public website for end users (English and French). Built by tools/site.py; no security or developer pages here.
 site_name: Ullr
-site_description: Archery records with AI scoring, for Android. Photograph the target, check the arrows the AI is unsure about, keep your history on your phone.
+site_description: Archery records with AI or manual scoring, for Android. Photograph the target, check the arrows the AI is unsure about or place them yourself, keep your history on your phone.
 site_url: https://ashencroft-hyperautomation.github.io/ullr/
 copyright: Ullr — a personal archery project
 
@@ -51,10 +51,26 @@ plugins:
           site_description: Le carnet de tir à l'arc avec comptage par IA, pour Android. Photographiez la cible, vérifiez les flèches dont l'IA doute, gardez votre historique sur votre téléphone.
           nav_translations:
             Home: Accueil
-            User guide: Guide
+            Getting started: Pour commencer
+            Modes: Modes
+            Normal mode: Mode normal
+            Game mode: Mode jeu
+            Scoring: Comptage
+            Three ways to score: Trois façons de compter
+            Your own API key: Votre propre clé API
+            Share with your AI app: Partager avec votre application d'IA
+            Manual scoring: Comptage manuel
+            Features: Fonctions
+            Sessions: Séances
+            Checking arrows: Vérifier les flèches
+            Scoring rules: Règles de comptage
+            Bows: Arcs
+            History and statistics: Historique et statistiques
+            Storage and backup: Stockage et sauvegarde
+            Look and language: Apparence et langue
+            About: À propos
             Screenshots: Captures d'écran
             How it works: Fonctionnement
-            Game mode: Mode jeu
             Privacy: Confidentialité
             Security: Sécurité
             App icon: L'icône
@@ -75,11 +91,27 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - User guide: guide.md
-  - Screenshots: screenshots.md
-  - Game mode: game.md
-  - How it works: how-it-works.md
-  - Privacy: privacy.md
-  - Security: security.md
-  - App icon: icon.md
-  - Roadmap: roadmap.md
+  - Getting started: guide.md
+  - Modes:
+      - Normal mode: normal.md
+      - Game mode: game.md
+  - Scoring:
+      - Three ways to score: scoring.md
+      - Your own API key: scoring-api.md
+      - Share with your AI app: scoring-share.md
+      - Manual scoring: scoring-manual.md
+  - Features:
+      - Sessions: sessions.md
+      - Checking arrows: review.md
+      - Scoring rules: rules.md
+      - Bows: bows.md
+      - History and statistics: stats.md
+      - Storage and backup: backup.md
+      - Look and language: look.md
+  - About:
+      - Screenshots: screenshots.md
+      - How it works: how-it-works.md
+      - Privacy: privacy.md
+      - Security: security.md
+      - App icon: icon.md
+      - Roadmap: roadmap.md

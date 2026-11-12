@@ -1,6 +1,6 @@
 # Confidentialité
 
-En bref : **votre historique reste sur votre téléphone.** Seule la photo de la cible en sort, et seulement pour être comptée, par le service d'IA que vous avez choisi.
+En bref : **votre historique reste sur votre téléphone.** Seule la photo de la cible en sort, et seulement pour être comptée, par le service d'IA que vous avez choisi. Avec le [comptage manuel](scoring-manual.md), rien n’en sort.
 
 ## Ce qu'Ullr garde, et où
 
@@ -11,7 +11,7 @@ C'est tout : vos arcs et vos lieux, vos séances, chaque volée avec sa photo, e
 - Les autres applications ne peuvent pas les lire, et les photos ne sont pas dans votre galerie.
 - Rien ne part automatiquement vers une sauvegarde en ligne ou un nouveau téléphone.
 - Pas de compte, pas de publicité, pas de statistiques d'utilisation, pas de pistage.
-- **Désinstaller l'application efface tout**, alors exportez d'abord : **Réglages → Stockage et sauvegarde** enregistre tout dans un fichier que vous gardez, et le restaure sur le même téléphone ou un nouveau. Les clés API ne sont jamais mises dans un export.
+- **Désinstaller l'application efface tout**, alors exportez d'abord : **Réglages → Stockage et sauvegarde** enregistre tout dans un fichier que vous gardez, et le restaure sur le même téléphone ou un nouveau. Les clés API et les adresses de service ne sont jamais mises dans un export.
 
 ## Ce qui est envoyé, et quand
 
@@ -29,6 +29,14 @@ Seulement quand une volée est comptée par un service d'IA, par une connexion c
 
 Les réglages affichent la même liste, sous **Ce qui est envoyé à …**, pour le service choisi.
 
+### Selon la méthode de comptage
+
+| Méthode | Ce qui sort du téléphone |
+|---------|--------------------------|
+| [Votre propre clé API](scoring-api.md) | La photo, les paramètres de la séance et votre clé, envoyés par Ullr à ce service seulement. Pour un service compatible OpenAI, à l’adresse que vous avez indiquée. |
+| [Partager avec votre application d’IA](scoring-share.md) | La même photo et le texte, partagés **par vous** avec l’application que vous choisissez. Aucune clé. Ils passent par votre propre compte dans cette application, selon ses conditions. |
+| [Manuel](scoring-manual.md) | Rien : ni photo, ni score, ni clé. |
+
 ## Ce que chaque service en fait
 
 | Service | Sert à entraîner une IA ? | Conservation |
@@ -37,6 +45,7 @@ Les réglages affichent la même liste, sous **Ce qui est envoyé à …**, pour
 | **OpenAI** | Non, sauf si vous l'acceptez sur votre compte | Ullr demande à OpenAI de ne pas garder la requête. Journaux de sécurité gardés jusqu'à 30 jours. |
 | **Google Gemini**, facturation activée | Non | Journalisé pendant une durée limitée pour détecter les abus |
 | **Google Gemini**, offre gratuite | **Oui** : peut servir à améliorer les produits de Google, et être lu par des personnes | Non précisé |
+| **Un service compatible OpenAI**, ou **votre application d’IA** | Selon ce service : consultez ses conditions | Selon ce service |
 
 !!! warning "Gemini : utilisez une clé avec la facturation activée"
     Avec l'offre gratuite de Google, vos photos de cible peuvent être utilisées par Google et vues par des examinateurs. Utilisez une clé d'un projet Google Cloud avec la facturation activée. Ullr ne peut pas le vérifier à votre place.
@@ -44,7 +53,7 @@ Les réglages affichent la même liste, sous **Ce qui est envoyé à …**, pour
 ## Votre clé API
 
 - Elle est chiffrée sur le téléphone, n'est plus jamais affichée, et n'est jamais mise dans un export.
-- Elle n'est envoyée qu'au service auquel elle appartient.
+- Elle n’est envoyée qu’au service auquel elle appartient, à l’adresse pour laquelle elle a été enregistrée. Changer l’adresse d’un service supprime sa clé, après confirmation.
 - **Supprimer la clé**, dans les réglages, l'efface.
 
 Créez une clé réservée à Ullr et fixez une limite de dépenses chez le service. Si vous perdez votre téléphone, supprimez la clé chez le service.
@@ -58,7 +67,7 @@ Le mode jeu n’envoie rien. L’apparence de votre archer, votre compagnon et v
 | Autorisation | Pourquoi |
 |--------------|----------|
 | Appareil photo | Pour photographier la cible, demandée la première fois |
-| Internet | Pour le comptage par un service d'IA |
+| Internet | Pour le comptage automatique par un service d’IA (inutile en comptage manuel) |
 
 Aucune autorisation de position, de contacts, de micro ou de stockage. L'import d'une photo passe par le sélecteur de photos d'Android, qui ne donne à Ullr que la photo que vous choisissez.
 

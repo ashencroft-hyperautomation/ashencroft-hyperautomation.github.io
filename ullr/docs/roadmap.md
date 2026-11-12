@@ -7,7 +7,9 @@ Ullr is a personal project, built in the open. Here's where it stands.
 - [x] Sessions with any bow, face, number of paper faces and arrows per end, including two 3-spot faces at once
 - [x] AI scoring from a photo, with uncertain arrows circled and a one-tap fix
 - [x] The line rule and your scoring rule (X = 10, inner 10, X = 11) explained to the AI with every photo
-- [x] The AI service of your choice (Anthropic, Google or OpenAI), with your own key
+- [x] The AI service of your choice (Anthropic, Google, OpenAI, or any OpenAI-compatible service at your own address), with your own key
+- [x] Scoring without a key: share the photo with the AI app on your phone and paste its answer
+- [x] Manual scoring, with no AI: tap each arrow on the photo and pick its ring, or tap the scores without a photo
 - [x] Works without signal: photos are saved and scored later, or scored by hand
 - [x] Dashboard, history, scoresheet and score-by-end chart
 - [x] Bows, with a catalog of current compound bows, draw weight and draw length
@@ -33,4 +35,4 @@ Ullr is a personal project, built in the open. Here's where it stands.
 
 ## Ideas
 
-- [ ] Scoring without your own API key, for archers who don't want one
+- [ ] Manual scoring: mark the target's centre and edge once, so hand-placed arrows show in **Where your arrows group**

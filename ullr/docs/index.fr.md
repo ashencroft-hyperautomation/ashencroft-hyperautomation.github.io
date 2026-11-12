@@ -1,119 +1,136 @@
 ---
-title: Ullr — le carnet de tir à l'arc avec comptage par IA
+title: Ullr — le carnet de tir à l’arc avec comptage par IA
 hide:
   - navigation
   - toc
 ---
 
 <div class="hero" markdown>
-![Ullr, carnet de tir à l'arc avec comptage par IA : l'icône de la cible sculptée, le nom, et deux écrans de téléphone montrant le tableau de bord et une volée avec deux flèches à vérifier.](images/banner.fr.png)
+![Ullr, carnet de tir à l’arc avec comptage par IA : l’icône de la cible sculptée, le nom, et deux écrans de téléphone montrant le tableau de bord et une volée avec deux flèches à vérifier.](images/banner.fr.png)
 </div>
 
 # Ullr
 
-**Votre feuille de marque, tenue pour vous.** Après chaque volée, photographiez la cible. Une IA trouve vos flèches et les compte, et entoure celles dont elle doute. Vous les vérifiez avant de retirer vos flèches, et chaque séance est enregistrée sur votre téléphone avec ses photos.
+**Votre feuille de marque, tenue pour vous.** Après chaque volée, photographiez la cible. Une IA trouve vos flèches, les compte et entoure celles dont elle doute. Ou passez-vous de l’IA et touchez vous-même vos flèches sur la photo. Chaque séance est enregistrée sur votre téléphone avec ses photos.
 
-*Du nom d'Ullr, le dieu nordique du tir à l'arc.*
+*Du nom d’Ullr, le dieu nordique du tir à l’arc.*
+
+## Deux façons de l’utiliser
+
+Les mêmes données, le même comptage : choisissez celle qui vous plaît, et changez à tout moment dans **Réglages → Apparence et jeu**.
 
 <div class="grid cards" markdown>
 
--   :material-camera-outline: **Une photo, un score**
+-   :material-view-dashboard-outline: **Mode normal**
 
     ---
 
-    Une photo par volée. Chaque flèche reçoit sa zone, du X au M, sur tous les blasons World Archery, y compris deux trispots à la fois.
+    ![Le tableau de bord : séances, moyenne par flèche, meilleur total, nombre de X et séances récentes.](images/screenshots/fr/dashboard.png){ .shot width="200" }
 
--   :material-target: **Les flèches incertaines entourées**
+    Une application claire, avec des onglets : Accueil, Historique, Arcs, Stats et Réglages. Rapide au pas de tir.
 
-    ---
+    [Mode normal](normal.md)
 
-    Les flèches proches d'une ligne sont entourées en orange. Touchez-en une, choisissez la bonne zone, validez. La règle de la ligne s'applique : une flèche qui touche la ligne du 9 vaut 9.
-
--   :material-chart-bar: **Votre historique**
+-   :material-gamepad-variant-outline: **Mode jeu**
 
     ---
 
-    Tableau de bord, toutes vos séances, feuille de marque, graphique des volées, et des **statistiques** : tendance, volume, zones, régularité et groupement de vos flèches. Chaque volée garde sa photo.
+    ![La maison en pixel art, avec le feu, le râtelier, le mur des trophées, le miroir et le bureau.](images/screenshots/fr/game-hall.png){ .shot width="200" }
 
--   :material-gamepad-variant-outline: **Ou jouez-le comme un jeu**
+    Pourquoi chercher son chemin dans des menus de texte ? Promenez votre archer dans une maison nordique et sur un pas de tir : le râtelier ouvre vos arcs, la ligne de tir commence une séance. Pixel art, musique, un compagnon.
 
-    ---
-
-    Un mode jeu, au choix : promenez votre archer dans une maison nordique et sur un pas de tir, habillez-le au miroir, choisissez un compagnon. Pixel art, musique et sons. [Mode jeu](game.md)
-
--   :material-shield-lock-outline: **Votre téléphone, vos données**
-
-    ---
-
-    L'historique reste sur le téléphone. Seule la photo de la cible est envoyée, et seulement pour être comptée. Pas de compte, pas de publicité, pas de pistage.
+    [Mode jeu](game.md)
 
 </div>
 
-## En images
+## Trois façons de compter
 
-<div class="shots" markdown>
-<figure markdown>
-![Vérification d'une volée : des repères sur six flèches sur deux trispots, deux d'entre elles entourées en orange.](images/screenshots/fr/review-check.png){ .shot }
-<figcaption>Deux flèches à vérifier, entourées en orange</figcaption>
-</figure>
-<figure markdown>
-![Une flèche signalée sélectionnée : les deux zones possibles selon l'IA, 9 et 10, mises en évidence avec sa confiance.](images/screenshots/fr/review-select.png){ .shot }
-<figcaption>Une touche pour choisir la bonne zone</figcaption>
-</figure>
-<figure markdown>
-![Résumé de séance avec un total de 1084, un graphique des volées et la feuille de marque.](images/screenshots/fr/session.png){ .shot }
-<figcaption>Résumé de la séance et feuille de marque</figcaption>
-</figure>
-<figure markdown>
-![Tableau de bord avec les séances, la moyenne par flèche, le meilleur total, le nombre de X et les séances récentes.](images/screenshots/fr/dashboard.png){ .shot }
-<figcaption>Tableau de bord</figcaption>
-</figure>
-<figure markdown>
-![Historique : les séances par mois, avec un filtre par arc.](images/screenshots/fr/history.png){ .shot }
-<figcaption>Toutes vos séances passées</figcaption>
-</figure>
-<figure markdown>
-![Réglages : la méthode de comptage et le choix du service d'IA.](images/screenshots/fr/settings.png){ .shot }
-<figcaption>Le choix de l'IA</figcaption>
-</figure>
+<div class="grid cards" markdown>
+
+-   :material-key-outline: **Votre propre clé API**
+
+    ---
+
+    Automatique. Chaque photo est comptée en arrière-plan par le service d’IA de votre choix, avec votre propre clé : un grand service, ou tout service compatible OpenAI à l’adresse que vous indiquez.
+
+    [Votre propre clé API](scoring-api.md)
+
+-   :material-share-variant-outline: **Partager avec votre application d’IA**
+
+    ---
+
+    Sans clé. Partagez la photo et un texte tout prêt avec l’application d’IA déjà installée sur votre téléphone, puis collez sa réponse dans Ullr.
+
+    [Partager avec votre application d’IA](scoring-share.md)
+
+-   :material-gesture-tap: **Manuel**
+
+    ---
+
+    Sans IA, rien n’est envoyé. Touchez chaque flèche sur la photo et choisissez sa zone, ou passez la photo et touchez les points.
+
+    [Comptage manuel](scoring-manual.md)
+
 </div>
 
-[Toutes les captures](screenshots.md){ .md-button } [Comment ça marche](how-it-works.md){ .md-button }
+[Comparer les trois](scoring.md){ .md-button }
 
-## Jouez-le comme un jeu
+## Fonctions
 
-Activez le **mode jeu** dans les réglages et Ullr devient un petit jeu en pixel art : touchez le râtelier, le mur des trophées ou la ligne de tir, et votre archer s’y rend pour ouvrir vos arcs, votre historique ou une séance. Le même carnet, le même comptage.
+<div class="grid cards" markdown>
 
-<div class="shots" markdown>
-<figure markdown>
-![Mode jeu : la maison en pixel art, avec le feu, le râtelier, le mur des trophées, le miroir et le bureau ; l’archer marche vers le râtelier.](images/screenshots/fr/game-hall.png){ .shot }
-<figcaption>La maison</figcaption>
-</figure>
-<figure markdown>
-![Mode jeu : le pas de tir, avec trois cibles, la ligne de tir et un renard qui suit l’archer.](images/screenshots/fr/game-range.png){ .shot }
-<figcaption>Le pas de tir, avec un compagnon</figcaption>
-</figure>
-<figure markdown>
-![Mode jeu : habiller son archer au miroir.](images/screenshots/fr/game-mirror.png){ .shot }
-<figcaption>Habillez votre archer</figcaption>
-</figure>
+-   :material-camera-outline: **[Séances](sessions.md)**
+
+    ---
+
+    Lieu, discipline, arc, distance, blason et flèches par volée. Une photo par volée, même sans réseau.
+
+-   :material-target: **[Vérifier les flèches](review.md)**
+
+    ---
+
+    Les flèches incertaines sont entourées en orange. Touchez-en une, choisissez la bonne zone. La règle de la ligne s’applique.
+
+-   :material-scale-balance: **[Règles de comptage](rules.md)**
+
+    ---
+
+    X = 10, 10 intérieur seulement ou X = 11, pour chaque séance. Changez-la plus tard : tous les totaux sont recalculés.
+
+-   :material-bow-arrow: **[Arcs](bows.md)**
+
+    ---
+
+    Tous vos arcs, dessinés selon leur type, avec un catalogue d’arcs à poulies actuels.
+
+-   :material-chart-bar: **[Historique et statistiques](stats.md)**
+
+    ---
+
+    Chaque séance avec ses photos, un graphique du score par volée, les tendances, la régularité et le groupement de vos flèches.
+
+-   :material-archive-outline: **[Stockage et sauvegarde](backup.md)**
+
+    ---
+
+    Exportez tout dans un seul fichier, restaurez-le sur un nouveau téléphone, libérez l’espace pris par les anciennes photos.
+
+-   :material-palette-outline: **[Apparence et langue](look.md)**
+
+    ---
+
+    Trois thèmes, dont un pour le plein soleil. Français et anglais.
+
+-   :material-shield-lock-outline: **[Confidentialité](privacy.md)**
+
+    ---
+
+    Votre historique reste sur le téléphone. Pas de compte, pas de publicité, pas de pistage. Rien n’est supprimé sans votre accord.
+
 </div>
 
-[Mode jeu](game.md){ .md-button }
-
-## Ce que fait Ullr
-
-| | |
-|---|---|
-| **Toutes vos séances** | Lieu, date, discipline (tir sur cible, en campagne, 3D ou para-tir à l’arc), type d'arc (arc nu, recourbé ou à poulies) et arc, distance, blason, nombre de blasons sur la butte, n'importe quel nombre de flèches par volée. |
-| **Votre règle de comptage** | X = 10, 10 intérieur seulement (arc à poulies World Archery) ou X = 11, choisie pour chaque séance, avec une valeur par défaut dans les réglages. Changez-la plus tard : tous les totaux sont recalculés. |
-| **Le service d'IA de votre choix** | Anthropic (Claude), Google (Gemini) ou OpenAI, avec votre propre clé API. Les trois reçoivent les mêmes consignes. |
-| **Pensé pour le pas de tir** | Pas de réseau ? Les photos sont enregistrées et comptées dès que le téléphone est de nouveau en ligne. Vous pouvez toujours saisir une volée à la main. |
-| **Vos arcs** | Plusieurs arcs, avec un catalogue d'arcs à poulies actuels (PSE, Hoyt, Mathews, Bowtech), puissance et allonge. |
-| **Français et anglais** | Toute l'application suit la langue de votre téléphone. |
-| **Votre style** | Trois thèmes (Original, Jour de tir pour le plein soleil, Tir de nuit pour l’intérieur), ou le style du jeu. |
-| **Mode jeu** | Au choix : l’application en jeu en pixel art, avec votre archer, un compagnon, de la musique et des sons. [En savoir plus](game.md) |
+[Toutes les captures](screenshots.md){ .md-button } [Comment ça marche](how-it-works.md){ .md-button } [Pour commencer](guide.md){ .md-button .md-button--primary }
 
 ## Où en est le projet
 
-Ullr est un projet personnel, en développement actif. Il fonctionne sur Android 8 et plus récent. **Il n'est pas encore sur Google Play.** La [feuille de route](roadmap.md) montre ce qui est fait et ce qui vient.
+Ullr est un projet personnel, en développement actif. Il fonctionne sur Android 8 et plus récent. **Il n’est pas encore sur Google Play.** La [feuille de route](roadmap.md) montre ce qui est fait et ce qui vient.

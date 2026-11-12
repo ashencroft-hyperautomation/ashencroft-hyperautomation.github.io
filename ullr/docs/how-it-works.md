@@ -66,27 +66,27 @@ Why several signals? An AI's confidence isn't always right. The dangerous case i
 
 You fix any circled arrow with one tap, add a missed arrow or remove another archer's, and confirm. Only then does the end count. Each end keeps its photo, so you can always check it again.
 
-## Choice of AI
+## Three ways to score
 
 <div class="shots" markdown>
 <figure markdown>
-![Settings: scoring method and the choice of AI service.](images/screenshots/settings.png){ .shot }
-<figcaption>Choosing the AI in Settings</figcaption>
+![The Scoring method page: your own API key, sharing with your AI app, or manual.](images/screenshots/settings.png){ .shot }
+<figcaption>Choosing the method in Settings</figcaption>
 </figure>
 </div>
 
-| Service | How |
-|---------|-----|
-| **Anthropic (Claude)** | Your own API key |
-| **Google (Gemini)** | Your own API key |
-| **OpenAI** | Your own API key |
-| **By hand** | Nothing: always possible, on any end |
+| Method | How |
+|--------|-----|
+| **[Your own API key](scoring-api.md)** | Automatic, in the background. Anthropic (Claude), Google (Gemini), OpenAI, or any OpenAI-compatible service at the address you give. |
+| **[Share with your AI app](scoring-share.md)** | No key: share the photo and prompt with the AI app on your phone, paste its answer. |
+| **[Manual](scoring-manual.md)** | No AI: tap each arrow on the photo and pick its ring. Nothing is sent. |
+| **By hand** | Always possible, on any end, whatever the method. |
 
-All three services receive exactly the same instructions. Pick the one you prefer, and change it any time.
+Every AI receives exactly the same instructions. Pick what you prefer, and change it any time. See [Three ways to score](scoring.md).
 
 ## At the range
 
-There's often no signal at a range. Ullr saves every photo first, and scoring waits for the network. It starts by itself when the phone is back online. If you need the score now, enter it by hand. Closing the app loses nothing.
+There's often no signal at a range. Ullr saves every photo first, and automatic scoring waits for the network. It starts by itself when the phone is back online. If you need the score now, enter it by hand, or use [manual scoring](scoring-manual.md), which never needs the network. Closing the app loses nothing.
 
 ## Reliability
 

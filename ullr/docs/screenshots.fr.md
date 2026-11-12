@@ -52,12 +52,33 @@ Prises avec **Ullr Demo**, une version de l'application remplie de six mois de s
 </figure>
 </div>
 
+## Comptage
+
+<div class="shots" markdown>
+<figure markdown>
+![La page Méthode de comptage : ce que fait chaque méthode, puis votre propre clé API, le partage avec votre application d’IA, ou le comptage manuel.](images/screenshots/fr/settings.png){ .shot }
+<figcaption><b>Trois façons de compter.</b> Votre propre clé, votre application d’IA, ou à la main.</figcaption>
+</figure>
+<figure markdown>
+![Un service compatible OpenAI configuré : son adresse, l’identifiant du modèle, et la section de la clé nommée d’après l’adresse du service.](images/screenshots/fr/scoring-custom.png){ .shot }
+<figcaption><b>Tout service compatible OpenAI.</b> Son adresse, son modèle et votre clé.</figcaption>
+</figure>
+<figure markdown>
+![Une volée en attente de réponse : la carte Compter avec votre application d’IA, avec Partager, Copier le texte, le champ de réponse et Utiliser cette réponse.](images/screenshots/fr/scoring-share.png){ .shot }
+<figcaption><b>Partager avec votre application d’IA.</b> Partagez, puis collez sa réponse.</figcaption>
+</figure>
+<figure markdown>
+![Comptage manuel : des flèches placées sur la photo d’une cible, et le choix de la zone juste sous la photo.](images/screenshots/fr/scoring-manual.png){ .shot }
+<figcaption><b>Manuel.</b> Touchez la flèche, choisissez sa zone.</figcaption>
+</figure>
+</div>
+
 ## Réglages
 
 <div class="shots" markdown>
 <figure markdown>
-![La page Comptage par IA des réglages : ce que fait le comptage, la méthode API et le choix du service.](images/screenshots/fr/settings.png){ .shot }
-<figcaption><b>Le choix de l'IA.</b> Le service de votre choix, avec votre propre clé.</figcaption>
+![Réglages : une entrée par page, chacune avec ce qui est choisi en ce moment.](images/screenshots/fr/settings-menu.png){ .shot }
+<figcaption><b>Réglages.</b> Une page par thème.</figcaption>
 </figure>
 <figure markdown>
 ![La section Confidentialité des réglages : l'option N'envoyer que la zone de la cible, et ce qui est envoyé et ce qui ne l'est jamais.](images/screenshots/fr/settings-privacy.png){ .shot }
@@ -106,7 +127,7 @@ Prises avec **Ullr Demo**, une version de l'application remplie de six mois de s
 <figcaption><b>Au style du jeu.</b> Titres et scores en pixels.</figcaption>
 </figure>
 <figure markdown>
-![Réglages au style du jeu : un menu Comptage par IA, Règles de comptage, Confidentialité, Apparence et jeu, Langue, et Stockage et sauvegarde.](images/screenshots/fr/game-settings.png){ .shot }
+![Réglages au style du jeu : un menu Méthode de comptage, Règles de comptage, Confidentialité, Apparence et jeu, Langue, et Stockage et sauvegarde.](images/screenshots/fr/game-settings.png){ .shot }
 <figcaption><b>Les réglages, regroupés par thème.</b></figcaption>
 </figure>
 </div>

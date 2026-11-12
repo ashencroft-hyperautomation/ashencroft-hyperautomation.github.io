@@ -7,7 +7,9 @@ Ullr est un projet personnel, construit au grand jour. Voici où il en est.
 - [x] Des séances avec n'importe quel arc, blason, nombre de blasons et de flèches par volée, y compris deux trispots à la fois
 - [x] Le comptage par IA à partir d'une photo, avec les flèches incertaines entourées et une correction d'une touche
 - [x] La règle de la ligne et votre règle de comptage (X = 10, 10 intérieur, X = 11) expliquées à l'IA avec chaque photo
-- [x] Le service d'IA de votre choix (Anthropic, Google ou OpenAI), avec votre propre clé
+- [x] Le service d'IA de votre choix (Anthropic, Google, OpenAI, ou tout service compatible OpenAI à votre propre adresse), avec votre propre clé
+- [x] Le comptage sans clé : partagez la photo avec l’application d’IA de votre téléphone et collez sa réponse
+- [x] Le comptage manuel, sans IA : touchez chaque flèche sur la photo et choisissez sa zone, ou touchez les points sans photo
 - [x] Fonctionne sans réseau : les photos sont enregistrées et comptées plus tard, ou saisies à la main
 - [x] Tableau de bord, historique, feuille de marque et graphique des volées
 - [x] Vos arcs, avec un catalogue d'arcs à poulies actuels, la puissance et l'allonge
@@ -33,4 +35,4 @@ Ullr est un projet personnel, construit au grand jour. Voici où il en est.
 
 ## Idées
 
-- [ ] Le comptage sans votre propre clé API, pour les archers qui n'en veulent pas
+- [ ] Comptage manuel : marquer une fois le centre et le bord de la cible, pour que les flèches placées à la main apparaissent dans **Où se groupent vos flèches**

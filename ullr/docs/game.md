@@ -121,7 +121,7 @@ In game mode, every screen wears the game's style: dark wood and gold, pixel let
 <figcaption>Your bows</figcaption>
 </figure>
 <figure markdown>
-![Settings in the game look: a menu of AI scoring, Scoring rules, Privacy, Appearance and game, Language, and Storage and backup.](images/screenshots/game-settings.png){ .shot }
+![Settings in the game look: a menu of Scoring method, Scoring rules, Privacy, Appearance and game, Language, and Storage and backup.](images/screenshots/game-settings.png){ .shot }
 <figcaption>Settings, grouped by topic</figcaption>
 </figure>
 </div>
