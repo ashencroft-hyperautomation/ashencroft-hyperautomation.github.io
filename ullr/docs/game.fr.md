@@ -67,11 +67,15 @@ Rendez-vous au **miroir** pour habiller votre archer. L’aperçu reste en haut 
 | Coiffe | Casque, toque de fourrure, couronne de fleurs, bandeau |
 | Accessoire | Mantelet de fourrure, écharpe, amulette marteau, lunettes |
 
-**Au hasard** choisit une apparence au hasard. Votre archer tient le type de votre premier arc : classique, olympique, à poulies ou arc long.
+**Au hasard** choisit une apparence au hasard. Votre archer tient le type de votre premier arc : arc nu, arc classique ou arc à poulies.
+
+**Archers légendaires.** En haut du miroir, quatre archers tout prêts règlent toute l’apparence et le compagnon en une touche : **Artémis**, déesse grecque de la chasse, avec son chien ; **Ullr**, dieu nordique du tir à l’arc et de l’hiver, en fourrures, avec un corbeau ; **Robin des Bois**, tout en vert, avec un renard ; et **Hou Yi**, l’archer chinois qui abattit neuf soleils. Changez ensuite ce que vous voulez.
+
+![Les quatre archers légendaires de face, de profil et de dos : Artémis et son chien, Ullr et un corbeau, Robin des Bois et un renard, et Hou Yi.](images/game-legends.png){ width="420" .pixel }
 
 ## Les compagnons
 
-Choisissez un compagnon au miroir : un **chien**, un **chat**, un **renard**, un **corbeau** ou une petite **étincelle**. Il suit le chemin parcouru par votre archer, environ un pas derrière, sans jamais traverser les meubles, et s’assoit à côté de vous quand vous vous arrêtez. Le chien, le chat et le renard trottinent et remuent la queue, le corbeau sautille, et l’étincelle flotte et scintille.
+Choisissez un compagnon au miroir : un **chien**, un **chat**, un **renard**, ou un **corbeau** (et un autre à découvrir). Il suit le chemin parcouru par votre archer, environ un pas derrière, sans jamais traverser les meubles, et s’assoit à côté de vous quand vous vous arrêtez. Le chien, le chat et le renard trottinent et remuent la queue, et le corbeau sautille.
 
 ![Les quatre compagnons animaux : un chien, un chat, un renard et un corbeau.](images/game-companions.png){ width="420" .pixel }
 

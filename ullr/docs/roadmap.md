@@ -14,6 +14,7 @@ Ullr is a personal project, built in the open. Here's where it stands.
 - [x] English and French
 - [x] Privacy by design: photos trimmed to the target, hidden data removed, nothing about you or your phone sent
 - [x] Ullr Demo, with six months of sample sessions to try every screen
+- [x] Bow types as World Archery's divisions (barebow, recurve, compound), and the discipline of each session (target, field, 3D or para archery)
 - [x] Three looks: Original, Range day (for sunlight) and Night range (for indoors), with scores in their ring colours
 - [x] Game mode (preview): the hall and the range in pixel art, walk to a place to open it, your own archer, companions, music and sounds, and every screen in the game look; your statistics by the hearth, and the end to check at the arrow stand
 

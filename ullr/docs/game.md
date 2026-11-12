@@ -67,11 +67,15 @@ Walk to the **mirror** to dress your archer. The preview stays at the top while 
 | Headwear | Helmet, fur hat, flower crown, headband |
 | Accessory | Fur mantle, scarf, hammer amulet, glasses |
 
-**Surprise me** (*Au hasard*) picks a random look. Your archer holds the type of your first bow: recurve, Olympic recurve, compound or longbow.
+**Surprise me** (*Au hasard*) picks a random look. Your archer holds the type of your first bow: barebow, recurve or compound.
+
+**Legendary archers.** At the top of the mirror, four ready-made archers set the whole look and companion in one tap: **Artemis**, Greek goddess of the hunt, with her hound; **Ullr**, Norse god of archery and winter, in furs, with a raven; **Robin Hood** in Lincoln green, with a fox; and **Hou Yi**, the Chinese archer who shot down nine suns. Change any piece after.
+
+![The four legendary archers from the front, side and back: Artemis with her hound, Ullr with a raven, Robin Hood with a fox, and Hou Yi.](images/game-legends.png){ width="420" .pixel }
 
 ## Companions
 
-Choose a companion at the mirror: a **dog**, a **cat**, a **fox**, a **raven**, or a little **spark**. It follows the path your archer walked, about a step behind, so it never cuts through the furniture, and sits beside you when you stop. The dog, cat and fox trot and wag their tails, the raven hops, and the spark floats and twinkles.
+Choose a companion at the mirror: a **dog**, a **cat**, a **fox**, or a **raven** (and one more to discover). It follows the path your archer walked, about a step behind, so it never cuts through the furniture, and sits beside you when you stop. The dog, cat and fox trot and wag their tails, and the raven hops.
 
 ![The four animal companions: a dog, a cat, a fox and a raven.](images/game-companions.png){ width="420" .pixel }
 

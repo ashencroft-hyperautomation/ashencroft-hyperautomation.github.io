@@ -85,7 +85,8 @@ The key is stored encrypted on the phone. It is never shown again, and **Remove 
 2. Fill in the session:
     - **Place** (*Lieu*): type a new one, or pick one you used before.
     - **Date**: now by default.
-    - **Bow type** and **bow**. The bow's defaults fill in the rest.
+    - **Discipline**: target archery (the default), field archery, 3D archery or para archery.
+    - **Bow type** (barebow, recurve bow or compound bow) and **bow**. The bow's defaults fill in the rest.
     - **Distance**, **target face**, **paper faces** (for 3-spot faces: how many are on the boss, for example 2 faces = 6 spots), and **arrows per end** (any number, often 3 or 6).
     - **Scoring rule**: set from Settings and the bow type. See [Scoring rules](#scoring-rules).
 

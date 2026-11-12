@@ -85,7 +85,8 @@ La clé est chiffrée sur le téléphone. Elle n'est plus jamais affichée, et *
 2. Remplissez la séance :
     - **Lieu** : tapez-en un nouveau, ou choisissez-en un déjà utilisé.
     - **Date** : maintenant, par défaut.
-    - **Type d'arc** et **arc**. Les valeurs par défaut de l'arc remplissent le reste.
+    - **Discipline** : tir sur cible (par défaut), tir en campagne, tir 3D ou para-tir à l’arc.
+    - **Type d'arc** (arc nu, arc classique ou arc à poulies) et **arc**. Les valeurs par défaut de l'arc remplissent le reste.
     - **Distance**, **blason**, **blasons sur la butte** (pour les trispots : combien il y en a sur la butte, par exemple 2 blasons = 6 spots) et **flèches par volée** (n'importe quel nombre, souvent 3 ou 6).
     - **Comptage** : la règle, proposée d'après les réglages et le type d'arc. Voir [Règles de comptage](#regles-de-comptage).
 

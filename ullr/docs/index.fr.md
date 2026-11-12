@@ -105,7 +105,7 @@ Activez le **mode jeu** dans les réglages et Ullr devient un petit jeu en pixel
 
 | | |
 |---|---|
-| **Toutes vos séances** | Lieu, date, type d'arc (traditionnel, classique, olympique, à poulies) et arc, distance, blason, nombre de blasons sur la butte, n'importe quel nombre de flèches par volée. |
+| **Toutes vos séances** | Lieu, date, discipline (tir sur cible, en campagne, 3D ou para-tir à l’arc), type d'arc (arc nu, classique ou à poulies) et arc, distance, blason, nombre de blasons sur la butte, n'importe quel nombre de flèches par volée. |
 | **Votre règle de comptage** | X = 10, 10 intérieur seulement (arc à poulies World Archery) ou X = 11, choisie pour chaque séance, avec une valeur par défaut dans les réglages. Changez-la plus tard : tous les totaux sont recalculés. |
 | **Le service d'IA de votre choix** | Anthropic (Claude), Google (Gemini) ou OpenAI, avec votre propre clé API. Les trois reçoivent les mêmes consignes. |
 | **Pensé pour le pas de tir** | Pas de réseau ? Les photos sont enregistrées et comptées dès que le téléphone est de nouveau en ligne. Vous pouvez toujours saisir une volée à la main. |

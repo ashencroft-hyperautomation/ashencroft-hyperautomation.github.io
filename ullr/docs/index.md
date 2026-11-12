@@ -105,7 +105,7 @@ Turn on **game mode** in Settings and Ullr becomes a small pixel-art game: tap t
 
 | | |
 |---|---|
-| **Any session** | Place, date, bow type (traditional, recurve, olympic, compound) and bow, distance, target face, number of paper faces, any number of arrows per end. |
+| **Any session** | Place, date, discipline (target, field, 3D or para archery), bow type (barebow, recurve or compound) and bow, distance, target face, number of paper faces, any number of arrows per end. |
 | **Your scoring rule** | X = 10, inner 10 only (World Archery compound) or X = 11, chosen per session, with a default in Settings. Change it later and every total is recalculated. |
 | **The AI service of your choice** | Anthropic (Claude), Google (Gemini) or OpenAI, with your own API key. All three get the same instructions. |
 | **Works at the range** | No signal? Photos are saved and scored when the phone is back online. You can always score an end by hand. |
