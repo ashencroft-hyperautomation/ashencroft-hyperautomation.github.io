@@ -23,7 +23,7 @@ The app follows your phone's language (English or French). On Android 13 and lat
 
 ## Choose how ends are scored
 
-**Settings → Scoring method** (*Méthode de comptage*):
+**Settings → AI scoring → Scoring method** (*Réglages → Comptage par IA → Méthode de comptage*):
 
 | Method | You need | How it works |
 |--------|----------|--------------|
@@ -32,9 +32,9 @@ The app follows your phone's language (English or French). On Android 13 and lat
 
 ### Choose the AI service
 
-![Settings: scoring method, then the choice of AI service, then the key for the chosen service.](images/screenshots/settings.png){ .shot width="240" }
+![The AI scoring page of Settings: what scoring does, the scoring method, then the choice of AI service.](images/screenshots/settings.png){ .shot width="240" }
 
-With the API method, **Settings → AI service** (*Service d’IA*) offers:
+With the API method, **Settings → AI scoring → AI service** (*Service d’IA*) offers:
 
 | Service | Models |
 |---------|--------|
@@ -50,12 +50,12 @@ Each service keeps its own key, so you can switch and come back without typing a
 - **OpenAI:** create a key at platform.openai.com → API keys. It starts with `sk-`.
 - **Google Gemini:** create a key in Google AI Studio (aistudio.google.com → Get API key), in a project with billing turned on. It starts with `AIza`.
 
-Then, in Ullr: **Settings → API key** for that service, paste the key, **Save key** (*Enregistrer la clé*), and **Check key** (*Vérifier la clé*). The app tells you whether the key works.
+Then, in Ullr: **Settings → AI scoring → API key** for that service, paste the key, **Save key** (*Enregistrer la clé*), and **Check key** (*Vérifier la clé*). The app tells you whether the key works.
 
 !!! tip "Protect your key"
     Create a key just for Ullr, and set a low monthly spending limit with the service. If the phone is lost, delete the key there, and nobody can spend more than the limit.
 
-The key is stored encrypted on the phone. It is never shown again, and **Remove key** (*Supprimer la clé*) deletes it.
+The key is stored encrypted on the phone. It is never shown again, and **Remove key** (*Supprimer la clé*) deletes it, after asking.
 
 **Cost:** you pay the service directly, one request per end. Rough estimates until they are measured on real photos:
 
@@ -120,7 +120,7 @@ Each arrow has a white marker with its ring. Pinch to zoom, drag to move, double
 - **Amber circle:** check this arrow. It's near a line, the AI wasn't confident, or two arrows are in the same spot of a 3-spot face.
 - **Tap an arrow** to select it, then tap the right ring. The AI's second choice is highlighted.
 - **Add an arrow** (*Ajouter une flèche*): tap the button, then tap where the arrow is on the photo.
-- **Remove this arrow** (*Retirer cette flèche*): for another archer's arrow, or one counted twice.
+- **Remove this arrow** (*Retirer cette flèche*): for another archer's arrow, or one counted twice. The app asks first.
 - A banner warns you when the number of arrows found isn't the number shot, or when the photo has problems (glare, blur, face cut off).
 
 Then tap **Confirm · shoot next end** (*Valider · volée suivante*) to go straight back to the camera, or **Confirm and back to session**.
@@ -159,7 +159,7 @@ Then tap **Confirm · shoot next end** (*Valider · volée suivante*) to go stra
 
 **Line rule (all rules):** an arrow that touches the line between two zones scores the higher zone. An arrow in the 8 that touches the 8/9 line is a 9.
 
-**Settings → Default scoring rule** sets the rule new sessions start with: **World Archery** (inner 10 for compound, X = 10 for other bows; the default), **X = 10 for all bows**, or **X = 11 for compound**.
+**Settings → Scoring rules** (*Règles de comptage*) sets the rule new sessions start with: **World Archery** (inner 10 for compound, X = 10 for other bows; the default), **X = 10 for all bows**, or **X = 11 for compound**.
 
 ## Statistics
 
@@ -186,7 +186,7 @@ The **Stats** tab (in game mode, the **hearth**) shows what matters in training 
 
 <div class="shots" markdown>
 <figure markdown>
-![Bows list: a recurve and two compound bows with draw weight, draw length and defaults.](images/screenshots/bows.png){ .shot }
+![Bows list: two recurve and two compound bows, each marked with a small drawing of its type, with draw weight, draw length and defaults.](images/screenshots/bows.png){ .shot }
 <figcaption>Your bows</figcaption>
 </figure>
 <figure markdown>
@@ -197,16 +197,18 @@ The **Stats** tab (in game mode, the **hearth**) shows what matters in training 
 
 The **Bows** tab (*Arcs*) lists your bows.
 
-- **Add a bow:** name and bow type. For a compound, you can start from a brand and model in the built-in catalog (PSE, Hoyt, Mathews, Bowtech). It fills in the name, shows the model's specs, and warns you if your draw length is outside the model's range.
+- **Add a bow:** name and bow type. Each type has a small drawing (barebow; recurve with sight and stabilizer; compound with cams) that marks the bow in lists, and the game's bow rack shows the same shapes. For a compound, you can start from a brand and model in the built-in catalog (PSE, Hoyt, Mathews, Bowtech). It fills in the name, shows the model's specs, and warns you if your draw length is outside the model's range.
 - **Draw weight** (lb) and **draw length** (inches). Both accept a comma or a dot.
 - **Arrow description**, for example "black shafts, orange fletching". It's sent with the photo so the AI ignores other archers' arrows on the same boss.
 - **Defaults:** target face, paper faces, distance and arrows per end, used to fill in new sessions.
 
-Changing a bow later doesn't change past sessions.
+Changing a bow later doesn't change past sessions. **Remove this bow** asks first; past sessions shot with it are kept.
+
+**Nothing is removed without asking.** Removing a bow, a key or an arrow, deleting an end, discarding a session, freeing up space and restoring an export all ask for confirmation first, in normal and game mode. **Keep** (*Garder*) cancels.
 
 ## Game mode
 
-**Settings → Mode → Game (preview)** turns Ullr into a small pixel-art game: your archer walks to the bow rack, the trophy wall, the desk or the shooting line to open your bows, history, settings or a session. **Places** (☰) opens any place without walking, and **Shoot now** goes straight to the camera. At the **mirror**, dress your archer and choose a companion. Sound plays at the media volume; the speaker button turns it off. Full details: [Game mode](game.md).
+**Settings → Appearance and game → Game (preview)** turns Ullr into a small pixel-art game: your archer walks to the bow rack, the trophy wall, the desk or the shooting line to open your bows, history, settings or a session. **Places** (☰) opens any place without walking, and **Shoot now** goes straight to the camera. At the **mirror**, dress your archer and choose a companion. Sound plays at the media volume; the speaker button turns it off. Full details: [Game mode](game.md).
 
 ![The hall in game mode.](images/screenshots/game-hall.png){ .shot width="220" }
 
@@ -251,4 +253,4 @@ Changing a bow later doesn't change past sessions.
 
 **The app was closed during a session.** Nothing is lost. The session shows on the Dashboard with **Resume**, and ends waiting to be scored are queued again.
 
-**How much space do photos take?** About 0.6–1.2 MB per end. **Settings → Storage** shows the total.
+**How much space do photos take?** About 0.6–1.2 MB per end. **Settings → Storage and backup** shows the total.

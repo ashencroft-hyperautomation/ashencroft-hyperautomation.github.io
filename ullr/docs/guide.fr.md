@@ -23,7 +23,7 @@ L'application suit la langue de votre téléphone (français ou anglais). Sur An
 
 ## Choisir la méthode de comptage
 
-**Réglages → Méthode de comptage** :
+**Réglages → Comptage par IA → Méthode de comptage** :
 
 | Méthode | Il vous faut | Fonctionnement |
 |---------|--------------|----------------|
@@ -32,9 +32,9 @@ L'application suit la langue de votre téléphone (français ou anglais). Sur An
 
 ### Choisir le service d'IA
 
-![Réglages : la méthode de comptage, puis le choix du service d'IA, puis la clé du service choisi.](images/screenshots/fr/settings.png){ .shot width="240" }
+![La page Comptage par IA des réglages : ce que fait le comptage, la méthode, puis le choix du service d'IA.](images/screenshots/fr/settings.png){ .shot width="240" }
 
-Avec la méthode API, **Réglages → Service d’IA** propose :
+Avec la méthode API, **Réglages → Comptage par IA → Service d’IA** propose :
 
 | Service | Modèles |
 |---------|---------|
@@ -50,12 +50,12 @@ Chaque service garde sa propre clé : vous pouvez changer de service et revenir 
 - **OpenAI :** créez une clé sur platform.openai.com → API keys. Elle commence par `sk-`.
 - **Google Gemini :** créez une clé dans Google AI Studio (aistudio.google.com → Get API key), dans un projet avec la facturation activée. Elle commence par `AIza`.
 
-Puis, dans Ullr : **Réglages → Clé API** du service, collez la clé, **Enregistrer la clé**, puis **Vérifier la clé**. L'application vous dit si la clé fonctionne.
+Puis, dans Ullr : **Réglages → Comptage par IA → Clé API** du service, collez la clé, **Enregistrer la clé**, puis **Vérifier la clé**. L'application vous dit si la clé fonctionne.
 
 !!! tip "Protégez votre clé"
     Créez une clé réservée à Ullr et fixez une limite de dépenses mensuelle auprès du service. Si vous perdez le téléphone, supprimez la clé chez le service : personne ne pourra dépenser plus que la limite.
 
-La clé est chiffrée sur le téléphone. Elle n'est plus jamais affichée, et **Supprimer la clé** l'efface.
+La clé est chiffrée sur le téléphone. Elle n'est plus jamais affichée, et **Supprimer la clé** l'efface, après confirmation.
 
 **Coût :** vous payez le service directement, une requête par volée. Estimations, en attendant de les mesurer sur de vraies photos :
 
@@ -120,7 +120,7 @@ Chaque flèche porte un repère blanc avec sa zone. Écartez deux doigts pour zo
 - **Cercle orange :** vérifiez cette flèche. Elle est près d'une ligne, l'IA n'était pas sûre, ou deux flèches sont dans le même spot d'un trispot.
 - **Touchez une flèche** pour la sélectionner, puis touchez la bonne zone. Le deuxième choix de l'IA est mis en évidence.
 - **Ajouter une flèche** : touchez le bouton, puis l'endroit de la flèche sur la photo.
-- **Retirer cette flèche** : pour la flèche d'un autre archer, ou une flèche comptée deux fois.
+- **Retirer cette flèche** : pour la flèche d'un autre archer, ou une flèche comptée deux fois. L'application demande d'abord confirmation.
 - Un bandeau vous prévient quand le nombre de flèches trouvées n'est pas le nombre tiré, ou quand la photo pose problème (reflet, flou, blason coupé).
 
 Touchez ensuite **Valider · volée suivante** pour revenir directement à l'appareil photo, ou **Valider et revenir à la séance**.
@@ -159,7 +159,7 @@ Touchez ensuite **Valider · volée suivante** pour revenir directement à l'app
 
 **Règle de la ligne (toutes les règles) :** une flèche qui touche la ligne entre deux zones prend la zone la plus haute. Une flèche dans le 8 qui touche la ligne du 9 vaut 9.
 
-**Réglages → Règle de comptage par défaut** fixe la règle des nouvelles séances : **World Archery** (10 intérieur pour l'arc à poulies, X = 10 pour les autres arcs ; par défaut), **X = 10 pour tous les arcs**, ou **X = 11 pour l'arc à poulies**.
+**Réglages → Règles de comptage** fixe la règle des nouvelles séances : **World Archery** (10 intérieur pour l'arc à poulies, X = 10 pour les autres arcs ; par défaut), **X = 10 pour tous les arcs**, ou **X = 11 pour l'arc à poulies**.
 
 ## Statistiques
 
@@ -186,7 +186,7 @@ L’onglet **Stats** (en mode jeu, l’**âtre**) montre ce qui compte à l’en
 
 <div class="shots" markdown>
 <figure markdown>
-![Liste des arcs : un arc recourbé et deux arcs à poulies avec puissance, allonge et valeurs par défaut.](images/screenshots/fr/bows.png){ .shot }
+![Liste des arcs : deux arcs recourbés et deux arcs à poulies, chacun marqué d’un petit dessin de son type, avec puissance, allonge et valeurs par défaut.](images/screenshots/fr/bows.png){ .shot }
 <figcaption>Vos arcs</figcaption>
 </figure>
 <figure markdown>
@@ -197,16 +197,18 @@ L’onglet **Stats** (en mode jeu, l’**âtre**) montre ce qui compte à l’en
 
 L'onglet **Arcs** liste vos arcs.
 
-- **Ajouter un arc :** nom et type d'arc. Pour un arc à poulies, vous pouvez partir d'une marque et d'un modèle du catalogue (PSE, Hoyt, Mathews, Bowtech). Il remplit le nom, montre les caractéristiques du modèle, et vous prévient si votre allonge sort de sa plage.
+- **Ajouter un arc :** nom et type d'arc. Chaque type a un petit dessin (arc nu ; arc recourbé avec viseur et stabilisateur ; arc à poulies avec ses cames) qui marque l'arc dans les listes, et le râtelier du jeu montre les mêmes formes. Pour un arc à poulies, vous pouvez partir d'une marque et d'un modèle du catalogue (PSE, Hoyt, Mathews, Bowtech). Il remplit le nom, montre les caractéristiques du modèle, et vous prévient si votre allonge sort de sa plage.
 - **Puissance** (lb) et **allonge** (pouces). Les deux acceptent une virgule ou un point.
 - **Description des flèches**, par exemple « tubes noirs, plumes orange ». Elle est envoyée avec la photo pour que l'IA ignore les flèches des autres archers sur la même butte.
 - **Valeurs par défaut :** blason, blasons sur la butte, distance et flèches par volée, pour remplir les nouvelles séances.
 
-Modifier un arc plus tard ne change pas les séances passées.
+Modifier un arc plus tard ne change pas les séances passées. **Retirer cet arc** demande d'abord confirmation ; les séances passées avec cet arc sont conservées.
+
+**Rien n'est supprimé sans votre accord.** Retirer un arc, une clé ou une flèche, supprimer une volée ou une séance, libérer de l'espace et restaurer un export demandent tous une confirmation, en mode normal comme en mode jeu. **Garder** annule.
 
 ## Mode jeu
 
-**Réglages → Mode → Jeu (aperçu)** transforme Ullr en petit jeu en pixel art : votre archer se rend au râtelier, au mur des trophées, au bureau ou à la ligne de tir pour ouvrir vos arcs, votre historique, les réglages ou une séance. **Endroits** (☰) ouvre n’importe quel endroit sans marcher, et **Tirer maintenant** ouvre directement l’appareil photo. Au **miroir**, habillez votre archer et choisissez un compagnon. Le son joue au volume multimédia ; le bouton haut-parleur le coupe. Tous les détails : [Mode jeu](game.md).
+**Réglages → Apparence et jeu → Jeu (aperçu)** transforme Ullr en petit jeu en pixel art : votre archer se rend au râtelier, au mur des trophées, au bureau ou à la ligne de tir pour ouvrir vos arcs, votre historique, les réglages ou une séance. **Endroits** (☰) ouvre n’importe quel endroit sans marcher, et **Tirer maintenant** ouvre directement l’appareil photo. Au **miroir**, habillez votre archer et choisissez un compagnon. Le son joue au volume multimédia ; le bouton haut-parleur le coupe. Tous les détails : [Mode jeu](game.md).
 
 ![La maison en mode jeu.](images/screenshots/fr/game-hall.png){ .shot width="220" }
 
@@ -251,4 +253,4 @@ Modifier un arc plus tard ne change pas les séances passées.
 
 **L'application s'est fermée pendant une séance.** Rien n'est perdu. La séance apparaît au tableau de bord avec **Reprendre**, et les volées en attente sont remises en file.
 
-**Quelle place prennent les photos ?** Environ 0,6 à 1,2 Mo par volée. **Réglages → Stockage** affiche le total.
+**Quelle place prennent les photos ?** Environ 0,6 à 1,2 Mo par volée. **Réglages → Stockage et sauvegarde** affiche le total.

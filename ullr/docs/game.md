@@ -2,7 +2,7 @@
 
 Ullr has a second way to use it: **the same app, as a small pixel-art video game.** Your archer walks around a Norse hall and an archery range, and each place opens a screen. Your bows, sessions and scores are exactly the same as in the normal mode, and the scoring screens work the same way.
 
-Turn it on in **Settings → Mode → Game (preview)** (*Réglages → Mode → Jeu (aperçu)*). **Normal** switches back at any time; nothing is lost either way.
+Turn it on in **Settings → Appearance and game → Game (preview)** (*Réglages → Apparence et jeu → Jeu (aperçu)*). **Normal** switches back at any time; nothing is lost either way.
 
 <div class="shots" markdown>
 <figure markdown>
@@ -29,7 +29,7 @@ Turn it on in **Settings → Mode → Game (preview)** (*Réglages → Mode → 
 
 | In the hall | Opens |
 |-------------|-------|
-| **Bow rack** (your own bows hang on it, by type) | Your bows |
+| **Bow rack** (your own bows hang on it, each drawn as its type: barebow, recurve with sight and stabilizer, compound with cams; your archer holds the same type) | Your bows |
 | **Trophy wall** | Your trophies: level, badges and personal bests |
 | **Writing desk** | Settings |
 | **Mirror** | Your archer |
@@ -104,7 +104,7 @@ Only real shooting earns anything: **10 experience** for each confirmed end, **3
 Footsteps on the wooden floor and on the grass, a small blip when you choose a place, a chime when it opens, the creak of the door, the crackle of the fire in the hall, wind and birds on the range, and a quiet lute tune. All of it was made for Ullr.
 
 - Sound plays at the phone's **media** volume, like other games: silent and vibrate mute calls and notifications, not games.
-- The **speaker button** at the top of the game turns the sound off and on. **Settings → Game sound** and **Music** turn them off separately.
+- The **speaker button** at the top of the game turns the sound off and on. **Settings → Appearance and game → Game sound** and **Music** turn them off separately.
 - Sound stops as soon as the app is in the background.
 
 ## Every screen in the game look
@@ -121,8 +121,8 @@ In game mode, every screen wears the game's style: dark wood and gold, pixel let
 <figcaption>Your bows</figcaption>
 </figure>
 <figure markdown>
-![Settings in the game look: Mode Normal or Game (preview), and the Game sound and Music switches.](images/screenshots/game-settings.png){ .shot }
-<figcaption>Mode, sound and music</figcaption>
+![Settings in the game look: a menu of AI scoring, Scoring rules, Privacy, Appearance and game, Language, and Storage and backup.](images/screenshots/game-settings.png){ .shot }
+<figcaption>Settings, grouped by topic</figcaption>
 </figure>
 </div>
 

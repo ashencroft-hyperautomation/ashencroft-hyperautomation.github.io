@@ -43,7 +43,7 @@ Prises avec **Ullr Demo**, une version de l'application remplie de six mois de s
 <figcaption><b>Historique.</b> Toutes les séances par mois, filtrées par arc.</figcaption>
 </figure>
 <figure markdown>
-![Liste des arcs : un arc recourbé et deux arcs à poulies avec puissance, allonge et valeurs par défaut.](images/screenshots/fr/bows.png){ .shot }
+![Liste des arcs : deux arcs recourbés et deux arcs à poulies, chacun marqué d’un petit dessin de son type, avec puissance, allonge et valeurs par défaut.](images/screenshots/fr/bows.png){ .shot }
 <figcaption><b>Arcs.</b> Chaque arc avec ses réglages.</figcaption>
 </figure>
 <figure markdown>
@@ -56,7 +56,7 @@ Prises avec **Ullr Demo**, une version de l'application remplie de six mois de s
 
 <div class="shots" markdown>
 <figure markdown>
-![Réglages : la méthode API d'un service d'IA, et le choix du service.](images/screenshots/fr/settings.png){ .shot }
+![La page Comptage par IA des réglages : ce que fait le comptage, la méthode API et le choix du service.](images/screenshots/fr/settings.png){ .shot }
 <figcaption><b>Le choix de l'IA.</b> Le service de votre choix, avec votre propre clé.</figcaption>
 </figure>
 <figure markdown>
@@ -106,8 +106,8 @@ Prises avec **Ullr Demo**, une version de l'application remplie de six mois de s
 <figcaption><b>Au style du jeu.</b> Titres et scores en pixels.</figcaption>
 </figure>
 <figure markdown>
-![Réglages : mode, sons du jeu et musique.](images/screenshots/fr/game-settings.png){ .shot }
-<figcaption><b>Mode, sons et musique.</b></figcaption>
+![Réglages au style du jeu : un menu Comptage par IA, Règles de comptage, Confidentialité, Apparence et jeu, Langue, et Stockage et sauvegarde.](images/screenshots/fr/game-settings.png){ .shot }
+<figcaption><b>Les réglages, regroupés par thème.</b></figcaption>
 </figure>
 </div>
 

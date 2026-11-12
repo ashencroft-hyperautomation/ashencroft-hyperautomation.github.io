@@ -2,7 +2,7 @@
 
 Ullr s’utilise aussi autrement : **la même application, en petit jeu vidéo en pixel art.** Votre archer se promène dans une maison nordique et sur un pas de tir, et chaque endroit ouvre un écran. Vos arcs, vos séances et vos scores sont exactement les mêmes qu’en mode normal, et les écrans de comptage fonctionnent de la même façon.
 
-Activez-le dans **Réglages → Mode → Jeu (aperçu)**. **Normal** revient en arrière à tout moment, sans rien perdre.
+Activez-le dans **Réglages → Apparence et jeu → Jeu (aperçu)**. **Normal** revient en arrière à tout moment, sans rien perdre.
 
 <div class="shots" markdown>
 <figure markdown>
@@ -29,7 +29,7 @@ Activez-le dans **Réglages → Mode → Jeu (aperçu)**. **Normal** revient en 
 
 | Dans la maison | Ouvre |
 |----------------|-------|
-| **Râtelier à arcs** (vos propres arcs y sont accrochés, selon leur type) | Vos arcs |
+| **Râtelier à arcs** (vos propres arcs y sont accrochés, chacun dessiné selon son type : arc nu, arc recourbé avec viseur et stabilisateur, arc à poulies avec ses cames ; votre archer tient le même type) | Vos arcs |
 | **Mur des trophées** | Vos trophées : niveau, insignes et records personnels |
 | **Bureau** | Les réglages |
 | **Miroir** | Votre archer |
@@ -104,7 +104,7 @@ Seul le vrai tir rapporte : **10 points d’expérience** par volée confirmée,
 Des pas sur le plancher et dans l’herbe, un petit son quand vous choisissez un endroit, un carillon quand il s’ouvre, le grincement de la porte, le crépitement du feu dans la maison, le vent et les oiseaux sur le pas de tir, et un petit air de luth. Tout a été composé pour Ullr.
 
 - Le son joue au volume **multimédia** du téléphone, comme les autres jeux : les modes silencieux et vibreur coupent les appels et les notifications, pas les jeux.
-- Le **bouton haut-parleur**, en haut du jeu, coupe et remet le son. **Réglages → Sons du jeu** et **Musique** les coupent séparément.
+- Le **bouton haut-parleur**, en haut du jeu, coupe et remet le son. **Réglages → Apparence et jeu → Sons du jeu** et **Musique** les coupent séparément.
 - Le son s’arrête dès que l’application passe en arrière-plan.
 
 ## Tous les écrans au style du jeu
@@ -121,8 +121,8 @@ En mode jeu, chaque écran prend le style du jeu : bois sombre et or, lettres en
 <figcaption>Vos arcs</figcaption>
 </figure>
 <figure markdown>
-![Réglages au style du jeu : Mode Normal ou Jeu (aperçu), et les interrupteurs Sons du jeu et Musique.](images/screenshots/fr/game-settings.png){ .shot }
-<figcaption>Mode, sons et musique</figcaption>
+![Réglages au style du jeu : un menu Comptage par IA, Règles de comptage, Confidentialité, Apparence et jeu, Langue, et Stockage et sauvegarde.](images/screenshots/fr/game-settings.png){ .shot }
+<figcaption>Les réglages, regroupés par thème</figcaption>
 </figure>
 </div>
 

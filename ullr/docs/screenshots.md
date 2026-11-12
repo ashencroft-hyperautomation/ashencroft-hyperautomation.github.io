@@ -43,7 +43,7 @@ Taken with **Ullr Demo**, a version of the app filled with six months of made-up
 <figcaption><b>History.</b> Every session by month, filtered by bow.</figcaption>
 </figure>
 <figure markdown>
-![Bows list: a recurve and two compound bows with draw weight, draw length and defaults.](images/screenshots/bows.png){ .shot }
+![Bows list: two recurve and two compound bows, each marked with a small drawing of its type, with draw weight, draw length and defaults.](images/screenshots/bows.png){ .shot }
 <figcaption><b>Bows.</b> Each bow with its setup.</figcaption>
 </figure>
 <figure markdown>
@@ -56,11 +56,11 @@ Taken with **Ullr Demo**, a version of the app filled with six months of made-up
 
 <div class="shots" markdown>
 <figure markdown>
-![Settings: scoring method AI service API, and the choice of service.](images/screenshots/settings.png){ .shot }
+![The AI scoring page of Settings: what scoring does, then the scoring method and the choice of service.](images/screenshots/settings.png){ .shot }
 <figcaption><b>Choice of AI.</b> The service of your choice, with your own key.</figcaption>
 </figure>
 <figure markdown>
-![Settings privacy section: the send only the target area switch, and what is sent and never sent.](images/screenshots/settings-privacy.png){ .shot }
+![The Privacy page of Settings: what leaves the phone, the send only the target area switch, and what is sent and never sent.](images/screenshots/settings-privacy.png){ .shot }
 <figcaption><b>Privacy.</b> Exactly what is sent, and the target-only switch.</figcaption>
 </figure>
 </div>
@@ -106,8 +106,8 @@ Taken with **Ullr Demo**, a version of the app filled with six months of made-up
 <figcaption><b>In the game look.</b> Pixel titles and scores.</figcaption>
 </figure>
 <figure markdown>
-![Settings: mode, game sound and music.](images/screenshots/game-settings.png){ .shot }
-<figcaption><b>Mode, sound and music.</b></figcaption>
+![Settings in the game look: a menu of AI scoring, Scoring rules, Privacy, Appearance and game, Language, and Storage and backup.](images/screenshots/game-settings.png){ .shot }
+<figcaption><b>Settings, grouped by topic.</b></figcaption>
 </figure>
 </div>
 
