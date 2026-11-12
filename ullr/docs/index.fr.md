@@ -133,4 +133,4 @@ Les mêmes données, le même comptage : choisissez celle qui vous plaît, et ch
 
 ## Où en est le projet
 
-Ullr est un projet personnel, en développement actif. Il fonctionne sur Android 8 et plus récent. **Il n’est pas encore sur Google Play.** La [feuille de route](roadmap.md) montre ce qui est fait et ce qui vient.
+Ullr est un projet personnel, en développement actif. Il fonctionne sur Android 8 et plus récent. **Il n’est pas encore sur Google Play.** La [feuille de route](roadmap.md) montre ce qui est fait et ce qui vient. Utiliser Ullr, c’est accepter ses [conditions d’utilisation](terms.md) : l’application est fournie telle quelle.

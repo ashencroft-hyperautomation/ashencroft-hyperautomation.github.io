@@ -77,6 +77,10 @@ Prises avec **Ullr Demo**, une version de l'application remplie de six mois de s
 
 <div class="shots" markdown>
 <figure markdown>
+![L’écran de première utilisation : un court résumé, les conditions d’utilisation en français ou en anglais, la case J’accepte et Accepter et continuer.](images/screenshots/fr/terms.png){ .shot }
+<figcaption><b>Conditions d’utilisation.</b> Acceptées une fois, avant tout le reste.</figcaption>
+</figure>
+<figure markdown>
 ![Réglages : une entrée par page, chacune avec ce qui est choisi en ce moment.](images/screenshots/fr/settings-menu.png){ .shot }
 <figcaption><b>Réglages.</b> Une page par thème.</figcaption>
 </figure>

@@ -1,6 +1,6 @@
 # Getting started
 
-From opening the app to your first confirmed end, in five steps. Each step links to its own page. Button names are in English, with the French label in brackets: **Start session** (*Commencer une séance*).
+From opening the app to your first confirmed end, in a few steps. Each step links to its own page. Button names are in English, with the French label in brackets: **Start session** (*Commencer une séance*).
 
 <div class="shots" markdown>
 <figure markdown>
@@ -12,6 +12,12 @@ From opening the app to your first confirmed end, in five steps. Each step links
 <figcaption>Settings, one page per topic</figcaption>
 </figure>
 </div>
+
+## 0. Accept the terms of use
+
+![The first-use screen: a short summary, the terms in French or English, the I accept box, Accept and continue, and Decline and close.](images/screenshots/terms.png){ .shot width="220" align=right }
+
+The first time you open Ullr, it shows its [terms of use](terms.md) in French and English. Tick **I have read and I accept the terms of use** and tap **Accept and continue**. In short: Ullr is free and provided as is, its scores are suggestions to check, and to the fullest extent the law allows its developer isn't responsible for errors, lost data, injury or third-party AI services. **Decline and close** closes the app. You can read the terms again in **Settings → Terms of use**.
 
 ## 1. Pick a mode
 

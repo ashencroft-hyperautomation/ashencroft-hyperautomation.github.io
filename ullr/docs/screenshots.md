@@ -77,6 +77,10 @@ Taken with **Ullr Demo**, a version of the app filled with six months of made-up
 
 <div class="shots" markdown>
 <figure markdown>
+![The first-use screen: a short summary, the terms of use in French or English, the I accept box and Accept and continue.](images/screenshots/terms.png){ .shot }
+<figcaption><b>Terms of use.</b> Accepted once, before anything else.</figcaption>
+</figure>
+<figure markdown>
 ![Settings: one entry per page, each with what is chosen now.](images/screenshots/settings-menu.png){ .shot }
 <figcaption><b>Settings.</b> One page per topic.</figcaption>
 </figure>

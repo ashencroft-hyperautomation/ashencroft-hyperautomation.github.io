@@ -1,6 +1,6 @@
 # Pour commencer
 
-De l’ouverture de l’application à votre première volée validée, en cinq étapes. Chaque étape mène à sa propre page. Les noms des boutons sont ceux de l’application en français, par exemple **Commencer une séance**.
+De l’ouverture de l’application à votre première volée validée, en quelques étapes. Chaque étape mène à sa propre page. Les noms des boutons sont ceux de l’application en français, par exemple **Commencer une séance**.
 
 <div class="shots" markdown>
 <figure markdown>
@@ -12,6 +12,12 @@ De l’ouverture de l’application à votre première volée validée, en cinq 
 <figcaption>Les réglages, une page par thème</figcaption>
 </figure>
 </div>
+
+## 0. Accepter les conditions d’utilisation
+
+![L’écran de première utilisation : un court résumé, les conditions en français ou en anglais, la case J’accepte, Accepter et continuer, et Refuser et fermer.](images/screenshots/fr/terms.png){ .shot width="220" align=right }
+
+À la première ouverture, Ullr affiche ses [conditions d’utilisation](terms.md) en français et en anglais. Cochez **J’ai lu et j’accepte les conditions d’utilisation** et touchez **Accepter et continuer**. En bref : Ullr est gratuit et fourni tel quel, ses pointages sont des suggestions à vérifier, et dans toute la mesure permise par la loi, son développeur n’est pas responsable des erreurs, des pertes de données, des blessures ni des services d’IA de tiers. **Refuser et fermer** ferme l’application. Vous pouvez relire les conditions dans **Réglages → Conditions d’utilisation**.
 
 ## 1. Choisir un mode
 

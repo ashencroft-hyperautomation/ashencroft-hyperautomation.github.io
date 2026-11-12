@@ -75,6 +75,7 @@ plugins:
             Security: Sécurité
             App icon: L'icône
             Roadmap: Feuille de route
+            Terms of use: Conditions d'utilisation
 
 markdown_extensions:
   - admonition
@@ -115,3 +116,4 @@ nav:
       - Security: security.md
       - App icon: icon.md
       - Roadmap: roadmap.md
+      - Terms of use: terms.md
