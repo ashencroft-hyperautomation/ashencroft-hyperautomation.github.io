@@ -30,7 +30,7 @@ Turn it on in **Settings → Mode → Game (preview)** (*Réglages → Mode → 
 | In the hall | Opens |
 |-------------|-------|
 | **Bow rack** (your own bows hang on it, by type) | Your bows |
-| **Trophy wall** | Your history |
+| **Trophy wall** | Your trophies: level, badges and personal bests |
 | **Writing desk** | Settings |
 | **Mirror** | Your archer |
 | **Hearth** | Your statistics, "by the fire": last session, average per arrow, best total, X count |
@@ -79,6 +79,26 @@ Choose a companion at the mirror: a **dog**, a **cat**, a **fox**, or a **raven*
 
 ![The four animal companions: a dog, a cat, a fox and a raven.](images/game-companions.png){ width="420" .pixel }
 
+## Levels, badges and trophies
+
+Only real shooting earns anything: **10 experience** for each confirmed end, **30** for each finished session and **50** for each badge. Nothing to buy, and nothing for just opening the app. Your level and its bar show at the bottom of the game, with a title that grows from **Novice** to **Archer**, **Marksman**, **Master archer** and **Legend**.
+
+<div class="shots" markdown>
+<figure markdown>
+![Trophies: level 2, Novice, 220 of 300 experience; ten badges, two earned in gold; personal bests below.](images/screenshots/game-trophies.png){ .shot }
+<figcaption><b>Trophies</b>, at the trophy wall.</figcaption>
+</figure>
+<figure markdown>
+![The hall with the level bar above Shoot now, and two cups on the trophy shelf.](images/screenshots/game-level.png){ .shot }
+<figcaption>Your level, and a cup for each record.</figcaption>
+</figure>
+</div>
+
+- **Ten badges** for real milestones: your first end, your first X, a perfect end, ten X in one session, 100 and 1,000 arrows, ten sessions, a new personal best, trying field, 3D or para archery, and four weeks in a row.
+- **Personal bests** for each round (distance, face and number of arrows). Each one puts a cup on the trophy shelf, and the plaques light up as badges come in. Tap a record to open its session.
+- A new level or badge is announced with a **horn and a banner**, once.
+- It's all worked out from your sessions: delete a session and what it earned goes with it.
+
 ## Sound and music
 
 Footsteps on the wooden floor and on the grass, a small blip when you choose a place, a chime when it opens, the creak of the door, the crackle of the fire in the hall, wind and birds on the range, and a quiet lute tune. All of it was made for Ullr.
@@ -112,4 +132,4 @@ Game mode sends nothing. How your archer looks, your companion and your sound se
 
 ## What's next
 
-Game mode is a preview. Coming: rewards for real shooting (experience for each confirmed end, badges for real milestones, a trophy on the wall for each personal best). See the [roadmap](roadmap.md).
+Game mode is a preview. Coming: outfits unlocked by levels and badges. See the [roadmap](roadmap.md).

@@ -30,7 +30,7 @@ Activez-le dans **Réglages → Mode → Jeu (aperçu)**. **Normal** revient en 
 | Dans la maison | Ouvre |
 |----------------|-------|
 | **Râtelier à arcs** (vos propres arcs y sont accrochés, selon leur type) | Vos arcs |
-| **Mur des trophées** | Votre historique |
+| **Mur des trophées** | Vos trophées : niveau, insignes et records personnels |
 | **Bureau** | Les réglages |
 | **Miroir** | Votre archer |
 | **Âtre** | Vos statistiques, « au coin du feu » : dernière séance, moyenne par flèche, meilleur total, nombre de X |
@@ -79,6 +79,26 @@ Choisissez un compagnon au miroir : un **chien**, un **chat**, un **renard**, ou
 
 ![Les quatre compagnons animaux : un chien, un chat, un renard et un corbeau.](images/game-companions.png){ width="420" .pixel }
 
+## Niveaux, insignes et trophées
+
+Seul le vrai tir rapporte : **10 points d’expérience** par volée confirmée, **30** par séance terminée et **50** par insigne. Rien à acheter, et rien pour simplement ouvrir l’application. Votre niveau et sa barre s’affichent en bas du jeu, avec un titre qui passe de **Novice** à **Archer**, **Tireur d’élite**, **Maître archer** et **Légende**.
+
+<div class="shots" markdown>
+<figure markdown>
+![Trophées : niveau 2, Novice, 220 sur 300 XP ; dix insignes, dont deux obtenus en or ; les records personnels plus bas.](images/screenshots/fr/game-trophies.png){ .shot }
+<figcaption><b>Les trophées</b>, au mur des trophées.</figcaption>
+</figure>
+<figure markdown>
+![La maison avec la barre de niveau au-dessus de Tirer maintenant, et deux coupes sur l’étagère des trophées.](images/screenshots/fr/game-level.png){ .shot }
+<figcaption>Votre niveau, et une coupe par record.</figcaption>
+</figure>
+</div>
+
+- **Dix insignes** pour de vraies étapes : votre première volée, votre premier X, une volée parfaite, dix X dans une séance, 100 et 1 000 flèches, dix séances, un nouveau record personnel, tirer en campagne, en 3D ou en para-tir à l’arc, et quatre semaines de suite.
+- **Records personnels** pour chaque épreuve (distance, blason et nombre de flèches). Chacun pose une coupe sur l’étagère, et les plaques s’allument au fil des insignes. Touchez un record pour ouvrir sa séance.
+- Un nouveau niveau ou un nouvel insigne est annoncé par **un cor et une bannière**, une seule fois.
+- Tout est calculé à partir de vos séances : supprimez une séance et ce qu’elle a rapporté disparaît avec elle.
+
 ## Sons et musique
 
 Des pas sur le plancher et dans l’herbe, un petit son quand vous choisissez un endroit, un carillon quand il s’ouvre, le grincement de la porte, le crépitement du feu dans la maison, le vent et les oiseaux sur le pas de tir, et un petit air de luth. Tout a été composé pour Ullr.
@@ -112,4 +132,4 @@ Le mode jeu n’envoie rien. L’apparence de votre archer, votre compagnon et v
 
 ## La suite
 
-Le mode jeu est un aperçu. À venir : des récompenses pour le vrai tir (de l’expérience pour chaque volée confirmée, des insignes pour de vraies étapes, un trophée au mur pour chaque record personnel). Voir la [feuille de route](roadmap.md).
+Le mode jeu est un aperçu. À venir : des tenues débloquées par les niveaux et les insignes. Voir la [feuille de route](roadmap.md).
