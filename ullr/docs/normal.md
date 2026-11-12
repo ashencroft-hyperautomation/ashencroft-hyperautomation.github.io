@@ -39,6 +39,7 @@ Each Settings page starts with a short explanation, then its choices.
 | **Appearance and game** (*Apparence et jeu*) | Normal or game mode, the theme, game sound and music. See [Look and language](look.md). |
 | **Language** (*Langue*) | English, French, or the phone's language (Android 13 and later). |
 | **Storage and backup** (*Stockage et sauvegarde*) | Space used, export, restore, free up space. See [Storage and backup](backup.md). |
+| **About and legal** (*À propos et mentions légales*) | The version, the [terms of use](terms.md), the [privacy policy](privacy-policy.md) and the [open-source licences](licences.md). |
 
 ## Switching to game mode
 

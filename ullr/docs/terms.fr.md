@@ -1,16 +1,16 @@
 # Conditions d’utilisation
 
-*Version 1 · En vigueur le 12 novembre 2026*
+*Version 2 · En vigueur le 12 novembre 2026*
 
-Veuillez lire attentivement les présentes conditions. Elles constituent une entente juridique entre vous et le développeur d’Ullr (le « Développeur »). En touchant **Accepter et continuer**, ou en installant, en ouvrant ou en utilisant de toute autre façon l’application Ullr (l’« Application »), vous confirmez avoir lu, compris et accepté les présentes conditions. Si vous ne les acceptez pas, n’utilisez pas l’Application et désinstallez-la.
+Veuillez lire attentivement les présentes conditions. Elles constituent une entente juridique entre vous et le développeur d’Ullr (le « Développeur »). En touchant **Accepter et continuer**, ou en installant, en ouvrant ou en utilisant de toute autre façon l’application Ullr (l’« Application »), vous confirmez avoir lu, compris et accepté les présentes conditions. Si vous ne les acceptez pas, n’utilisez pas l’Application et désinstallez-la.
 
 ## 1. L’Application
 
-L’Application est un projet personnel gratuit qui sert à tenir des registres de tir à l’arc. Elle propose des pointages à partir de photos de la cible à l’aide de services d’intelligence artificielle (« IA ») que vous choisissez, ou vous permet d’entrer vous-même les pointages. Elle n’est pas un système de pointage officiel et n’est approuvée ni par World Archery, ni par Tir à l’arc Canada, ni par aucun autre organisme de tir à l’arc.
+L’Application est un projet personnel gratuit qui sert à tenir des registres de tir à l’arc. Elle propose des pointages à partir de photos de la cible à l’aide de services d’intelligence artificielle (« IA ») que vous choisissez, ou vous permet d’entrer vous-même les pointages. Elle n’est pas un système de pointage officiel et n’est approuvée ni par World Archery, ni par Tir à l’arc Canada, ni par aucun autre organisme de tir à l’arc.
 
-## 2. Fournie « telle quelle »
+## 2. Fournie « telle quelle »
 
-Dans toute la mesure permise par la loi applicable, l’Application est fournie « telle quelle » et « selon sa disponibilité », avec tous ses défauts et sans garantie ni condition d’aucune sorte, expresse, implicite ou légale, notamment toute garantie ou condition de qualité, de qualité marchande, d’adéquation à un usage particulier, d’exactitude, de fiabilité, de disponibilité, de sécurité, de titre ou d’absence de contrefaçon. Le Développeur ne garantit pas que l’Application fonctionnera sans interruption ni erreur, que les pointages seront exacts ni que des données ne seront pas perdues. Vous utilisez l’Application à vos propres risques.
+Dans toute la mesure permise par la loi applicable, l’Application est fournie « telle quelle » et « selon sa disponibilité », avec tous ses défauts et sans garantie ni condition d’aucune sorte, expresse, implicite ou légale, notamment toute garantie ou condition de qualité, de qualité marchande, d’adéquation à un usage particulier, d’exactitude, de fiabilité, de disponibilité, de sécurité, de titre ou d’absence de contrefaçon. Le Développeur ne garantit pas que l’Application fonctionnera sans interruption ni erreur, que les pointages seront exacts ni que des données ne seront pas perdues. Vous utilisez l’Application à vos propres risques.
 
 ## 3. Les pointages sont des suggestions
 
@@ -22,7 +22,7 @@ Lorsque vous choisissez un service d’IA, indiquez votre propre adresse de serv
 
 ## 5. Vos données
 
-Vos registres, vos photos et vos clés sont enregistrés sur votre appareil. Vous êtes responsable de votre appareil, de sa sécurité et de vos sauvegardes, par exemple au moyen de l’exportation de l’Application. Le Développeur ne reçoit pas vos registres et ne peut pas les récupérer.
+Vos registres, vos photos et vos clés sont enregistrés sur votre appareil. Vous êtes responsable de votre appareil, de sa sécurité et de vos sauvegardes, par exemple au moyen de l’exportation de l’Application. Le Développeur ne reçoit pas vos registres et ne peut pas les récupérer. La **Politique de confidentialité** explique ce que l’Application conserve, quand des renseignements quittent votre appareil, et vos choix.
 
 ## 6. Sécurité
 
@@ -54,4 +54,4 @@ Les présentes conditions sont rédigées en français et en anglais, et les deu
 
 ## 13. Dispositions générales
 
-Les présentes conditions, avec les renseignements sur la confidentialité affichés dans l’Application (Réglages → Confidentialité), constituent l’entente intégrale entre vous et le Développeur concernant l’Application. Si une disposition est jugée invalide ou inapplicable, elle sera limitée dans la mesure minimale nécessaire, et les autres dispositions demeurent pleinement en vigueur. Le fait que le Développeur n’exerce pas un droit prévu aux présentes ne constitue pas une renonciation à ce droit.
+Les présentes conditions, avec la Politique de confidentialité (Réglages → À propos et mentions légales), constituent l’entente intégrale entre vous et le Développeur concernant l’Application. Si une disposition est jugée invalide ou inapplicable, elle sera limitée dans la mesure minimale nécessaire, et les autres dispositions demeurent pleinement en vigueur. Le fait que le Développeur n’exerce pas un droit prévu aux présentes ne constitue pas une renonciation à ce droit.

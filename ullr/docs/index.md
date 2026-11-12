@@ -133,4 +133,4 @@ Same records, same scoring: pick the one you like, and switch at any time in **S
 
 ## Status
 
-Ullr is a personal project, in active development. It runs on Android 8 and later. **It isn't on Google Play yet.** See the [roadmap](roadmap.md) for what's done and what's next. Using Ullr means accepting its [terms of use](terms.md): it is provided as is.
+Ullr is a personal project, in active development. It runs on Android 8 and later. **It isn't on Google Play yet.** See the [roadmap](roadmap.md) for what's done and what's next. Using Ullr means accepting its [terms of use](terms.md): it is provided as is. Its [privacy policy](privacy-policy.md) explains what stays on your phone and what is sent.

@@ -1,6 +1,6 @@
 # Terms of use
 
-*Version 1 · Effective November 12, 2026*
+*Version 2 · Effective November 12, 2026*
 
 Please read these terms carefully. They form a legal agreement between you and the developer of Ullr (the "Developer"). By tapping **Accept and continue**, or by installing, opening or otherwise using the Ullr application (the "App"), you confirm that you have read, understood and accepted these terms. If you do not accept them, do not use the App and uninstall it.
 
@@ -22,7 +22,7 @@ When you choose an AI service, enter an address of your own, or share a photo wi
 
 ## 5. Your data
 
-Your records, photos and keys are stored on your device. You are responsible for your device, its security and your backups, for example with the App's export. The Developer does not receive your records and cannot recover them.
+Your records, photos and keys are stored on your device. You are responsible for your device, its security and your backups, for example with the App's export. The Developer does not receive your records and cannot recover them. The **Privacy policy** explains what the App keeps, when information leaves your device, and your choices.
 
 ## 6. Safety
 
@@ -54,4 +54,4 @@ These terms are drawn up in French and in English, and both versions are equally
 
 ## 13. General
 
-These terms, together with the privacy information shown in the App (Settings → Privacy), are the entire agreement between you and the Developer concerning the App. If any provision is held invalid or unenforceable, it shall be limited to the minimum extent necessary, and the other provisions remain in full force. The Developer's failure to enforce a provision is not a waiver of it.
+These terms, together with the Privacy policy (Settings → About and legal), are the entire agreement between you and the Developer concerning the App. If any provision is held invalid or unenforceable, it shall be limited to the minimum extent necessary, and the other provisions remain in full force. The Developer's failure to enforce a provision is not a waiver of it.

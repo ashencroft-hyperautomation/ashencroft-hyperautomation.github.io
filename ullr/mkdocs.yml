@@ -76,6 +76,8 @@ plugins:
             App icon: L'icône
             Roadmap: Feuille de route
             Terms of use: Conditions d'utilisation
+            Privacy policy: Politique de confidentialité
+            Open-source licences: Licences de logiciels libres
 
 markdown_extensions:
   - admonition
@@ -117,3 +119,5 @@ nav:
       - App icon: icon.md
       - Roadmap: roadmap.md
       - Terms of use: terms.md
+      - Privacy policy: privacy-policy.md
+      - Open-source licences: licences.md

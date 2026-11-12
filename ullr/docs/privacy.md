@@ -2,6 +2,8 @@
 
 Short version: **your records stay on your phone.** Only the photo of the target leaves it, and only to be scored, by the AI service you chose. With [manual scoring](scoring-manual.md), nothing leaves it at all.
 
+This page explains it in plain words. The formal text is the [privacy policy](privacy-policy.md), also in the app under **Settings → About and legal**.
+
 ## What Ullr keeps, and where
 
 ![What Ullr keeps, all on your phone: your bows and places lead to sessions; each session has ends with their photo; each end has its arrows; settings hold the language, the scoring method and the API key, encrypted.](images/diagrams/data-stored.png)

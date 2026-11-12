@@ -15,9 +15,9 @@ De l’ouverture de l’application à votre première volée validée, en quelq
 
 ## 0. Accepter les conditions d’utilisation
 
-![L’écran de première utilisation : un court résumé, les conditions en français ou en anglais, la case J’accepte, Accepter et continuer, et Refuser et fermer.](images/screenshots/fr/terms.png){ .shot width="220" align=right }
+![L’écran de première utilisation : un court résumé, les conditions en français ou en anglais, les liens vers la politique de confidentialité et les licences, la case J’accepte, Accepter et continuer, et Refuser et fermer.](images/screenshots/fr/terms.png){ .shot width="220" align=right }
 
-À la première ouverture, Ullr affiche ses [conditions d’utilisation](terms.md) en français et en anglais. Cochez **J’ai lu et j’accepte les conditions d’utilisation** et touchez **Accepter et continuer**. En bref : Ullr est gratuit et fourni tel quel, ses pointages sont des suggestions à vérifier, et dans toute la mesure permise par la loi, son développeur n’est pas responsable des erreurs, des pertes de données, des blessures ni des services d’IA de tiers. **Refuser et fermer** ferme l’application. Vous pouvez relire les conditions dans **Réglages → Conditions d’utilisation**.
+À la première ouverture, Ullr affiche ses [conditions d’utilisation](terms.md) en français et en anglais, avec des liens vers sa [politique de confidentialité](privacy-policy.md) et ses [licences de logiciels libres](licences.md). Cochez **J’ai lu et j’accepte les conditions d’utilisation, et j’ai lu la politique de confidentialité** et touchez **Accepter et continuer**. En bref : Ullr est gratuit et fourni tel quel, ses pointages sont des suggestions à vérifier, et dans toute la mesure permise par la loi, son développeur n’est pas responsable des erreurs, des pertes de données, des blessures ni des services d’IA de tiers. **Refuser et fermer** ferme l’application. Vous pouvez relire les trois dans **Réglages → À propos et mentions légales**. Si les conditions ou la politique de confidentialité changent, Ullr vous les redemande.
 
 ## 1. Choisir un mode
 

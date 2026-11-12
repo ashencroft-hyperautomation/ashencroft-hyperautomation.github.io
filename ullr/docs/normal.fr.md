@@ -39,6 +39,7 @@ Chaque page des réglages commence par une courte explication, puis ses choix.
 | **Apparence et jeu** | Mode normal ou jeu, le thème, les sons du jeu et la musique. Voir [Apparence et langue](look.md). |
 | **Langue** | Français, anglais, ou la langue du téléphone (Android 13 et plus récent). |
 | **Stockage et sauvegarde** | Espace utilisé, exporter, restaurer, libérer de l’espace. Voir [Stockage et sauvegarde](backup.md). |
+| **À propos et mentions légales** | La version, les [conditions d’utilisation](terms.md), la [politique de confidentialité](privacy-policy.md) et les [licences de logiciels libres](licences.md). |
 
 ## Passer au mode jeu
 

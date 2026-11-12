@@ -9,7 +9,7 @@ Ullr est un projet personnel, construit au grand jour. Voici où il en est.
 - [x] La règle de la ligne et votre règle de comptage (X = 10, 10 intérieur, X = 11) expliquées à l'IA avec chaque photo
 - [x] Le service d'IA de votre choix (Anthropic, Google, OpenAI, ou tout service compatible OpenAI à votre propre adresse), avec votre propre clé
 - [x] Le comptage sans clé : partagez la photo avec l’application d’IA de votre téléphone et collez sa réponse
-- [x] Conditions d’utilisation en français et en anglais, acceptées au premier lancement et consultables dans les réglages
+- [x] Conditions d’utilisation et politique de confidentialité en français et en anglais, acceptées au premier lancement, avec les licences de logiciels libres, dans Réglages → À propos et mentions légales
 - [x] Effacer les données (toutes les séances, ou tout), et remettre à zéro l’expérience et les insignes depuis les trophées
 - [x] Le comptage manuel, sans IA : touchez chaque flèche sur la photo et choisissez sa zone, ou touchez les points sans photo
 - [x] Fonctionne sans réseau : les photos sont enregistrées et comptées plus tard, ou saisies à la main
@@ -33,7 +33,7 @@ Ullr est un projet personnel, construit au grand jour. Voici où il en est.
 
 ## Google Play
 
-- [ ] Page de politique de confidentialité, fiche en français et en anglais, essais avec des archers du club, puis publication
+- [ ] Fiche en français et en anglais, essais avec des archers du club, puis publication
 
 ## Idées
 

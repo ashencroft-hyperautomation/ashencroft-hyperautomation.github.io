@@ -15,9 +15,9 @@ From opening the app to your first confirmed end, in a few steps. Each step link
 
 ## 0. Accept the terms of use
 
-![The first-use screen: a short summary, the terms in French or English, the I accept box, Accept and continue, and Decline and close.](images/screenshots/terms.png){ .shot width="220" align=right }
+![The first-use screen: a short summary, the terms in French or English, links to the privacy policy and the licences, the I accept box, Accept and continue, and Decline and close.](images/screenshots/terms.png){ .shot width="220" align=right }
 
-The first time you open Ullr, it shows its [terms of use](terms.md) in French and English. Tick **I have read and I accept the terms of use** and tap **Accept and continue**. In short: Ullr is free and provided as is, its scores are suggestions to check, and to the fullest extent the law allows its developer isn't responsible for errors, lost data, injury or third-party AI services. **Decline and close** closes the app. You can read the terms again in **Settings → Terms of use**.
+The first time you open Ullr, it shows its [terms of use](terms.md) in French and English, with links to its [privacy policy](privacy-policy.md) and its [open-source licences](licences.md). Tick **I have read and I accept the terms of use, and I have read the privacy policy** and tap **Accept and continue**. In short: Ullr is free and provided as is, its scores are suggestions to check, and to the fullest extent the law allows its developer isn't responsible for errors, lost data, injury or third-party AI services. **Decline and close** closes the app. You can read all three again in **Settings → About and legal** (*À propos et mentions légales*). When the terms or the privacy policy change, Ullr asks again.
 
 ## 1. Pick a mode
 

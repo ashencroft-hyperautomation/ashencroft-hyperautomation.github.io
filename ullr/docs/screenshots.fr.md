@@ -77,7 +77,7 @@ Prises avec **Ullr Demo**, une version de l'application remplie de six mois de s
 
 <div class="shots" markdown>
 <figure markdown>
-![L’écran de première utilisation : un court résumé, les conditions d’utilisation en français ou en anglais, la case J’accepte et Accepter et continuer.](images/screenshots/fr/terms.png){ .shot }
+![L’écran de première utilisation : un court résumé, les conditions d’utilisation en français ou en anglais, les liens vers la politique de confidentialité et les licences, la case J’accepte et Accepter et continuer.](images/screenshots/fr/terms.png){ .shot }
 <figcaption><b>Conditions d’utilisation.</b> Acceptées une fois, avant tout le reste.</figcaption>
 </figure>
 <figure markdown>
@@ -87,6 +87,14 @@ Prises avec **Ullr Demo**, une version de l'application remplie de six mois de s
 <figure markdown>
 ![La section Confidentialité des réglages : l'option N'envoyer que la zone de la cible, et ce qui est envoyé et ce qui ne l'est jamais.](images/screenshots/fr/settings-privacy.png){ .shot }
 <figcaption><b>Confidentialité.</b> Exactement ce qui est envoyé, et l'option « zone de la cible seulement ».</figcaption>
+</figure>
+<figure markdown>
+![À propos et mentions légales : l’application et sa version, puis les conditions d’utilisation avec leur date d’acceptation, la politique de confidentialité et les licences de logiciels libres.](images/screenshots/fr/about.png){ .shot }
+<figcaption><b>À propos et mentions légales.</b> Conditions, confidentialité et licences.</figcaption>
+</figure>
+<figure markdown>
+![Licences de logiciels libres : les bibliothèques regroupées par licence, chacune avec sa version, et un bouton pour lire la licence.](images/screenshots/fr/licences.png){ .shot }
+<figcaption><b>Licences de logiciels libres.</b> Produites à partir de l’application.</figcaption>
 </figure>
 </div>
 

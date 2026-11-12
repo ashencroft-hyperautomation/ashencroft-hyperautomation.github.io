@@ -77,7 +77,7 @@ Taken with **Ullr Demo**, a version of the app filled with six months of made-up
 
 <div class="shots" markdown>
 <figure markdown>
-![The first-use screen: a short summary, the terms of use in French or English, the I accept box and Accept and continue.](images/screenshots/terms.png){ .shot }
+![The first-use screen: a short summary, the terms of use in French or English, links to the privacy policy and the licences, the I accept box and Accept and continue.](images/screenshots/terms.png){ .shot }
 <figcaption><b>Terms of use.</b> Accepted once, before anything else.</figcaption>
 </figure>
 <figure markdown>
@@ -87,6 +87,14 @@ Taken with **Ullr Demo**, a version of the app filled with six months of made-up
 <figure markdown>
 ![The Privacy page of Settings: what leaves the phone, the send only the target area switch, and what is sent and never sent.](images/screenshots/settings-privacy.png){ .shot }
 <figcaption><b>Privacy.</b> Exactly what is sent, and the target-only switch.</figcaption>
+</figure>
+<figure markdown>
+![About and legal: the app and its version, then the terms of use with the date they were accepted, the privacy policy and the open-source licences.](images/screenshots/about.png){ .shot }
+<figcaption><b>About and legal.</b> Terms, privacy policy and licences.</figcaption>
+</figure>
+<figure markdown>
+![Open-source licences: the libraries grouped by licence, each with its version, and a button to read the licence.](images/screenshots/licences.png){ .shot }
+<figcaption><b>Open-source licences.</b> Made from the app itself.</figcaption>
 </figure>
 </div>
 

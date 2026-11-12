@@ -2,6 +2,8 @@
 
 En bref : **votre historique reste sur votre téléphone.** Seule la photo de la cible en sort, et seulement pour être comptée, par le service d'IA que vous avez choisi. Avec le [comptage manuel](scoring-manual.md), rien n’en sort.
 
+Cette page l’explique simplement. Le texte officiel est la [politique de confidentialité](privacy-policy.md), aussi dans l’application sous **Réglages → À propos et mentions légales**.
+
 ## Ce qu'Ullr garde, et où
 
 ![Ce qu'Ullr garde, uniquement sur votre téléphone : vos arcs et vos lieux mènent aux séances ; chaque séance a des volées avec leur photo ; chaque volée a ses flèches ; les réglages gardent la langue, la méthode de comptage et la clé API, chiffrée.](images/diagrams/data-stored.fr.png)

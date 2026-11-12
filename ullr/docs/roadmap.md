@@ -9,7 +9,7 @@ Ullr is a personal project, built in the open. Here's where it stands.
 - [x] The line rule and your scoring rule (X = 10, inner 10, X = 11) explained to the AI with every photo
 - [x] The AI service of your choice (Anthropic, Google, OpenAI, or any OpenAI-compatible service at your own address), with your own key
 - [x] Scoring without a key: share the photo with the AI app on your phone and paste its answer
-- [x] Terms of use in French and English, accepted at first launch and readable in Settings
+- [x] Terms of use and privacy policy in French and English, accepted at first launch, with the open-source licences, in Settings → About and legal
 - [x] Erase data (all sessions, or everything), and reset experience and badges from the trophies
 - [x] Manual scoring, with no AI: tap each arrow on the photo and pick its ring, or tap the scores without a photo
 - [x] Works without signal: photos are saved and scored later, or scored by hand
@@ -33,7 +33,7 @@ Ullr is a personal project, built in the open. Here's where it stands.
 
 ## Google Play
 
-- [ ] Privacy policy page, store listing in English and French, testing with club archers, then release
+- [ ] Store listing in English and French, testing with club archers, then release
 
 ## Ideas
 
