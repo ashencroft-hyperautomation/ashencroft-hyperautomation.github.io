@@ -89,6 +89,10 @@ Prises avec **Ullr Demo**, une version de l'application remplie de six mois de s
 <figcaption><b>Confidentialité.</b> Exactement ce qui est envoyé, et l'option « zone de la cible seulement ».</figcaption>
 </figure>
 <figure markdown>
+![Lieux enregistrés : chaque lieu avec ses séances et sa dernière utilisation, un crayon pour renommer et une corbeille pour supprimer.](images/screenshots/fr/places.png){ .shot }
+<figcaption><b>Lieux enregistrés.</b> Renommer, fusionner ou supprimer; les séances restent.</figcaption>
+</figure>
+<figure markdown>
 ![À propos et mentions légales : l’application et sa version, puis les conditions d’utilisation avec leur date d’acceptation, la politique de confidentialité et les licences de logiciels libres.](images/screenshots/fr/about.png){ .shot }
 <figcaption><b>À propos et mentions légales.</b> Conditions, confidentialité et licences.</figcaption>
 </figure>

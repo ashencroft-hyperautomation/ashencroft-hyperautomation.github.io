@@ -17,7 +17,7 @@ Une séance, c’est une visite au pas de tir : un lieu, une date, un arc et une
 
 Dans l’onglet **Accueil**, touchez **Commencer une séance**, puis remplissez :
 
-- **Lieu** : tapez-en un nouveau, ou choisissez-en un déjà utilisé.
+- **Lieu** : tapez-en un nouveau, ou choisissez-en un déjà utilisé. Pour corriger une faute de frappe, réunir deux noms du même terrain ou en retirer un, voir [Lieux enregistrés](#lieux-enregistres).
 - **Date** : maintenant, par défaut.
 - **Discipline** : tir sur cible (par défaut), tir en campagne, tir 3D ou para-tir à l’arc.
 - **Type d’arc** (arc nu, arc recourbé ou arc à poulies, chacun avec son petit dessin) et **arc**. Les valeurs par défaut de l’arc remplissent le reste. Voir [Arcs](bows.md).
@@ -42,3 +42,13 @@ Avec le comptage automatique, pas besoin d’attendre : tirez la volée suivante
 - **Supprimer cette séance** l’efface, après confirmation.
 
 Une séance en cours apparaît dans l’onglet **Accueil** avec **Reprendre**. Si l’application se ferme pendant une séance, rien n’est perdu.
+
+## Lieux enregistrés
+
+![Lieux enregistrés : chaque lieu avec son nombre de séances et la date de sa dernière utilisation, avec un crayon pour le renommer et une corbeille pour le supprimer.](images/screenshots/fr/places.png){ .shot width="220" align=right }
+
+**Réglages → Lieux enregistrés** liste tous les lieux que vous avez saisis, du plus récent au plus ancien, avec le nombre de séances qui y ont eu lieu.
+
+- **Renommer** (le crayon, ou touchez le lieu) : corrige une faute de frappe partout à la fois, puisque toutes les séances qui y ont eu lieu suivent.
+- **Fusionner** : donnez à un lieu le nom d’un autre (*terrain du club* et *Terrain du club*, par exemple). Ullr vous le dit d’abord, et le bouton devient **Fusionner**. Les séances des deux se retrouvent sous un seul nom.
+- **Supprimer** (la corbeille), après confirmation : le lieu quitte la liste, et les séances qui y ont eu lieu sont conservées, sans lieu.

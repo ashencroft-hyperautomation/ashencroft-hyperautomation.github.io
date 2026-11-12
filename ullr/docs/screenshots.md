@@ -89,6 +89,10 @@ Taken with **Ullr Demo**, a version of the app filled with six months of made-up
 <figcaption><b>Privacy.</b> Exactly what is sent, and the target-only switch.</figcaption>
 </figure>
 <figure markdown>
+![Saved places: each place with its sessions and last use, a pencil to rename and a bin to delete.](images/screenshots/places.png){ .shot }
+<figcaption><b>Saved places.</b> Rename, merge or delete; sessions stay.</figcaption>
+</figure>
+<figure markdown>
 ![About and legal: the app and its version, then the terms of use with the date they were accepted, the privacy policy and the open-source licences.](images/screenshots/about.png){ .shot }
 <figcaption><b>About and legal.</b> Terms, privacy policy and licences.</figcaption>
 </figure>

@@ -11,6 +11,7 @@ Ullr is a personal project, built in the open. Here's where it stands.
 - [x] Scoring without a key: share the photo with the AI app on your phone and paste its answer
 - [x] Terms of use and privacy policy in French and English, accepted at first launch, with the open-source licences, in Settings → About and legal
 - [x] Erase data (all sessions, or everything), and reset experience and badges from the trophies
+- [x] Rename, merge and delete saved places, keeping every session
 - [x] Manual scoring, with no AI: tap each arrow on the photo and pick its ring, or tap the scores without a photo
 - [x] Works without signal: photos are saved and scored later, or scored by hand
 - [x] Dashboard, history, scoresheet and score-by-end chart

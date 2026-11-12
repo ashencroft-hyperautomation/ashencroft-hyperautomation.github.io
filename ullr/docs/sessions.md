@@ -17,7 +17,7 @@ A session is one visit to the range: a place, a date, a bow and a round, and the
 
 On the Dashboard, tap **Start session** (*Commencer une séance*), then fill in:
 
-- **Location** (*Lieu*): type a new one, or pick one you used before.
+- **Location** (*Lieu*): type a new one, or pick one you used before. To fix a typo, merge two names for the same range, or remove one, see [Saved places](#saved-places).
 - **Date**: now by default.
 - **Discipline**: target archery (the default), field archery, 3D archery or para archery.
 - **Bow type** (barebow, recurve bow or compound bow, each with its small drawing) and **bow**. The bow's defaults fill in the rest. See [Bows](bows.md).
@@ -42,3 +42,13 @@ With automatic scoring you don't have to wait: shoot the next end while the prev
 - **Discard this session** (*Supprimer cette séance*) deletes it, after asking.
 
 A session in progress shows on the Dashboard with **Resume** (*Reprendre*). If the app is closed during a session, nothing is lost.
+
+## Saved places
+
+![Saved places: each place with its number of sessions and the date it was last used, with a pencil to rename it and a bin to delete it.](images/screenshots/places.png){ .shot width="220" align=right }
+
+**Settings → Saved places** (*Réglages → Lieux enregistrés*) lists every place you've typed, most recently used first, with how many sessions you shot there.
+
+- **Rename** (the pencil, or tap the place): fixes a typo everywhere at once, since every session shot there follows.
+- **Merge:** give a place the name of another one (*club field* and *Club Field*, say). Ullr says so first, and the button reads **Merge** (*Fusionner*). The sessions of both end up under one name.
+- **Delete** (the bin), after asking: the place leaves the list, and the sessions shot there are kept, with no place.

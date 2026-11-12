@@ -11,6 +11,7 @@ Ullr est un projet personnel, construit au grand jour. Voici où il en est.
 - [x] Le comptage sans clé : partagez la photo avec l’application d’IA de votre téléphone et collez sa réponse
 - [x] Conditions d’utilisation et politique de confidentialité en français et en anglais, acceptées au premier lancement, avec les licences de logiciels libres, dans Réglages → À propos et mentions légales
 - [x] Effacer les données (toutes les séances, ou tout), et remettre à zéro l’expérience et les insignes depuis les trophées
+- [x] Renommer, fusionner et supprimer les lieux enregistrés, sans perdre aucune séance
 - [x] Le comptage manuel, sans IA : touchez chaque flèche sur la photo et choisissez sa zone, ou touchez les points sans photo
 - [x] Fonctionne sans réseau : les photos sont enregistrées et comptées plus tard, ou saisies à la main
 - [x] Tableau de bord, historique, feuille de marque et graphique des volées
