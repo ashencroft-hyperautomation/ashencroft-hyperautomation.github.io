@@ -53,7 +53,7 @@ Walk to the **mirror** to dress your archer. The preview stays at the top while 
 <figcaption><b>The mirror.</b> Pick, and see it at once.</figcaption>
 </figure>
 <figure markdown>
-![Six archers seen from the front, the side and the back: a helmet and beard; a fur hat and fur mantle; a flower crown with braids and a scarf; a headband with a hammer amulet; glasses; and the outfits to earn, gold circlet, gold cloak, royal purple tunic and medal.](images/game-outfits.png){ width="360" .pixel }
+![Eight archers seen from the front, the side and the back: a helmet and beard; a fur hat and fur mantle; a flower crown with braids and a scarf; a headband with a hammer amulet; glasses; and the outfits to earn: a gold circlet with a royal purple tunic and a medal, a laurel wreath with a silver cloak, and a feathered hat with a quiver.](images/game-outfits.png){ width="360" .pixel }
 <figcaption><b>Outfits</b>, drawn from every side.</figcaption>
 </figure>
 </div>
@@ -63,9 +63,9 @@ Walk to the **mirror** to dress your archer. The preview stays at the top while 
 | Skin | Five tones |
 | Hair | Long, short, braids or a hood, in five colours |
 | Beard | With or without |
-| Tunic, cloak, trousers | Six, five and five colours, and no cloak if you prefer; a **royal purple tunic** (level 8) and a **gold cloak** (level 5) to earn |
-| Headwear | Helmet, fur hat, flower crown, headband; a **gold circlet** to earn (level 3) |
-| Accessory | Fur mantle, scarf, hammer amulet, glasses; a **medal** to earn (badge *New record*) |
+| Tunic, cloak, trousers | Six, five and five colours, and no cloak if you prefer; a **royal purple tunic** (level 8), a **gold cloak** (level 5) and a **silver cloak** (badge *Ten X*) to earn |
+| Headwear | Helmet, fur hat, flower crown, headband; a **gold circlet** (level 3), a **laurel wreath** (badge *Perfect end*) and a **feathered hat** (badge *Explorer*) to earn |
+| Accessory | Fur mantle, scarf, hammer amulet, glasses; a **quiver** (badge *First end*) and a **medal** (badge *New record*) to earn |
 
 ![Five archers from the front, side and back, with each hair style (long, short, braids, hood), five skin tones, beards and different tunic and cloak colours.](images/game-avatars.png){ width="330" .pixel }
 
@@ -77,9 +77,9 @@ Walk to the **mirror** to dress your archer. The preview stays at the top while 
 
 ## Companions
 
-Choose a companion at the mirror: a **dog**, a **cat**, a **fox**, or a **raven** (and one more to discover). It follows the path your archer walked, about a step behind, so it never cuts through the furniture, and sits beside you when you stop. The dog, cat and fox trot and wag their tails, and the raven hops.
+Choose a companion at the mirror: a **dog**, a **cat**, a **fox** or a **raven**, an **owl** once you've shot four weeks in a row, and one more to discover. It follows the path your archer walked, about a step behind, so it never cuts through the furniture, and sits beside you when you stop. The dog, cat and fox trot and wag their tails, the raven hops, and the owl hops and blinks its big eyes.
 
-![The four animal companions: a dog, a cat, a fox and a raven.](images/game-companions.png){ width="420" .pixel }
+![The animal companions: a dog, a cat, a fox, a raven and an owl.](images/game-companions.png){ width="420" .pixel }
 
 ## Levels, badges and trophies
 
@@ -96,20 +96,20 @@ Only real shooting earns anything: **10 experience** for each confirmed end, **3
 </figure>
 </div>
 
-- **Ten badges** for real milestones, gold once earned and grey until then:
+- **Ten badges** for real milestones, gold once earned and grey until then. Each one also earns a [reward](#rewards):
 
-| Medal | Badge | How to earn it |
-|:-:|-------|----------------|
-| ![Medal 1](images/game-medal-first-end.png){ width="36" .pixel } | **First end** | Confirm your first end |
-| ![Medal X](images/game-medal-first-x.png){ width="36" .pixel } | **First X** | Shoot an X |
-| ![Medal 10](images/game-medal-perfect-end.png){ width="36" .pixel } | **Perfect end** | Every arrow of an end in the 10 |
-| ![Medal XX](images/game-medal-ten-x.png){ width="36" .pixel } | **Ten X** | 10 X in one session |
-| ![Medal C](images/game-medal-arrows-100.png){ width="36" .pixel } | **100 arrows** | Shoot 100 arrows |
-| ![Medal M](images/game-medal-arrows-1000.png){ width="36" .pixel } | **1,000 arrows** | Shoot 1,000 arrows (also earns the pelt in the hall) |
-| ![Medal S](images/game-medal-sessions-10.png){ width="36" .pixel } | **Ten sessions** | Finish 10 sessions (also earns the banner in the hall) |
-| ![Medal +](images/game-medal-personal-best.png){ width="36" .pixel } | **New record** | Beat your best score on a round (also earns the medal at the mirror) |
-| ![Medal *](images/game-medal-new-discipline.png){ width="36" .pixel } | **Explorer** | Shoot field, 3D or para archery |
-| ![Medal 4](images/game-medal-weeks-4.png){ width="36" .pixel } | **Four weeks** | Shoot four weeks in a row |
+| Medal | Badge | How to earn it | Reward |
+|:-:|-------|----------------|--------|
+| ![Medal 1](images/game-medal-first-end.png){ width="36" .pixel } | **First end** | Confirm your first end | Quiver |
+| ![Medal X](images/game-medal-first-x.png){ width="36" .pixel } | **First X** | Shoot an X | Painted target in the hall |
+| ![Medal 10](images/game-medal-perfect-end.png){ width="36" .pixel } | **Perfect end** | Every arrow of an end in the 10 | Laurel wreath |
+| ![Medal XX](images/game-medal-ten-x.png){ width="36" .pixel } | **Ten X** | 10 X in one session | Silver cloak |
+| ![Medal C](images/game-medal-arrows-100.png){ width="36" .pixel } | **100 arrows** | Shoot 100 arrows | Crossed arrows in the hall |
+| ![Medal M](images/game-medal-arrows-1000.png){ width="36" .pixel } | **1,000 arrows** | Shoot 1,000 arrows | Pelt by the rug |
+| ![Medal S](images/game-medal-sessions-10.png){ width="36" .pixel } | **Ten sessions** | Finish 10 sessions | Banner in the hall |
+| ![Medal +](images/game-medal-personal-best.png){ width="36" .pixel } | **New record** | Beat your best score on a round | Medal |
+| ![Medal *](images/game-medal-new-discipline.png){ width="36" .pixel } | **Explorer** | Shoot field, 3D or para archery | Feathered hat |
+| ![Medal 4](images/game-medal-weeks-4.png){ width="36" .pixel } | **Four weeks** | Shoot four weeks in a row | Owl companion |
 
 ![A medal not earned yet, in grey.](images/game-medal-locked.png){ width="36" .pixel } A medal not earned yet stays grey. The mark on each medal (numbers, Roman numerals) reads the same in English and French.
 
@@ -127,21 +127,28 @@ What you earn by shooting unlocks **rewards**, listed at the trophy wall. Nothin
 | **Gold circlet**, at the mirror | Reach level 3 |
 | **Gold cloak**, at the mirror | Reach level 5 |
 | **Royal purple tunic**, at the mirror | Reach level 8 |
-| **Medal**, at the mirror | Earn the badge *New record* |
-| **A banner in the hall**, on the left wall | Earn the badge *Ten sessions* |
+| **Quiver**, at the mirror | Earn the badge *First end* |
+| **A painted target in the hall**, on the left wall | Earn the badge *First X* |
+| **Laurel wreath**, at the mirror | Earn the badge *Perfect end* |
+| **Silver cloak**, at the mirror | Earn the badge *Ten X* |
+| **Crossed arrows in the hall**, above the mirror | Earn the badge *100 arrows* |
 | **A pelt by the rug** | Earn the badge *1,000 arrows* |
+| **A banner in the hall**, on the left wall | Earn the badge *Ten sessions* |
+| **Medal**, at the mirror | Earn the badge *New record* |
+| **Feathered hat**, at the mirror | Earn the badge *Explorer* |
+| **Owl**, a companion at the mirror | Earn the badge *Four weeks* |
 
 <div class="shots" markdown>
 <figure markdown>
-![The hall with both decorations: a woad banner with a gold target on the left wall, and a bear pelt beside the rug.](images/screenshots/game-hall-rewards.png){ .shot }
-<figcaption>The banner and the pelt, earned.</figcaption>
+![The hall with all four decorations: a woad banner and a painted target on the left wall, crossed arrows above the mirror, and a bear pelt beside the rug.](images/screenshots/game-hall-rewards.png){ .shot }
+<figcaption>Every decoration, earned.</figcaption>
 </figure>
 <figure markdown>
-![The trophy wall's rewards: gold circlet, gold cloak, royal purple tunic and medal at the mirror; a banner and a pelt in the hall.](images/screenshots/game-rewards.png){ .shot }
+![The trophy wall's rewards: gold circlet, gold cloak, royal purple tunic, quiver, painted target, silver cloak, crossed arrows, pelt and banner earned; laurel wreath still to earn, with its badge.](images/screenshots/game-rewards.png){ .shot }
 <figcaption><b>Rewards</b>, at the trophy wall.</figcaption>
 </figure>
 <figure markdown>
-![At the mirror, To earn: gold circlet at level 3, gold cloak at level 5, royal purple tunic at level 8, medal with the New record badge.](images/screenshots/game-earn.png){ .shot }
+![At the mirror, To earn: laurel wreath with the Perfect end badge, feathered hat with the Explorer badge.](images/screenshots/game-earn.png){ .shot }
 <figcaption><b>To earn</b>, at the mirror.</figcaption>
 </figure>
 </div>

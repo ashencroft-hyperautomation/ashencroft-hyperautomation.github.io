@@ -163,8 +163,8 @@ Prises avec **Ullr Demo**, une version de l'application remplie de six mois de s
 <figcaption><b>Les réglages, regroupés par thème.</b></figcaption>
 </figure>
 <figure markdown>
-![La maison avec une bannière sur le mur de gauche et une peau d’ours près du tapis, toutes deux gagnées.](images/screenshots/fr/game-hall-rewards.png){ .shot }
-<figcaption><b>Décorations gagnées.</b> Une bannière et une peau de bête.</figcaption>
+![La maison avec une bannière et une cible peinte sur le mur de gauche, des flèches croisées au-dessus du miroir et une peau d’ours près du tapis, toutes gagnées.](images/screenshots/fr/game-hall-rewards.png){ .shot }
+<figcaption><b>Décorations gagnées.</b> Une bannière, une cible peinte, des flèches croisées et une peau de bête.</figcaption>
 </figure>
 <figure markdown>
 ![Les récompenses au mur des trophées : des tenues au miroir, des décorations dans la maison.](images/screenshots/fr/game-rewards.png){ .shot }

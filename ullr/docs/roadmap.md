@@ -26,7 +26,7 @@ Ullr is a personal project, built in the open. Here's where it stands.
 
 ## Coming
 
-- [x] **Game mode:** outfits and hall decorations earned by levels and badges, a war horn for a personal best, and the range in four seasons
+- [x] **Game mode:** outfits and hall decorations earned by levels and badges, a reward for every badge (a quiver, a laurel wreath, a silver cloak, a feathered hat, an owl companion, a painted target and crossed arrows), a war horn for a personal best, and the range in four seasons
 
 - [x] **Your data, your way:** export (everything, records only, or photos only) to a folder you choose, restore on the same or a new phone, and free up space by removing old photos
 - [x] Share a session summary, as text or with a picture of the scoresheet

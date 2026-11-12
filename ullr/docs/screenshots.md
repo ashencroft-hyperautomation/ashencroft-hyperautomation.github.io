@@ -163,8 +163,8 @@ Taken with **Ullr Demo**, a version of the app filled with six months of made-up
 <figcaption><b>Settings, grouped by topic.</b></figcaption>
 </figure>
 <figure markdown>
-![The hall with a banner on the left wall and a bear pelt by the rug, both earned.](images/screenshots/game-hall-rewards.png){ .shot }
-<figcaption><b>Decorations, earned.</b> A banner and a pelt.</figcaption>
+![The hall with a banner and a painted target on the left wall, crossed arrows above the mirror and a bear pelt by the rug, all earned.](images/screenshots/game-hall-rewards.png){ .shot }
+<figcaption><b>Decorations, earned.</b> A banner, a painted target, crossed arrows and a pelt.</figcaption>
 </figure>
 <figure markdown>
 ![The trophy wall's rewards: outfits at the mirror, decorations in the hall.](images/screenshots/game-rewards.png){ .shot }
