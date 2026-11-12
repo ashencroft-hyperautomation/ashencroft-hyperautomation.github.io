@@ -221,7 +221,7 @@ Modifier un arc plus tard ne change pas les séances passées.
 </figure>
 </div>
 
-- **Exporter** tout, les données seulement ou les photos seulement, en un fichier ZIP enregistré où vous voulez : Téléchargements, Google Drive, une carte mémoire. Les clés API et les réglages n’y sont jamais inclus. Gardez ce fichier en lieu sûr.
+- **Exporter** tout, les données seulement ou les photos seulement, en un fichier ZIP enregistré où vous voulez : Téléchargements, Google Drive, une carte mémoire. Votre apparence, le mode et vos choix de comptage suivent ; les clés API, jamais. Gardez ce fichier en lieu sûr.
 - **Restaurer** un export sur le même téléphone ou un nouveau. Ullr montre ce que contient le fichier et ne change rien tant que vous n’avez pas confirmé. Sur un nouveau téléphone, entrez à nouveau votre clé API.
 - **Libérer de l’espace** en supprimant les photos en taille réelle des séances de plus de 3 mois, 6 mois ou un an. Les miniatures, les scores et les flèches restent.
 
