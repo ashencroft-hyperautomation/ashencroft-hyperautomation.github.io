@@ -39,6 +39,8 @@ Settings shows the same list, under **What is sent to …**, for the service you
 | [Share with your AI app](scoring-share.md) | The same photo and the prompt, shared **by you** with the app you pick. No key. It goes through your own account in that app, under its terms. |
 | [Manual](scoring-manual.md) | Nothing: no photo, no score, no key. |
 
+**Sharing a session** sends its summary (and, if you choose, a picture of the scoresheet) only to the app you pick, when you tap [Share](sessions.md#share-a-session). Never the photos of your ends.
+
 ## What each service does with it
 
 | Service | Used to train AI? | Kept |

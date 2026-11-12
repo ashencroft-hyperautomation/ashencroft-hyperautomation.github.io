@@ -83,7 +83,7 @@ Les mêmes données, le même comptage : choisissez celle qui vous plaît, et ch
 
     ---
 
-    Lieu, discipline, arc, distance, blason et flèches par volée. Une photo par volée, même sans réseau.
+    Lieu, discipline, arc, distance, blason et flèches par volée. Une photo par volée, même sans réseau. Records personnels par épreuve, et un résumé à partager.
 
 -   :material-target: **[Vérifier les flèches](review.md)**
 
@@ -107,7 +107,7 @@ Les mêmes données, le même comptage : choisissez celle qui vous plaît, et ch
 
     ---
 
-    Chaque séance avec ses photos, un graphique du score par volée, les tendances, la régularité et le groupement de vos flèches.
+    Chaque séance avec ses photos, un graphique du score par volée, les tendances, la régularité, le groupement de vos flèches et une carte de chaleur par spot, par distance et par blason.
 
 -   :material-archive-outline: **[Stockage et sauvegarde](backup.md)**
 

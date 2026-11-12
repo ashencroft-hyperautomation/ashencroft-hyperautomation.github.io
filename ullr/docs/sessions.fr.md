@@ -40,6 +40,20 @@ Avec le comptage automatique, pas besoin d’attendre : tirez la volée suivante
 - **Modifier** change la règle de comptage, à tout moment. Tous les totaux sont recalculés.
 - **Terminer**. Les volées non validées ne comptent pas tant que vous ne les validez pas, ce que vous pouvez encore faire plus tard.
 - **Supprimer cette séance** l’efface, après confirmation.
+- **Record personnel :** une fois terminée, la séance dit où elle se situe sur son épreuve (même distance, blason, blasons sur la butte et nombre de flèches) : votre record personnel, et le score qu’elle a battu; égale au record; ou le record à battre.
+
+## Partager une séance
+
+![Le résumé de la séance avec sa ligne de record personnel, et le menu Partager ouvert : En texte, ou Avec une image de la feuille de marque.](images/screenshots/fr/session-share.png){ .shot width="220" align=right }
+
+Le bouton **Partager cette séance**, en haut d’une séance qui a au moins une volée validée, ouvre la fenêtre de partage du téléphone : courriel, messages, une conversation avec votre entraîneur.
+
+- **En texte** : la date, l’arc et le lieu, l’épreuve, la règle de comptage, le total, la moyenne et le nombre de X, puis chaque volée avec ses flèches, son total et le cumul.
+- **Avec une image de la feuille de marque** : le même texte, plus une image avec les totaux et chaque flèche dans la couleur de sa zone.
+
+![L’image de la feuille de marque : les renseignements et le total de la séance sur un bandeau foncé, puis une ligne par volée avec ses flèches dans la couleur de leur zone, le total de la volée et le cumul.](images/screenshots/fr/share-card.png){ .shot width="220" }
+
+Seul ce que montre l’écran de la séance est partagé, et seulement avec l’application choisie : jamais les photos de vos volées.
 
 Une séance en cours apparaît dans l’onglet **Accueil** avec **Reprendre**. Si l’application se ferme pendant une séance, rien n’est perdu.
 

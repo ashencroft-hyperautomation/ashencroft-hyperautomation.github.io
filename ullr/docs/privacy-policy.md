@@ -1,6 +1,6 @@
 # Privacy policy
 
-*Version 1 · Effective November 12, 2026*
+*Version 2 · Effective November 12, 2026*
 
 This policy explains what information the Ullr application (the "App") handles, where it is kept, when it leaves your device and what you can do about it. It is part of the terms of use. "Developer" means the developer of Ullr.
 
@@ -32,6 +32,8 @@ Your name, places, history, scores and details about your device are never sent.
 **Sharing with your AI app.** The App prepares the photo and a prompt, and you choose the app to share them with, using Android's share sheet. What happens next is between you and that app.
 
 **Manual scoring.** Nothing leaves your device.
+
+**Sharing a session.** When you tap Share on a session, the App prepares a summary (date, bow, place, round, scores and, if you choose, a picture of the scoresheet), and you choose the app to share it with. The photos of your ends are never included.
 
 **Exports.** When you export your records, the App writes one file where you choose (for example, your Downloads or a cloud drive). API keys and service addresses are never put in an export. Keep the file somewhere private: anyone with the file can read your records.
 

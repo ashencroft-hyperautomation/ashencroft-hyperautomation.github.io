@@ -1,6 +1,6 @@
 # Politique de confidentialité
 
-*Version 1 · En vigueur le 12 novembre 2026*
+*Version 2 · En vigueur le 12 novembre 2026*
 
 La présente politique explique quels renseignements l’application Ullr (l’« Application ») traite, où ils sont conservés, quand ils quittent votre appareil et ce que vous pouvez faire à leur égard. Elle fait partie des conditions d’utilisation. Le « Développeur » désigne le développeur d’Ullr.
 
@@ -32,6 +32,8 @@ Votre nom, vos lieux, votre historique, vos pointages et les détails de votre a
 **Partage avec votre application d’IA.** L’Application prépare la photo et une requête, et vous choisissez l’application avec laquelle les partager, au moyen de la fenêtre de partage d’Android. La suite se passe entre vous et cette application.
 
 **Comptage manuel.** Rien ne quitte votre appareil.
+
+**Partage d’une séance.** Lorsque vous touchez Partager sur une séance, l’Application prépare un résumé (date, arc, lieu, épreuve, pointages et, si vous le choisissez, une image de la feuille de marque), et vous choisissez l’application avec laquelle le partager. Les photos de vos volées n’y sont jamais incluses.
 
 **Exportations.** Lorsque vous exportez vos registres, l’Application écrit un fichier à l’endroit que vous choisissez (par exemple, vos téléchargements ou un espace de stockage en ligne). Les clés API et les adresses des services ne sont jamais incluses dans une exportation. Gardez ce fichier en lieu sûr : quiconque l’a en main peut lire vos registres.
 

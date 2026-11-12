@@ -83,7 +83,7 @@ Same records, same scoring: pick the one you like, and switch at any time in **S
 
     ---
 
-    Place, discipline, bow, distance, face and arrows per end. One photo per end, even with no signal.
+    Place, discipline, bow, distance, face and arrows per end. One photo per end, even with no signal. Personal bests per round, and a summary to share.
 
 -   :material-target: **[Checking arrows](review.md)**
 
@@ -107,7 +107,7 @@ Same records, same scoring: pick the one you like, and switch at any time in **S
 
     ---
 
-    Every session with its photos, a score-by-end chart, trends, consistency and where your arrows group.
+    Every session with its photos, a score-by-end chart, trends, consistency, where your arrows group and a heat map per spot, by distance and face.
 
 -   :material-archive-outline: **[Storage and backup](backup.md)**
 

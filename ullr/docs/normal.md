@@ -21,7 +21,7 @@ The app as you'd expect it: a tab bar at the bottom, and screens that open from 
 
 | Tab | What's there |
 |-----|--------------|
-| **Dashboard** (*Accueil*) | Sessions, average per arrow, best total, X count and recent sessions. A session in progress shows at the top with **Resume** (*Reprendre*). **Start session** (*Commencer une séance*) is the round button. |
+| **Dashboard** (*Accueil*) | Sessions, average per arrow, best total, X count, your **personal bests** per round (*Records personnels*) and recent sessions. A session in progress shows at the top with **Resume** (*Reprendre*). **Start session** (*Commencer une séance*) is the round button. |
 | **History** (*Historique*) | Every finished session, by month, filtered by bow. See [History and statistics](stats.md). |
 | **Bows** (*Arcs*) | Your bows. See [Bows](bows.md). |
 | **Stats** | Trends, rings, consistency and where your arrows group. See [History and statistics](stats.md). |

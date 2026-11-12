@@ -39,6 +39,18 @@ Taken with **Ullr Demo**, a version of the app filled with six months of made-up
 <figcaption><b>Dashboard.</b> Sessions, average per arrow, best total, X count.</figcaption>
 </figure>
 <figure markdown>
+![Personal bests on the Dashboard: one row per round, with its date, out of how many sessions, and the score.](images/screenshots/dashboard-bests.png){ .shot }
+<figcaption><b>Personal bests.</b> One per round.</figcaption>
+</figure>
+<figure markdown>
+![A finished session with its personal best line and the Share menu.](images/screenshots/session-share.png){ .shot }
+<figcaption><b>Share a session.</b> As text, or with a scoresheet picture.</figcaption>
+</figure>
+<figure markdown>
+![The shared scoresheet picture, every arrow in its ring's colour.](images/screenshots/share-card.png){ .shot }
+<figcaption><b>The scoresheet picture.</b></figcaption>
+</figure>
+<figure markdown>
 ![History: sessions grouped by month, with a filter by bow.](images/screenshots/history.png){ .shot }
 <figcaption><b>History.</b> Every session by month, filtered by bow.</figcaption>
 </figure>
@@ -116,6 +128,10 @@ Taken with **Ullr Demo**, a version of the app filled with six months of made-up
 <figure markdown>
 ![Where your arrows group, and rounds.](images/screenshots/stats-group.png){ .shot }
 <figcaption><b>Grouping and rounds.</b></figcaption>
+</figure>
+<figure markdown>
+![Where your arrows land: a heat map per spot of a 3-spot face, with each spot's average.](images/screenshots/stats-heat.png){ .shot }
+<figcaption><b>Heat map per spot.</b> By distance and face.</figcaption>
 </figure>
 </div>
 

@@ -25,10 +25,22 @@ Aucune IA, et rien ne sort du téléphone. Vous photographiez quand même la vol
 
 À l’appareil photo, touchez **Sans photo**. La volée s’ouvre avec le clavier des zones en haut : touchez une zone par flèche, dans n’importe quel ordre. Le clavier reste en place pendant que la liste des flèches s’allonge en dessous : vous pouvez toucher rapidement.
 
+## Marquer la cible
+
+![Le marquage de la cible : le premier spot entouré en vert avec une croix au centre, et la carte qui demande le centre du spot 2.](images/screenshots/fr/mark-target.png){ .shot width="220" align=right }
+
+Dès qu’une flèche est sur la photo, **Marquer la cible** donne à vos flèches leur position sur le blason, pour qu’elles comptent dans **Où se groupent vos flèches** et **Où arrivent vos flèches** :
+
+1. Touchez le centre de la cible.
+2. Touchez le bord extérieur de sa dernière zone (la zone 6 sur un trispot, la zone 1 sur un blason complet).
+3. Sur un trispot, faites de même pour chaque spot, dans l’ordre : les blasons de gauche à droite, et sur chaque blason de haut en bas. **Arrêter ici** laisse les autres sans marque.
+
+Les marques s’affichent en cercles verts. Les flèches placées ensuite ont aussi leur position. Les repères deviennent aussi plus petits sur les petits spots, pour que les flèches proches ne se cachent pas.
+
 ## Bon à savoir
 
 - Rien n’est envoyé, jamais : ni photo, ni score, ni clé. La page [Confidentialité](privacy.md) des réglages le dit aussi.
 - Ça fonctionne sans aucun réseau.
 - Les volées photographiées avant de passer au comptage manuel s’ouvrent directement en mode placement.
 - Vous pouvez passer à une autre méthode à tout moment ; vos volées manuelles restent telles quelles.
-- Les flèches placées à la main comptent dans toutes les statistiques, sauf **Où se groupent vos flèches**, qui a besoin de la position de la cible sur la photo : seule l’IA la mesure.
+- Les flèches placées à la main comptent dans toutes les statistiques. Pour **Où se groupent vos flèches** et la carte de chaleur, [marquez la cible](#marquer-la-cible) d’abord.

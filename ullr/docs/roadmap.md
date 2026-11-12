@@ -13,6 +13,7 @@ Ullr is a personal project, built in the open. Here's where it stands.
 - [x] Erase data (all sessions, or everything), and reset experience and badges from the trophies
 - [x] Rename, merge and delete saved places, keeping every session
 - [x] Manual scoring, with no AI: tap each arrow on the photo and pick its ring, or tap the scores without a photo
+- [x] Manual scoring: mark the target once, so hand-placed arrows count in **Where your arrows group** and the heat map
 - [x] Works without signal: photos are saved and scored later, or scored by hand
 - [x] Dashboard, history, scoresheet and score-by-end chart
 - [x] Bows, with a catalog of current compound bows, draw weight and draw length
@@ -28,9 +29,11 @@ Ullr is a personal project, built in the open. Here's where it stands.
 - [ ] **Game mode:** outfits unlocked by levels and badges
 
 - [x] **Your data, your way:** export (everything, records only, or photos only) to a folder you choose, restore on the same or a new phone, and free up space by removing old photos
-- [ ] Share a session summary by email or message
+- [x] Share a session summary, as text or with a picture of the scoresheet
 - [x] Statistics: average over time, volume, score distribution, consistency, fatigue over a session, where your arrows group, records per round
-- [ ] Best scores per round type (for example 18 m, 60 arrows)
+- [x] Personal bests per round type (for example 18 m, 60 arrows), on the Dashboard and each session
+- [x] Statistics by distance and face, and a heat map per spot
+- [x] Smaller markers where arrows are close together
 
 ## Google Play
 
@@ -38,4 +41,3 @@ Ullr is a personal project, built in the open. Here's where it stands.
 
 ## Ideas
 
-- [ ] Manual scoring: mark the target's centre and edge once, so hand-placed arrows show in **Where your arrows group**

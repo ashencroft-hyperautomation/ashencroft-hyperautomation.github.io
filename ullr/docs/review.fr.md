@@ -19,7 +19,7 @@ Avant qu’une volée compte, vous la vérifiez : le résultat de l’IA avec la
 
 ## Sur la photo
 
-Chaque flèche porte un repère blanc avec sa zone. Écartez deux doigts pour zoomer, faites glisser pour vous déplacer, touchez deux fois pour revenir.
+Chaque flèche porte un repère blanc avec sa zone. Là où les flèches sont proches, leurs repères rapetissent pour ne pas se cacher; zoomez et ils reprennent leur taille. Écartez deux doigts pour zoomer, faites glisser pour vous déplacer, touchez deux fois pour revenir.
 
 - **Cercle orange :** vérifiez cette flèche. Elle est près d’une ligne, l’IA n’était pas sûre, deux flèches sont dans le même spot d’un trispot, ou vous l’avez placée sans encore choisir sa zone (**?**).
 - **Touchez une flèche** pour la sélectionner, puis touchez la bonne zone. Le deuxième choix de l’IA est mis en évidence, avec sa confiance.

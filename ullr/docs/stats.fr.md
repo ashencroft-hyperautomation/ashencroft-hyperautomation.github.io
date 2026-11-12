@@ -24,12 +24,15 @@ Chaque séance reste sur votre téléphone avec ses photos. L’onglet **Histori
 
 ## Statistiques
 
-Sur une période (de 4 semaines à tout) et pour un arc :
+Sur une période (de 4 semaines à tout), pour un arc, une distance et un blason (les trois derniers seulement si vous en avez tiré plus d’un) :
 
 - **Moyenne par flèche** et sa tendance par séance, **flèches tirées** et **flèches par semaine** (volume d’entraînement sur 12 semaines).
 - Parts de **10 et X**, d’**or** (9 à X) et de **manqués**, et combien de flèches dans chaque zone.
 - **Régularité :** votre meilleure volée, l’écart d’une volée à l’autre (plus c’est bas, plus c’est régulier), et la seconde moitié de vos séances contre la première (fatigue).
-- **Où se groupent vos flèches :** toutes les flèches placées par l’IA, sur une même cible, avec le centre du groupe (haut, bas, gauche ou droite : utile pour régler le viseur) et la dispersion. Les flèches placées à la main n’y sont pas, car seule l’IA mesure la cible sur la photo.
+- **Où se groupent vos flèches :** toutes les flèches placées, sur une même cible, avec le centre du groupe (haut, bas, gauche ou droite : utile pour régler le viseur) et la dispersion. Les flèches placées à la main comptent une fois la [cible marquée](scoring-manual.md#marquer-la-cible).
+- **Où arrivent vos flèches :** les mêmes flèches en carte de chaleur, plus foncée là où arrivent le plus de flèches, sur les zones du blason choisi. Sur un trispot tiré seul, une petite carte par spot avec sa moyenne, et votre meilleur spot et le plus faible.
 - **Épreuves :** pour chaque épreuve tirée, votre meilleur score, votre moyenne et votre dernier score.
+
+![Où arrivent vos flèches sur 2 trispots 40 cm à 18 m : une carte de chaleur sur les zones du spot, puis une petite carte par spot avec sa moyenne par flèche et son nombre de flèches.](images/screenshots/fr/stats-heat.png){ .shot width="220" }
 
 Seules les volées validées des séances terminées comptent. Pour repartir de zéro, voir [Effacer les données](backup.md#effacer-les-donnees).

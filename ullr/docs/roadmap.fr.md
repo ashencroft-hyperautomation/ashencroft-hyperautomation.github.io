@@ -13,6 +13,7 @@ Ullr est un projet personnel, construit au grand jour. Voici où il en est.
 - [x] Effacer les données (toutes les séances, ou tout), et remettre à zéro l’expérience et les insignes depuis les trophées
 - [x] Renommer, fusionner et supprimer les lieux enregistrés, sans perdre aucune séance
 - [x] Le comptage manuel, sans IA : touchez chaque flèche sur la photo et choisissez sa zone, ou touchez les points sans photo
+- [x] Comptage manuel : marquer la cible une fois, pour que les flèches placées à la main comptent dans **Où se groupent vos flèches** et la carte de chaleur
 - [x] Fonctionne sans réseau : les photos sont enregistrées et comptées plus tard, ou saisies à la main
 - [x] Tableau de bord, historique, feuille de marque et graphique des volées
 - [x] Vos arcs, avec un catalogue d'arcs à poulies actuels, la puissance et l'allonge
@@ -28,9 +29,11 @@ Ullr est un projet personnel, construit au grand jour. Voici où il en est.
 - [ ] **Mode jeu :** des tenues débloquées par les niveaux et les insignes
 
 - [x] **Vos données, à votre façon :** export (tout, les données seules ou les photos seules) vers le dossier de votre choix, restauration sur le même téléphone ou un nouveau, et libérer de la place en retirant les anciennes photos
-- [ ] Partager un résumé de séance par courriel ou par message
+- [x] Partager le résumé d’une séance, en texte ou avec une image de la feuille de marque
 - [x] Statistiques : moyenne dans le temps, volume, répartition des scores, régularité, fatigue au fil d'une séance, groupement de vos flèches, records par épreuve
-- [ ] Meilleurs scores par type d'épreuve (par exemple 18 m, 60 flèches)
+- [x] Records personnels par type d’épreuve (par exemple 18 m, 60 flèches), à l’accueil et sur chaque séance
+- [x] Statistiques par distance et par blason, et carte de chaleur par spot
+- [x] Repères plus petits là où les flèches sont proches
 
 ## Google Play
 
@@ -38,4 +41,3 @@ Ullr est un projet personnel, construit au grand jour. Voici où il en est.
 
 ## Idées
 
-- [ ] Comptage manuel : marquer une fois le centre et le bord de la cible, pour que les flèches placées à la main apparaissent dans **Où se groupent vos flèches**

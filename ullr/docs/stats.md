@@ -24,12 +24,15 @@ Every session stays on your phone with its photos. The **History** tab (*Histori
 
 ## Statistics
 
-For a period (4 weeks to all) and a bow:
+For a period (4 weeks to all), a bow, a distance and a face (the last three only when you've shot more than one):
 
 - **Average per arrow** and its trend by session, **arrows shot** and **arrows per week** (training volume over 12 weeks).
 - Shares of **10 and X**, **gold** (9 to X) and **misses**, and how many arrows land in each ring.
 - **Consistency:** your best end, the end-to-end spread (lower is steadier), and the second half of your sessions against the first (fatigue).
-- **Where your arrows group:** every arrow the AI placed, on one target, with the group centre (high, low, left or right: handy for sight marks) and the spread. Arrows placed by hand aren't in it, because only the AI measures the target on the photo.
+- **Where your arrows group:** every placed arrow, on one target, with the group centre (high, low, left or right: handy for sight marks) and the spread. Arrows placed by hand count once you've [marked the target](scoring-manual.md#mark-the-target).
+- **Where your arrows land** (*Où arrivent vos flèches*): the same arrows as a heat map, darker where more arrows land, over the rings of the face you chose. On a 3-spot face shot on its own, one small map per spot with its average, and which spot is your best and your weakest.
 - **Rounds:** for each round you shoot, your best, average and last score.
+
+![Where your arrows land on 2 × 40 cm triple faces at 18 m: a heat map over the spot's rings, then one small map per spot with its average per arrow and its number of arrows.](images/screenshots/stats-heat.png){ .shot width="220" }
 
 Only confirmed ends of finished sessions count. To start over, see [Erase data](backup.md#erase-data).

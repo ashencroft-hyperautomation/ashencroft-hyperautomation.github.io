@@ -39,6 +39,8 @@ Les réglages affichent la même liste, sous **Ce qui est envoyé à …**, pour
 | [Partager avec votre application d’IA](scoring-share.md) | La même photo et le texte, partagés **par vous** avec l’application que vous choisissez. Aucune clé. Ils passent par votre propre compte dans cette application, selon ses conditions. |
 | [Manuel](scoring-manual.md) | Rien : ni photo, ni score, ni clé. |
 
+**Partager une séance** envoie son résumé (et, si vous le choisissez, une image de la feuille de marque) seulement à l’application choisie, quand vous touchez [Partager](sessions.md#partager-une-seance). Jamais les photos de vos volées.
+
 ## Ce que chaque service en fait
 
 | Service | Sert à entraîner une IA ? | Conservation |

@@ -40,6 +40,20 @@ With automatic scoring you don't have to wait: shoot the next end while the prev
 - **Change** (*Modifier*) the scoring rule at any time. All the totals are recalculated.
 - **Finish** (*Terminer*). Ends that aren't confirmed don't count until you confirm them, which you can still do later.
 - **Discard this session** (*Supprimer cette séance*) deletes it, after asking.
+- **Personal best:** once finished, the session says where it stands on its round (same distance, face, paper faces and number of arrows): your personal best, and which score it beat; equal to it; or the best to beat.
+
+## Share a session
+
+![The session summary with its personal best line, and the Share menu open: As text, or With a picture of the scoresheet.](images/screenshots/session-share.png){ .shot width="220" align=right }
+
+The **Share** button (*Partager cette séance*), at the top of a session with at least one confirmed end, opens your phone's share sheet: email, messages, a chat with your coach.
+
+- **As text** (*En texte*): the date, bow and place, round, scoring rule, total, average and X count, then every end with its arrows, its total and the running total.
+- **With a picture of the scoresheet** (*Avec une image de la feuille de marque*): the same text, plus a picture with the totals and every arrow in its ring's colour.
+
+![The scoresheet picture: the session's facts and total on a dark band, then one row per end with its arrows in their ring colours, the end total and the running total.](images/screenshots/share-card.png){ .shot width="220" }
+
+Only what the session screen shows is shared, and only to the app you pick: never the photos of your ends.
 
 A session in progress shows on the Dashboard with **Resume** (*Reprendre*). If the app is closed during a session, nothing is lost.
 

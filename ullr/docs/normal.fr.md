@@ -21,7 +21,7 @@ L’application telle que vous l’attendez : une barre d’onglets en bas, et l
 
 | Onglet | Ce qu’on y trouve |
 |--------|-------------------|
-| **Accueil** | Séances, moyenne par flèche, meilleur total, nombre de X et séances récentes. Une séance en cours apparaît en haut avec **Reprendre**. **Commencer une séance** est le bouton rond. |
+| **Accueil** | Séances, moyenne par flèche, meilleur total, nombre de X, vos **records personnels** par épreuve et séances récentes. Une séance en cours apparaît en haut avec **Reprendre**. **Commencer une séance** est le bouton rond. |
 | **Historique** | Toutes les séances terminées, par mois, filtrées par arc. Voir [Historique et statistiques](stats.md). |
 | **Arcs** | Vos arcs. Voir [Arcs](bows.md). |
 | **Stats** | Tendances, zones, régularité et groupement de vos flèches. Voir [Historique et statistiques](stats.md). |

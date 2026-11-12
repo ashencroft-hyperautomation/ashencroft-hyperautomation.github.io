@@ -39,6 +39,18 @@ Prises avec **Ullr Demo**, une version de l'application remplie de six mois de s
 <figcaption><b>Tableau de bord.</b> Séances, moyenne par flèche, meilleur total, nombre de X.</figcaption>
 </figure>
 <figure markdown>
+![Les records personnels à l’accueil : une ligne par épreuve, avec sa date, sur combien de séances, et le score.](images/screenshots/fr/dashboard-bests.png){ .shot }
+<figcaption><b>Records personnels.</b> Un par épreuve.</figcaption>
+</figure>
+<figure markdown>
+![Une séance terminée avec sa ligne de record personnel et le menu Partager.](images/screenshots/fr/session-share.png){ .shot }
+<figcaption><b>Partager une séance.</b> En texte, ou avec une image de la feuille de marque.</figcaption>
+</figure>
+<figure markdown>
+![L’image de la feuille de marque partagée, chaque flèche dans la couleur de sa zone.](images/screenshots/fr/share-card.png){ .shot }
+<figcaption><b>L’image de la feuille de marque.</b></figcaption>
+</figure>
+<figure markdown>
 ![Historique : les séances par mois, avec un filtre par arc.](images/screenshots/fr/history.png){ .shot }
 <figcaption><b>Historique.</b> Toutes les séances par mois, filtrées par arc.</figcaption>
 </figure>
@@ -116,6 +128,10 @@ Prises avec **Ullr Demo**, une version de l'application remplie de six mois de s
 <figure markdown>
 ![Où se groupent vos flèches, et les épreuves.](images/screenshots/fr/stats-group.png){ .shot }
 <figcaption><b>Groupement et épreuves.</b></figcaption>
+</figure>
+<figure markdown>
+![Où arrivent vos flèches : une carte de chaleur par spot d’un trispot, avec la moyenne de chaque spot.](images/screenshots/fr/stats-heat.png){ .shot }
+<figcaption><b>Carte de chaleur par spot.</b> Par distance et par blason.</figcaption>
 </figure>
 </div>
 
