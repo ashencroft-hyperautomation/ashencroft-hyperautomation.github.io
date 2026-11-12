@@ -14,7 +14,7 @@ Ullr est un projet personnel, construit au grand jour. Voici où il en est.
 - [x] Français et anglais
 - [x] La confidentialité dès la conception : photos recadrées sur la cible, données cachées retirées, rien sur vous ni sur votre téléphone n'est envoyé
 - [x] Ullr Demo, avec six mois de séances d'exemple pour essayer chaque écran
-- [x] Les types d’arc des divisions World Archery (arc nu, classique, à poulies), et la discipline de chaque séance (tir sur cible, en campagne, 3D ou para-tir à l’arc)
+- [x] Les types d’arc des divisions World Archery (arc nu, recourbé, à poulies), et la discipline de chaque séance (tir sur cible, en campagne, 3D ou para-tir à l’arc)
 - [x] Trois styles : Original, Jour de tir (pour le plein soleil) et Tir de nuit (pour l’intérieur), avec les scores dans la couleur de leur zone
 - [x] Mode jeu (aperçu) : la maison et le pas de tir en pixel art, on marche jusqu’à un endroit pour l’ouvrir, votre propre archer, des compagnons, de la musique et des sons, et tous les écrans au style du jeu ; vos statistiques au coin du feu, et la volée à vérifier au porte-flèches
 

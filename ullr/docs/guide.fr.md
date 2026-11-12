@@ -86,7 +86,7 @@ La clé est chiffrée sur le téléphone. Elle n'est plus jamais affichée, et *
     - **Lieu** : tapez-en un nouveau, ou choisissez-en un déjà utilisé.
     - **Date** : maintenant, par défaut.
     - **Discipline** : tir sur cible (par défaut), tir en campagne, tir 3D ou para-tir à l’arc.
-    - **Type d'arc** (arc nu, arc classique ou arc à poulies) et **arc**. Les valeurs par défaut de l'arc remplissent le reste.
+    - **Type d'arc** (arc nu, arc recourbé ou arc à poulies) et **arc**. Les valeurs par défaut de l'arc remplissent le reste.
     - **Distance**, **blason**, **blasons sur la butte** (pour les trispots : combien il y en a sur la butte, par exemple 2 blasons = 6 spots) et **flèches par volée** (n'importe quel nombre, souvent 3 ou 6).
     - **Comptage** : la règle, proposée d'après les réglages et le type d'arc. Voir [Règles de comptage](#regles-de-comptage).
 
@@ -153,7 +153,7 @@ Touchez ensuite **Valider · volée suivante** pour revenir directement à l'app
 
 | Règle | Points |
 |-------|--------|
-| X et 10 valent 10 | Tout le 10 vaut 10. Les X départagent les égalités. Arc classique et arc nu World Archery, la plupart des clubs. |
+| X et 10 valent 10 | Tout le 10 vaut 10. Les X départagent les égalités. Arc recourbé et arc nu World Archery, la plupart des clubs. |
 | 10 intérieur seulement | Seul le petit cercle intérieur vaut 10 ; le reste du jaune vaut 9. Arc à poulies World Archery ; USA Archery et Tir à l'arc Canada suivent World Archery. |
 | X vaut 11 | Le X vaut 11. Certains tournois américains, comme le Lancaster Classic. |
 
@@ -165,7 +165,7 @@ Touchez ensuite **Valider · volée suivante** pour revenir directement à l'app
 
 <div class="shots" markdown>
 <figure markdown>
-![Liste des arcs : un arc classique et deux arcs à poulies avec puissance, allonge et valeurs par défaut.](images/screenshots/fr/bows.png){ .shot }
+![Liste des arcs : un arc recourbé et deux arcs à poulies avec puissance, allonge et valeurs par défaut.](images/screenshots/fr/bows.png){ .shot }
 <figcaption>Vos arcs</figcaption>
 </figure>
 <figure markdown>

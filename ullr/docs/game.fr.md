@@ -67,7 +67,7 @@ Rendez-vous au **miroir** pour habiller votre archer. L’aperçu reste en haut 
 | Coiffe | Casque, toque de fourrure, couronne de fleurs, bandeau |
 | Accessoire | Mantelet de fourrure, écharpe, amulette marteau, lunettes |
 
-**Au hasard** choisit une apparence au hasard. Votre archer tient le type de votre premier arc : arc nu, arc classique ou arc à poulies.
+**Au hasard** choisit une apparence au hasard. Votre archer tient le type de votre premier arc : arc nu, arc recourbé ou arc à poulies.
 
 **Archers légendaires.** En haut du miroir, quatre archers tout prêts règlent toute l’apparence et le compagnon en une touche : **Artémis**, déesse grecque de la chasse, avec son chien ; **Ullr**, dieu nordique du tir à l’arc et de l’hiver, en fourrures, avec un corbeau ; **Robin des Bois**, tout en vert, avec un renard ; et **Hou Yi**, l’archer chinois qui abattit neuf soleils. Changez ensuite ce que vous voulez.
 

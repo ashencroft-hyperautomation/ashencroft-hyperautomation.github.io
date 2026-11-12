@@ -43,7 +43,7 @@ Prises avec **Ullr Demo**, une version de l'application remplie de six mois de s
 <figcaption><b>Historique.</b> Toutes les séances par mois, filtrées par arc.</figcaption>
 </figure>
 <figure markdown>
-![Liste des arcs : un arc classique et deux arcs à poulies avec puissance, allonge et valeurs par défaut.](images/screenshots/fr/bows.png){ .shot }
+![Liste des arcs : un arc recourbé et deux arcs à poulies avec puissance, allonge et valeurs par défaut.](images/screenshots/fr/bows.png){ .shot }
 <figcaption><b>Arcs.</b> Chaque arc avec ses réglages.</figcaption>
 </figure>
 <figure markdown>
