@@ -33,13 +33,14 @@ Activez-le dans **Réglages → Mode → Jeu (aperçu)**. **Normal** revient en 
 | **Mur des trophées** | Votre historique |
 | **Bureau** | Les réglages |
 | **Miroir** | Votre archer |
-| **Âtre** | Les statistiques, bientôt |
+| **Âtre** | Vos statistiques, « au coin du feu » : dernière séance, moyenne par flèche, meilleur total, nombre de X |
 | **Porte** | Le pas de tir |
 
 | Sur le pas de tir | Ouvre |
 |-------------------|-------|
 | **Ligne de tir** | Une nouvelle séance, ou celle en cours |
 | **Cibles** | La séance en cours (pendant une séance, des flèches sont plantées dans les cibles) |
+| **Porte-flèches** | La volée qui attend votre vérification. Un **!** apparaît au-dessus quand une volée attend. |
 | **Chemin de la maison** | La maison |
 
 ## Votre archer
@@ -107,4 +108,4 @@ Le mode jeu n’envoie rien. L’apparence de votre archer, votre compagnon et v
 
 ## La suite
 
-Le mode jeu est un aperçu. À venir : l’âtre avec vos statistiques, le porte-flèches avec votre dernière volée, et des récompenses pour le vrai tir (de l’expérience pour chaque volée confirmée, des insignes pour de vraies étapes, un trophée au mur pour chaque record personnel). Voir la [feuille de route](roadmap.md).
+Le mode jeu est un aperçu. À venir : des récompenses pour le vrai tir (de l’expérience pour chaque volée confirmée, des insignes pour de vraies étapes, un trophée au mur pour chaque record personnel). Voir la [feuille de route](roadmap.md).

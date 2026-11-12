@@ -33,13 +33,14 @@ Turn it on in **Settings → Mode → Game (preview)** (*Réglages → Mode → 
 | **Trophy wall** | Your history |
 | **Writing desk** | Settings |
 | **Mirror** | Your archer |
-| **Hearth** | Statistics, coming soon |
+| **Hearth** | Your statistics, "by the fire": last session, average per arrow, best total, X count |
 | **Door** | The range |
 
 | On the range | Opens |
 |--------------|-------|
 | **Shooting line** | A new session, or the one in progress |
 | **Targets** | The session in progress (while one is open, arrows show in the targets) |
+| **Arrow stand** | The end waiting for your check. A **!** shows over the stand when one is waiting. |
 | **Path home** | The hall |
 
 ## Your archer
@@ -107,4 +108,4 @@ Game mode sends nothing. How your archer looks, your companion and your sound se
 
 ## What's next
 
-Game mode is a preview. Coming: the hearth with your statistics, the arrow stand with your latest end, and rewards for real shooting (experience for each confirmed end, badges for real milestones, a trophy on the wall for each personal best). See the [roadmap](roadmap.md).
+Game mode is a preview. Coming: rewards for real shooting (experience for each confirmed end, badges for real milestones, a trophy on the wall for each personal best). See the [roadmap](roadmap.md).
