@@ -210,6 +210,21 @@ Changing a bow later doesn't change past sessions.
 
 ![The hall in game mode.](images/screenshots/game-hall.png){ .shot width="220" }
 
+## Storage and backup
+
+**Settings → Storage and backup** shows the space your photos and records use, and lets you:
+
+<div class="shots" markdown>
+<figure markdown>
+![Storage and backup: space used; export as everything, records only or photos only; restore from an export.](images/screenshots/storage.png){ .shot }
+<figcaption>Export and restore</figcaption>
+</figure>
+</div>
+
+- **Export** everything, records only, or photos only, as one ZIP file saved where you choose: Downloads, Google Drive, a memory card. API keys and settings are never included. Keep the file somewhere private.
+- **Restore** an export on the same phone or a new one. Ullr shows what the file holds and changes nothing until you confirm. Enter your API key again on a new phone.
+- **Free up space** by deleting the full-size photos of sessions older than 3 months, 6 months or a year. Thumbnails, scores and arrows stay.
+
 ## Tips for good photos
 
 - Stand straight in front of the target, not at an angle.

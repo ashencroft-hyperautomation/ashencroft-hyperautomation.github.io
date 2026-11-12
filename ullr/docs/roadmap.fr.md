@@ -22,7 +22,8 @@ Ullr est un projet personnel, construit au grand jour. Voici où il en est.
 
 - [ ] **Mode jeu :** des tenues débloquées par les niveaux et les insignes
 
-- [ ] **Vos données, à votre façon :** export (tout, les données seules ou les photos seules) vers le dossier de votre choix, libérer de la place en retirant les photos exportées, et partager un résumé de séance par courriel ou message
+- [x] **Vos données, à votre façon :** export (tout, les données seules ou les photos seules) vers le dossier de votre choix, restauration sur le même téléphone ou un nouveau, et libérer de la place en retirant les anciennes photos
+- [ ] Partager un résumé de séance par courriel ou par message
 - [x] Statistiques : moyenne dans le temps, volume, répartition des scores, régularité, fatigue au fil d'une séance, groupement de vos flèches, records par épreuve
 - [ ] Meilleurs scores par type d'épreuve (par exemple 18 m, 60 flèches)
 
@@ -32,6 +33,4 @@ Ullr est un projet personnel, construit au grand jour. Voici où il en est.
 
 ## Idées
 
-- [ ] Restaurer un export sur un nouveau téléphone
 - [ ] Le comptage sans votre propre clé API, pour les archers qui n'en veulent pas
-- [ ] L'arc nu comme type d'arc

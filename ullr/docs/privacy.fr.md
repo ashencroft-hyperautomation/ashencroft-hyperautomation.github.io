@@ -11,7 +11,7 @@ C'est tout : vos arcs et vos lieux, vos séances, chaque volée avec sa photo, e
 - Les autres applications ne peuvent pas les lire, et les photos ne sont pas dans votre galerie.
 - Rien ne part automatiquement vers une sauvegarde en ligne ou un nouveau téléphone.
 - Pas de compte, pas de publicité, pas de statistiques d'utilisation, pas de pistage.
-- **Désinstaller l'application efface tout.** L'export arrive bientôt (voir la [feuille de route](roadmap.md)) : d'ici là, gardez l'application installée.
+- **Désinstaller l'application efface tout**, alors exportez d'abord : **Réglages → Stockage et sauvegarde** enregistre tout dans un fichier que vous gardez, et le restaure sur le même téléphone ou un nouveau. Les clés API ne sont jamais mises dans un export.
 
 ## Ce qui est envoyé, et quand
 

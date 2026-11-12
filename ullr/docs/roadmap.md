@@ -22,7 +22,8 @@ Ullr is a personal project, built in the open. Here's where it stands.
 
 - [ ] **Game mode:** outfits unlocked by levels and badges
 
-- [ ] **Your data, your way:** export (everything, data only, or photos only) to a folder you choose, free up space by removing exported photos, and share a session summary by email or message
+- [x] **Your data, your way:** export (everything, records only, or photos only) to a folder you choose, restore on the same or a new phone, and free up space by removing old photos
+- [ ] Share a session summary by email or message
 - [x] Statistics: average over time, volume, score distribution, consistency, fatigue over a session, where your arrows group, records per round
 - [ ] Best scores per round type (for example 18 m, 60 arrows)
 
@@ -32,6 +33,4 @@ Ullr is a personal project, built in the open. Here's where it stands.
 
 ## Ideas
 
-- [ ] Restore an export on a new phone
 - [ ] Scoring without your own API key, for archers who don't want one
-- [ ] Barebow as a bow type

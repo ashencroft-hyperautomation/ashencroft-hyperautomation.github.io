@@ -210,6 +210,21 @@ Modifier un arc plus tard ne change pas les séances passées.
 
 ![La maison en mode jeu.](images/screenshots/fr/game-hall.png){ .shot width="220" }
 
+## Stockage et sauvegarde
+
+**Réglages → Stockage et sauvegarde** montre la place prise par vos photos et vos données, et permet de :
+
+<div class="shots" markdown>
+<figure markdown>
+![Stockage et sauvegarde : espace utilisé ; exporter tout, les données seulement ou les photos seulement ; restaurer depuis un export.](images/screenshots/fr/storage.png){ .shot }
+<figcaption>Exporter et restaurer</figcaption>
+</figure>
+</div>
+
+- **Exporter** tout, les données seulement ou les photos seulement, en un fichier ZIP enregistré où vous voulez : Téléchargements, Google Drive, une carte mémoire. Les clés API et les réglages n’y sont jamais inclus. Gardez ce fichier en lieu sûr.
+- **Restaurer** un export sur le même téléphone ou un nouveau. Ullr montre ce que contient le fichier et ne change rien tant que vous n’avez pas confirmé. Sur un nouveau téléphone, entrez à nouveau votre clé API.
+- **Libérer de l’espace** en supprimant les photos en taille réelle des séances de plus de 3 mois, 6 mois ou un an. Les miniatures, les scores et les flèches restent.
+
 ## Conseils pour de bonnes photos
 
 - Placez-vous bien en face de la cible, pas de biais.

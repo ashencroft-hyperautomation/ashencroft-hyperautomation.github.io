@@ -11,7 +11,7 @@ That's all of it: your bows and places, your sessions, each end with its photo, 
 - Other apps can't read them, and the photos are not in your gallery.
 - Nothing goes to a cloud backup or to a new phone automatically.
 - There's no account, no advertising, no analytics and no tracking.
-- **Uninstalling the app deletes everything.** Export is coming (see the [roadmap](roadmap.md)), so keep the app installed until then.
+- **Uninstalling the app deletes everything**, so export first: **Settings → Storage and backup** saves everything to one file you keep, and restores it on the same or a new phone. API keys are never put in an export.
 
 ## What is sent, and when
 
