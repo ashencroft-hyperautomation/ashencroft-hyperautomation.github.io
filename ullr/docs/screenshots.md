@@ -64,3 +64,34 @@ Taken with **Ullr Demo**, a version of the app filled with six months of made-up
 <figcaption><b>Privacy.</b> Exactly what is sent, and the target-only switch.</figcaption>
 </figure>
 </div>
+
+## Game mode
+
+<div class="shots" markdown>
+<figure markdown>
+![The hall in pixel art, the archer walking to the bow rack.](images/screenshots/game-hall.png){ .shot }
+<figcaption><b>The hall.</b> Tap a place to walk there.</figcaption>
+</figure>
+<figure markdown>
+![The range, with a fox following the archer.](images/screenshots/game-range.png){ .shot }
+<figcaption><b>The range.</b> The shooting line starts a session.</figcaption>
+</figure>
+<figure markdown>
+![The archer and their fox in the hall.](images/screenshots/game-pet.png){ .shot }
+<figcaption><b>A companion</b> that follows you.</figcaption>
+</figure>
+<figure markdown>
+![The mirror: the archer preview and the look choices.](images/screenshots/game-mirror.png){ .shot }
+<figcaption><b>Your archer</b>, at the mirror.</figcaption>
+</figure>
+<figure markdown>
+![A session summary in the game look.](images/screenshots/game-session.png){ .shot }
+<figcaption><b>In the game look.</b> Pixel titles and scores.</figcaption>
+</figure>
+<figure markdown>
+![Settings: mode, game sound and music.](images/screenshots/game-settings.png){ .shot }
+<figcaption><b>Mode, sound and music.</b></figcaption>
+</figure>
+</div>
+
+All about [game mode](game.md).

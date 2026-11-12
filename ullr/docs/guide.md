@@ -182,6 +182,12 @@ The **Bows** tab (*Arcs*) lists your bows.
 
 Changing a bow later doesn't change past sessions.
 
+## Game mode
+
+**Settings → Mode → Game (preview)** turns Ullr into a small pixel-art game: your archer walks to the bow rack, the trophy wall, the desk or the shooting line to open your bows, history, settings or a session. **Places** (☰) opens any place without walking, and **Shoot now** goes straight to the camera. At the **mirror**, dress your archer and choose a companion. Sound plays at the media volume; the speaker button turns it off. Full details: [Game mode](game.md).
+
+![The hall in game mode.](images/screenshots/game-hall.png){ .shot width="220" }
+
 ## Tips for good photos
 
 - Stand straight in front of the target, not at an angle.

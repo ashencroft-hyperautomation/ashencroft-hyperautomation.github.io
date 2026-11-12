@@ -29,3 +29,6 @@
 /* Tabs readable on the dark wood header. */
 .md-tabs__link { opacity: .85; font-size: .78rem; }
 .md-tabs__item--active .md-tabs__link { opacity: 1; color: #e0b062; }
+
+/* Pixel art stays crisp when scaled up. */
+.pixel { image-rendering: pixelated; }

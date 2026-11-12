@@ -14,8 +14,12 @@ Ullr is a personal project, built in the open. Here's where it stands.
 - [x] English and French
 - [x] Privacy by design: photos trimmed to the target, hidden data removed, nothing about you or your phone sent
 - [x] Ullr Demo, with six months of sample sessions to try every screen
+- [x] Three looks: Original, Range day (for sunlight) and Night range (for indoors), with scores in their ring colours
+- [x] Game mode (preview): the hall and the range in pixel art, walk to a place to open it, your own archer, companions, music and sounds, and every screen in the game look
 
 ## Coming
+
+- [ ] **Game mode:** your statistics by the hearth, your latest end at the arrow stand, and rewards for real shooting (experience, badges, a trophy for each personal best)
 
 - [ ] **Your data, your way:** export (everything, data only, or photos only) to a folder you choose, free up space by removing exported photos, and share a session summary by email or message
 - [ ] Statistics: average over time, score distribution, where your arrows group, fatigue over a session

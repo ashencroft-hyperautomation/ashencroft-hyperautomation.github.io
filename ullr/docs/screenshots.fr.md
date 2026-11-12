@@ -64,3 +64,34 @@ Prises avec **Ullr Demo**, une version de l'application remplie de six mois de s
 <figcaption><b>Confidentialité.</b> Exactement ce qui est envoyé, et l'option « zone de la cible seulement ».</figcaption>
 </figure>
 </div>
+
+## Mode jeu
+
+<div class="shots" markdown>
+<figure markdown>
+![La maison en pixel art, l’archer marche vers le râtelier.](images/screenshots/fr/game-hall.png){ .shot }
+<figcaption><b>La maison.</b> Touchez un endroit pour y aller.</figcaption>
+</figure>
+<figure markdown>
+![Le pas de tir, avec un renard qui suit l’archer.](images/screenshots/fr/game-range.png){ .shot }
+<figcaption><b>Le pas de tir.</b> La ligne de tir commence une séance.</figcaption>
+</figure>
+<figure markdown>
+![L’archer et son renard dans la maison.](images/screenshots/fr/game-pet.png){ .shot }
+<figcaption><b>Un compagnon</b> qui vous suit.</figcaption>
+</figure>
+<figure markdown>
+![Le miroir : aperçu de l’archer et choix de l’apparence.](images/screenshots/fr/game-mirror.png){ .shot }
+<figcaption><b>Votre archer</b>, au miroir.</figcaption>
+</figure>
+<figure markdown>
+![Un résumé de séance au style du jeu.](images/screenshots/fr/game-session.png){ .shot }
+<figcaption><b>Au style du jeu.</b> Titres et scores en pixels.</figcaption>
+</figure>
+<figure markdown>
+![Réglages : mode, sons du jeu et musique.](images/screenshots/fr/game-settings.png){ .shot }
+<figcaption><b>Mode, sons et musique.</b></figcaption>
+</figure>
+</div>
+
+Tout sur le [mode jeu](game.md).

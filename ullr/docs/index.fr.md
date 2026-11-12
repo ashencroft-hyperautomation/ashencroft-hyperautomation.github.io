@@ -35,6 +35,12 @@ hide:
 
     Tableau de bord, toutes vos séances, feuille de marque et graphique des volées. Chaque volée garde sa photo.
 
+-   :material-gamepad-variant-outline: **Ou jouez-le comme un jeu**
+
+    ---
+
+    Un mode jeu, au choix : promenez votre archer dans une maison nordique et sur un pas de tir, habillez-le au miroir, choisissez un compagnon. Pixel art, musique et sons. [Mode jeu](game.md)
+
 -   :material-shield-lock-outline: **Votre téléphone, vos données**
 
     ---
@@ -74,6 +80,27 @@ hide:
 
 [Toutes les captures](screenshots.md){ .md-button } [Comment ça marche](how-it-works.md){ .md-button }
 
+## Jouez-le comme un jeu
+
+Activez le **mode jeu** dans les réglages et Ullr devient un petit jeu en pixel art : touchez le râtelier, le mur des trophées ou la ligne de tir, et votre archer s’y rend pour ouvrir vos arcs, votre historique ou une séance. Le même carnet, le même comptage.
+
+<div class="shots" markdown>
+<figure markdown>
+![Mode jeu : la maison en pixel art, avec le feu, le râtelier, le mur des trophées, le miroir et le bureau ; l’archer marche vers le râtelier.](images/screenshots/fr/game-hall.png){ .shot }
+<figcaption>La maison</figcaption>
+</figure>
+<figure markdown>
+![Mode jeu : le pas de tir, avec trois cibles, la ligne de tir et un renard qui suit l’archer.](images/screenshots/fr/game-range.png){ .shot }
+<figcaption>Le pas de tir, avec un compagnon</figcaption>
+</figure>
+<figure markdown>
+![Mode jeu : habiller son archer au miroir.](images/screenshots/fr/game-mirror.png){ .shot }
+<figcaption>Habillez votre archer</figcaption>
+</figure>
+</div>
+
+[Mode jeu](game.md){ .md-button }
+
 ## Ce que fait Ullr
 
 | | |
@@ -84,6 +111,8 @@ hide:
 | **Pensé pour le pas de tir** | Pas de réseau ? Les photos sont enregistrées et comptées dès que le téléphone est de nouveau en ligne. Vous pouvez toujours saisir une volée à la main. |
 | **Vos arcs** | Plusieurs arcs, avec un catalogue d'arcs à poulies actuels (PSE, Hoyt, Mathews, Bowtech), puissance et allonge. |
 | **Français et anglais** | Toute l'application suit la langue de votre téléphone. |
+| **Votre style** | Trois thèmes (Original, Jour de tir pour le plein soleil, Tir de nuit pour l’intérieur), ou le style du jeu. |
+| **Mode jeu** | Au choix : l’application en jeu en pixel art, avec votre archer, un compagnon, de la musique et des sons. [En savoir plus](game.md) |
 
 ## Où en est le projet
 

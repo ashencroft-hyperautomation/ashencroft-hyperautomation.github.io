@@ -49,6 +49,10 @@ Settings shows the same list, under **What is sent to …**, for the service you
 
 Create a key just for Ullr and set a spending limit with the service. If you lose your phone, delete the key there.
 
+## Game mode
+
+Game mode sends nothing. Your archer's look, your companion and your sound settings stay on the phone with the other settings. The pictures and sounds are part of the app: nothing is downloaded and no permission is added.
+
 ## Permissions
 
 | Permission | Why |

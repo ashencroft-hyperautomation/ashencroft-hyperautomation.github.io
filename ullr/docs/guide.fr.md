@@ -182,6 +182,12 @@ L'onglet **Arcs** liste vos arcs.
 
 Modifier un arc plus tard ne change pas les séances passées.
 
+## Mode jeu
+
+**Réglages → Mode → Jeu (aperçu)** transforme Ullr en petit jeu en pixel art : votre archer se rend au râtelier, au mur des trophées, au bureau ou à la ligne de tir pour ouvrir vos arcs, votre historique, les réglages ou une séance. **Endroits** (☰) ouvre n’importe quel endroit sans marcher, et **Tirer maintenant** ouvre directement l’appareil photo. Au **miroir**, habillez votre archer et choisissez un compagnon. Le son joue au volume multimédia ; le bouton haut-parleur le coupe. Tous les détails : [Mode jeu](game.md).
+
+![La maison en mode jeu.](images/screenshots/fr/game-hall.png){ .shot width="220" }
+
 ## Conseils pour de bonnes photos
 
 - Placez-vous bien en face de la cible, pas de biais.

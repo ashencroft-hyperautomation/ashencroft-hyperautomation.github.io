@@ -49,6 +49,10 @@ Les réglages affichent la même liste, sous **Ce qui est envoyé à …**, pour
 
 Créez une clé réservée à Ullr et fixez une limite de dépenses chez le service. Si vous perdez votre téléphone, supprimez la clé chez le service.
 
+## Mode jeu
+
+Le mode jeu n’envoie rien. L’apparence de votre archer, votre compagnon et vos réglages de son restent sur le téléphone avec les autres réglages. Les images et les sons font partie de l’application : rien n’est téléchargé et aucune autorisation n’est ajoutée.
+
 ## Autorisations
 
 | Autorisation | Pourquoi |

@@ -35,6 +35,12 @@ hide:
 
     Dashboard, every past session, a scoresheet and a score-by-end chart. Each end keeps its photo.
 
+-   :material-gamepad-variant-outline: **Or play it like a game**
+
+    ---
+
+    An optional game mode: walk your archer around a Norse hall and a range, dress them at the mirror, pick a companion. Pixel art, music and sounds. [Game mode](game.md)
+
 -   :material-shield-lock-outline: **Your phone, your data**
 
     ---
@@ -74,6 +80,27 @@ hide:
 
 [All screenshots](screenshots.md){ .md-button } [How it works](how-it-works.md){ .md-button }
 
+## Play it like a game
+
+Turn on **game mode** in Settings and Ullr becomes a small pixel-art game: tap the bow rack, the trophy wall or the shooting line and your archer walks there to open your bows, your history or a session. Same records, same scoring.
+
+<div class="shots" markdown>
+<figure markdown>
+![Game mode: the hall in pixel art, with the fire, the bow rack, the trophy wall, the mirror and the desk; the archer walks to the bow rack.](images/screenshots/game-hall.png){ .shot }
+<figcaption>The hall</figcaption>
+</figure>
+<figure markdown>
+![Game mode: the range, with three targets, the shooting line and a fox following the archer.](images/screenshots/game-range.png){ .shot }
+<figcaption>The range, with a companion</figcaption>
+</figure>
+<figure markdown>
+![Game mode: dressing the archer at the mirror.](images/screenshots/game-mirror.png){ .shot }
+<figcaption>Dress your archer</figcaption>
+</figure>
+</div>
+
+[Game mode](game.md){ .md-button }
+
 ## What it does
 
 | | |
@@ -84,6 +111,8 @@ hide:
 | **Works at the range** | No signal? Photos are saved and scored when the phone is back online. You can always score an end by hand. |
 | **Bows** | Several bows, with a catalog of current compound bows (PSE, Hoyt, Mathews, Bowtech), draw weight and draw length. |
 | **English and French** | The whole app follows your phone's language. |
+| **Your look** | Three themes (Original, Range day for sunlight, Night range for indoors), or the game look. |
+| **Game mode** | Optional: the app as a pixel-art game, with your own archer, a companion, music and sounds. [More](game.md) |
 
 ## Status
 

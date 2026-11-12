@@ -54,6 +54,7 @@ plugins:
             User guide: Guide
             Screenshots: Captures d'écran
             How it works: Fonctionnement
+            Game mode: Mode jeu
             Privacy: Confidentialité
             Security: Sécurité
             App icon: L'icône
@@ -76,6 +77,7 @@ nav:
   - Home: index.md
   - User guide: guide.md
   - Screenshots: screenshots.md
+  - Game mode: game.md
   - How it works: how-it-works.md
   - Privacy: privacy.md
   - Security: security.md
