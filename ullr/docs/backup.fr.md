@@ -20,3 +20,21 @@ Restaurez un export sur le même téléphone ou sur un nouveau. Ullr montre ce q
 ## Libérer de l’espace
 
 Supprimez les photos en taille réelle des séances de plus de 3 mois, 6 mois ou un an, après confirmation. Les miniatures, les scores et les flèches restent. Les photos prennent environ 0,6 à 1,2 Mo par volée.
+
+## Effacer les données
+
+<div class="shots" markdown>
+<figure markdown>
+![Effacer les données : Effacer toutes les séances, qui garde les arcs, les lieux, les réglages et les clés, et Tout effacer, qui fait repartir Ullr comme s’il venait d’être installé.](images/screenshots/fr/erase.png){ .shot }
+<figcaption><b>Effacer les données</b>, au bas de Stockage et sauvegarde</figcaption>
+</figure>
+</div>
+
+Au bas de **Stockage et sauvegarde**, **Effacer les données** propose deux choix :
+
+| Choix | Ce qui part | Ce qui reste |
+|-------|-------------|--------------|
+| **Effacer toutes les séances** | Toutes les séances, volées, flèches et photos, avec l’expérience et les insignes qu’elles ont rapportés | Les arcs, les lieux, les réglages et les clés API |
+| **Tout effacer** | Aussi les arcs, les lieux, tous les réglages, les clés API et votre acceptation des conditions d’utilisation | Rien : Ullr repart comme s’il venait d’être installé, en commençant par l’écran des conditions |
+
+Les deux demandent une confirmation, et le bouton reste inactif tant que vous n’avez pas tapé **EFFACER**, parce que l’effacement est définitif. Exportez d’abord si vous pourriez vouloir récupérer vos données. Pour ne remettre à zéro que l’expérience et les insignes en gardant vos séances, utilisez **Remettre à zéro l’expérience et les insignes** au mur des trophées (voir [Mode jeu](game.md#niveaux-insignes-et-trophees)).

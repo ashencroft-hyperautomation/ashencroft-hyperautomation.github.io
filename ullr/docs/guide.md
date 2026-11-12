@@ -54,7 +54,7 @@ Check the circled arrows (or place your arrows, in manual scoring), then **Confi
 
 ## Nothing is removed without asking
 
-Removing a bow, a key or an arrow, deleting an end, discarding a session, changing a service's address (which removes its key), freeing up space and restoring an export all ask for confirmation first, in normal and game mode. **Keep** (*Garder*) cancels.
+Removing a bow, a key or an arrow, deleting an end, discarding a session, changing a service's address (which removes its key), freeing up space, restoring an export, resetting experience and badges, and erasing data all ask for confirmation first (erasing data also asks you to type **ERASE**), in normal and game mode. **Keep** (*Garder*) cancels.
 
 ## Tips for good photos
 

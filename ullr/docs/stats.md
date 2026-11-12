@@ -32,4 +32,4 @@ For a period (4 weeks to all) and a bow:
 - **Where your arrows group:** every arrow the AI placed, on one target, with the group centre (high, low, left or right: handy for sight marks) and the spread. Arrows placed by hand aren't in it, because only the AI measures the target on the photo.
 - **Rounds:** for each round you shoot, your best, average and last score.
 
-Only confirmed ends of finished sessions count.
+Only confirmed ends of finished sessions count. To start over, see [Erase data](backup.md#erase-data).

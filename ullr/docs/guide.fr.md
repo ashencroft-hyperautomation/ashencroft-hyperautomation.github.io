@@ -54,7 +54,7 @@ Vérifiez les flèches entourées (ou placez vos flèches, en comptage manuel), 
 
 ## Rien n’est supprimé sans votre accord
 
-Retirer un arc, une clé ou une flèche, supprimer une volée ou une séance, changer l’adresse d’un service (ce qui supprime sa clé), libérer de l’espace et restaurer un export demandent tous une confirmation, en mode normal comme en mode jeu. **Garder** annule.
+Retirer un arc, une clé ou une flèche, supprimer une volée ou une séance, changer l’adresse d’un service (ce qui supprime sa clé), libérer de l’espace, restaurer un export, remettre à zéro l’expérience et les insignes, et effacer les données demandent tous une confirmation (effacer les données demande aussi de taper **EFFACER**), en mode normal comme en mode jeu. **Garder** annule.
 
 ## Conseils pour de bonnes photos
 

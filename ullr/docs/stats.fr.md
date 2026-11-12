@@ -32,4 +32,4 @@ Sur une période (de 4 semaines à tout) et pour un arc :
 - **Où se groupent vos flèches :** toutes les flèches placées par l’IA, sur une même cible, avec le centre du groupe (haut, bas, gauche ou droite : utile pour régler le viseur) et la dispersion. Les flèches placées à la main n’y sont pas, car seule l’IA mesure la cible sur la photo.
 - **Épreuves :** pour chaque épreuve tirée, votre meilleur score, votre moyenne et votre dernier score.
 
-Seules les volées validées des séances terminées comptent.
+Seules les volées validées des séances terminées comptent. Pour repartir de zéro, voir [Effacer les données](backup.md#effacer-les-donnees).

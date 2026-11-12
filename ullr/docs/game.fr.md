@@ -98,6 +98,7 @@ Seul le vrai tir rapporte : **10 points d’expérience** par volée confirmée,
 - **Records personnels** pour chaque épreuve (distance, blason et nombre de flèches). Chacun pose une coupe sur l’étagère, et les plaques s’allument au fil des insignes. Touchez un record pour ouvrir sa séance.
 - Un nouveau niveau ou un nouvel insigne est annoncé par **un cor et une bannière**, une seule fois.
 - Tout est calculé à partir de vos séances : supprimez une séance et ce qu’elle a rapporté disparaît avec elle.
+- **Remettre à zéro l’expérience et les insignes**, au bas des trophées, vous ramène au niveau 1 sans insigne, après confirmation. Vos séances, vos scores et vos records restent ; à partir de là, ce que vous tirez rapporte de nouveau de l’expérience et des insignes, et les trophées indiquent depuis quand. Pour effacer aussi les séances, voir [Stockage et sauvegarde](backup.md#effacer-les-donnees).
 
 ## Sons et musique
 

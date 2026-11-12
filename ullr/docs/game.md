@@ -98,6 +98,7 @@ Only real shooting earns anything: **10 experience** for each confirmed end, **3
 - **Personal bests** for each round (distance, face and number of arrows). Each one puts a cup on the trophy shelf, and the plaques light up as badges come in. Tap a record to open its session.
 - A new level or badge is announced with a **horn and a banner**, once.
 - It's all worked out from your sessions: delete a session and what it earned goes with it.
+- **Reset experience and badges** (*Remettre à zéro l’expérience et les insignes*), at the bottom of the trophies, starts again at level 1 with no badges, after asking. Your sessions, scores and personal bests stay; from then on, what you shoot earns experience and badges again, and the trophies say since when. To erase sessions too, see [Storage and backup](backup.md#erase-data).
 
 ## Sound and music
 
