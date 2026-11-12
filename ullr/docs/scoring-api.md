@@ -50,6 +50,11 @@ Leave a field empty to use the default shown under it.
 
 ## Get and save an API key
 
+![The in-app guide Getting an API key: create an account and add credit, set a spending limit, create a key just for Ullr, paste it in Ullr, what it costs, and what to do if your phone is lost.](images/screenshots/key-guide-other.png){ .shot width="220" align=right }
+
+The app walks you through it: under the key, **How to get a key, and what it costs** (*Comment obtenir une clé, et ce qu’elle coûte*) gives the steps for the service you chose, from the account to a key made just for Ullr, with a spending limit, and the cost per end.
+
+
 - **Anthropic:** create a key in the Anthropic Console (console.anthropic.com → API keys). It usually starts with `sk-ant-`.
 - **OpenAI:** create a key at platform.openai.com → API keys. It usually starts with `sk-`.
 - **Google Gemini:** create a key in Google AI Studio (aistudio.google.com → Get API key), in a project with billing turned on. It usually starts with `AIza`.
@@ -69,7 +74,7 @@ You pay the service directly, one request per end. Rough estimates until they ar
 | Model | Per end | 30-end session |
 |-------|---------|----------------|
 | Claude Opus 5.5 | about $0.05–0.10 | about $1.50–3.00 |
-| Claude Sonnet 5.5 | about $0.03–0.05 | about $0.75–1.50 |
+| Claude Sonnet 5.5 | about $0.03–0.05 | about $0.90–1.50 |
 | GPT-6.1 Sol | about $0.02–0.05 | about $0.60–1.50 |
 | GPT-6 Astra | about $0.10–0.25 | about $3–7.50 |
 | Gemini 4 Carbon | about $0.02–0.05 | about $0.60–1.50 |

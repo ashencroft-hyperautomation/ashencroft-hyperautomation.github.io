@@ -50,6 +50,11 @@ Laissez un champ vide pour utiliser la valeur par défaut affichée en dessous.
 
 ## Obtenir et enregistrer une clé API
 
+![Le guide dans l’application, Obtenir une clé API : créer un compte et ajouter du crédit, fixer une limite de dépenses, créer une clé réservée à Ullr, la coller dans Ullr, ce que ça coûte, et que faire si vous perdez votre téléphone.](images/screenshots/fr/key-guide-other.png){ .shot width="220" align=right }
+
+L’application vous guide : sous la clé, **Comment obtenir une clé, et ce qu’elle coûte** donne les étapes pour le service choisi, du compte jusqu’à une clé réservée à Ullr, avec une limite de dépenses, et le coût par volée.
+
+
 - **Anthropic :** créez une clé dans la console Anthropic (console.anthropic.com → API keys). Elle commence d’habitude par `sk-ant-`.
 - **OpenAI :** créez une clé sur platform.openai.com → API keys. Elle commence d’habitude par `sk-`.
 - **Google Gemini :** créez une clé dans Google AI Studio (aistudio.google.com → Get API key), dans un projet avec la facturation activée. Elle commence d’habitude par `AIza`.
@@ -69,7 +74,7 @@ Vous payez le service directement, une requête par volée. Estimations, en atte
 | Modèle | Par volée | Séance de 30 volées |
 |--------|-----------|---------------------|
 | Claude Opus 5.5 | environ 0,05–0,10 $ US | environ 1,50–3,00 $ US |
-| Claude Sonnet 5.5 | environ 0,03–0,05 $ US | environ 0,75–1,50 $ US |
+| Claude Sonnet 5.5 | environ 0,03–0,05 $ US | environ 0,90–1,50 $ US |
 | GPT-6.1 Sol | environ 0,02–0,05 $ US | environ 0,60–1,50 $ US |
 | GPT-6 Astra | environ 0,10–0,25 $ US | environ 3–7,50 $ US |
 | Gemini 4 Carbon | environ 0,02–0,05 $ US | environ 0,60–1,50 $ US |
