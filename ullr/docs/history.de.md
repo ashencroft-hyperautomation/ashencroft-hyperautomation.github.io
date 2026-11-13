@@ -4,11 +4,11 @@ Jede Einheit bleibt mit ihren Fotos auf deinem Handy. Der Tab **Verlauf** listet
 
 <div class="shots" markdown>
 <figure markdown>
-![Verlauf: Einheiten nach Monat gruppiert, mit einem Filter nach Bogen.](images/screenshots/history.png){ .shot }
+![Verlauf: Einheiten nach Monat gruppiert, mit einem Filter nach Bogen.](images/screenshots/de/history.png){ .shot }
 <figcaption><b>Verlauf</b>, nach Bogen gefiltert</figcaption>
 </figure>
 <figure markdown>
-![Bestleistungen in der Übersicht: eine Zeile pro Runde, mit Datum, aus wie vielen Einheiten, und dem Ergebnis.](images/screenshots/dashboard-bests.png){ .shot }
+![Bestleistungen in der Übersicht: eine Zeile pro Runde, mit Datum, aus wie vielen Einheiten, und dem Ergebnis.](images/screenshots/de/dashboard-bests.png){ .shot }
 <figcaption><b>Bestleistungen</b> in der Übersicht</figcaption>
 </figure>
 </div>

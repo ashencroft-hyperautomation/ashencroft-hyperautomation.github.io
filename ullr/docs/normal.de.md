@@ -4,15 +4,15 @@ Die App, wie du sie erwartest: eine Tab-Leiste unten und Bildschirme, die sich v
 
 <div class="shots" markdown>
 <figure markdown>
-![Übersicht mit Einheiten, Schnitt pro Pfeil, bestem Gesamt, Anzahl X und letzten Einheiten.](images/screenshots/dashboard.png){ .shot }
+![Übersicht mit Einheiten, Schnitt pro Pfeil, bestem Gesamt, Anzahl X und letzten Einheiten.](images/screenshots/de/dashboard.png){ .shot }
 <figcaption><b>Übersicht.</b> Deine Zahlen und letzten Einheiten.</figcaption>
 </figure>
 <figure markdown>
-![Verlauf: Einheiten nach Monat gruppiert, mit einem Filter nach Bogen.](images/screenshots/history.png){ .shot }
+![Verlauf: Einheiten nach Monat gruppiert, mit einem Filter nach Bogen.](images/screenshots/de/history.png){ .shot }
 <figcaption><b>Verlauf.</b> Jede abgeschlossene Einheit.</figcaption>
 </figure>
 <figure markdown>
-![Liste der Bögen: Jeder Bogen ist mit einer kleinen Zeichnung seines Typs markiert, mit Zuggewicht, Auszugslänge und Standardwerten.](images/screenshots/bows.png){ .shot }
+![Liste der Bögen: Jeder Bogen ist mit einer kleinen Zeichnung seines Typs markiert, mit Zuggewicht, Auszugslänge und Standardwerten.](images/screenshots/de/bows.png){ .shot }
 <figcaption><b>Bögen.</b> Deine Bögen und ihre Standardwerte.</figcaption>
 </figure>
 </div>
@@ -47,7 +47,7 @@ Jede Einstellungsseite beginnt mit einer kurzen Erklärung, dann folgen ihre Opt
 
 **Einstellungen → Trainingsziele**: wie viele **Pfeile pro Woche** du schießen willst (10 bis 999) und ein **Schnitt pro Pfeil**, den du erreichen willst (zum Beispiel 9,2). Lass eines leer, um es auszuschalten; **Beide Ziele entfernen** schaltet beide aus.
 
-![Die Karte Ziele auf der Übersicht: Diese Woche: 120 von 100 Pfeilen, Ziel erreicht, mit vollem Balken; Letzte 4 Wochen: 9.04 pro Pfeil, Ziel 9.30, noch 0.26.](images/screenshots/goals-dash.png){ .shot width="320" }
+![Die Karte Ziele auf der Übersicht: Diese Woche: 120 von 100 Pfeilen, Ziel erreicht, mit vollem Balken; Letzte 4 Wochen: 9.04 pro Pfeil, Ziel 9.30, noch 0.26.](images/screenshots/de/goals-dash.png){ .shot width="320" }
 
 Die Übersicht zeigt dann eine Karte **Ziele**: die Pfeile dieser Woche (Montag bis Sonntag, die laufende Einheit eingeschlossen) im Vergleich zu deinem Ziel, mit einem Balken, und deinen Schnitt pro Pfeil über die letzten vier Wochen abgeschlossener Einheiten im Vergleich zu deinem Ziel. Tipp darauf, um die Ziele zu ändern. Im Spielmodus macht die Trophäenwand daraus die [Wochenherausforderung](game.md#this-weeks-challenge).
 

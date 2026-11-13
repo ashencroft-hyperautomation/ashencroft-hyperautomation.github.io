@@ -6,11 +6,11 @@ Nur bestätigte Passen abgeschlossener Einheiten zählen. Nichts wird irgendwohi
 
 <div class="shots" markdown>
 <figure markdown>
-![Statistik im Normalmodus: die Filter für Zeitraum, Bogen, Entfernung und Auflage, dann die Kacheln: Schnitt pro Pfeil, geschossene Pfeile, Einheiten, Passen, X, 10 und X, Gold und Fehlschüsse.](images/screenshots/stats-overview.png){ .shot }
+![Statistik im Normalmodus: die Filter für Zeitraum, Bogen, Entfernung und Auflage, dann die Kacheln: Schnitt pro Pfeil, geschossene Pfeile, Einheiten, Passen, X, 10 und X, Gold und Fehlschüsse.](images/screenshots/de/stats-overview.png){ .shot }
 <figcaption><b>Normalmodus</b>, der Tab Statistik</figcaption>
 </figure>
 <figure markdown>
-![Dieselbe Statistik im Spielmodus: dunkles Holz, Pixelschrift für Titel und Filter, dieselben Kacheln.](images/screenshots/game-stats.png){ .shot }
+![Dieselbe Statistik im Spielmodus: dunkles Holz, Pixelschrift für Titel und Filter, dieselben Kacheln.](images/screenshots/de/game-stats.png){ .shot }
 <figcaption><b>Spielmodus</b>, an der Feuerstelle</figcaption>
 </figure>
 </div>
@@ -42,7 +42,7 @@ Wenn alle gezeigten Einheiten dieselbe Auflage nutzen, werden ihre eigenen Ringe
 
 <div class="shots" markdown>
 <figure markdown>
-![Schnitt pro Pfeil nach Einheit: eine Linie von September bis November, der Durchschnitt als gestrichelte Linie und „Stabil in deinen letzten 10 Einheiten“; dann Pfeile pro Woche über 12 Wochen, die aktuelle Woche hervorgehoben.](images/screenshots/stats-trend.png){ .shot }
+![Schnitt pro Pfeil nach Einheit: eine Linie von September bis November, der Durchschnitt als gestrichelte Linie und „Stabil in deinen letzten 10 Einheiten“; dann Pfeile pro Woche über 12 Wochen, die aktuelle Woche hervorgehoben.](images/screenshots/de/stats-trend.png){ .shot }
 <figcaption><b>Entwicklung und Umfang</b></figcaption>
 </figure>
 <figure markdown>
@@ -54,14 +54,14 @@ Wenn alle gezeigten Einheiten dieselbe Auflage nutzen, werden ihre eigenen Ringe
 - **Entwicklung:** der Schnitt pro Pfeil jeder Einheit (die letzten 20), mit dem Durchschnitt des Zeitraums als gestrichelter Linie. Ab zehn Einheiten vergleicht die Zeile darunter deine letzten fünf Einheiten mit den fünf davor: aufwärts, abwärts oder stabil.
 - **Tuning-Änderungen:** Ist ein Bogen gewählt, erscheint jede Notiz aus seinem [Tuning-Logbuch](bows.md#sight-marks-arrow-sets-and-tuning-log) als gepunktete Linie zwischen den Einheiten davor und danach und steht mit Datum unter dem Diagramm. Hat die neue Sehne geholfen? Vergleich die Punkte auf beiden Seiten.
 
-![Die Entwicklung für einen Bogen mit zwei Tuning-Änderungen: gepunktete Linien am 12. Sep. (Peep 2 mm höher) und am 19. Okt. (Pfeilauflage 1 mm nach links), unter dem Diagramm aufgelistet.](images/screenshots/stats-tuning.png){ .shot width="300" }
+![Die Entwicklung für einen Bogen mit zwei Tuning-Änderungen: gepunktete Linien am 12. Sep. (Peep 2 mm höher) und am 19. Okt. (Pfeilauflage 1 mm nach links), unter dem Diagramm aufgelistet.](images/screenshots/de/stats-tuning.png){ .shot width="300" }
 - **Pfeile pro Woche**: die geschossenen Pfeile jeder Woche über die letzten 12 Wochen, die aktuelle Woche hervorgehoben, mit Gesamtzahl und Wochenschnitt. Praktisch, um zu sehen, wie viel du wirklich trainierst.
 
 ## Wo deine Pfeile punkten { #where-your-arrows-score }
 
 <div class="shots" markdown>
 <figure markdown>
-![Wo deine Pfeile punkten: ein Balken pro Ring von X bis M, in den Farben der Ringe, mit Anteil und Anzahl; dann Konstanz: beste Passe, Streuung von Passe zu Passe und zweite Hälfte gegen die erste.](images/screenshots/stats-rings.png){ .shot }
+![Wo deine Pfeile punkten: ein Balken pro Ring von X bis M, in den Farben der Ringe, mit Anteil und Anzahl; dann Konstanz: beste Passe, Streuung von Passe zu Passe und zweite Hälfte gegen die erste.](images/screenshots/de/stats-rings.png){ .shot }
 <figcaption><b>Ringe und Konstanz</b></figcaption>
 </figure>
 <figure markdown>
@@ -82,7 +82,7 @@ Wie viele Pfeile in jedem Ring gelandet sind, von X (oder 11 bei einem 3D-Tier) 
 
 <div class="shots" markdown>
 <figure markdown>
-![Wo sich deine Pfeile gruppieren: jeder platzierte Pfeil als Punkt auf einer Scheibe, ein Kreuz in der Gruppenmitte und ein gestrichelter Kreis für die Streuung; dann „Wo deine Pfeile landen“ als Heatmap.](images/screenshots/stats-group.png){ .shot }
+![Wo sich deine Pfeile gruppieren: jeder platzierte Pfeil als Punkt auf einer Scheibe, ein Kreuz in der Gruppenmitte und ein gestrichelter Kreis für die Streuung; dann „Wo deine Pfeile landen“ als Heatmap.](images/screenshots/de/stats-group.png){ .shot }
 <figcaption><b>Gruppierung</b></figcaption>
 </figure>
 <figure markdown>
@@ -102,7 +102,7 @@ Pfeile, die die KI platziert hat, zählen immer. Von Hand platzierte Pfeile zäh
 
 <div class="shots" markdown>
 <figure markdown>
-![Wo deine Pfeile landen, auf 2 × 40 cm Dreifach-Auflagen auf 18 m: eine Heatmap über den Ringen des Spots, dann eine kleine Karte pro Spot mit ihrem Schnitt pro Pfeil und ihrer Pfeilzahl.](images/screenshots/stats-heat.png){ .shot }
+![Wo deine Pfeile landen, auf 2 × 40 cm Dreifach-Auflagen auf 18 m: eine Heatmap über den Ringen des Spots, dann eine kleine Karte pro Spot mit ihrem Schnitt pro Pfeil und ihrer Pfeilzahl.](images/screenshots/de/stats-heat.png){ .shot }
 <figcaption><b>Heatmap pro Spot</b></figcaption>
 </figure>
 <figure markdown>
@@ -115,7 +115,7 @@ Dieselben Pfeile als **Heatmap**: dunkler (im Spielmodus heller), wo mehr Pfeile
 
 ## Runden { #rounds }
 
-![Runden: für jede geschossene Runde ihre Entfernung, Auflage und Pfeilzahl, mit bestem, durchschnittlichem und letztem Ergebnis und der Zahl der Einheiten.](images/screenshots/stats-rounds.png){ .shot width="220" align=right }
+![Runden: für jede geschossene Runde ihre Entfernung, Auflage und Pfeilzahl, mit bestem, durchschnittlichem und letztem Ergebnis und der Zahl der Einheiten.](images/screenshots/de/stats-rounds.png){ .shot width="220" align=right }
 
 Für jede Runde, die du schießt (gleiche Entfernung, gleiche Auflage, gleich viele Auflagen auf der Scheibe und gleiche Pfeilzahl): dein **bestes**, **durchschnittliches** und **letztes** Ergebnis und wie viele Einheiten du darauf geschossen hast. Verglichen wird nur Gleiches mit Gleichem: Eine Runde mit 60 Pfeilen auf 18 m mischt sich nie mit einer Runde mit 72 Pfeilen auf 70 m. Deine Bestleistung pro Runde erscheint auch in der Übersicht und bei jeder Einheit.
 

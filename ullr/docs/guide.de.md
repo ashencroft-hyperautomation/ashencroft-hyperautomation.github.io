@@ -8,7 +8,7 @@ Vom Öffnen der App bis zu deiner ersten bestätigten Passe, in wenigen Schritte
 <figcaption>Der Ladebildschirm</figcaption>
 </figure>
 <figure markdown>
-![Einstellungen: ein Eintrag pro Seite, jeweils mit dem, was gerade gewählt ist.](images/screenshots/settings-menu.png){ .shot }
+![Einstellungen: ein Eintrag pro Seite, jeweils mit dem, was gerade gewählt ist.](images/screenshots/de/settings-menu.png){ .shot }
 <figcaption>Einstellungen, eine Seite pro Thema</figcaption>
 </figure>
 </div>

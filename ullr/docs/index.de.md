@@ -23,15 +23,15 @@ Schalte den **Spielmodus** ein, und Ullr wird zu einem kleinen Pixel-Art-Videosp
 
 <div class="shots" markdown>
 <figure markdown>
-![Der Bogenplatz in Pixel-Art: drei Scheiben, die Schießlinie mit den Bahnen 1 bis 3, der Pfeilständer, Bäume und ein Fuchs, der der Figur folgt.](images/screenshots/game-range.png){ .shot }
+![Der Bogenplatz in Pixel-Art: drei Scheiben, die Schießlinie mit den Bahnen 1 bis 3, der Pfeilständer, Bäume und ein Fuchs, der der Figur folgt.](images/screenshots/de/game-range.png){ .shot }
 <figcaption><b>Geh zum Bogenplatz</b> und schieß</figcaption>
 </figure>
 <figure markdown>
-![Die Halle: die Figur mit roten Zöpfen, Blumenkranz und Fellumhang geht am Teppich vorbei, ein Fuchs an ihrer Seite.](images/screenshots/game-pet.png){ .shot }
+![Die Halle: die Figur mit roten Zöpfen, Blumenkranz und Fellumhang geht am Teppich vorbei, ein Fuchs an ihrer Seite.](images/screenshots/de/game-pet.png){ .shot }
 <figcaption><b>Kleide deine Figur ein</b>, wähle einen Begleiter</figcaption>
 </figure>
 <figure markdown>
-![Trophäen: Stufe und Erfahrung, zehn Abzeichen mit Goldmedaillen, persönliche Bestleistungen.](images/screenshots/game-trophies.png){ .shot }
+![Trophäen: Stufe und Erfahrung, zehn Abzeichen mit Goldmedaillen, persönliche Bestleistungen.](images/screenshots/de/game-trophies.png){ .shot }
 <figcaption><b>Stufen, Abzeichen</b>, eine Wochenherausforderung</figcaption>
 </figure>
 </div>
@@ -54,7 +54,7 @@ Dieselben Daten, dieselbe Wertung: Nimm, was dir gefällt, und wechsle jederzeit
 
     ---
 
-    ![Die Übersicht: Einheiten, Schnitt pro Pfeil, bestes Gesamtergebnis, Anzahl X und letzte Einheiten.](images/screenshots/dashboard.png){ .shot width="200" }
+    ![Die Übersicht: Einheiten, Schnitt pro Pfeil, bestes Gesamtergebnis, Anzahl X und letzte Einheiten.](images/screenshots/de/dashboard.png){ .shot width="200" }
 
     Eine übersichtliche App mit Tabs: Übersicht, Verlauf, Bögen, Statistik und Einstellungen. Schnell am Bogenplatz.
 
@@ -64,7 +64,7 @@ Dieselben Daten, dieselbe Wertung: Nimm, was dir gefällt, und wechsle jederzeit
 
     ---
 
-    ![Die Halle in Pixel-Art, mit dem Feuer, dem Bogenständer, der Trophäenwand, dem Spiegel und dem Schreibpult.](images/screenshots/game-hall.png){ .shot width="200" }
+    ![Die Halle in Pixel-Art, mit dem Feuer, dem Bogenständer, der Trophäenwand, dem Spiegel und dem Schreibpult.](images/screenshots/de/game-hall.png){ .shot width="200" }
 
     Wer will sich schon durch Textmenüs klicken? Lauf mit deiner Figur durch eine nordische Halle und über einen Bogenplatz: Der Bogenständer öffnet deine Bögen, die Schießlinie startet eine Einheit. Pixel-Art, Musik, ein Begleiter.
 

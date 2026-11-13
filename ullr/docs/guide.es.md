@@ -8,7 +8,7 @@ De abrir la app a tu primera tanda confirmada, en pocos pasos. Cada paso lleva a
 <figcaption>La pantalla de carga</figcaption>
 </figure>
 <figure markdown>
-![Ajustes: una entrada por página, cada una con lo que está elegido ahora.](images/screenshots/settings-menu.png){ .shot }
+![Ajustes: una entrada por página, cada una con lo que está elegido ahora.](images/screenshots/es/settings-menu.png){ .shot }
 <figcaption>Ajustes, una página por tema</figcaption>
 </figure>
 </div>

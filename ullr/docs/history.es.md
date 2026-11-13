@@ -4,11 +4,11 @@ Cada sesión se queda en tu teléfono con sus fotos. La pestaña **Historial** l
 
 <div class="shots" markdown>
 <figure markdown>
-![Historial: sesiones agrupadas por mes, con un filtro por arco.](images/screenshots/history.png){ .shot }
+![Historial: sesiones agrupadas por mes, con un filtro por arco.](images/screenshots/es/history.png){ .shot }
 <figcaption><b>Historial</b>, filtrado por arco</figcaption>
 </figure>
 <figure markdown>
-![Mejores marcas personales en Inicio: una fila por tirada, con su fecha, de cuántas sesiones y la puntuación.](images/screenshots/dashboard-bests.png){ .shot }
+![Mejores marcas personales en Inicio: una fila por tirada, con su fecha, de cuántas sesiones y la puntuación.](images/screenshots/es/dashboard-bests.png){ .shot }
 <figcaption><b>Mejores marcas personales</b> en Inicio</figcaption>
 </figure>
 </div>

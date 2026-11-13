@@ -40,7 +40,7 @@ Sie meldet den Ring so, wie er gezeichnet ist, nicht Punkte. Das ist Absicht: Ul
 
 <div class="shots" markdown>
 <figure markdown>
-![Prüfung einer Passe: Markierungen auf sechs Pfeilen, zwei davon bernsteinfarben eingekreist, und 2 zu prüfen.](images/screenshots/review-check.png){ .shot }
+![Prüfung einer Passe: Markierungen auf sechs Pfeilen, zwei davon bernsteinfarben eingekreist, und 2 zu prüfen.](images/screenshots/de/review-check.png){ .shot }
 <figcaption>Zwei Pfeile zum Prüfen eingekreist</figcaption>
 </figure>
 </div>

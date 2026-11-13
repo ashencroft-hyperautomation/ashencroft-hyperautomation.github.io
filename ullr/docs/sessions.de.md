@@ -4,11 +4,11 @@ Eine Einheit ist ein Besuch am Bogenplatz: ein Ort, ein Datum, ein Bogen und ein
 
 <div class="shots" markdown>
 <figure markdown>
-![Ausgefülltes Formular Neue Einheit für einen Compoundbogen auf zwei senkrechten Dreifach-Auflagen.](images/screenshots/new-session.png){ .shot }
+![Ausgefülltes Formular Neue Einheit für einen Compoundbogen auf zwei senkrechten Dreifach-Auflagen.](images/screenshots/de/new-session.png){ .shot }
 <figcaption><b>Neue Einheit.</b> Die Vorgaben des Bogens füllen den Rest aus.</figcaption>
 </figure>
 <figure markdown>
-![Bildschirm der Einheit mit dem Gesamtergebnis, dem Diagramm Ergebnis pro Passe und dem Schießzettel.](images/screenshots/session.png){ .shot }
+![Bildschirm der Einheit mit dem Gesamtergebnis, dem Diagramm Ergebnis pro Passe und dem Schießzettel.](images/screenshots/de/session.png){ .shot }
 <figcaption><b>Die Einheit.</b> Gesamt, Diagramm und Schießzettel.</figcaption>
 </figure>
 </div>

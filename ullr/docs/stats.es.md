@@ -6,11 +6,11 @@ Solo cuentan las tandas confirmadas de sesiones terminadas. No se envía nada a 
 
 <div class="shots" markdown>
 <figure markdown>
-![Estadísticas en el modo normal: los filtros de periodo, arco, distancia y diana, y luego los recuadros: media por flecha, flechas tiradas, sesiones, tandas, X, 10 y X, oro y fallos.](images/screenshots/stats-overview.png){ .shot }
+![Estadísticas en el modo normal: los filtros de periodo, arco, distancia y diana, y luego los recuadros: media por flecha, flechas tiradas, sesiones, tandas, X, 10 y X, oro y fallos.](images/screenshots/es/stats-overview.png){ .shot }
 <figcaption><b>Modo normal</b>, la pestaña Estadísticas</figcaption>
 </figure>
 <figure markdown>
-![Las mismas estadísticas en el modo juego: madera oscura, letras de píxeles para el título y los filtros, los mismos recuadros.](images/screenshots/game-stats.png){ .shot }
+![Las mismas estadísticas en el modo juego: madera oscura, letras de píxeles para el título y los filtros, los mismos recuadros.](images/screenshots/es/game-stats.png){ .shot }
 <figcaption><b>Modo juego</b>, junto al hogar</figcaption>
 </figure>
 </div>
@@ -42,7 +42,7 @@ Cuando todas las sesiones mostradas usan la misma diana, sus propias zonas se di
 
 <div class="shots" markdown>
 <figure markdown>
-![Media por flecha, por sesión: una línea de septiembre a noviembre, la media como línea discontinua y Estable en tus últimas 10 sesiones; después, Flechas por semana en 12 semanas, con la semana actual resaltada.](images/screenshots/stats-trend.png){ .shot }
+![Media por flecha, por sesión: una línea de septiembre a noviembre, la media como línea discontinua y Estable en tus últimas 10 sesiones; después, Flechas por semana en 12 semanas, con la semana actual resaltada.](images/screenshots/es/stats-trend.png){ .shot }
 <figcaption><b>Tendencia y volumen</b></figcaption>
 </figure>
 <figure markdown>
@@ -54,14 +54,14 @@ Cuando todas las sesiones mostradas usan la misma diana, sus propias zonas se di
 - **Tendencia:** la media por flecha de cada sesión (las 20 últimas), con la media del periodo como línea discontinua. Con diez sesiones o más, la línea de debajo compara tus cinco últimas sesiones con las cinco anteriores: sube, baja o estable.
 - **Cambios de ajuste:** con un arco elegido, cada nota de su [registro de ajustes](bows.md#sight-marks-arrow-sets-and-tuning-log) aparece como una línea de puntos entre las sesiones de antes y de después, con su fecha en la lista bajo el gráfico. ¿Te ayudó la cuerda nueva? Compara los puntos a cada lado.
 
-![La tendencia de un arco con dos cambios de ajuste: líneas de puntos el 12 sep. (Peep subido 2 mm) y el 19 oct. (Reposaflechas movido 1 mm a la izquierda), en la lista bajo el gráfico.](images/screenshots/stats-tuning.png){ .shot width="300" }
+![La tendencia de un arco con dos cambios de ajuste: líneas de puntos el 12 sep. (Peep subido 2 mm) y el 19 oct. (Reposaflechas movido 1 mm a la izquierda), en la lista bajo el gráfico.](images/screenshots/es/stats-tuning.png){ .shot width="300" }
 - **Flechas por semana**: las flechas tiradas cada semana durante las 12 últimas semanas, con la semana actual resaltada, el total y la media semanal. Práctico para ver cuánto entrenas de verdad.
 
 ## Dónde puntúan tus flechas { #where-your-arrows-score }
 
 <div class="shots" markdown>
 <figure markdown>
-![Dónde puntúan tus flechas: una barra por zona de la X a la M, en los colores de las zonas, con su proporción y su número; después, Regularidad: mejor tanda, dispersión entre tandas y segunda mitad frente a la primera.](images/screenshots/stats-rings.png){ .shot }
+![Dónde puntúan tus flechas: una barra por zona de la X a la M, en los colores de las zonas, con su proporción y su número; después, Regularidad: mejor tanda, dispersión entre tandas y segunda mitad frente a la primera.](images/screenshots/es/stats-rings.png){ .shot }
 <figcaption><b>Zonas y regularidad</b></figcaption>
 </figure>
 <figure markdown>
@@ -82,7 +82,7 @@ Cuántas flechas cayeron en cada zona, desde la X (o el 11 en un animal 3D) hast
 
 <div class="shots" markdown>
 <figure markdown>
-![Dónde se agrupan tus flechas: cada flecha colocada como un punto sobre una diana, una cruz en el centro del grupo y un círculo discontinuo para la dispersión; después, Dónde caen tus flechas como mapa de calor.](images/screenshots/stats-group.png){ .shot }
+![Dónde se agrupan tus flechas: cada flecha colocada como un punto sobre una diana, una cruz en el centro del grupo y un círculo discontinuo para la dispersión; después, Dónde caen tus flechas como mapa de calor.](images/screenshots/es/stats-group.png){ .shot }
 <figcaption><b>Agrupación</b></figcaption>
 </figure>
 <figure markdown>
@@ -102,7 +102,7 @@ Las flechas que colocó la IA siempre cuentan. Las flechas colocadas a mano cuen
 
 <div class="shots" markdown>
 <figure markdown>
-![Dónde caen tus flechas en 2 × triple diana de 40 cm a 18 m: un mapa de calor sobre las zonas del spot y, después, un pequeño mapa por spot con su media por flecha y su número de flechas.](images/screenshots/stats-heat.png){ .shot }
+![Dónde caen tus flechas en 2 × triple diana de 40 cm a 18 m: un mapa de calor sobre las zonas del spot y, después, un pequeño mapa por spot con su media por flecha y su número de flechas.](images/screenshots/es/stats-heat.png){ .shot }
 <figcaption><b>Mapa de calor por spot</b></figcaption>
 </figure>
 <figure markdown>
@@ -115,7 +115,7 @@ Las mismas flechas como **mapa de calor**: más oscuro (más claro en el modo ju
 
 ## Tiradas { #rounds }
 
-![Tiradas: para cada tirada, su distancia, diana y número de flechas, con la mejor puntuación, la media y la última, y el número de sesiones.](images/screenshots/stats-rounds.png){ .shot width="220" align=right }
+![Tiradas: para cada tirada, su distancia, diana y número de flechas, con la mejor puntuación, la media y la última, y el número de sesiones.](images/screenshots/es/stats-rounds.png){ .shot width="220" align=right }
 
 Para cada tirada que haces (misma distancia, diana, dianas de papel y número de flechas): tu puntuación **mejor**, **media** y **última**, y cuántas sesiones la has tirado. Solo se compara lo comparable: una tirada de 60 flechas a 18 m nunca se mezcla con una de 72 flechas a 70 m. Tu mejor marca personal por tirada aparece también en Inicio y en cada sesión.
 

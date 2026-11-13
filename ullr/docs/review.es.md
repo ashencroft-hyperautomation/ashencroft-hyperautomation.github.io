@@ -4,7 +4,7 @@ Antes de que una tanda cuente, la revisas: el resultado de la IA con los método
 
 <div class="shots" markdown>
 <figure markdown>
-![Revisión de una tanda: un marcador en cada una de las seis flechas, dos rodeadas en ámbar, y 2 por revisar.](images/screenshots/review-check.png){ .shot }
+![Revisión de una tanda: un marcador en cada una de las seis flechas, dos rodeadas en ámbar, y 2 por revisar.](images/screenshots/es/review-check.png){ .shot }
 <figcaption><b>Dos flechas por revisar</b></figcaption>
 </figure>
 <figure markdown>

@@ -4,11 +4,11 @@ Una sesión es una visita al campo de tiro: un lugar, una fecha, un arco y una t
 
 <div class="shots" markdown>
 <figure markdown>
-![Formulario de nueva sesión completado para un arco compuesto con dos triples dianas verticales.](images/screenshots/new-session.png){ .shot }
+![Formulario de nueva sesión completado para un arco compuesto con dos triples dianas verticales.](images/screenshots/es/new-session.png){ .shot }
 <figcaption><b>Nueva sesión.</b> Los valores predeterminados del arco completan el resto.</figcaption>
 </figure>
 <figure markdown>
-![Pantalla de la sesión con el total, el gráfico de puntuación por tanda y la hoja de puntuación.](images/screenshots/session.png){ .shot }
+![Pantalla de la sesión con el total, el gráfico de puntuación por tanda y la hoja de puntuación.](images/screenshots/es/session.png){ .shot }
 <figcaption><b>La sesión.</b> Total, gráfico y hoja de puntuación.</figcaption>
 </figure>
 </div>

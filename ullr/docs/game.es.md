@@ -6,15 +6,15 @@ Actívalo en **Ajustes → Apariencia y juego → Juego (vista previa)**. **Norm
 
 <div class="shots" markdown>
 <figure markdown>
-![El salón en pixel art: un fuego en el hogar de piedra, el armero de arcos con los arcos del arquero, el muro de trofeos con un escudo redondo y copas, un espejo, una alfombra, un escritorio y la puerta. El arquero camina hacia el armero de arcos, con la etiqueta Armero de arcos.](images/screenshots/game-hall.png){ .shot }
+![El salón en pixel art: un fuego en el hogar de piedra, el armero de arcos con los arcos del arquero, el muro de trofeos con un escudo redondo y copas, un espejo, una alfombra, un escritorio y la puerta. El arquero camina hacia el armero de arcos, con la etiqueta Armero de arcos.](images/screenshots/es/game-hall.png){ .shot }
 <figcaption><b>El salón.</b> Toca un lugar y tu arquero camina hasta allí.</figcaption>
 </figure>
 <figure markdown>
-![El campo de tiro: tres parapetos, la línea de tiro con las calles 1 a 3, el soporte de flechas, árboles, el camino a casa y un zorro que sigue al arquero.](images/screenshots/game-range.png){ .shot }
+![El campo de tiro: tres parapetos, la línea de tiro con las calles 1 a 3, el soporte de flechas, árboles, el camino a casa y un zorro que sigue al arquero.](images/screenshots/es/game-range.png){ .shot }
 <figcaption><b>El campo de tiro.</b> La línea de tiro empieza una sesión.</figcaption>
 </figure>
 <figure markdown>
-![El salón: el arquero, con trenzas pelirrojas, corona de flores y manto de piel, pasa junto a la alfombra con un zorro trotando a su lado.](images/screenshots/game-pet.png){ .shot }
+![El salón: el arquero, con trenzas pelirrojas, corona de flores y manto de piel, pasa junto a la alfombra con un zorro trotando a su lado.](images/screenshots/es/game-pet.png){ .shot }
 <figcaption><b>Un compañero</b> te sigue a todas partes.</figcaption>
 </figure>
 </div>
@@ -49,7 +49,7 @@ Ve al **espejo** para vestir a tu arquero. La vista previa se queda arriba mient
 
 <div class="shots" markdown>
 <figure markdown>
-![Tu arquero: una vista previa del arquero y un zorro sobre la alfombra, un botón Sorpréndeme y opciones de piel, peinado, color de pelo, barba, túnica, capa y pantalón.](images/screenshots/game-mirror.png){ .shot }
+![Tu arquero: una vista previa del arquero y un zorro sobre la alfombra, un botón Sorpréndeme y opciones de piel, peinado, color de pelo, barba, túnica, capa y pantalón.](images/screenshots/es/game-mirror.png){ .shot }
 <figcaption><b>El espejo.</b> Elige y míralo al momento.</figcaption>
 </figure>
 <figure markdown>
@@ -87,7 +87,7 @@ Solo el tiro real da algo: **10 de experiencia** por cada tanda confirmada, **30
 
 <div class="shots" markdown>
 <figure markdown>
-![Trofeos: nivel 2, Aprendiz, 220 de 300 de experiencia; diez insignias, dos conseguidas en oro; debajo, las mejores marcas personales.](images/screenshots/game-trophies.png){ .shot }
+![Trofeos: nivel 2, Aprendiz, 220 de 300 de experiencia; diez insignias, dos conseguidas en oro; debajo, las mejores marcas personales.](images/screenshots/es/game-trophies.png){ .shot }
 <figcaption><b>Trofeos</b>, en el muro de trofeos.</figcaption>
 </figure>
 <figure markdown>
@@ -122,7 +122,7 @@ Solo el tiro real da algo: **10 de experiencia** por cada tanda confirmada, **30
 
 Con [objetivos de entrenamiento](normal.md#training-goals) fijados, el muro de trofeos muestra el **Reto de la semana**: las flechas que tirar esta semana, con una barra dorada, y la media por flecha a alcanzar. La primera vez que cumples el objetivo de flechas en una semana, el salón toca una **fanfarria** con un estandarte **¡Reto cumplido!**. Los objetivos no dan experiencia, así que cambiar uno nunca reescribe tu progreso.
 
-![El muro de trofeos: nivel 14, Leyenda; Reto de la semana: 100 flechas tiradas, reto cumplido, con la barra dorada llena; Media a alcanzar: 9.30, ahora 9.04 en 4 semanas.](images/screenshots/game-challenge.png){ .shot width="320" }
+![El muro de trofeos: nivel 14, Leyenda; Reto de la semana: 100 flechas tiradas, reto cumplido, con la barra dorada llena; Media a alcanzar: 9.30, ahora 9.04 en 4 semanas.](images/screenshots/es/game-challenge.png){ .shot width="320" }
 
 ## Recompensas { #rewards }
 
@@ -146,7 +146,7 @@ Lo que ganas tirando desbloquea **recompensas**, que aparecen en el muro de trof
 
 <div class="shots" markdown>
 <figure markdown>
-![El salón con las cuatro decoraciones: un estandarte azul glasto y una diana pintada en la pared izquierda, flechas cruzadas encima del espejo y una piel de oso junto a la alfombra.](images/screenshots/game-hall-rewards.png){ .shot }
+![El salón con las cuatro decoraciones: un estandarte azul glasto y una diana pintada en la pared izquierda, flechas cruzadas encima del espejo y una piel de oso junto a la alfombra.](images/screenshots/es/game-hall-rewards.png){ .shot }
 <figcaption>Todas las decoraciones, conseguidas.</figcaption>
 </figure>
 <figure markdown>
@@ -165,7 +165,7 @@ Los atuendos aún por conseguir esperan al final del espejo, en **Por conseguir*
 
 El campo de tiro sigue el calendario: nieve y árboles de hoja perenne en invierno (de diciembre a febrero), flores en los árboles y flores silvestres en primavera, verde en verano, y árboles rojos y dorados con hojas que caen en otoño (de septiembre a noviembre).
 
-![El campo de tiro en las cuatro estaciones, una al lado de otra: el invierno bajo la nieve con árboles de hoja perenne y nieve cayendo, la primavera con árboles en flor y flores silvestres, el verano verde con mariposas, el otoño con árboles rojos y dorados y hojas caídas.](images/screenshots/game-seasons.png)
+![El campo de tiro en las cuatro estaciones, una al lado de otra: el invierno bajo la nieve con árboles de hoja perenne y nieve cayendo, la primavera con árboles en flor y flores silvestres, el verano verde con mariposas, el otoño con árboles rojos y dorados y hojas caídas.](images/screenshots/es/game-seasons.png)
 
 ## Sonido y música { #sound-and-music }
 

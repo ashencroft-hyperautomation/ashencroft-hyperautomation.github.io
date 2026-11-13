@@ -6,11 +6,11 @@ Tomadas con **Ullr Demo**, una versión de la app llena de seis meses de sesione
 
 <div class="shots" markdown>
 <figure markdown>
-![Formulario de nueva sesión: lugar, arco compuesto PSE Drive NXT, 18 m, dos triples dianas verticales de 40 cm, 6 flechas por tanda.](images/screenshots/new-session.png){ .shot }
+![Formulario de nueva sesión: lugar, arco compuesto PSE Drive NXT, 18 m, dos triples dianas verticales de 40 cm, 6 flechas por tanda.](images/screenshots/es/new-session.png){ .shot }
 <figcaption><b>Nueva sesión.</b> Lugar, arco, distancia, diana, dianas de papel, flechas por tanda y regla de puntuación.</figcaption>
 </figure>
 <figure markdown>
-![Revisión de la tanda 1: dos triples dianas con un marcador en cada flecha; dos flechas están rodeadas en ámbar y marcadas con un signo de interrogación.](images/screenshots/review-check.png){ .shot }
+![Revisión de la tanda 1: dos triples dianas con un marcador en cada flecha; dos flechas están rodeadas en ámbar y marcadas con un signo de interrogación.](images/screenshots/es/review-check.png){ .shot }
 <figcaption><b>2 por revisar.</b> Las flechas cerca de una línea o con poca confianza se rodean en ámbar y se muestran primero.</figcaption>
 </figure>
 <figure markdown>
@@ -18,7 +18,7 @@ Tomadas con **Ullr Demo**, una versión de la app llena de seis meses de sesione
 <figcaption><b>Corregir una flecha.</b> Las dos zonas candidatas de la IA aparecen resaltadas, con su confianza.</figcaption>
 </figure>
 <figure markdown>
-![Resumen de la sesión: total 1084, regla del 10 interior, 120 flechas con una media de 9.0, un gráfico de barras con los totales de 20 tandas y la línea de la media, y la hoja de puntuación.](images/screenshots/session.png){ .shot }
+![Resumen de la sesión: total 1084, regla del 10 interior, 120 flechas con una media de 9.0, un gráfico de barras con los totales de 20 tandas y la línea de la media, y la hoja de puntuación.](images/screenshots/es/session.png){ .shot }
 <figcaption><b>Sesión.</b> Total, regla de puntuación, gráfico de puntuación por tanda y hoja de puntuación.</figcaption>
 </figure>
 <figure markdown>
@@ -35,11 +35,11 @@ Tomadas con **Ullr Demo**, una versión de la app llena de seis meses de sesione
 
 <div class="shots" markdown>
 <figure markdown>
-![Inicio: 59 sesiones, 8.1 de media por flecha, mejor total 1614, 245 X y sesiones recientes.](images/screenshots/dashboard.png){ .shot }
+![Inicio: 59 sesiones, 8.1 de media por flecha, mejor total 1614, 245 X y sesiones recientes.](images/screenshots/es/dashboard.png){ .shot }
 <figcaption><b>Inicio.</b> Sesiones, media por flecha, mejor total, número de X.</figcaption>
 </figure>
 <figure markdown>
-![Mejores marcas personales en Inicio: una fila por tirada, con su fecha, de cuántas sesiones y la puntuación.](images/screenshots/dashboard-bests.png){ .shot }
+![Mejores marcas personales en Inicio: una fila por tirada, con su fecha, de cuántas sesiones y la puntuación.](images/screenshots/es/dashboard-bests.png){ .shot }
 <figcaption><b>Mejores marcas personales.</b> Una por tirada.</figcaption>
 </figure>
 <figure markdown>
@@ -51,11 +51,11 @@ Tomadas con **Ullr Demo**, una versión de la app llena de seis meses de sesione
 <figcaption><b>La imagen de la hoja de puntuación.</b></figcaption>
 </figure>
 <figure markdown>
-![Historial: sesiones agrupadas por mes, con un filtro por arco.](images/screenshots/history.png){ .shot }
+![Historial: sesiones agrupadas por mes, con un filtro por arco.](images/screenshots/es/history.png){ .shot }
 <figcaption><b>Historial.</b> Todas las sesiones por mes, filtradas por arco.</figcaption>
 </figure>
 <figure markdown>
-![Lista de arcos: dos arcos recurvos y dos compuestos, cada uno marcado con un pequeño dibujo de su tipo, con potencia, apertura y valores predeterminados.](images/screenshots/bows.png){ .shot }
+![Lista de arcos: dos arcos recurvos y dos compuestos, cada uno marcado con un pequeño dibujo de su tipo, con potencia, apertura y valores predeterminados.](images/screenshots/es/bows.png){ .shot }
 <figcaption><b>Arcos.</b> Cada arco con su configuración.</figcaption>
 </figure>
 <figure markdown>
@@ -93,7 +93,7 @@ Tomadas con **Ullr Demo**, una versión de la app llena de seis meses de sesione
 <figcaption><b>Condiciones de uso.</b> Se aceptan una vez, antes de nada.</figcaption>
 </figure>
 <figure markdown>
-![Ajustes: una entrada por página, cada una con lo que está elegido ahora.](images/screenshots/settings-menu.png){ .shot }
+![Ajustes: una entrada por página, cada una con lo que está elegido ahora.](images/screenshots/es/settings-menu.png){ .shot }
 <figcaption><b>Ajustes.</b> Una página por tema.</figcaption>
 </figure>
 <figure markdown>
@@ -118,19 +118,19 @@ Tomadas con **Ullr Demo**, una versión de la app llena de seis meses de sesione
 
 <div class="shots" markdown>
 <figure markdown>
-![Estadísticas: filtros, media, volumen, proporciones y tendencia.](images/screenshots/stats-overview.png){ .shot }
+![Estadísticas: filtros, media, volumen, proporciones y tendencia.](images/screenshots/es/stats-overview.png){ .shot }
 <figcaption><b>Estadísticas.</b> Por periodo y por arco.</figcaption>
 </figure>
 <figure markdown>
-![Reparto por zonas y regularidad.](images/screenshots/stats-rings.png){ .shot }
+![Reparto por zonas y regularidad.](images/screenshots/es/stats-rings.png){ .shot }
 <figcaption><b>Zonas y regularidad.</b></figcaption>
 </figure>
 <figure markdown>
-![Dónde se agrupan tus flechas, y tiradas.](images/screenshots/stats-group.png){ .shot }
+![Dónde se agrupan tus flechas, y tiradas.](images/screenshots/es/stats-group.png){ .shot }
 <figcaption><b>Agrupación y tiradas.</b></figcaption>
 </figure>
 <figure markdown>
-![Dónde caen tus flechas: un mapa de calor por spot de una triple diana, con la media de cada spot.](images/screenshots/stats-heat.png){ .shot }
+![Dónde caen tus flechas: un mapa de calor por spot de una triple diana, con la media de cada spot.](images/screenshots/es/stats-heat.png){ .shot }
 <figcaption><b>Mapa de calor por spot.</b> Por distancia y diana.</figcaption>
 </figure>
 </div>
@@ -139,19 +139,19 @@ Tomadas con **Ullr Demo**, una versión de la app llena de seis meses de sesione
 
 <div class="shots" markdown>
 <figure markdown>
-![El salón en pixel art, con el arquero caminando hacia el armero de arcos.](images/screenshots/game-hall.png){ .shot }
+![El salón en pixel art, con el arquero caminando hacia el armero de arcos.](images/screenshots/es/game-hall.png){ .shot }
 <figcaption><b>El salón.</b> Toca un lugar para ir hasta allí.</figcaption>
 </figure>
 <figure markdown>
-![El campo de tiro, con un zorro que sigue al arquero.](images/screenshots/game-range.png){ .shot }
+![El campo de tiro, con un zorro que sigue al arquero.](images/screenshots/es/game-range.png){ .shot }
 <figcaption><b>El campo de tiro.</b> La línea de tiro empieza una sesión.</figcaption>
 </figure>
 <figure markdown>
-![El arquero y su zorro en el salón.](images/screenshots/game-pet.png){ .shot }
+![El arquero y su zorro en el salón.](images/screenshots/es/game-pet.png){ .shot }
 <figcaption><b>Un compañero</b> que te sigue.</figcaption>
 </figure>
 <figure markdown>
-![El espejo: la vista previa del arquero y las opciones de aspecto.](images/screenshots/game-mirror.png){ .shot }
+![El espejo: la vista previa del arquero y las opciones de aspecto.](images/screenshots/es/game-mirror.png){ .shot }
 <figcaption><b>Tu arquero</b>, en el espejo.</figcaption>
 </figure>
 <figure markdown>
@@ -163,7 +163,7 @@ Tomadas con **Ullr Demo**, una versión de la app llena de seis meses de sesione
 <figcaption><b>Ajustes, agrupados por tema.</b></figcaption>
 </figure>
 <figure markdown>
-![El salón con un estandarte y una diana pintada en la pared izquierda, flechas cruzadas encima del espejo y una piel de oso junto a la alfombra, todo conseguido.](images/screenshots/game-hall-rewards.png){ .shot }
+![El salón con un estandarte y una diana pintada en la pared izquierda, flechas cruzadas encima del espejo y una piel de oso junto a la alfombra, todo conseguido.](images/screenshots/es/game-hall-rewards.png){ .shot }
 <figcaption><b>Decoraciones conseguidas.</b> Un estandarte, una diana pintada, flechas cruzadas y una piel.</figcaption>
 </figure>
 <figure markdown>

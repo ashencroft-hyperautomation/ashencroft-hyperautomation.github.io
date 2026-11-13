@@ -23,15 +23,15 @@ Activa el **modo juego** y Ullr se convierte en un pequeño videojuego en pixel 
 
 <div class="shots" markdown>
 <figure markdown>
-![El campo de tiro en pixel art: tres parapetos, la línea de tiro con las calles 1 a 3, el soporte de flechas, árboles y un zorro que sigue al arquero.](images/screenshots/game-range.png){ .shot }
+![El campo de tiro en pixel art: tres parapetos, la línea de tiro con las calles 1 a 3, el soporte de flechas, árboles y un zorro que sigue al arquero.](images/screenshots/es/game-range.png){ .shot }
 <figcaption><b>Ve al campo de tiro</b> y tira</figcaption>
 </figure>
 <figure markdown>
-![El salón: el arquero con trenzas rojas, una corona de flores y un manto de piel pasa junto a la alfombra con un zorro a su lado.](images/screenshots/game-pet.png){ .shot }
+![El salón: el arquero con trenzas rojas, una corona de flores y un manto de piel pasa junto a la alfombra con un zorro a su lado.](images/screenshots/es/game-pet.png){ .shot }
 <figcaption><b>Viste a tu arquero</b>, elige un compañero</figcaption>
 </figure>
 <figure markdown>
-![Trofeos: nivel y experiencia, diez insignias con medallas de oro, mejores marcas personales.](images/screenshots/game-trophies.png){ .shot }
+![Trofeos: nivel y experiencia, diez insignias con medallas de oro, mejores marcas personales.](images/screenshots/es/game-trophies.png){ .shot }
 <figcaption><b>Niveles, insignias</b>, un reto de la semana</figcaption>
 </figure>
 </div>
@@ -54,7 +54,7 @@ Los mismos registros, la misma puntuación: elige la que te guste y cambia cuand
 
     ---
 
-    ![La pantalla de inicio: sesiones, media por flecha, mejor total, número de X y sesiones recientes.](images/screenshots/dashboard.png){ .shot width="200" }
+    ![La pantalla de inicio: sesiones, media por flecha, mejor total, número de X y sesiones recientes.](images/screenshots/es/dashboard.png){ .shot width="200" }
 
     Una app clara con pestañas: Inicio, Historial, Arcos, Estadísticas y Ajustes. Rápida en el campo de tiro.
 
@@ -64,7 +64,7 @@ Los mismos registros, la misma puntuación: elige la que te guste y cambia cuand
 
     ---
 
-    ![El salón en pixel art, con el fuego, el armero de arcos, el muro de trofeos, el espejo y el escritorio.](images/screenshots/game-hall.png){ .shot width="200" }
+    ![El salón en pixel art, con el fuego, el armero de arcos, el muro de trofeos, el espejo y el escritorio.](images/screenshots/es/game-hall.png){ .shot width="200" }
 
     ¿Quién quiere orientarse por menús de texto? Pasea a tu arquero por un salón nórdico y un campo de tiro: el armero de arcos abre tus arcos, la línea de tiro empieza una sesión. Pixel art, música, un compañero.
 

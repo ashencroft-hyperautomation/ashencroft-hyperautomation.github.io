@@ -40,7 +40,7 @@ Indica la zona tal como está dibujada, no los puntos. Es a propósito: Ullr con
 
 <div class="shots" markdown>
 <figure markdown>
-![Revisión de una tanda: marcadores en seis flechas, dos marcadas con un círculo ámbar, y 2 por revisar.](images/screenshots/review-check.png){ .shot }
+![Revisión de una tanda: marcadores en seis flechas, dos marcadas con un círculo ámbar, y 2 por revisar.](images/screenshots/es/review-check.png){ .shot }
 <figcaption>Dos flechas marcadas para revisar</figcaption>
 </figure>
 </div>

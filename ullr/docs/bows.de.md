@@ -4,7 +4,7 @@ Der Tab **Bögen** listet deine Bögen. Tipp auf einen, um seine Seite zu öffne
 
 <div class="shots" markdown>
 <figure markdown>
-![Liste der Bögen: zwei Recurve- und zwei Compoundbögen, jeder mit einer kleinen Zeichnung seines Typs markiert, mit Zuggewicht, Auszugslänge und Standardwerten.](images/screenshots/bows.png){ .shot }
+![Liste der Bögen: zwei Recurve- und zwei Compoundbögen, jeder mit einer kleinen Zeichnung seines Typs markiert, mit Zuggewicht, Auszugslänge und Standardwerten.](images/screenshots/de/bows.png){ .shot }
 <figcaption><b>Deine Bögen</b></figcaption>
 </figure>
 <figure markdown>
@@ -31,11 +31,11 @@ Der Tab **Bögen** listet deine Bögen. Tipp auf einen, um seine Seite zu öffne
 
 <div class="shots" markdown>
 <figure markdown>
-![Die Seite eines Bogens: Hoyt Formula, Recurve, 38 lb; Visiermarken für 18, 30, 50, 60 und 70 m; ein Pfeilsatz, ACE, Spine 720, 29 Zoll, 100 Grain, 10 Pfeile, Spin Wings; dann das Tuning-Logbuch.](images/screenshots/bow-page.png){ .shot }
+![Die Seite eines Bogens: Hoyt Formula, Recurve, 38 lb; Visiermarken für 18, 30, 50, 60 und 70 m; ein Pfeilsatz, ACE, Spine 720, 29 Zoll, 100 Grain, 10 Pfeile, Spin Wings; dann das Tuning-Logbuch.](images/screenshots/de/bow-page.png){ .shot }
 <figcaption><b>Die Seite eines Bogens</b></figcaption>
 </figure>
 <figure markdown>
-![Eine Einheit: die Wertungsregel, Visiermarke für 18 m: 4.80, und Pfeile: Indoor 23s, jeweils mit Ändern.](images/screenshots/session-sight-mark.png){ .shot }
+![Eine Einheit: die Wertungsregel, Visiermarke für 18 m: 4.80, und Pfeile: Indoor 23s, jeweils mit Ändern.](images/screenshots/de/session-sight-mark.png){ .shot }
 <figcaption><b>In der Einheit</b>: die Marke und die Pfeile</figcaption>
 </figure>
 </div>

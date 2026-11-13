@@ -4,7 +4,7 @@ Bevor eine Passe zählt, prüfst du sie: das Ergebnis der KI bei der [automatisc
 
 <div class="shots" markdown>
 <figure markdown>
-![Prüfung einer Passe: eine Markierung auf jedem von sechs Pfeilen, zwei davon bernsteinfarben eingekreist, und 2 zu prüfen.](images/screenshots/review-check.png){ .shot }
+![Prüfung einer Passe: eine Markierung auf jedem von sechs Pfeilen, zwei davon bernsteinfarben eingekreist, und 2 zu prüfen.](images/screenshots/de/review-check.png){ .shot }
 <figcaption><b>Zwei Pfeile zu prüfen</b></figcaption>
 </figure>
 <figure markdown>

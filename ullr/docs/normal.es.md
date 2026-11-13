@@ -4,15 +4,15 @@ La app tal como la esperas: una barra de pestañas abajo y pantallas que se abre
 
 <div class="shots" markdown>
 <figure markdown>
-![Inicio con sesiones, media por flecha, mejor total, número de X y sesiones recientes.](images/screenshots/dashboard.png){ .shot }
+![Inicio con sesiones, media por flecha, mejor total, número de X y sesiones recientes.](images/screenshots/es/dashboard.png){ .shot }
 <figcaption><b>Inicio.</b> Tus números y tus sesiones recientes.</figcaption>
 </figure>
 <figure markdown>
-![Historial: sesiones agrupadas por mes, con un filtro por arco.](images/screenshots/history.png){ .shot }
+![Historial: sesiones agrupadas por mes, con un filtro por arco.](images/screenshots/es/history.png){ .shot }
 <figcaption><b>Historial.</b> Todas las sesiones terminadas.</figcaption>
 </figure>
 <figure markdown>
-![Lista de arcos: cada arco marcado con un pequeño dibujo de su tipo, con potencia, apertura y valores predeterminados.](images/screenshots/bows.png){ .shot }
+![Lista de arcos: cada arco marcado con un pequeño dibujo de su tipo, con potencia, apertura y valores predeterminados.](images/screenshots/es/bows.png){ .shot }
 <figcaption><b>Arcos.</b> Tus arcos y sus valores predeterminados.</figcaption>
 </figure>
 </div>
@@ -47,7 +47,7 @@ Cada página de Ajustes empieza con una breve explicación y luego sus opciones.
 
 **Ajustes → Objetivos de entrenamiento**: cuántas **flechas por semana** quieres tirar (de 10 a 999) y una **media por flecha** que alcanzar (por ejemplo 9,2). Deja uno vacío para desactivarlo; **Quitar ambos objetivos** desactiva los dos.
 
-![La tarjeta Objetivos de Inicio: Esta semana: 120 de 100 flechas, objetivo cumplido, con la barra llena; Últimas 4 semanas: 9.04 por flecha, objetivo 9.30, faltan 0.26.](images/screenshots/goals-dash.png){ .shot width="320" }
+![La tarjeta Objetivos de Inicio: Esta semana: 120 de 100 flechas, objetivo cumplido, con la barra llena; Últimas 4 semanas: 9.04 por flecha, objetivo 9.30, faltan 0.26.](images/screenshots/es/goals-dash.png){ .shot width="320" }
 
 Inicio muestra entonces una tarjeta **Objetivos**: las flechas de esta semana (de lunes a domingo, incluida la sesión en curso) frente a tu objetivo, con una barra, y tu media por flecha en las últimas cuatro semanas de sesiones terminadas frente a tu meta. Tócala para cambiar los objetivos. En el modo juego, el muro de trofeos los convierte en el [reto de la semana](game.md#this-weeks-challenge).
 
