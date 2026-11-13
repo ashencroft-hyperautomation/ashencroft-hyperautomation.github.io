@@ -1,6 +1,6 @@
 # Política de privacidad
 
-*Versión 2 · Vigente desde el 12 de noviembre de 2026*
+*Versión 3 · Vigente desde el 13 de noviembre de 2026*
 
 *Esta es una traducción que se ofrece solo para tu comodidad; únicamente las versiones en francés y en inglés hacen fe y, si hay cualquier diferencia, prevalecen sobre esta.*
 
@@ -36,6 +36,8 @@ Tu nombre, tus lugares, tu historial, tus puntuaciones y los datos de tu disposi
 **Puntuación manual.** Nada sale de tu dispositivo.
 
 **Compartir una sesión.** Cuando tocas Compartir en una sesión, la App prepara un resumen (fecha, arco, lugar, tirada, puntuaciones y, si lo eliges, una imagen de la hoja de puntuación), y tú eliges la app con la que compartirlo. Las fotos de tus tandas nunca se incluyen.
+
+**Informar de un problema de puntuación.** Cuando tocas Informar de un problema de puntuación en una tanda, la App redacta un correo sobre esa tanda (diana, distancia, regla, modelo de IA, y cada flecha tal como la puntuó la IA y como está ahora) y, si lo marcas, adjunta la copia de la foto que se envía al servicio de IA. Tu app de correo se abre sin destinatario: tú eliges a quién enviarlo, y no se envía nada hasta que lo envíes. Tus arcos, lugares y fechas no se incluyen.
 
 **Exportaciones.** Cuando exportas tus registros, la App escribe un archivo en el lugar que elijas (por ejemplo, tu carpeta de descargas o una unidad en la nube). Las claves de API y las direcciones de los servicios nunca se incluyen en una exportación. Guarda el archivo en un lugar privado: cualquiera que tenga el archivo puede leer tus registros.
 

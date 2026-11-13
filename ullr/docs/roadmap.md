@@ -18,7 +18,7 @@ Ullr is a pro bono project of Ashencroft Studio, built in the open. Here's where
 - [x] Dashboard, history, scoresheet and score-by-end chart
 - [x] Bows, with a catalog of current compound bows, draw weight and draw length
 - [x] English and French
-- [x] German and Spanish in the app, with the terms and privacy policy translated (this website stays in English and French)
+- [x] German and Spanish, in the app (with the terms and privacy policy translated) and on this website
 - [x] Privacy by design: photos trimmed to the target, hidden data removed, nothing about you or your phone sent
 - [x] Ullr Demo, with six months of sample sessions to try every screen
 - [x] Bow types as World Archery's divisions (barebow, recurve, compound), and the discipline of each session (target, field, 3D or para archery)
@@ -35,6 +35,7 @@ Ullr is a pro bono project of Ashencroft Studio, built in the open. Here's where
 - [x] Personal bests per round type (for example 18 m, 60 arrows), on the Dashboard and each session
 - [x] Statistics by distance and face, and a heat map per spot
 - [x] Smaller markers where arrows are close together
+- [x] **Report a scoring problem:** an email about the end, sent to whoever you choose, with the photo only if you add it
 - [x] **Sight marks** per bow and distance, shown on the shooting line
 - [x] **Arrow sets** and a **tuning log** for each bow, with the tuning changes on the statistics trend
 - [x] **Training goals:** arrows per week and an average to reach, on the Dashboard, and a weekly challenge in game mode

@@ -1,6 +1,6 @@
 # Politique de confidentialité
 
-*Version 2 · En vigueur le 12 novembre 2026*
+*Version 3 · En vigueur le 13 novembre 2026*
 
 La présente politique explique quels renseignements l’application Ullr (l’« Application ») traite, où ils sont conservés, quand ils quittent votre appareil et ce que vous pouvez faire à leur égard. Elle fait partie des conditions d’utilisation. Le « Développeur » désigne le développeur d’Ullr.
 
@@ -34,6 +34,8 @@ Votre nom, vos lieux, votre historique, vos pointages et les détails de votre a
 **Comptage manuel.** Rien ne quitte votre appareil.
 
 **Partage d’une séance.** Lorsque vous touchez Partager sur une séance, l’Application prépare un résumé (date, arc, lieu, épreuve, pointages et, si vous le choisissez, une image de la feuille de marque), et vous choisissez l’application avec laquelle le partager. Les photos de vos volées n’y sont jamais incluses.
+
+**Signaler un problème de comptage.** Lorsque vous touchez Signaler un problème de comptage sur une volée, l’Application rédige un e-mail sur cette volée (blason, distance, règle, modèle d’IA, et chaque flèche telle que l’IA l’a comptée et telle qu’elle est maintenant) et, si vous cochez la case, y joint la copie de la photo envoyée au service d’IA. Votre application de messagerie s’ouvre sans destinataire : vous choisissez à qui l’envoyer, et rien n’est envoyé tant que vous ne l’envoyez pas. Vos arcs, lieux et dates n’y figurent pas.
 
 **Exportations.** Lorsque vous exportez vos registres, l’Application écrit un fichier à l’endroit que vous choisissez (par exemple, vos téléchargements ou un espace de stockage en ligne). Les clés API et les adresses des services ne sont jamais incluses dans une exportation. Gardez ce fichier en lieu sûr : quiconque l’a en main peut lire vos registres.
 

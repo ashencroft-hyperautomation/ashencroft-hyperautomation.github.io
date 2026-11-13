@@ -18,7 +18,7 @@ Ullr est un projet pro bono du Studio Ashencroft, construit au grand jour. Voici
 - [x] Tableau de bord, historique, feuille de marque et graphique des volées
 - [x] Vos arcs, avec un catalogue d'arcs à poulies actuels, la puissance et l'allonge
 - [x] Français et anglais
-- [x] Allemand et espagnol dans l’application, avec les conditions d’utilisation et la politique de confidentialité traduites (ce site reste en français et en anglais)
+- [x] Allemand et espagnol, dans l’application (avec les conditions d’utilisation et la politique de confidentialité traduites) et sur ce site
 - [x] La confidentialité dès la conception : photos recadrées sur la cible, données cachées retirées, rien sur vous ni sur votre téléphone n'est envoyé
 - [x] Ullr Demo, avec six mois de séances d'exemple pour essayer chaque écran
 - [x] Les types d’arc des divisions World Archery (arc nu, recourbé, à poulies), et la discipline de chaque séance (tir sur cible, en campagne, 3D ou para-tir à l’arc)
@@ -35,6 +35,7 @@ Ullr est un projet pro bono du Studio Ashencroft, construit au grand jour. Voici
 - [x] Records personnels par type d’épreuve (par exemple 18 m, 60 flèches), à l’accueil et sur chaque séance
 - [x] Statistiques par distance et par blason, et carte de chaleur par spot
 - [x] Repères plus petits là où les flèches sont proches
+- [x] **Signaler un problème de comptage :** un e-mail sur la volée, envoyé à qui vous voulez, avec la photo seulement si vous l’ajoutez
 - [x] **Repères de visée** par arc et par distance, affichés au pas de tir
 - [x] **Jeux de flèches** et **carnet de réglages** pour chaque arc, avec les réglages sur la tendance des statistiques
 - [x] **Objectifs d’entraînement :** flèches par semaine et une moyenne à atteindre, à l’accueil, et un défi de la semaine en mode jeu

@@ -39,3 +39,7 @@ Una flecha que toca la línea entre dos zonas puntúa la zona más alta: una fle
 ## Triples dianas { #3-spot-faces }
 
 Según las reglas de World Archery, solo cuenta una flecha por spot. Cuando hay dos flechas en el mismo spot, la app las rodea y lo explica, pero no cambia ninguna puntuación: pon tú mismo la de más a M si tu tirada usa esa regla.
+
+## Informar de un problema de puntuación { #reporting-a-scoring-problem }
+
+Si la IA se equivocó en una tanda y merece la pena contárselo a alguien, toca **Informar de un problema de puntuación** debajo de las flechas. Escribe qué salió mal si quieres, y marca **Adjuntar la foto** para añadir la copia que se envió al servicio de IA. Ullr redacta el correo: la diana, la distancia y la regla, el modelo de IA, y cada flecha tal como la puntuó la IA y como está ahora, nunca tus arcos, lugares ni fechas. Tu app de correo se abre sin destinatario, así que tú eliges quién lo recibe: un entrenador, tu club o el desarrollador.

@@ -39,3 +39,7 @@ Une flèche qui touche la ligne entre deux zones prend la zone la plus haute : u
 ## Les trispots
 
 Selon les règles World Archery, une seule flèche par spot compte. Quand deux flèches sont dans le même spot, l’application les entoure et l’explique, mais ne change aucun score : mettez vous-même la flèche en trop à M si votre épreuve applique cette règle.
+
+## Signaler un problème de comptage
+
+Si l’IA s’est trompée sur une volée et que cela vaut la peine d’en parler, touchez **Signaler un problème de comptage** sous les flèches. Écrivez ce qui ne va pas si vous le souhaitez, et cochez **Joindre la photo** pour ajouter la copie envoyée au service d’IA. Ullr rédige l’e-mail : le blason, la distance et la règle, le modèle d’IA, et chaque flèche telle que l’IA l’a comptée et telle qu’elle est maintenant, jamais vos arcs, lieux ou dates. Votre application de messagerie s’ouvre sans destinataire : vous choisissez qui le reçoit, un entraîneur, votre club ou le développeur.

@@ -39,3 +39,7 @@ Ein Pfeil, der die Linie zwischen zwei Zonen berührt, zählt die höhere Zone: 
 ## Dreifach-Auflagen { #3-spot-faces }
 
 Nach den Regeln von World Archery zählt nur ein Pfeil pro Spot. Wenn zwei Pfeile im selben Spot stecken, kreist die App sie ein und erklärt es, ändert aber kein Ergebnis: Setz den überzähligen selbst auf M, wenn deine Runde diese Regel anwendet.
+
+## Ein Wertungsproblem melden { #reporting-a-scoring-problem }
+
+Wenn die KI eine Passe so falsch gewertet hat, dass es sich lohnt, jemandem davon zu erzählen, tippe unter den Pfeilen auf **Wertungsproblem melden**. Schreib auf Wunsch, was schiefgelaufen ist, und kreuze **Foto anhängen** an, um die Kopie hinzuzufügen, die an den KI-Dienst ging. Ullr schreibt die E-Mail: Auflage, Entfernung und Regel, das KI-Modell und jeden Pfeil so, wie die KI ihn gewertet hat und wie er jetzt ist, nie deine Bögen, Orte oder Daten. Deine E-Mail-App öffnet sich ohne Empfänger, du wählst also, wer sie bekommt: ein Trainer, dein Verein oder der Entwickler.

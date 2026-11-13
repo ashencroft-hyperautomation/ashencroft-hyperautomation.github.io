@@ -35,6 +35,7 @@ Ullr es un proyecto pro bono del Estudio Ashencroft, construido a la vista de to
 - [x] Mejores marcas personales por tipo de tirada (por ejemplo 18 m, 60 flechas), en Inicio y en cada sesión
 - [x] Estadísticas por distancia y diana, y un mapa de calor por spot
 - [x] Marcadores más pequeños donde las flechas están juntas
+- [x] **Informar de un problema de puntuación:** un correo sobre la tanda, a quien tú elijas, con la foto solo si la añades
 - [x] **Marcas de visor** por arco y distancia, mostradas en la línea de tiro
 - [x] **Juegos de flechas** y un **registro de ajustes** para cada arco, con los cambios de ajuste en la tendencia de las estadísticas
 - [x] **Objetivos de entrenamiento:** flechas por semana y una media que alcanzar, en Inicio, y un reto de la semana en el modo juego

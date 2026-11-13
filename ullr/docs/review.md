@@ -39,3 +39,7 @@ An arrow that touches the line between two zones scores the higher zone: an arro
 ## 3-spot faces
 
 Under World Archery rules, only one arrow per spot counts. When two arrows are in the same spot, the app circles them and explains, but doesn't change any score: set the extra one to M yourself if your round uses that rule.
+
+## Reporting a scoring problem
+
+If the AI got an end wrong in a way worth telling someone about, tap **Report a scoring problem** under the arrows. Write what went wrong if you like, and tick **Attach the photo** to add the copy that was sent to the AI service. Ullr writes the email: the face, distance and rule, the AI model, and each arrow as the AI scored it and as it is now, never your bows, places or dates. Your email app opens with no recipient, so you choose who gets it: a coach, your club, or the developer.

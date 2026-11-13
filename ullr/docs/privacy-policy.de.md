@@ -1,6 +1,6 @@
 # Datenschutzerklärung
 
-*Version 2 · Gültig ab 12. November 2026*
+*Version 3 · Gültig ab 13. November 2026*
 
 *Dies ist eine Übersetzung, die dir nur zur besseren Verständlichkeit bereitgestellt wird; maßgeblich sind allein die französische und die englische Fassung, die bei jeder Abweichung Vorrang haben.*
 
@@ -36,6 +36,8 @@ Dein Name, deine Orte, dein Verlauf, deine Ergebnisse und Angaben zu deinem Ger�
 **Manuelle Wertung.** Nichts verlässt dein Gerät.
 
 **Teilen einer Einheit.** Wenn du bei einer Einheit auf Teilen tippst, bereitet die App eine Zusammenfassung vor (Datum, Bogen, Ort, Runde, Ergebnisse und, wenn du möchtest, ein Bild des Schießzettels), und du wählst die App aus, mit der du sie teilst. Die Fotos deiner Passen sind nie enthalten.
+
+**Ein Wertungsproblem melden.** Wenn du bei einer Passe auf „Wertungsproblem melden“ tippst, schreibt die App eine E-Mail zu dieser Passe (Auflage, Entfernung, Regel, KI-Modell und jeder Pfeil so, wie die KI ihn gewertet hat und wie er jetzt ist) und hängt, wenn du es ankreuzt, die Kopie des Fotos an, die an den KI-Dienst geht. Deine E-Mail-App öffnet sich ohne Empfänger: Du wählst, an wen sie geht, und nichts wird gesendet, bevor du sie sendest. Deine Bögen, Orte und Daten sind nicht enthalten.
 
 **Exporte.** Wenn du deine Aufzeichnungen exportierst, schreibt die App eine Datei an den Ort, den du wählst (zum Beispiel deinen Download-Ordner oder einen Cloud-Speicher). API-Schlüssel und Dienstadressen werden nie in einen Export aufgenommen. Bewahre die Datei an einem privaten Ort auf: Wer die Datei hat, kann deine Aufzeichnungen lesen.
 

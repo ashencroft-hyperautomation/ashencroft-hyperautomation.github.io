@@ -35,6 +35,7 @@ Ullr ist ein Pro-bono-Projekt von Ashencroft Studio und wird offen entwickelt. H
 - [x] Persönliche Bestleistungen pro Rundentyp (zum Beispiel 18 m, 60 Pfeile), auf der Übersicht und bei jeder Einheit
 - [x] Statistik nach Entfernung und Auflage, und eine Heatmap pro Spot
 - [x] Kleinere Markierungen, wo Pfeile dicht beieinander stecken
+- [x] **Wertungsproblem melden:** eine E-Mail zur Passe, an wen du willst, mit dem Foto nur, wenn du es anhängst
 - [x] **Visiermarken** pro Bogen und Entfernung, an der Schießlinie angezeigt
 - [x] **Pfeilsätze** und ein **Tuning-Logbuch** für jeden Bogen, mit den Tuning-Änderungen im Statistik-Verlauf
 - [x] **Trainingsziele:** Pfeile pro Woche und ein Schnitt, den du erreichen willst, auf der Übersicht, und eine Wochenherausforderung im Spielmodus
