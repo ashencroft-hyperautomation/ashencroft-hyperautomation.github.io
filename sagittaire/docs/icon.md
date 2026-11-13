@@ -1,6 +1,6 @@
 # The app icon
 
-Today's icon is Archery Canada red: a target ring with four neurons linked to its centre (the AI), and the Sagittarius sign, whose arrow lands in the bullseye. Before it, the app had a carved wooden target, Norse style.
+Today's icon is half a target and half a maple leaf: a circle whose left half is a World Archery target and whose right half is a white maple leaf on Archery Canada red. Before it came a red mark with neurons and the Sagittarius sign, and a carved wooden target, Norse style.
 
 ## How it evolved
 
@@ -25,24 +25,28 @@ Today's icon is Archery Canada red: a target ring with four neurons linked to it
 ![Today's icon: on Archery Canada red, a white target ring with four neurons linked to the centre, and the Sagittarius sign in ink, its arrow ending in the white bullseye.](images/icons/5-archery-canada.png){ width="180" }
 <figcaption><b>5. Archery Canada.</b> sagitt·AI·re becomes Archery Canada's app: a new mark, in its red.</figcaption>
 </figure>
+<figure markdown>
+![Today's icon: a circle, its left half a target (white, black, blue, red and gold), its right half a white maple leaf on red.](images/icons/6-target-leaf.png){ width="180" }
+<figcaption><b>6. Target and maple leaf.</b> Archery and Canada, half and half, meeting in the middle.</figcaption>
+</figure>
 </div>
 
 ## Today's icon
 
-- **The target ring**, the archery.
-- **Four neurons** on the ring, linked to the centre: the AI that reads your target.
-- **The Sagittarius sign** ♐, the archer of the zodiac, which gives the app its name; its arrow ends in the bullseye.
-- **Archery Canada red** behind it, white and ink for the mark. The launch screen is white, like Archery Canada's website.
+- **The left half** is a World Archery target: white, black, blue, red and gold.
+- **The right half** is a white maple leaf on Archery Canada red.
+- They meet on the centre line, so the target and the leaf make one circle.
+- **A white background**, like Archery Canada's website, and the launch screen is white too.
 
 ## Variants
 
 <div class="shots" markdown>
 <figure markdown>
-![The one-colour themed icon: the ring, neurons and Sagittarius sign in a single colour, tinted by Android to match the wallpaper.](images/icons/5-archery-canada-themed.png){ width="180" }
+![The one-colour themed icon: the target's rings as lines on the left, the leaf cut out of the right half, tinted by Android to match the wallpaper.](images/icons/6-target-leaf-themed.png){ width="180" }
 <figcaption><b>Themed icon.</b> One colour, tinted by Android 13+ to match your wallpaper.</figcaption>
 </figure>
 <figure markdown>
-![The demo edition icon: the red icon with an ink DEMO banner.](images/icons/5-archery-canada-demo.png){ width="180" }
+![The demo edition icon: the target and leaf with an ink DEMO banner.](images/icons/6-target-leaf-demo.png){ width="180" }
 <figcaption><b>sagitt·AI·re Demo.</b> A DEMO banner, so it can't be confused with the real app.</figcaption>
 </figure>
 </div>

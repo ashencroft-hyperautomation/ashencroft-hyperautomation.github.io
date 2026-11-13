@@ -1,6 +1,6 @@
 # Das App-Symbol { #the-app-icon }
 
-Das heutige Symbol ist rot wie Archery Canada: ein Scheibenring mit vier Neuronen, die mit der Mitte verbunden sind (die KI), und das Zeichen des Schützen, dessen Pfeil in der Mitte landet. Davor hatte die App eine geschnitzte Holzscheibe im nordischen Stil.
+Das heutige Symbol ist halb Scheibe, halb Ahornblatt: ein Kreis, dessen linke Hälfte eine World-Archery-Scheibe ist und dessen rechte Hälfte ein weißes Ahornblatt auf dem Rot von Archery Canada. Davor gab es ein rotes Zeichen mit Neuronen und dem Zeichen des Schützen und eine geschnitzte Holzscheibe im nordischen Stil.
 
 ## Wie es entstand { #how-it-evolved }
 
@@ -25,24 +25,28 @@ Das heutige Symbol ist rot wie Archery Canada: ein Scheibenring mit vier Neurone
 ![Das heutige Symbol: auf dem Rot von Archery Canada ein weißer Scheibenring mit vier Neuronen, die mit der Mitte verbunden sind, und das Zeichen des Schützen in Schwarz, dessen Pfeil in der weißen Mitte endet.](images/icons/5-archery-canada.png){ width="180" }
 <figcaption><b>5. Archery Canada.</b> sagitt·AI·re wird die App von Archery Canada: ein neues Zeichen, in ihrem Rot.</figcaption>
 </figure>
+<figure markdown>
+![Das heutige Symbol: ein Kreis, links eine halbe Scheibe (Weiß, Schwarz, Blau, Rot und Gold), rechts ein halbes weißes Ahornblatt auf Rot.](images/icons/6-target-leaf.png){ width="180" }
+<figcaption><b>6. Scheibe und Ahornblatt.</b> Bogenschießen und Kanada, halb und halb, die sich in der Mitte treffen.</figcaption>
+</figure>
 </div>
 
 ## Das heutige Symbol { #todays-icon }
 
-- **Der Scheibenring** steht für das Bogenschießen.
-- **Vier Neuronen** auf dem Ring, mit der Mitte verbunden: die KI, die deine Scheibe liest.
-- **Das Zeichen des Schützen** ♐, des Bogenschützen im Tierkreis, nach dem die App heißt; sein Pfeil endet in der Mitte.
-- **Das Rot von Archery Canada** dahinter, Weiß und Schwarz für das Zeichen. Der Startbildschirm ist weiß, wie die Website von Archery Canada.
+- **Die linke Hälfte** ist eine World-Archery-Scheibe: Weiß, Schwarz, Blau, Rot und Gold.
+- **Die rechte Hälfte** ist ein weißes Ahornblatt auf dem Rot von Archery Canada.
+- Sie treffen sich auf der Mittellinie, sodass Scheibe und Blatt einen Kreis bilden.
+- **Ein weißer Hintergrund**, wie die Website von Archery Canada, und auch der Startbildschirm ist weiß.
 
 ## Varianten { #variants }
 
 <div class="shots" markdown>
 <figure markdown>
-![Das einfarbige Designsymbol, von Android passend zum Hintergrundbild eingefärbt.](images/icons/5-archery-canada-themed.png){ width="180" }
+![Das einfarbige Designsymbol, von Android passend zum Hintergrundbild eingefärbt.](images/icons/6-target-leaf-themed.png){ width="180" }
 <figcaption><b>Designsymbol.</b> Einfarbig, von Android 13+ passend zu deinem Hintergrundbild eingefärbt.</figcaption>
 </figure>
 <figure markdown>
-![Das Symbol der Demo-Ausgabe: das rote Symbol mit einem schwarzen DEMO-Banner.](images/icons/5-archery-canada-demo.png){ width="180" }
+![Das Symbol der Demo-Ausgabe: Scheibe und Blatt mit einem schwarzen DEMO-Banner.](images/icons/6-target-leaf-demo.png){ width="180" }
 <figcaption><b>sagitt·AI·re Demo.</b> Ein DEMO-Banner, damit sie nicht mit der echten App verwechselt werden kann.</figcaption>
 </figure>
 </div>
