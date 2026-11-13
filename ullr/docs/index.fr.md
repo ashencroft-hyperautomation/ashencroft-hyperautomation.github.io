@@ -15,6 +15,35 @@ hide:
 
 *Du nom d’Ullr, le dieu nordique du tir à l’arc.*
 
+<div class="game-band" markdown>
+
+## Ou jouez-y comme à un jeu { #game-band }
+
+Activez le **mode jeu** et Ullr devient un petit jeu vidéo en pixel art. Votre archer se promène dans une maison nordique et sur un pas de tir : le **râtelier** ouvre vos arcs, la **ligne de tir** commence une séance, l’**âtre** montre vos statistiques. Les mêmes données, le même comptage : seul le vrai tir rapporte quelque chose.
+
+<div class="shots" markdown>
+<figure markdown>
+![Le pas de tir en pixel art : trois buttes, la ligne de tir avec les couloirs 1 à 3, le porte-flèches, des arbres, et un renard qui suit l’archer.](images/screenshots/fr/game-range.png){ .shot }
+<figcaption><b>Marchez jusqu’au pas de tir</b> et tirez</figcaption>
+</figure>
+<figure markdown>
+![La maison : l’archer aux tresses rousses, couronne de fleurs et mantelet de fourrure, passe devant le tapis avec un renard à ses côtés.](images/screenshots/fr/game-pet.png){ .shot }
+<figcaption><b>Habillez votre archer</b>, choisissez un compagnon</figcaption>
+</figure>
+<figure markdown>
+![Trophées : niveau et expérience, dix insignes avec des médailles d’or, records personnels.](images/screenshots/fr/game-trophies.png){ .shot }
+<figcaption><b>Niveaux, insignes</b>, un défi chaque semaine</figcaption>
+</figure>
+</div>
+
+![Les quatre archers légendaires de face, de profil et de dos : Artémis et son chien, Ullr et un corbeau, Robin des Bois et un renard, et Hou Yi.](images/game-legends.png){ .pixel width="360" }
+
+Des tenues et des décorations à gagner, un hibou pour quatre semaines de suite, un cor de guerre pour un record personnel, le pas de tir aux quatre saisons, de la musique et des sons faits pour Ullr.
+
+[Découvrir le mode jeu](game.md){ .md-button .md-button--primary }
+
+</div>
+
 ## Deux façons de l’utiliser
 
 Les mêmes données, le même comptage : choisissez celle qui vous plaît, et changez à tout moment dans **Réglages → Apparence et jeu**.

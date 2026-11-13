@@ -32,3 +32,21 @@
 
 /* Pixel art stays crisp when scaled up. */
 .pixel { image-rendering: pixelated; }
+
+/* Home page: game mode in its own dark-wood band, like the game itself. */
+.md-typeset .game-band {
+  background: #24160c;
+  color: #f3e3c3;
+  border: 3px solid #5a3a1e;
+  border-radius: 12px;
+  padding: .4rem 1.4rem 1.2rem;
+  margin: 1.6rem 0;
+}
+.md-typeset .game-band h2 { color: #e0b062; margin-top: .8rem; letter-spacing: .02em; }
+.md-typeset .game-band a:not(.md-button) { color: #e0b062; }
+.md-typeset .game-band figcaption { color: #d9c4a0; }
+.md-typeset .game-band .md-button--primary { background: #9a3b26; border-color: #9a3b26; color: #f3e3c3; }
+.md-typeset .game-band .md-button--primary:hover { background: #c0563a; border-color: #c0563a; }
+/* The Game mode tab stands out in gold, with a gamepad. */
+.md-tabs__link[href$="game/"] { opacity: 1; color: #e0b062; font-weight: 700; }
+.md-tabs__link[href$="game/"]::before { content: "🎮 "; }

@@ -15,6 +15,35 @@ hide:
 
 *Named after Ullr, the Norse god of archery.*
 
+<div class="game-band" markdown>
+
+## Or play it like a game { #game-band }
+
+Turn on **game mode** and Ullr becomes a small pixel-art video game. Your archer walks around a Norse hall and an archery range: the **bow rack** opens your bows, the **shooting line** starts a session, the **hearth** shows your statistics. Same records, same scoring: only real shooting earns anything.
+
+<div class="shots" markdown>
+<figure markdown>
+![The range in pixel art: three target butts, the shooting line with lanes 1 to 3, the arrow stand, trees, and a fox following the archer.](images/screenshots/game-range.png){ .shot }
+<figcaption><b>Walk to the range</b> and shoot</figcaption>
+</figure>
+<figure markdown>
+![The hall: the archer with red braids, a flower crown and a fur mantle walks past the rug with a fox beside them.](images/screenshots/game-pet.png){ .shot }
+<figcaption><b>Dress your archer</b>, pick a companion</figcaption>
+</figure>
+<figure markdown>
+![Trophies: level and experience, ten badges with gold medals, personal bests.](images/screenshots/game-trophies.png){ .shot }
+<figcaption><b>Levels, badges</b>, a weekly challenge</figcaption>
+</figure>
+</div>
+
+![The four legendary archers from the front, side and back: Artemis with her hound, Ullr with a raven, Robin Hood with a fox, and Hou Yi.](images/game-legends.png){ .pixel width="360" }
+
+Outfits and hall decorations to earn, an owl for four weeks in a row, a war horn for a personal best, the range in four seasons, music and sounds made for Ullr.
+
+[Discover game mode](game.md){ .md-button .md-button--primary }
+
+</div>
+
 ## Two ways to use it
 
 Same records, same scoring: pick the one you like, and switch at any time in **Settings → Appearance and game**.

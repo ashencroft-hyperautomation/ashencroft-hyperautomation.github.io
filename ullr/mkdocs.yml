@@ -96,21 +96,20 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Getting started: guide.md
-  - Modes:
-      - Normal mode: normal.md
-      - Game mode: game.md
+  - Game mode: game.md
+  - Statistics: stats.md
   - Scoring:
       - Three ways to score: scoring.md
       - Your own API key: scoring-api.md
       - Share with your AI app: scoring-share.md
       - Manual scoring: scoring-manual.md
   - Features:
+      - Normal mode: normal.md
       - Sessions: sessions.md
       - Checking arrows: review.md
       - Scoring rules: rules.md
       - Bows: bows.md
       - History: history.md
-      - Statistics: stats.md
       - Storage and backup: backup.md
       - Look and language: look.md
   - About:
