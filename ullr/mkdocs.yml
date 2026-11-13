@@ -80,6 +80,76 @@ plugins:
             Terms of use: Conditions d'utilisation
             Privacy policy: Politique de confidentialité
             Open-source licences: Licences de logiciels libres
+        - locale: de
+          name: Deutsch
+          build: true
+          site_name: Ullr
+          site_description: Das Bogenschieß-Tagebuch mit KI-Wertung, für Android. Fotografiere die Scheibe, prüfe die Pfeile, bei denen die KI unsicher ist, und behalte deinen Verlauf auf deinem Handy.
+          copyright: Ullr ist ein Pro-bono-Projekt von <strong>Ashencroft Studio</strong> — Experten für verantwortungsvolle KI &amp; Hyperautomatisierung
+          nav_translations:
+            Home: Start
+            Getting started: Erste Schritte
+            Normal mode: Normalmodus
+            Game mode: Spielmodus
+            Scoring: Wertung
+            Three ways to score: Drei Arten der Wertung
+            Your own API key: Dein eigener API-Schlüssel
+            Share with your AI app: Mit deiner KI-App teilen
+            Manual scoring: Manuelle Wertung
+            Features: Funktionen
+            Sessions: Einheiten
+            Checking arrows: Pfeile prüfen
+            Scoring rules: Wertungsregeln
+            Bows: Bögen
+            History: Verlauf
+            Statistics: Statistik
+            Storage and backup: Speicher und Sicherung
+            Look and language: Aussehen und Sprache
+            About: Über Ullr
+            Screenshots: Bildschirmfotos
+            How it works: So funktioniert es
+            Privacy: Datenschutz
+            Security: Sicherheit
+            App icon: Das App-Symbol
+            Roadmap: Fahrplan
+            Terms of use: Nutzungsbedingungen
+            Privacy policy: Datenschutzerklärung
+            Open-source licences: Open-Source-Lizenzen
+        - locale: es
+          name: Español
+          build: true
+          site_name: Ullr
+          site_description: El registro de tiro con arco con puntuación por IA, para Android. Fotografía la diana, revisa las flechas de las que la IA duda y guarda tu historial en tu teléfono.
+          copyright: Ullr es un proyecto pro bono de <strong>Estudio Ashencroft</strong> — Expertos en IA y Hiperautomatización Responsables
+          nav_translations:
+            Home: Inicio
+            Getting started: Primeros pasos
+            Normal mode: Modo normal
+            Game mode: Modo juego
+            Scoring: Puntuación
+            Three ways to score: Tres formas de puntuar
+            Your own API key: Tu propia clave de API
+            Share with your AI app: Compartir con tu app de IA
+            Manual scoring: Puntuación manual
+            Features: Funciones
+            Sessions: Sesiones
+            Checking arrows: Revisar flechas
+            Scoring rules: Reglas de puntuación
+            Bows: Arcos
+            History: Historial
+            Statistics: Estadísticas
+            Storage and backup: Almacenamiento y copia de seguridad
+            Look and language: Apariencia e idioma
+            About: Acerca de
+            Screenshots: Capturas de pantalla
+            How it works: Cómo funciona
+            Privacy: Privacidad
+            Security: Seguridad
+            App icon: El icono
+            Roadmap: Hoja de ruta
+            Terms of use: Condiciones de uso
+            Privacy policy: Política de privacidad
+            Open-source licences: Licencias de código abierto
 
 markdown_extensions:
   - admonition
