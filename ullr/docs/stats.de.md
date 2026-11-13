@@ -46,7 +46,7 @@ Wenn alle gezeigten Einheiten dieselbe Auflage nutzen, werden ihre eigenen Ringe
 <figcaption><b>Entwicklung und Umfang</b></figcaption>
 </figure>
 <figure markdown>
-![Dieselbe Entwicklung und derselbe Wochenumfang im Spielmodus.](images/screenshots/game-stats-trend.png){ .shot }
+![Dieselbe Entwicklung und derselbe Wochenumfang im Spielmodus.](images/screenshots/de/game-stats-trend.png){ .shot }
 <figcaption>Im Spielmodus</figcaption>
 </figure>
 </div>
@@ -65,7 +65,7 @@ Wenn alle gezeigten Einheiten dieselbe Auflage nutzen, werden ihre eigenen Ringe
 <figcaption><b>Ringe und Konstanz</b></figcaption>
 </figure>
 <figure markdown>
-![Dieselben Ringe und dieselbe Konstanz im Spielmodus.](images/screenshots/game-stats-rings.png){ .shot }
+![Dieselben Ringe und dieselbe Konstanz im Spielmodus.](images/screenshots/de/game-stats-rings.png){ .shot }
 <figcaption>Im Spielmodus</figcaption>
 </figure>
 </div>
@@ -86,7 +86,7 @@ Wie viele Pfeile in jedem Ring gelandet sind, von X (oder 11 bei einem 3D-Tier) 
 <figcaption><b>Gruppierung</b></figcaption>
 </figure>
 <figure markdown>
-![Dieselbe Gruppierung im Spielmodus, helle Punkte und ein goldenes Kreuz auf dunklem Holz.](images/screenshots/game-stats-group.png){ .shot }
+![Dieselbe Gruppierung im Spielmodus, helle Punkte und ein goldenes Kreuz auf dunklem Holz.](images/screenshots/de/game-stats-group.png){ .shot }
 <figcaption>Im Spielmodus</figcaption>
 </figure>
 </div>
@@ -106,7 +106,7 @@ Pfeile, die die KI platziert hat, zählen immer. Von Hand platzierte Pfeile zäh
 <figcaption><b>Heatmap pro Spot</b></figcaption>
 </figure>
 <figure markdown>
-![Dieselben Heatmaps pro Spot im Spielmodus.](images/screenshots/game-stats-heat.png){ .shot }
+![Dieselben Heatmaps pro Spot im Spielmodus.](images/screenshots/de/game-stats-heat.png){ .shot }
 <figcaption>Im Spielmodus</figcaption>
 </figure>
 </div>

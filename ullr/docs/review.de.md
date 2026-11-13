@@ -8,11 +8,11 @@ Bevor eine Passe zählt, prüfst du sie: das Ergebnis der KI bei der [automatisc
 <figcaption><b>Zwei Pfeile zu prüfen</b></figcaption>
 </figure>
 <figure markdown>
-![Ein markierter Pfeil ist ausgewählt: Die Ringauswahl hebt die beiden Ringe hervor, die die KI in Frage kommen sieht, 9 und 10, mit ihrer Sicherheit.](images/screenshots/review-select.png){ .shot }
+![Ein markierter Pfeil ist ausgewählt: Die Ringauswahl hebt die beiden Ringe hervor, die die KI in Frage kommen sieht, 9 und 10, mit ihrer Sicherheit.](images/screenshots/de/review-select.png){ .shot }
 <figcaption><b>Den richtigen Ring wählen</b></figcaption>
 </figure>
 <figure markdown>
-![Eine frühere Passe: das Foto von zwei Dreifach-Auflagen mit sechs Pfeilen und ihren Ringen.](images/screenshots/review.png){ .shot }
+![Eine frühere Passe: das Foto von zwei Dreifach-Auflagen mit sechs Pfeilen und ihren Ringen.](images/screenshots/de/review.png){ .shot }
 <figcaption><b>Eine frühere Passe</b>, mit ihrem Foto</figcaption>
 </figure>
 </div>

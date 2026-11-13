@@ -6,11 +6,11 @@ El método automático: después de cada foto, Ullr envía la diana al servicio 
 
 <div class="shots" markdown>
 <figure markdown>
-![La página Método de puntuación, con Tu propia clave de API elegida y la lista de servicios de IA.](images/screenshots/settings.png){ .shot }
+![La página Método de puntuación, con Tu propia clave de API elegida y la lista de servicios de IA.](images/screenshots/es/settings.png){ .shot }
 <figcaption>Elige el método y el servicio</figcaption>
 </figure>
 <figure markdown>
-![Un servicio compatible con OpenAI configurado: su dirección, el ID del modelo y la sección de la clave, que lleva el nombre de la dirección del servicio.](images/screenshots/scoring-custom.png){ .shot }
+![Un servicio compatible con OpenAI configurado: su dirección, el ID del modelo y la sección de la clave, que lleva el nombre de la dirección del servicio.](images/screenshots/es/scoring-custom.png){ .shot }
 <figcaption>Cualquier servicio compatible con OpenAI</figcaption>
 </figure>
 </div>
@@ -50,7 +50,7 @@ Deja un campo vacío para usar el valor predeterminado que aparece debajo.
 
 ## Obtén y guarda una clave de API { #get-and-save-an-api-key }
 
-![La guía de la app Cómo obtener una clave de API: crea una cuenta y añade crédito, pon un límite de gasto, crea una clave solo para Ullr, pégala en Ullr, cuánto cuesta y qué hacer si pierdes el teléfono.](images/screenshots/key-guide-other.png){ .shot width="220" align=right }
+![La guía de la app Cómo obtener una clave de API: crea una cuenta y añade crédito, pon un límite de gasto, crea una clave solo para Ullr, pégala en Ullr, cuánto cuesta y qué hacer si pierdes el teléfono.](images/screenshots/es/key-guide-other.png){ .shot width="220" align=right }
 
 La app te guía paso a paso: debajo de la clave, **Cómo obtener una clave y cuánto cuesta** te da los pasos para el servicio que elegiste, desde la cuenta hasta una clave creada solo para Ullr, con un límite de gasto, y el coste por tanda.
 

@@ -8,11 +8,11 @@ La pestaña **Arcos** muestra tus arcos. Toca uno para abrir su página: su conf
 <figcaption><b>Tus arcos</b></figcaption>
 </figure>
 <figure markdown>
-![Editar arco: compuesto, PSE Drive NXT del catálogo con sus especificaciones, 62 lb, apertura de 30.5 pulgadas, descripción de las flechas.](images/screenshots/bow-edit.png){ .shot }
+![Editar arco: compuesto, PSE Drive NXT del catálogo con sus especificaciones, 62 lb, apertura de 30.5 pulgadas, descripción de las flechas.](images/screenshots/es/bow-edit.png){ .shot }
 <figcaption><b>Partir del catálogo</b></figcaption>
 </figure>
 <figure markdown>
-![Arcos con el aspecto del juego: tarjetas de madera oscura, cada arco con el dibujo de su tipo.](images/screenshots/game-bows.png){ .shot }
+![Arcos con el aspecto del juego: tarjetas de madera oscura, cada arco con el dibujo de su tipo.](images/screenshots/es/game-bows.png){ .shot }
 <figcaption><b>Tus arcos</b>, con el aspecto del juego</figcaption>
 </figure>
 </div>

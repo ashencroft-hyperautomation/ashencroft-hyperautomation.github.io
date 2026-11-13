@@ -6,11 +6,11 @@ Die automatische Methode: Nach jedem Foto sendet Ullr die Scheibe an den KI-Dien
 
 <div class="shots" markdown>
 <figure markdown>
-![Die Seite Wertungsmethode, mit Dein eigener API-Schlüssel gewählt und der Liste der KI-Dienste.](images/screenshots/settings.png){ .shot }
+![Die Seite Wertungsmethode, mit Dein eigener API-Schlüssel gewählt und der Liste der KI-Dienste.](images/screenshots/de/settings.png){ .shot }
 <figcaption>Methode und Dienst wählen</figcaption>
 </figure>
 <figure markdown>
-![Ein eingerichteter OpenAI-kompatibler Dienst: seine Adresse, die Modell-ID und der Schlüsselbereich, benannt nach der Adresse des Dienstes.](images/screenshots/scoring-custom.png){ .shot }
+![Ein eingerichteter OpenAI-kompatibler Dienst: seine Adresse, die Modell-ID und der Schlüsselbereich, benannt nach der Adresse des Dienstes.](images/screenshots/de/scoring-custom.png){ .shot }
 <figcaption>Jeder OpenAI-kompatible Dienst</figcaption>
 </figure>
 </div>
@@ -50,7 +50,7 @@ Lass ein Feld leer, um den Standard zu nutzen, der darunter steht.
 
 ## Einen API-Schlüssel bekommen und speichern { #get-and-save-an-api-key }
 
-![Die Anleitung in der App, Einen API-Schlüssel bekommen: ein Konto erstellen und Guthaben aufladen, ein Ausgabenlimit festlegen, einen Schlüssel nur für Ullr erstellen, ihn in Ullr einfügen, was es kostet und was zu tun ist, wenn dein Handy verloren geht.](images/screenshots/key-guide-other.png){ .shot width="220" align=right }
+![Die Anleitung in der App, Einen API-Schlüssel bekommen: ein Konto erstellen und Guthaben aufladen, ein Ausgabenlimit festlegen, einen Schlüssel nur für Ullr erstellen, ihn in Ullr einfügen, was es kostet und was zu tun ist, wenn dein Handy verloren geht.](images/screenshots/de/key-guide-other.png){ .shot width="220" align=right }
 
 Die App führt dich hindurch: Unter dem Schlüssel gibt dir **Wie du einen Schlüssel bekommst und was er kostet** die Schritte für den gewählten Dienst, vom Konto bis zu einem Schlüssel nur für Ullr, mit einem Ausgabenlimit, und die Kosten pro Passe.
 

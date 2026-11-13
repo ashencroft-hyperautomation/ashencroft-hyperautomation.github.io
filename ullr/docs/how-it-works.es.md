@@ -2,7 +2,7 @@
 
 De una foto de la diana a una puntuación confirmada, en cinco pasos. La IA lee la diana. Ullr decide qué marcar con un círculo, aplica tu regla de puntuación y guarda el registro. Tú confirmas cada tanda.
 
-![Los nueve pasos de la puntuación: captura, preparación y recorte en el teléfono; solicitud y respuesta en el servicio de IA; vuelta a la foto, señalización, puntos y revisión de nuevo en el teléfono.](images/diagrams/pipeline.png){ width="250" align=right }
+![Los nueve pasos de la puntuación: captura, preparación y recorte en el teléfono; solicitud y respuesta en el servicio de IA; vuelta a la foto, señalización, puntos y revisión de nuevo en el teléfono.](images/diagrams/pipeline.es.png){ width="250" align=right }
 
 ## 1. Tú haces la foto { #1-you-take-the-photo }
 
@@ -59,7 +59,7 @@ Un aviso también te advierte cuando el número de flechas encontradas no es el 
 
 <div class="shots" markdown>
 <figure markdown>
-![Una flecha señalada y seleccionada: el selector de zonas resalta las dos zonas candidatas de la IA, 9 y 10, con su confianza.](images/screenshots/review-select.png){ .shot }
+![Una flecha señalada y seleccionada: el selector de zonas resalta las dos zonas candidatas de la IA, 9 y 10, con su confianza.](images/screenshots/es/review-select.png){ .shot }
 <figcaption>Elige la zona correcta y luego confirma</figcaption>
 </figure>
 </div>
@@ -70,7 +70,7 @@ Corriges cualquier flecha marcada con un toque, añades una flecha que falte o q
 
 <div class="shots" markdown>
 <figure markdown>
-![La página Método de puntuación: tu propia clave de API, compartir con tu app de IA, o manual.](images/screenshots/settings.png){ .shot }
+![La página Método de puntuación: tu propia clave de API, compartir con tu app de IA, o manual.](images/screenshots/es/settings.png){ .shot }
 <figcaption>Elegir el método en Ajustes</figcaption>
 </figure>
 </div>

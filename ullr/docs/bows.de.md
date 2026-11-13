@@ -8,11 +8,11 @@ Der Tab **Bögen** listet deine Bögen. Tipp auf einen, um seine Seite zu öffne
 <figcaption><b>Deine Bögen</b></figcaption>
 </figure>
 <figure markdown>
-![Bogen bearbeiten: Compound, PSE Drive NXT aus dem Katalog mit seinen Daten, 62 lb, 30.5 Zoll Auszugslänge, Pfeilbeschreibung.](images/screenshots/bow-edit.png){ .shot }
+![Bogen bearbeiten: Compound, PSE Drive NXT aus dem Katalog mit seinen Daten, 62 lb, 30.5 Zoll Auszugslänge, Pfeilbeschreibung.](images/screenshots/de/bow-edit.png){ .shot }
 <figcaption><b>Start mit dem Katalog</b></figcaption>
 </figure>
 <figure markdown>
-![Bögen im Spiel-Look: Karten aus dunklem Holz, jeder Bogen mit der Zeichnung seines Typs.](images/screenshots/game-bows.png){ .shot }
+![Bögen im Spiel-Look: Karten aus dunklem Holz, jeder Bogen mit der Zeichnung seines Typs.](images/screenshots/de/game-bows.png){ .shot }
 <figcaption><b>Deine Bögen</b>, im Spiel-Look</figcaption>
 </figure>
 </div>

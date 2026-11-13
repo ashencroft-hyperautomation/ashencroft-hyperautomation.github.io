@@ -4,7 +4,7 @@ Todo se guarda solo en tu teléfono, y desinstalar la app lo elimina. **Ajustes 
 
 <div class="shots" markdown>
 <figure markdown>
-![Almacenamiento y copia de seguridad: espacio usado; exportar todo, solo registros o solo fotos; restaurar desde una exportación.](images/screenshots/storage.png){ .shot }
+![Almacenamiento y copia de seguridad: espacio usado; exportar todo, solo registros o solo fotos; restaurar desde una exportación.](images/screenshots/es/storage.png){ .shot }
 <figcaption><b>Exportar y restaurar</b></figcaption>
 </figure>
 </div>
@@ -25,7 +25,7 @@ Elimina las fotos a tamaño completo de las sesiones de hace más de 3 meses, 6 
 
 <div class="shots" markdown>
 <figure markdown>
-![Borrar datos: Borrar todas las sesiones, que conserva arcos, lugares, ajustes y claves, y Borrar todo, que reinicia Ullr como si estuviera recién instalada.](images/screenshots/erase.png){ .shot }
+![Borrar datos: Borrar todas las sesiones, que conserva arcos, lugares, ajustes y claves, y Borrar todo, que reinicia Ullr como si estuviera recién instalada.](images/screenshots/es/erase.png){ .shot }
 <figcaption><b>Borrar datos</b>, al final de Almacenamiento y copia de seguridad</figcaption>
 </figure>
 </div>

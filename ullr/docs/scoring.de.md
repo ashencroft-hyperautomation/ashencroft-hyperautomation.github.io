@@ -2,7 +2,7 @@
 
 Ullr wertet eine Passe auf eine von drei Arten. Du wählst unter **Einstellungen → Wertungsmethode** und kannst jederzeit wechseln: Frühere Einheiten behalten ihre Ergebnisse.
 
-![Die Seite Wertungsmethode: was jede Methode macht, dann die Wahl zwischen deinem eigenen API-Schlüssel, Teilen mit deiner KI-App und von Hand.](images/screenshots/settings.png){ .shot width="240" }
+![Die Seite Wertungsmethode: was jede Methode macht, dann die Wahl zwischen deinem eigenen API-Schlüssel, Teilen mit deiner KI-App und von Hand.](images/screenshots/de/settings.png){ .shot width="240" }
 
 | | [Dein eigener API-Schlüssel](scoring-api.md) | [Mit deiner KI-App teilen](scoring-share.md) | [Von Hand](scoring-manual.md) |
 |---|---|---|---|

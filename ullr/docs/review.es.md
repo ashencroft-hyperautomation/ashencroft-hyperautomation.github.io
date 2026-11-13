@@ -8,11 +8,11 @@ Antes de que una tanda cuente, la revisas: el resultado de la IA con los método
 <figcaption><b>Dos flechas por revisar</b></figcaption>
 </figure>
 <figure markdown>
-![Una flecha señalada seleccionada: el selector de zona resalta las dos zonas candidatas de la IA, 9 y 10, con su confianza.](images/screenshots/review-select.png){ .shot }
+![Una flecha señalada seleccionada: el selector de zona resalta las dos zonas candidatas de la IA, 9 y 10, con su confianza.](images/screenshots/es/review-select.png){ .shot }
 <figcaption><b>Elegir la zona correcta</b></figcaption>
 </figure>
 <figure markdown>
-![Una tanda pasada: la foto de dos triples dianas con seis flechas y sus zonas.](images/screenshots/review.png){ .shot }
+![Una tanda pasada: la foto de dos triples dianas con seis flechas y sus zonas.](images/screenshots/es/review.png){ .shot }
 <figcaption><b>Una tanda pasada</b>, con su foto</figcaption>
 </figure>
 </div>

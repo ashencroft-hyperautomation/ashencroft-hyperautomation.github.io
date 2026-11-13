@@ -6,7 +6,7 @@ Diese Seite erklärt es in einfachen Worten. Der formelle Text ist die [Datensch
 
 ## Was Ullr speichert, und wo { #what-ullr-keeps-and-where }
 
-![Was Ullr speichert, alles auf deinem Handy: deine Bögen und Orte führen zu Einheiten; jede Einheit hat Passen mit ihrem Foto; jede Passe hat ihre Pfeile; die Einstellungen enthalten die Sprache, die Wertungsmethode und den API-Schlüssel, verschlüsselt.](images/diagrams/data-stored.png)
+![Was Ullr speichert, alles auf deinem Handy: deine Bögen und Orte führen zu Einheiten; jede Einheit hat Passen mit ihrem Foto; jede Passe hat ihre Pfeile; die Einstellungen enthalten die Sprache, die Wertungsmethode und den API-Schlüssel, verschlüsselt.](images/diagrams/data-stored.de.png)
 
 Das ist alles: deine Bögen und Orte, deine Einheiten, jede Passe mit ihrem Foto und jeder Pfeil. Nichts über dich als Person, kein Konto, keine Kontakte. All das liegt im privaten Speicher von Ullr auf dem Handy.
 
@@ -17,7 +17,7 @@ Das ist alles: deine Bögen und Orte, deine Einheiten, jede Passe mit ihrem Foto
 
 ## Was gesendet wird, und wann { #what-is-sent-and-when }
 
-![Was dein Handy verlässt: Alles bleibt auf dem Handy, außer, nur wenn eine Passe gewertet wird, das zugeschnittene Foto, deine Angaben und dein Schlüssel, verschlüsselt an den KI-Dienst deiner Wahl gesendet, der nur die Ergebnisse zurückschickt.](images/diagrams/data-sent.png){ width="560" }
+![Was dein Handy verlässt: Alles bleibt auf dem Handy, außer, nur wenn eine Passe gewertet wird, das zugeschnittene Foto, deine Angaben und dein Schlüssel, verschlüsselt an den KI-Dienst deiner Wahl gesendet, der nur die Ergebnisse zurückschickt.](images/diagrams/data-sent.de.png){ width="560" }
 
 Nur wenn eine Passe mit einem KI-Dienst gewertet wird, über eine verschlüsselte Verbindung, und nur an diesen Dienst:
 
@@ -27,7 +27,7 @@ Nur wenn eine Passe mit einem KI-Dienst gewertet wird, über eine verschlüsselt
 
 **Nie gesendet:** dein Name, deine Orte, dein Verlauf, deine Ergebnisse oder Angaben zu deinem Handy. Die technischen Angaben, die Apps meist über das Handy senden (Android-Version, Prozessor), werden durch „unbekannt“ ersetzt.
 
-![Der Datenschutz-Bereich der Einstellungen: der Schalter, um nur den Scheibenbereich zu senden, und die Liste dessen, was gesendet und nie gesendet wird.](images/screenshots/settings-privacy.png){ .shot width="240" }
+![Der Datenschutz-Bereich der Einstellungen: der Schalter, um nur den Scheibenbereich zu senden, und die Liste dessen, was gesendet und nie gesendet wird.](images/screenshots/de/settings-privacy.png){ .shot width="240" }
 
 Die Einstellungen zeigen dieselbe Liste unter **Was an … gesendet wird**, für den Dienst, den du gewählt hast.
 

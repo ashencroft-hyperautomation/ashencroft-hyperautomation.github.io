@@ -2,7 +2,7 @@
 
 Ullr está pensado para que haya muy poco que proteger fuera de tu teléfono, y lo que sale de él se reduce al mínimo. Esto es lo que te protege a ti y a tus datos, en palabras sencillas.
 
-![Lo que sale de tu teléfono: todo se queda en el teléfono salvo, solo cuando se puntúa una tanda, la foto recortada, tu configuración y tu clave, enviadas cifradas al servicio de IA que elegiste, que devuelve solo las puntuaciones.](images/diagrams/data-sent.png){ width="640" }
+![Lo que sale de tu teléfono: todo se queda en el teléfono salvo, solo cuando se puntúa una tanda, la foto recortada, tu configuración y tu clave, enviadas cifradas al servicio de IA que elegiste, que devuelve solo las puntuaciones.](images/diagrams/data-sent.es.png){ width="640" }
 
 ## Lo que te protege { #what-protects-you }
 

@@ -6,7 +6,7 @@ Esta página lo explica con palabras sencillas. El texto formal es la [política
 
 ## Qué guarda Ullr, y dónde { #what-ullr-keeps-and-where }
 
-![Lo que guarda Ullr, todo en tu teléfono: tus arcos y lugares llevan a las sesiones; cada sesión tiene tandas con su foto; cada tanda tiene sus flechas; los ajustes guardan el idioma, el método de puntuación y la clave de API, cifrada.](images/diagrams/data-stored.png)
+![Lo que guarda Ullr, todo en tu teléfono: tus arcos y lugares llevan a las sesiones; cada sesión tiene tandas con su foto; cada tanda tiene sus flechas; los ajustes guardan el idioma, el método de puntuación y la clave de API, cifrada.](images/diagrams/data-stored.es.png)
 
 Eso es todo: tus arcos y lugares, tus sesiones, cada tanda con su foto y cada flecha. Nada sobre ti como persona, ninguna cuenta, ningún contacto. Todo se guarda en el almacenamiento privado de Ullr en el teléfono.
 
@@ -17,7 +17,7 @@ Eso es todo: tus arcos y lugares, tus sesiones, cada tanda con su foto y cada fl
 
 ## Qué se envía, y cuándo { #what-is-sent-and-when }
 
-![Lo que sale de tu teléfono: todo se queda en el teléfono salvo, solo cuando se puntúa una tanda, la foto recortada, tu configuración y tu clave, enviadas cifradas al servicio de IA que elegiste, que solo devuelve las puntuaciones.](images/diagrams/data-sent.png){ width="560" }
+![Lo que sale de tu teléfono: todo se queda en el teléfono salvo, solo cuando se puntúa una tanda, la foto recortada, tu configuración y tu clave, enviadas cifradas al servicio de IA que elegiste, que solo devuelve las puntuaciones.](images/diagrams/data-sent.es.png){ width="560" }
 
 Solo cuando una tanda se puntúa con un servicio de IA, mediante una conexión cifrada, y solo a ese servicio:
 
@@ -27,7 +27,7 @@ Solo cuando una tanda se puntúa con un servicio de IA, mediante una conexión c
 
 **Nunca se envía:** tu nombre, tus lugares, tu historial, tus puntuaciones ni datos sobre tu teléfono. La información técnica que las apps suelen enviar sobre el teléfono (versión de Android, procesador) se sustituye por «desconocido».
 
-![La sección de privacidad de Ajustes: el interruptor para enviar solo el área de la diana, y la lista de lo que se envía y lo que nunca se envía.](images/screenshots/settings-privacy.png){ .shot width="240" }
+![La sección de privacidad de Ajustes: el interruptor para enviar solo el área de la diana, y la lista de lo que se envía y lo que nunca se envía.](images/screenshots/es/settings-privacy.png){ .shot width="240" }
 
 Ajustes muestra la misma lista, en **Qué se envía a …**, para el servicio que elegiste.
 

@@ -4,7 +4,7 @@ De abrir la app a tu primera tanda confirmada, en pocos pasos. Cada paso lleva a
 
 <div class="shots" markdown>
 <figure markdown>
-![Pantalla de carga con el icono de la diana tallada y una barra de progreso.](images/screenshots/loading.png){ .shot }
+![Pantalla de carga con el icono de la diana tallada y una barra de progreso.](images/screenshots/es/loading.png){ .shot }
 <figcaption>La pantalla de carga</figcaption>
 </figure>
 <figure markdown>
@@ -15,7 +15,7 @@ De abrir la app a tu primera tanda confirmada, en pocos pasos. Cada paso lleva a
 
 ## 0. Acepta las condiciones de uso { #0-accept-the-terms-of-use }
 
-![La pantalla del primer uso: un breve resumen, las condiciones en inglés, francés, alemán o español, enlaces a la política de privacidad y a las licencias, la casilla de aceptación, Aceptar y continuar, y Rechazar y cerrar.](images/screenshots/terms.png){ .shot width="220" align=right }
+![La pantalla del primer uso: un breve resumen, las condiciones en inglés, francés, alemán o español, enlaces a la política de privacidad y a las licencias, la casilla de aceptación, Aceptar y continuar, y Rechazar y cerrar.](images/screenshots/es/terms.png){ .shot width="220" align=right }
 
 La primera vez que abres Ullr, te muestra sus [condiciones de uso](terms.md) en inglés, francés, alemán y español, con enlaces a su [política de privacidad](privacy-policy.md) y a sus [licencias de código abierto](licences.md). Marca **He leído y acepto las condiciones de uso, y he leído la política de privacidad** y toca **Aceptar y continuar**. En resumen: Ullr es gratuito y se ofrece tal cual, sus puntuaciones son sugerencias que debes revisar y, en la medida máxima que permita la ley, su desarrollador no se hace responsable de errores, pérdida de datos, lesiones ni servicios de IA de terceros. **Rechazar y cerrar** cierra la app. Puedes volver a leer los tres en **Ajustes → Información y aviso legal**. Cuando cambian las condiciones o la política de privacidad, Ullr te lo vuelve a preguntar.
 

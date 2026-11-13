@@ -2,7 +2,7 @@
 
 Vom Foto der Scheibe zum bestätigten Ergebnis, in fünf Schritten. Die KI liest die Scheibe. Ullr entscheidet, was eingekreist wird, wendet deine Wertungsregel an und führt die Aufzeichnung. Du bestätigst jede Passe.
 
-![Die neun Schritte der Wertung: Aufnahme, Vorbereitung, Zuschnitt auf dem Handy; Anfrage und Antwort beim KI-Dienst; Rückübertragung, Markierung, Punkte und Prüfung wieder auf dem Handy.](images/diagrams/pipeline.png){ width="250" align=right }
+![Die neun Schritte der Wertung: Aufnahme, Vorbereitung, Zuschnitt auf dem Handy; Anfrage und Antwort beim KI-Dienst; Rückübertragung, Markierung, Punkte und Prüfung wieder auf dem Handy.](images/diagrams/pipeline.de.png){ width="250" align=right }
 
 ## 1. Du machst das Foto { #1-you-take-the-photo }
 
@@ -59,7 +59,7 @@ Warum mehrere Signale? Die Sicherheit einer KI stimmt nicht immer. Gefährlich i
 
 <div class="shots" markdown>
 <figure markdown>
-![Ein markierter Pfeil ist ausgewählt: Die Ringauswahl hebt die beiden Ringe hervor, die die KI in Frage zieht, 9 und 10, mit ihrer Sicherheit.](images/screenshots/review-select.png){ .shot }
+![Ein markierter Pfeil ist ausgewählt: Die Ringauswahl hebt die beiden Ringe hervor, die die KI in Frage zieht, 9 und 10, mit ihrer Sicherheit.](images/screenshots/de/review-select.png){ .shot }
 <figcaption>Den richtigen Ring wählen, dann bestätigen</figcaption>
 </figure>
 </div>
@@ -70,7 +70,7 @@ Du korrigierst jeden eingekreisten Pfeil mit einem Tippen, fügst einen überseh
 
 <div class="shots" markdown>
 <figure markdown>
-![Die Seite Wertungsmethode: dein eigener API-Schlüssel, Teilen mit deiner KI-App oder von Hand.](images/screenshots/settings.png){ .shot }
+![Die Seite Wertungsmethode: dein eigener API-Schlüssel, Teilen mit deiner KI-App oder von Hand.](images/screenshots/de/settings.png){ .shot }
 <figcaption>Die Methode in den Einstellungen wählen</figcaption>
 </figure>
 </div>

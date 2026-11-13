@@ -6,7 +6,7 @@ Nada de IA, y nada sale del teléfono. Sigues fotografiando la tanda, y luego to
 
 <div class="shots" markdown>
 <figure markdown>
-![Puntuación manual: la foto de una diana con flechas ya colocadas, una flecha nueva marcada con un signo de interrogación y el selector de zona justo debajo de la foto.](images/screenshots/scoring-manual.png){ .shot }
+![Puntuación manual: la foto de una diana con flechas ya colocadas, una flecha nueva marcada con un signo de interrogación y el selector de zona justo debajo de la foto.](images/screenshots/es/scoring-manual.png){ .shot }
 <figcaption>Toca la flecha, elige su zona</figcaption>
 </figure>
 </div>
@@ -23,7 +23,7 @@ Pellizca para ampliar una flecha en la línea antes de tocarla, y toca dos veces
 
 ## Marcar la diana { #mark-the-target }
 
-![Marcar la diana: el primer spot rodeado en verde con una cruz en su centro, y la tarjeta que pide el centro del spot 2.](images/screenshots/mark-target.png){ .shot width="220" align=right }
+![Marcar la diana: el primer spot rodeado en verde con una cruz en su centro, y la tarjeta que pide el centro del spot 2.](images/screenshots/es/mark-target.png){ .shot width="220" align=right }
 
 Una vez que hay una flecha en la foto, **Marcar la diana** da a tus flechas su lugar en la diana, para que cuenten en **Dónde se agrupan tus flechas** y **Dónde caen tus flechas**:
 

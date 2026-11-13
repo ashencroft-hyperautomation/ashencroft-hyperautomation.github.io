@@ -91,7 +91,7 @@ Solo el tiro real da algo: **10 de experiencia** por cada tanda confirmada, **30
 <figcaption><b>Trofeos</b>, en el muro de trofeos.</figcaption>
 </figure>
 <figure markdown>
-![El salón con la barra de nivel encima de Tirar ya, y dos copas en la repisa de trofeos.](images/screenshots/game-level.png){ .shot }
+![El salón con la barra de nivel encima de Tirar ya, y dos copas en la repisa de trofeos.](images/screenshots/es/game-level.png){ .shot }
 <figcaption>Tu nivel, y una copa por cada récord.</figcaption>
 </figure>
 </div>
@@ -150,11 +150,11 @@ Lo que ganas tirando desbloquea **recompensas**, que aparecen en el muro de trof
 <figcaption>Todas las decoraciones, conseguidas.</figcaption>
 </figure>
 <figure markdown>
-![Las recompensas del muro de trofeos: diadema de oro, capa dorada, túnica púrpura real, carcaj, diana pintada, capa plateada, flechas cruzadas, piel y estandarte conseguidos; la corona de laurel aún por conseguir, con su insignia.](images/screenshots/game-rewards.png){ .shot }
+![Las recompensas del muro de trofeos: diadema de oro, capa dorada, túnica púrpura real, carcaj, diana pintada, capa plateada, flechas cruzadas, piel y estandarte conseguidos; la corona de laurel aún por conseguir, con su insignia.](images/screenshots/es/game-rewards.png){ .shot }
 <figcaption><b>Recompensas</b>, en el muro de trofeos.</figcaption>
 </figure>
 <figure markdown>
-![En el espejo, Por conseguir: corona de laurel con la insignia Tanda perfecta, sombrero con pluma con la insignia Explorador.](images/screenshots/game-earn.png){ .shot }
+![En el espejo, Por conseguir: corona de laurel con la insignia Tanda perfecta, sombrero con pluma con la insignia Explorador.](images/screenshots/es/game-earn.png){ .shot }
 <figcaption><b>Por conseguir</b>, en el espejo.</figcaption>
 </figure>
 </div>
@@ -181,15 +181,15 @@ En el modo juego, todas las pantallas llevan el estilo del juego: madera oscura 
 
 <div class="shots" markdown>
 <figure markdown>
-![Resumen de una sesión con el aspecto del juego: un título en píxeles y el total 207, el gráfico de puntuación por tanda y cada flecha en el color de su zona.](images/screenshots/game-session.png){ .shot }
+![Resumen de una sesión con el aspecto del juego: un título en píxeles y el total 207, el gráfico de puntuación por tanda y cada flecha en el color de su zona.](images/screenshots/es/game-session.png){ .shot }
 <figcaption>Un resumen de sesión</figcaption>
 </figure>
 <figure markdown>
-![Arcos con el aspecto del juego: tarjetas de madera oscura y un título en píxeles.](images/screenshots/game-bows.png){ .shot }
+![Arcos con el aspecto del juego: tarjetas de madera oscura y un título en píxeles.](images/screenshots/es/game-bows.png){ .shot }
 <figcaption>Tus arcos</figcaption>
 </figure>
 <figure markdown>
-![Ajustes con el aspecto del juego: un menú con Método de puntuación, Reglas de puntuación, Privacidad, Apariencia y juego, Idioma y Almacenamiento y copia de seguridad.](images/screenshots/game-settings.png){ .shot }
+![Ajustes con el aspecto del juego: un menú con Método de puntuación, Reglas de puntuación, Privacidad, Apariencia y juego, Idioma y Almacenamiento y copia de seguridad.](images/screenshots/es/game-settings.png){ .shot }
 <figcaption>Ajustes, agrupados por tema</figcaption>
 </figure>
 </div>

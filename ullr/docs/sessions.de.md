@@ -46,14 +46,14 @@ Bei der automatischen Wertung musst du nicht warten: Schieß die nächste Passe,
 
 ## Eine Einheit teilen { #share-a-session }
 
-![Die Zusammenfassung der Einheit mit ihrer Zeile zur persönlichen Bestleistung, und das Menü Teilen geöffnet: Als Text oder Mit einem Bild des Schießzettels.](images/screenshots/session-share.png){ .shot width="220" align=right }
+![Die Zusammenfassung der Einheit mit ihrer Zeile zur persönlichen Bestleistung, und das Menü Teilen geöffnet: Als Text oder Mit einem Bild des Schießzettels.](images/screenshots/de/session-share.png){ .shot width="220" align=right }
 
 Die Schaltfläche **Diese Einheit teilen**, oben in einer Einheit mit mindestens einer bestätigten Passe, öffnet das Teilen-Menü deines Handys: E-Mail, Nachrichten, ein Chat mit deinem Trainer.
 
 - **Als Text**: Datum, Bogen und Ort, Runde, Wertungsregel, Gesamtergebnis, Schnitt und Anzahl X, dann jede Passe mit ihren Pfeilen, ihrer Summe und der laufenden Summe.
 - **Mit einem Bild des Schießzettels**: derselbe Text, dazu ein Bild mit den Summen und jedem Pfeil in der Farbe seines Rings.
 
-![Das Bild des Schießzettels: die Angaben und das Gesamtergebnis der Einheit auf einem dunklen Band, dann eine Zeile pro Passe mit ihren Pfeilen in den Farben ihrer Ringe, der Summe der Passe und der laufenden Summe.](images/screenshots/share-card.png){ .shot width="220" }
+![Das Bild des Schießzettels: die Angaben und das Gesamtergebnis der Einheit auf einem dunklen Band, dann eine Zeile pro Passe mit ihren Pfeilen in den Farben ihrer Ringe, der Summe der Passe und der laufenden Summe.](images/screenshots/de/share-card.png){ .shot width="220" }
 
 Geteilt wird nur, was der Bildschirm der Einheit zeigt, und nur mit der App, die du wählst: nie die Fotos deiner Passen.
 
@@ -61,7 +61,7 @@ Eine laufende Einheit erscheint in der Übersicht mit **Fortsetzen**. Wird die A
 
 ## Gespeicherte Orte { #saved-places }
 
-![Gespeicherte Orte: jeder Ort mit seiner Anzahl Einheiten und dem Datum der letzten Nutzung, mit einem Stift zum Umbenennen und einem Papierkorb zum Löschen.](images/screenshots/places.png){ .shot width="220" align=right }
+![Gespeicherte Orte: jeder Ort mit seiner Anzahl Einheiten und dem Datum der letzten Nutzung, mit einem Stift zum Umbenennen und einem Papierkorb zum Löschen.](images/screenshots/de/places.png){ .shot width="220" align=right }
 
 **Einstellungen → Gespeicherte Orte** listet jeden Ort, den du eingegeben hast, die zuletzt benutzten zuerst, mit der Anzahl Einheiten, die du dort geschossen hast.
 

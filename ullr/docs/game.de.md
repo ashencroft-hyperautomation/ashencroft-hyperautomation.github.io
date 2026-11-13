@@ -91,7 +91,7 @@ Nur echtes Schießen bringt etwas ein: **10 Erfahrungspunkte** für jede bestät
 <figcaption><b>Trophäen</b>, an der Trophäenwand.</figcaption>
 </figure>
 <figure markdown>
-![Die Halle mit dem Stufenbalken über „Jetzt schießen“ und zwei Pokalen auf dem Trophäenregal.](images/screenshots/game-level.png){ .shot }
+![Die Halle mit dem Stufenbalken über „Jetzt schießen“ und zwei Pokalen auf dem Trophäenregal.](images/screenshots/de/game-level.png){ .shot }
 <figcaption>Deine Stufe und ein Pokal für jeden Rekord.</figcaption>
 </figure>
 </div>
@@ -150,11 +150,11 @@ Was du beim Schießen verdienst, schaltet **Belohnungen** frei, aufgelistet an d
 <figcaption>Alle Dekorationen verdient.</figcaption>
 </figure>
 <figure markdown>
-![Die Belohnungen an der Trophäenwand: Goldreif, goldener Umhang, königspurpurne Tunika, Köcher, bemalte Scheibe, silberner Umhang, gekreuzte Pfeile, Fell und Banner verdient; der Lorbeerkranz ist noch zu verdienen, mit seinem Abzeichen.](images/screenshots/game-rewards.png){ .shot }
+![Die Belohnungen an der Trophäenwand: Goldreif, goldener Umhang, königspurpurne Tunika, Köcher, bemalte Scheibe, silberner Umhang, gekreuzte Pfeile, Fell und Banner verdient; der Lorbeerkranz ist noch zu verdienen, mit seinem Abzeichen.](images/screenshots/de/game-rewards.png){ .shot }
 <figcaption><b>Belohnungen</b>, an der Trophäenwand.</figcaption>
 </figure>
 <figure markdown>
-![Am Spiegel, unter Zu verdienen: der Lorbeerkranz mit dem Abzeichen Perfekte Passe, der Federhut mit dem Abzeichen Entdecker.](images/screenshots/game-earn.png){ .shot }
+![Am Spiegel, unter Zu verdienen: der Lorbeerkranz mit dem Abzeichen Perfekte Passe, der Federhut mit dem Abzeichen Entdecker.](images/screenshots/de/game-earn.png){ .shot }
 <figcaption><b>Zu verdienen</b>, am Spiegel.</figcaption>
 </figure>
 </div>
@@ -181,15 +181,15 @@ Im Spielmodus trägt jeder Bildschirm den Stil des Spiels: dunkles Holz und Gold
 
 <div class="shots" markdown>
 <figure markdown>
-![Zusammenfassung einer Einheit im Spiel-Look: ein Pixeltitel und das Gesamtergebnis 207, das Diagramm der Ergebnisse pro Passe und jeder Pfeil in der Farbe seines Rings.](images/screenshots/game-session.png){ .shot }
+![Zusammenfassung einer Einheit im Spiel-Look: ein Pixeltitel und das Gesamtergebnis 207, das Diagramm der Ergebnisse pro Passe und jeder Pfeil in der Farbe seines Rings.](images/screenshots/de/game-session.png){ .shot }
 <figcaption>Eine Zusammenfassung der Einheit</figcaption>
 </figure>
 <figure markdown>
-![Bögen im Spiel-Look: Karten aus dunklem Holz und ein Pixeltitel.](images/screenshots/game-bows.png){ .shot }
+![Bögen im Spiel-Look: Karten aus dunklem Holz und ein Pixeltitel.](images/screenshots/de/game-bows.png){ .shot }
 <figcaption>Deine Bögen</figcaption>
 </figure>
 <figure markdown>
-![Einstellungen im Spiel-Look: ein Menü mit Wertungsmethode, Wertungsregeln, Datenschutz, Aussehen und Spiel, Sprache sowie Speicher und Sicherung.](images/screenshots/game-settings.png){ .shot }
+![Einstellungen im Spiel-Look: ein Menü mit Wertungsmethode, Wertungsregeln, Datenschutz, Aussehen und Spiel, Sprache sowie Speicher und Sicherung.](images/screenshots/de/game-settings.png){ .shot }
 <figcaption>Einstellungen, nach Thema gruppiert</figcaption>
 </figure>
 </div>

@@ -6,7 +6,7 @@ Gar keine KI, und nichts verlässt das Handy. Du fotografierst die Passe trotzde
 
 <div class="shots" markdown>
 <figure markdown>
-![Wertung von Hand: das Foto einer Scheibe mit bereits gesetzten Pfeilen, ein neuer Pfeil mit einem Fragezeichen markiert, und die Ringauswahl direkt unter dem Foto.](images/screenshots/scoring-manual.png){ .shot }
+![Wertung von Hand: das Foto einer Scheibe mit bereits gesetzten Pfeilen, ein neuer Pfeil mit einem Fragezeichen markiert, und die Ringauswahl direkt unter dem Foto.](images/screenshots/de/scoring-manual.png){ .shot }
 <figcaption>Auf den Pfeil tippen, seinen Ring wählen</figcaption>
 </figure>
 </div>
@@ -23,7 +23,7 @@ Zieh die Finger auseinander, um vor dem Antippen an einen Linienschuss heranzuzo
 
 ## Die Scheibe markieren { #mark-the-target }
 
-![Scheibe markieren: der erste Spot grün eingekreist mit einem Kreuz in der Mitte, und die Karte, die nach der Mitte von Spot 2 fragt.](images/screenshots/mark-target.png){ .shot width="220" align=right }
+![Scheibe markieren: der erste Spot grün eingekreist mit einem Kreuz in der Mitte, und die Karte, die nach der Mitte von Spot 2 fragt.](images/screenshots/de/mark-target.png){ .shot width="220" align=right }
 
 Sobald ein Pfeil im Foto ist, gibt **Scheibe markieren** deinen Pfeilen ihren Platz auf der Auflage, sodass sie in **Wo sich deine Pfeile gruppieren** und **Wo deine Pfeile landen** zählen:
 

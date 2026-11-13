@@ -14,7 +14,7 @@ Aufgenommen mit **Ullr Demo**, einer Version der App mit sechs Monaten erfundene
 <figcaption><b>2 zu prüfen.</b> Pfeile nahe einer Linie oder mit geringer Sicherheit werden bernsteinfarben eingekreist und zuerst aufgelistet.</figcaption>
 </figure>
 <figure markdown>
-![Prüfung mit einem ausgewählten markierten Pfeil: Die Ringauswahl hebt 9 und 10 hervor; die KI sagte 9, vielleicht 10, mit 58 Prozent Sicherheit.](images/screenshots/review-select.png){ .shot }
+![Prüfung mit einem ausgewählten markierten Pfeil: Die Ringauswahl hebt 9 und 10 hervor; die KI sagte 9, vielleicht 10, mit 58 Prozent Sicherheit.](images/screenshots/de/review-select.png){ .shot }
 <figcaption><b>Einen Pfeil korrigieren.</b> Die zwei Ringe, zwischen denen die KI schwankt, sind hervorgehoben, mit ihrer Sicherheit.</figcaption>
 </figure>
 <figure markdown>
@@ -22,11 +22,11 @@ Aufgenommen mit **Ullr Demo**, einer Version der App mit sechs Monaten erfundene
 <figcaption><b>Einheit.</b> Gesamtergebnis, Wertungsregel, Diagramm der Ergebnisse pro Passe und der Schießzettel.</figcaption>
 </figure>
 <figure markdown>
-![Eine bestätigte Passe aus dem Verlauf: das Foto von zwei Dreifach-Auflagen mit sechs Pfeilen und ihren Ringen.](images/screenshots/review.png){ .shot }
+![Eine bestätigte Passe aus dem Verlauf: das Foto von zwei Dreifach-Auflagen mit sechs Pfeilen und ihren Ringen.](images/screenshots/de/review.png){ .shot }
 <figcaption><b>Eine frühere Passe.</b> Jede Passe behält ihr Foto.</figcaption>
 </figure>
 <figure markdown>
-![Ladebildschirm: das geschnitzte Scheiben-Symbol, der App-Name, „Schießtagebuch“, ein Fortschrittsbalken und der aktuelle Schritt: Bogen bespannen….](images/screenshots/loading.png){ .shot }
+![Ladebildschirm: das geschnitzte Scheiben-Symbol, der App-Name, „Schießtagebuch“, ein Fortschrittsbalken und der aktuelle Schritt: Bogen bespannen….](images/screenshots/de/loading.png){ .shot }
 <figcaption><b>Laden.</b> Etwa 2 Sekunden beim Start.</figcaption>
 </figure>
 </div>
@@ -43,11 +43,11 @@ Aufgenommen mit **Ullr Demo**, einer Version der App mit sechs Monaten erfundene
 <figcaption><b>Bestleistungen.</b> Eine pro Runde.</figcaption>
 </figure>
 <figure markdown>
-![Eine abgeschlossene Einheit mit ihrer Bestleistungszeile und dem Menü „Teilen“.](images/screenshots/session-share.png){ .shot }
+![Eine abgeschlossene Einheit mit ihrer Bestleistungszeile und dem Menü „Teilen“.](images/screenshots/de/session-share.png){ .shot }
 <figcaption><b>Eine Einheit teilen.</b> Als Text oder mit einem Bild des Schießzettels.</figcaption>
 </figure>
 <figure markdown>
-![Das geteilte Bild des Schießzettels, jeder Pfeil in der Farbe seines Rings.](images/screenshots/share-card.png){ .shot }
+![Das geteilte Bild des Schießzettels, jeder Pfeil in der Farbe seines Rings.](images/screenshots/de/share-card.png){ .shot }
 <figcaption><b>Das Bild des Schießzettels.</b></figcaption>
 </figure>
 <figure markdown>
@@ -59,7 +59,7 @@ Aufgenommen mit **Ullr Demo**, einer Version der App mit sechs Monaten erfundene
 <figcaption><b>Bögen.</b> Jeder Bogen mit seinem Setup.</figcaption>
 </figure>
 <figure markdown>
-![Bogen bearbeiten: Compound, PSE Drive NXT aus dem Katalog mit seinen Daten, 62 lb, 30.5 Zoll Auszugslänge, Pfeilbeschreibung.](images/screenshots/bow-edit.png){ .shot }
+![Bogen bearbeiten: Compound, PSE Drive NXT aus dem Katalog mit seinen Daten, 62 lb, 30.5 Zoll Auszugslänge, Pfeilbeschreibung.](images/screenshots/de/bow-edit.png){ .shot }
 <figcaption><b>Bogenkatalog.</b> Mit Marke und Modell beginnen.</figcaption>
 </figure>
 </div>
@@ -68,19 +68,19 @@ Aufgenommen mit **Ullr Demo**, einer Version der App mit sechs Monaten erfundene
 
 <div class="shots" markdown>
 <figure markdown>
-![Die Seite Wertungsmethode: was jede Methode macht, dann dein eigener API-Schlüssel, Teilen mit deiner KI-App oder von Hand.](images/screenshots/settings.png){ .shot }
+![Die Seite Wertungsmethode: was jede Methode macht, dann dein eigener API-Schlüssel, Teilen mit deiner KI-App oder von Hand.](images/screenshots/de/settings.png){ .shot }
 <figcaption><b>Drei Wege zu werten.</b> Dein eigener Schlüssel, deine KI-App oder von Hand.</figcaption>
 </figure>
 <figure markdown>
-![Ein eingerichteter OpenAI-kompatibler Dienst: seine Adresse, die Modell-ID und der Schlüsselbereich, benannt nach der Adresse des Dienstes.](images/screenshots/scoring-custom.png){ .shot }
+![Ein eingerichteter OpenAI-kompatibler Dienst: seine Adresse, die Modell-ID und der Schlüsselbereich, benannt nach der Adresse des Dienstes.](images/screenshots/de/scoring-custom.png){ .shot }
 <figcaption><b>Jeder OpenAI-kompatible Dienst.</b> Seine Adresse, sein Modell und dein Schlüssel.</figcaption>
 </figure>
 <figure markdown>
-![Eine Passe wartet auf eine Antwort: die Karte „Mit deiner KI-App werten“ mit Teilen, Prompt kopieren, dem Antwortfeld und „Diese Antwort verwenden“.](images/screenshots/scoring-share.png){ .shot }
+![Eine Passe wartet auf eine Antwort: die Karte „Mit deiner KI-App werten“ mit Teilen, Prompt kopieren, dem Antwortfeld und „Diese Antwort verwenden“.](images/screenshots/de/scoring-share.png){ .shot }
 <figcaption><b>Mit deiner KI-App teilen.</b> Teilen, dann ihre Antwort einfügen.</figcaption>
 </figure>
 <figure markdown>
-![Wertung von Hand: auf dem Foto einer Scheibe platzierte Pfeile und die Ringauswahl direkt unter dem Foto.](images/screenshots/scoring-manual.png){ .shot }
+![Wertung von Hand: auf dem Foto einer Scheibe platzierte Pfeile und die Ringauswahl direkt unter dem Foto.](images/screenshots/de/scoring-manual.png){ .shot }
 <figcaption><b>Von Hand.</b> Auf den Pfeil tippen, seinen Ring wählen.</figcaption>
 </figure>
 </div>
@@ -89,7 +89,7 @@ Aufgenommen mit **Ullr Demo**, einer Version der App mit sechs Monaten erfundene
 
 <div class="shots" markdown>
 <figure markdown>
-![Der Bildschirm beim ersten Start: eine kurze Zusammenfassung, die Nutzungsbedingungen in der Sprache der App, Links zur Datenschutzerklärung und zu den Lizenzen, das Kästchen „Ich akzeptiere“ und „Akzeptieren und weiter“.](images/screenshots/terms.png){ .shot }
+![Der Bildschirm beim ersten Start: eine kurze Zusammenfassung, die Nutzungsbedingungen in der Sprache der App, Links zur Datenschutzerklärung und zu den Lizenzen, das Kästchen „Ich akzeptiere“ und „Akzeptieren und weiter“.](images/screenshots/de/terms.png){ .shot }
 <figcaption><b>Nutzungsbedingungen.</b> Einmal akzeptiert, vor allem anderen.</figcaption>
 </figure>
 <figure markdown>
@@ -97,19 +97,19 @@ Aufgenommen mit **Ullr Demo**, einer Version der App mit sechs Monaten erfundene
 <figcaption><b>Einstellungen.</b> Eine Seite pro Thema.</figcaption>
 </figure>
 <figure markdown>
-![Die Seite Datenschutz in den Einstellungen: was das Handy verlässt, der Schalter „Nur den Scheibenbereich senden“ und was gesendet und nie gesendet wird.](images/screenshots/settings-privacy.png){ .shot }
+![Die Seite Datenschutz in den Einstellungen: was das Handy verlässt, der Schalter „Nur den Scheibenbereich senden“ und was gesendet und nie gesendet wird.](images/screenshots/de/settings-privacy.png){ .shot }
 <figcaption><b>Datenschutz.</b> Genau, was gesendet wird, und der Schalter für nur die Scheibe.</figcaption>
 </figure>
 <figure markdown>
-![Gespeicherte Orte: jeder Ort mit seinen Einheiten und der letzten Nutzung, ein Stift zum Umbenennen und ein Mülleimer zum Löschen.](images/screenshots/places.png){ .shot }
+![Gespeicherte Orte: jeder Ort mit seinen Einheiten und der letzten Nutzung, ein Stift zum Umbenennen und ein Mülleimer zum Löschen.](images/screenshots/de/places.png){ .shot }
 <figcaption><b>Gespeicherte Orte.</b> Umbenennen, zusammenführen oder löschen; die Einheiten bleiben.</figcaption>
 </figure>
 <figure markdown>
-![Info und Rechtliches: die App und ihre Version, dann die Nutzungsbedingungen mit dem Datum der Annahme, die Datenschutzerklärung und die Open-Source-Lizenzen.](images/screenshots/about.png){ .shot }
+![Info und Rechtliches: die App und ihre Version, dann die Nutzungsbedingungen mit dem Datum der Annahme, die Datenschutzerklärung und die Open-Source-Lizenzen.](images/screenshots/de/about.png){ .shot }
 <figcaption><b>Info und Rechtliches.</b> Nutzungsbedingungen, Datenschutzerklärung und Lizenzen.</figcaption>
 </figure>
 <figure markdown>
-![Open-Source-Lizenzen: die Bibliotheken nach Lizenz gruppiert, jede mit ihrer Version, und ein Knopf zum Lesen der Lizenz.](images/screenshots/licences.png){ .shot }
+![Open-Source-Lizenzen: die Bibliotheken nach Lizenz gruppiert, jede mit ihrer Version, und ein Knopf zum Lesen der Lizenz.](images/screenshots/de/licences.png){ .shot }
 <figcaption><b>Open-Source-Lizenzen.</b> Direkt aus der App selbst erstellt.</figcaption>
 </figure>
 </div>
@@ -155,11 +155,11 @@ Aufgenommen mit **Ullr Demo**, einer Version der App mit sechs Monaten erfundene
 <figcaption><b>Deine Figur</b>, am Spiegel.</figcaption>
 </figure>
 <figure markdown>
-![Eine Zusammenfassung der Einheit im Spiel-Look.](images/screenshots/game-session.png){ .shot }
+![Eine Zusammenfassung der Einheit im Spiel-Look.](images/screenshots/de/game-session.png){ .shot }
 <figcaption><b>Im Spiel-Look.</b> Titel und Ergebnisse in Pixelschrift.</figcaption>
 </figure>
 <figure markdown>
-![Einstellungen im Spiel-Look: ein Menü mit Wertungsmethode, Wertungsregeln, Datenschutz, Aussehen und Spiel, Sprache sowie Speicher und Sicherung.](images/screenshots/game-settings.png){ .shot }
+![Einstellungen im Spiel-Look: ein Menü mit Wertungsmethode, Wertungsregeln, Datenschutz, Aussehen und Spiel, Sprache sowie Speicher und Sicherung.](images/screenshots/de/game-settings.png){ .shot }
 <figcaption><b>Einstellungen, nach Thema gruppiert.</b></figcaption>
 </figure>
 <figure markdown>
@@ -167,7 +167,7 @@ Aufgenommen mit **Ullr Demo**, einer Version der App mit sechs Monaten erfundene
 <figcaption><b>Dekorationen, verdient.</b> Ein Banner, eine bemalte Scheibe, gekreuzte Pfeile und ein Fell.</figcaption>
 </figure>
 <figure markdown>
-![Die Belohnungen an der Trophäenwand: Outfits am Spiegel, Dekorationen in der Halle.](images/screenshots/game-rewards.png){ .shot }
+![Die Belohnungen an der Trophäenwand: Outfits am Spiegel, Dekorationen in der Halle.](images/screenshots/de/game-rewards.png){ .shot }
 <figcaption><b>Belohnungen.</b> Durch Schießen verdient.</figcaption>
 </figure>
 </div>

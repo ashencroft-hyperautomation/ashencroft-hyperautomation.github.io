@@ -6,7 +6,7 @@ Sin clave de API: la app de IA que ya usas en tu teléfono hace la puntuación. 
 
 <div class="shots" markdown>
 <figure markdown>
-![Una tanda esperando una respuesta: la foto y luego la tarjeta Puntúa con tu app de IA, con Compartir, Copiar el prompt, el campo de la respuesta, Pegar y Usar esta respuesta.](images/screenshots/scoring-share.png){ .shot }
+![Una tanda esperando una respuesta: la foto y luego la tarjeta Puntúa con tu app de IA, con Compartir, Copiar el prompt, el campo de la respuesta, Pegar y Usar esta respuesta.](images/screenshots/es/scoring-share.png){ .shot }
 <figcaption>Comparte y luego pega la respuesta</figcaption>
 </figure>
 </div>

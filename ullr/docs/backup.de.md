@@ -4,7 +4,7 @@ Alles wird nur auf deinem Handy gespeichert, und wenn du die App deinstallierst,
 
 <div class="shots" markdown>
 <figure markdown>
-![Speicher und Sicherung: belegter Speicher; Export als Alles, Nur Daten oder Nur Fotos; Wiederherstellen aus einem Export.](images/screenshots/storage.png){ .shot }
+![Speicher und Sicherung: belegter Speicher; Export als Alles, Nur Daten oder Nur Fotos; Wiederherstellen aus einem Export.](images/screenshots/de/storage.png){ .shot }
 <figcaption><b>Exportieren und wiederherstellen</b></figcaption>
 </figure>
 </div>
@@ -25,7 +25,7 @@ Lösch die Fotos in voller Größe von Einheiten, die älter als 3 Monate, 6 Mon
 
 <div class="shots" markdown>
 <figure markdown>
-![Daten löschen: Alle Einheiten löschen, was Bögen, Orte, Einstellungen und Schlüssel behält, und Alles löschen, was Ullr neu startet, als wäre es frisch installiert.](images/screenshots/erase.png){ .shot }
+![Daten löschen: Alle Einheiten löschen, was Bögen, Orte, Einstellungen und Schlüssel behält, und Alles löschen, was Ullr neu startet, als wäre es frisch installiert.](images/screenshots/de/erase.png){ .shot }
 <figcaption><b>Daten löschen</b>, ganz unten in Speicher und Sicherung</figcaption>
 </figure>
 </div>

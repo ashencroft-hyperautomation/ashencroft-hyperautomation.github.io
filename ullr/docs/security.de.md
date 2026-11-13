@@ -2,7 +2,7 @@
 
 Ullr ist so gebaut, dass es außerhalb deines Handys kaum etwas zu schützen gibt, und was es doch verlässt, ist auf das Nötigste beschränkt. Hier steht in einfachen Worten, was dich und deine Daten schützt.
 
-![Was dein Handy verlässt: Alles bleibt auf dem Handy, außer – nur wenn eine Passe gewertet wird – das zugeschnittene Foto, deine Einstellungen und dein Schlüssel, verschlüsselt an den KI-Dienst deiner Wahl gesendet, der nur die Ergebnisse zurückschickt.](images/diagrams/data-sent.png){ width="640" }
+![Was dein Handy verlässt: Alles bleibt auf dem Handy, außer – nur wenn eine Passe gewertet wird – das zugeschnittene Foto, deine Einstellungen und dein Schlüssel, verschlüsselt an den KI-Dienst deiner Wahl gesendet, der nur die Ergebnisse zurückschickt.](images/diagrams/data-sent.de.png){ width="640" }
 
 ## Was dich schützt { #what-protects-you }
 

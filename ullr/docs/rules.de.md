@@ -28,11 +28,11 @@ Feldauflagen und 3D-Tiere werden so gewertet, wie sie gezeichnet sind, wie es di
 
 <div class="shots" markdown>
 <figure markdown>
-![Eine Feld-Einheit auf einer 20-cm-Auflage: World Archery Feldwertung, und die Pfeile 6 und 5 in Gelb, 4, 3 und 1 in Schwarz.](images/screenshots/field-session.png){ .shot }
+![Eine Feld-Einheit auf einer 20-cm-Auflage: World Archery Feldwertung, und die Pfeile 6 und 5 in Gelb, 4, 3 und 1 in Schwarz.](images/screenshots/de/field-session.png){ .shot }
 <figcaption><b>Feld</b>: 6 bis 1</figcaption>
 </figure>
 <figure markdown>
-![Eine 3D-Einheit: World Archery 3D-Wertung, 2 Pfeile pro Passe, und die Zonen 11, 10, 8 und 5.](images/screenshots/threed-session.png){ .shot }
+![Eine 3D-Einheit: World Archery 3D-Wertung, 2 Pfeile pro Passe, und die Zonen 11, 10, 8 und 5.](images/screenshots/de/threed-session.png){ .shot }
 <figcaption><b>3D</b>: 11, 10, 8 und 5</figcaption>
 </figure>
 </div>

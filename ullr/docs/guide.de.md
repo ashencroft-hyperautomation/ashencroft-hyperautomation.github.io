@@ -4,7 +4,7 @@ Vom Öffnen der App bis zu deiner ersten bestätigten Passe, in wenigen Schritte
 
 <div class="shots" markdown>
 <figure markdown>
-![Ladebildschirm mit dem geschnitzten Scheiben-Symbol und einem Fortschrittsbalken.](images/screenshots/loading.png){ .shot }
+![Ladebildschirm mit dem geschnitzten Scheiben-Symbol und einem Fortschrittsbalken.](images/screenshots/de/loading.png){ .shot }
 <figcaption>Der Ladebildschirm</figcaption>
 </figure>
 <figure markdown>
@@ -15,7 +15,7 @@ Vom Öffnen der App bis zu deiner ersten bestätigten Passe, in wenigen Schritte
 
 ## 0. Die Nutzungsbedingungen akzeptieren { #0-accept-the-terms-of-use }
 
-![Der Bildschirm beim ersten Start: eine kurze Zusammenfassung, die Bedingungen auf Französisch oder Englisch, Links zur Datenschutzerklärung und zu den Lizenzen, das Kästchen „Ich akzeptiere“, Akzeptieren und weiter sowie Ablehnen und schließen.](images/screenshots/terms.png){ .shot width="220" align=right }
+![Der Bildschirm beim ersten Start: eine kurze Zusammenfassung, die Bedingungen auf Französisch oder Englisch, Links zur Datenschutzerklärung und zu den Lizenzen, das Kästchen „Ich akzeptiere“, Akzeptieren und weiter sowie Ablehnen und schließen.](images/screenshots/de/terms.png){ .shot width="220" align=right }
 
 Beim ersten Öffnen zeigt Ullr seine [Nutzungsbedingungen](terms.md), mit Links zu seiner [Datenschutzerklärung](privacy-policy.md) und seinen [Open-Source-Lizenzen](licences.md). Auf Deutsch sind sie eine Übersetzung; maßgeblich sind die französische und die englische Fassung. Hake **Ich habe die Nutzungsbedingungen gelesen und akzeptiere sie, und ich habe die Datenschutzerklärung gelesen** an und tippe auf **Akzeptieren und weiter**. Kurz gesagt: Ullr ist kostenlos und wird bereitgestellt, wie es ist, seine Ergebnisse sind Vorschläge, die du prüfst, und soweit das Gesetz es zulässt, haftet sein Entwickler nicht für Fehler, verlorene Daten, Verletzungen oder KI-Dienste Dritter. **Ablehnen und schließen** schließt die App. Du kannst alle drei jederzeit unter **Einstellungen → Info und Rechtliches** wieder lesen. Wenn sich die Bedingungen oder die Datenschutzerklärung ändern, fragt Ullr erneut.
 

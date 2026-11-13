@@ -46,14 +46,14 @@ Con la puntuación automática no tienes que esperar: tira la siguiente tanda mi
 
 ## Comparte una sesión { #share-a-session }
 
-![El resumen de la sesión con su línea de mejor marca personal, y el menú Compartir abierto: Como texto, o Con una imagen de la hoja de puntuación.](images/screenshots/session-share.png){ .shot width="220" align=right }
+![El resumen de la sesión con su línea de mejor marca personal, y el menú Compartir abierto: Como texto, o Con una imagen de la hoja de puntuación.](images/screenshots/es/session-share.png){ .shot width="220" align=right }
 
 El botón **Compartir esta sesión**, arriba en una sesión con al menos una tanda confirmada, abre el menú para compartir de tu teléfono: correo, mensajes, un chat con tu entrenador.
 
 - **Como texto**: la fecha, el arco y el lugar, la tirada, la regla de puntuación, el total, la media y el número de X, y luego cada tanda con sus flechas, su total y el total acumulado.
 - **Con una imagen de la hoja de puntuación**: el mismo texto, más una imagen con los totales y cada flecha en el color de su zona.
 
-![La imagen de la hoja de puntuación: los datos y el total de la sesión sobre una banda oscura, y luego una fila por tanda con sus flechas en los colores de sus zonas, el total de la tanda y el total acumulado.](images/screenshots/share-card.png){ .shot width="220" }
+![La imagen de la hoja de puntuación: los datos y el total de la sesión sobre una banda oscura, y luego una fila por tanda con sus flechas en los colores de sus zonas, el total de la tanda y el total acumulado.](images/screenshots/es/share-card.png){ .shot width="220" }
 
 Solo se comparte lo que muestra la pantalla de la sesión, y solo con la app que elijas: nunca las fotos de tus tandas.
 
@@ -61,7 +61,7 @@ Una sesión en curso aparece en Inicio con **Reanudar**. Si la app se cierra dur
 
 ## Lugares guardados { #saved-places }
 
-![Lugares guardados: cada lugar con su número de sesiones y la fecha en que se usó por última vez, con un lápiz para cambiarle el nombre y una papelera para eliminarlo.](images/screenshots/places.png){ .shot width="220" align=right }
+![Lugares guardados: cada lugar con su número de sesiones y la fecha en que se usó por última vez, con un lápiz para cambiarle el nombre y una papelera para eliminarlo.](images/screenshots/es/places.png){ .shot width="220" align=right }
 
 **Ajustes → Lugares guardados** muestra todos los lugares que has escrito, primero los usados más recientemente, con cuántas sesiones has tirado en cada uno.
 

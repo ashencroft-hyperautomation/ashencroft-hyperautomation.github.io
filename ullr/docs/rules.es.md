@@ -28,11 +28,11 @@ Las dianas de campo y los animales 3D se puntúan tal como están dibujados, com
 
 <div class="shots" markdown>
 <figure markdown>
-![Una sesión de campo en una diana de 20 cm: puntuación de campo de World Archery, y las flechas 6 y 5 en amarillo, 4, 3 y 1 en negro.](images/screenshots/field-session.png){ .shot }
+![Una sesión de campo en una diana de 20 cm: puntuación de campo de World Archery, y las flechas 6 y 5 en amarillo, 4, 3 y 1 en negro.](images/screenshots/es/field-session.png){ .shot }
 <figcaption><b>Campo</b>: de 6 a 1</figcaption>
 </figure>
 <figure markdown>
-![Una sesión 3D: puntuación 3D de World Archery, 2 flechas por tanda, y las zonas 11, 10, 8 y 5.](images/screenshots/threed-session.png){ .shot }
+![Una sesión 3D: puntuación 3D de World Archery, 2 flechas por tanda, y las zonas 11, 10, 8 y 5.](images/screenshots/es/threed-session.png){ .shot }
 <figcaption><b>3D</b>: 11, 10, 8 y 5</figcaption>
 </figure>
 </div>

@@ -2,7 +2,7 @@
 
 Ullr puntúa una tanda de una de estas tres formas. Eliges en **Ajustes → Método de puntuación**, y puedes cambiar en cualquier momento: las sesiones pasadas conservan sus puntuaciones.
 
-![La página Método de puntuación: lo que hace cada método y luego la elección entre tu propia clave de API, compartir con tu app de IA y manual.](images/screenshots/settings.png){ .shot width="240" }
+![La página Método de puntuación: lo que hace cada método y luego la elección entre tu propia clave de API, compartir con tu app de IA y manual.](images/screenshots/es/settings.png){ .shot width="240" }
 
 | | [Tu propia clave de API](scoring-api.md) | [Compartir con tu app de IA](scoring-share.md) | [Manual](scoring-manual.md) |
 |---|---|---|---|

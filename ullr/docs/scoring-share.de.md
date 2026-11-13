@@ -6,7 +6,7 @@ Kein API-Schlüssel: Die KI-App, die du schon auf deinem Handy nutzt, übernimmt
 
 <div class="shots" markdown>
 <figure markdown>
-![Eine Passe wartet auf eine Antwort: das Foto, dann die Karte Mit deiner KI-App werten, mit Teilen, Prompt kopieren, dem Antwortfeld, Einfügen und Diese Antwort verwenden.](images/screenshots/scoring-share.png){ .shot }
+![Eine Passe wartet auf eine Antwort: das Foto, dann die Karte Mit deiner KI-App werten, mit Teilen, Prompt kopieren, dem Antwortfeld, Einfügen und Diese Antwort verwenden.](images/screenshots/de/scoring-share.png){ .shot }
 <figcaption>Teilen, dann die Antwort einfügen</figcaption>
 </figure>
 </div>

@@ -46,7 +46,7 @@ Cuando todas las sesiones mostradas usan la misma diana, sus propias zonas se di
 <figcaption><b>Tendencia y volumen</b></figcaption>
 </figure>
 <figure markdown>
-![La misma tendencia y el mismo volumen semanal en el modo juego.](images/screenshots/game-stats-trend.png){ .shot }
+![La misma tendencia y el mismo volumen semanal en el modo juego.](images/screenshots/es/game-stats-trend.png){ .shot }
 <figcaption>En el modo juego</figcaption>
 </figure>
 </div>
@@ -65,7 +65,7 @@ Cuando todas las sesiones mostradas usan la misma diana, sus propias zonas se di
 <figcaption><b>Zonas y regularidad</b></figcaption>
 </figure>
 <figure markdown>
-![Las mismas zonas y la misma regularidad en el modo juego.](images/screenshots/game-stats-rings.png){ .shot }
+![Las mismas zonas y la misma regularidad en el modo juego.](images/screenshots/es/game-stats-rings.png){ .shot }
 <figcaption>En el modo juego</figcaption>
 </figure>
 </div>
@@ -86,7 +86,7 @@ Cuántas flechas cayeron en cada zona, desde la X (o el 11 en un animal 3D) hast
 <figcaption><b>Agrupación</b></figcaption>
 </figure>
 <figure markdown>
-![La misma agrupación en el modo juego, puntos claros y una cruz dorada sobre madera oscura.](images/screenshots/game-stats-group.png){ .shot }
+![La misma agrupación en el modo juego, puntos claros y una cruz dorada sobre madera oscura.](images/screenshots/es/game-stats-group.png){ .shot }
 <figcaption>En el modo juego</figcaption>
 </figure>
 </div>
@@ -106,7 +106,7 @@ Las flechas que colocó la IA siempre cuentan. Las flechas colocadas a mano cuen
 <figcaption><b>Mapa de calor por spot</b></figcaption>
 </figure>
 <figure markdown>
-![Los mismos mapas de calor por spot en el modo juego.](images/screenshots/game-stats-heat.png){ .shot }
+![Los mismos mapas de calor por spot en el modo juego.](images/screenshots/es/game-stats-heat.png){ .shot }
 <figcaption>En el modo juego</figcaption>
 </figure>
 </div>
