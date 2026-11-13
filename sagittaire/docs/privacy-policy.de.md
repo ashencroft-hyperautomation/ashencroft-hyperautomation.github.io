@@ -25,7 +25,7 @@ Andere Apps können diese Informationen nicht lesen, und die Fotos erscheinen ni
 
 **Wertung mit deinem eigenen API-Schlüssel.** Wenn eine Passe gewertet wird, sendet die App über eine verschlüsselte Verbindung (HTTPS) und nur an den von dir gewählten KI-Dienst, an die mit seinem Schlüssel gespeicherte Adresse:
 
-- das Foto der Passe, aus dem die versteckten Daten (Standort, Gerätemodell, Datum) entfernt wurden und das, sofern du dies nicht abschaltest, auf die Scheibe zugeschnitten ist;
+- das Foto der Passe, aus dem die versteckten Daten (Standort, Gerätemodell, Datum) entfernt wurden und das, sofern du dies nicht abschaltest, auf das Quadrat um den Rahmenkreis zugeschnitten ist, was das meiste der Umgebung weglässt, aber nicht, was vor der Scheibe steht;
 - die Angaben, die der Dienst für die Wertung braucht: die Auflage und die Auflagen auf der Scheibe, die Anzahl der Pfeile, die Wertungsregel, deine Pfeilbeschreibung und die Sprache für seine Anmerkungen;
 - deinen API-Schlüssel, der dein Konto bei diesem Dienst identifiziert.
 

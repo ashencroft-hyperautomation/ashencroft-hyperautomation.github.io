@@ -165,3 +165,5 @@ Dieselben Daten, dieselbe Wertung: Nimm, was dir gefällt, und wechsle jederzeit
 ## Stand { #status }
 
 sagitt·AI·re ist ein Pro-bono-Projekt von Ashencroft Studio und wird aktiv entwickelt. Es läuft ab Android 8. **Es ist nicht bei Google Play:** Die App wird direkt auf dem Handy installiert. In der [Roadmap](roadmap.md) steht, was fertig ist und was als Nächstes kommt. Wer sagitt·AI·re nutzt, akzeptiert seine [Nutzungsbedingungen](terms.md): Es wird bereitgestellt, wie es ist. Seine [Datenschutzerklärung](privacy-policy.md) erklärt, was auf deinem Handy bleibt und was gesendet wird.
+
+Jede echte Kopie ist mit demselben Zertifikat signiert; sein SHA-256-Fingerabdruck ist `338111aa561dbb1493daf046ad0df6be70c0d313d941654768d6891daafb94a7`. Die App zeigt ihren unter **Einstellungen → Info und Rechtliches**; um eine APK-Datei vor dem Installieren zu prüfen, führe `apksigner verify --print-certs` (Build-Tools des Android SDK) darauf aus und vergleiche den *certificate SHA-256 digest*.

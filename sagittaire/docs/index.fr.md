@@ -165,3 +165,5 @@ Les mêmes données, le même comptage : choisissez celle qui vous plaît, et c
 ## Où en est le projet
 
 sagitt·AI·re est un projet pro bono du Studio Ashencroft, en développement actif. Il fonctionne sur Android 8 et plus récent. **Il n’est pas sur Google Play :** on l’installe directement sur le téléphone. La [feuille de route](roadmap.md) montre ce qui est fait et ce qui vient. Utiliser sagitt·AI·re, c’est accepter ses [conditions d’utilisation](terms.md) : l’application est fournie telle quelle. Sa [politique de confidentialité](privacy-policy.md) explique ce qui reste sur votre téléphone et ce qui est envoyé.
+
+Toute copie authentique est signée avec le même certificat, dont l’empreinte SHA-256 est `338111aa561dbb1493daf046ad0df6be70c0d313d941654768d6891daafb94a7`. L’application affiche la sienne dans **Réglages → À propos et mentions légales** ; pour vérifier un fichier APK avant de l’installer, lancez `apksigner verify --print-certs` (outils de compilation du SDK Android) sur ce fichier et comparez la ligne *certificate SHA-256 digest*.

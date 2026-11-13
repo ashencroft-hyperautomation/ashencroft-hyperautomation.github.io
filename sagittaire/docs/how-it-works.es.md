@@ -12,7 +12,7 @@ Después de la tanda, fotografías la diana desde delante, encajándola en el c�
 - **sin sus datos ocultos**: sin ubicación, sin modelo de teléfono, sin fecha;
 - con una copia pequeña para las listas.
 
-Por defecto, la copia que se va a enviar también se **recorta al área de la diana**, así las personas o cosas que haya alrededor de la diana se quedan en tu teléfono.
+Por defecto, la copia que se va a enviar también se **recorta al cuadrado alrededor del círculo de encuadre**, así casi todo lo que rodea la diana se queda en tu teléfono.
 
 ## 2. La foto va a la IA, con instrucciones { #2-the-photo-goes-to-the-ai-with-instructions }
 

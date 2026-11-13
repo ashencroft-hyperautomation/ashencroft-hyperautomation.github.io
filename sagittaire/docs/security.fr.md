@@ -42,7 +42,7 @@ sagitt·AI·re a été conçu pour qu'il y ait très peu de choses à protéger 
 
     ---
 
-    Par défaut, la photo est recadrée sur la cible avant l'envoi : les personnes et les objets autour restent sur votre téléphone.
+    Par défaut, la photo est recadrée sur le carré autour du cercle de cadrage avant l'envoi : l'essentiel de ce qui entoure la cible reste sur votre téléphone. Évitez tout de même d'avoir des personnes sur la photo.
 
 -   :material-robot-outline: **L'IA ne peut que répondre**
 

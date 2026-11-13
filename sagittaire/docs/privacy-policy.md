@@ -23,7 +23,7 @@ Other apps cannot read this information, and the photos do not appear in your ga
 
 **Scoring with your own API key.** When an end is scored, the App sends, over an encrypted connection (HTTPS) and only to the AI service you chose, at the address saved with its key:
 
-- the photo of the end, with its hidden data (location, device model, date) removed and, unless you turn this off, trimmed to the target;
+- the photo of the end, with its hidden data (location, device model, date) removed and, unless you turn this off, cropped to the square around the framing circle, which leaves out most of the surroundings but not what stands in front of the target;
 - the setup the service needs to score it: the target face and paper faces, the number of arrows, the scoring rule, your arrow description, and the language for its notes;
 - your API key, which identifies your account with that service.
 

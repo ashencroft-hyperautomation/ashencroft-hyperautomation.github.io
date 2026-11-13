@@ -42,7 +42,7 @@ sagitt·AI·re está pensado para que haya muy poco que proteger fuera de tu tel
 
     ---
 
-    Por defecto, la foto se recorta a la diana antes de enviarse, así que las personas y las cosas que la rodean se quedan en tu teléfono.
+    Por defecto, la foto se recorta al cuadrado alrededor del círculo de encuadre antes de enviarse, así que casi todo lo que rodea la diana se queda en tu teléfono. Aun así, deja a las personas fuera de la foto.
 
 -   :material-robot-outline: **La IA solo puede responder**
 

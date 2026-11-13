@@ -41,7 +41,7 @@ Cada página de Ajustes empieza con una breve explicación y luego sus opciones.
 | **Idioma** | Inglés, francés, alemán, español o el idioma del teléfono (Android 13 y posteriores). |
 | **Lugares guardados** | Cambiar el nombre, fusionar o eliminar los lugares de tus sesiones. Consulta [Lugares guardados](sessions.md#saved-places). |
 | **Almacenamiento y copia de seguridad** | Espacio usado, exportar, restaurar, liberar espacio. Consulta [Almacenamiento y copia de seguridad](backup.md). |
-| **Información y aviso legal** | La versión, las [condiciones de uso](terms.md), la [política de privacidad](privacy-policy.md) y las [licencias de código abierto](licences.md). |
+| **Información y aviso legal** | La versión, la huella del certificado que firmó esta copia ([comprobarla](index.md#status)), las [condiciones de uso](terms.md), la [política de privacidad](privacy-policy.md) y las [licencias de código abierto](licences.md). |
 
 ## Objetivos de entrenamiento { #training-goals }
 

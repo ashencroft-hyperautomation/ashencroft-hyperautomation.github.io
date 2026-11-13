@@ -12,7 +12,7 @@ Après la volée, vous photographiez la cible de face, en cadrant le blason dans
 - **sans ses données cachées** : ni position, ni modèle de téléphone, ni date ;
 - avec une petite copie pour les listes.
 
-Par défaut, la copie qui sera envoyée est aussi **recadrée sur la zone de la cible** : les personnes ou les objets autour restent sur votre téléphone.
+Par défaut, la copie qui sera envoyée est aussi **recadrée sur le carré autour du cercle de cadrage** : l'essentiel de ce qui entoure la cible reste sur votre téléphone.
 
 ## 2. La photo part vers l'IA, avec des consignes
 

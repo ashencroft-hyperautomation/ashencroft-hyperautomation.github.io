@@ -12,7 +12,7 @@ Nach der Passe fotografierst du die Scheibe von vorn und bringst die Auflage in 
 - **ohne seine versteckten Daten**: kein Standort, kein Handymodell, kein Datum;
 - mit einer kleinen Kopie für die Listen.
 
-Standardmäßig wird die Kopie, die gesendet wird, außerdem **auf den Scheibenbereich zugeschnitten**, sodass Personen oder Dinge rund um die Scheibe auf deinem Handy bleiben.
+Standardmäßig wird die Kopie, die gesendet wird, außerdem **auf das Quadrat um den Rahmenkreis zugeschnitten**, sodass das meiste rund um die Scheibe auf deinem Handy bleibt.
 
 ## 2. Das Foto geht mit Anweisungen an die KI { #2-the-photo-goes-to-the-ai-with-instructions }
 

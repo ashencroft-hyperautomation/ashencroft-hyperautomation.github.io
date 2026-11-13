@@ -21,7 +21,7 @@ Eso es todo: tus arcos y lugares, tus sesiones, cada tanda con su foto y cada fl
 
 Solo cuando una tanda se puntúa con un servicio de IA, mediante una conexión cifrada, y solo a ese servicio:
 
-- **la foto de la tanda**, sin datos ocultos (sin ubicación, sin modelo de teléfono) y, por defecto, recortada al área de la diana;
+- **la foto de la tanda**, sin datos ocultos (sin ubicación, sin modelo de teléfono) y, por defecto, recortada al cuadrado alrededor del círculo de encuadre (casi todo el entorno se queda en tu teléfono, así que deja a las personas fuera de la foto);
 - **tu configuración**: diana, dianas de papel, número de flechas y regla de puntuación, y la descripción de tus flechas;
 - **tu clave de API**, que identifica tu cuenta en ese servicio.
 

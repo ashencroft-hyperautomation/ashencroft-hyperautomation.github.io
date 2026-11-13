@@ -21,7 +21,7 @@ C'est tout : vos arcs et vos lieux, vos séances, chaque volée avec sa photo, 
 
 Seulement quand une volée est comptée par un service d'IA, par une connexion chiffrée, à ce service seulement :
 
-- **la photo de la volée**, sans données cachées (ni position, ni modèle de téléphone) et, par défaut, recadrée sur la zone de la cible ;
+- **la photo de la volée**, sans données cachées (ni position, ni modèle de téléphone) et, par défaut, recadrée sur le carré autour du cercle de cadrage (l’essentiel des alentours reste sur votre téléphone ; évitez donc d’avoir des personnes sur la photo) ;
 - **les paramètres de la séance** : blason, nombre de blasons, nombre de flèches et règle de comptage, et la description de vos flèches ;
 - **votre clé API**, qui identifie votre compte chez ce service.
 

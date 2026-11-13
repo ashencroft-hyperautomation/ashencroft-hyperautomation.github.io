@@ -23,7 +23,7 @@ Les autres applications ne peuvent pas lire ces renseignements, et les photos n�
 
 **Comptage avec votre propre clé API.** Lorsqu’une volée est comptée, l’Application envoie, par une connexion chiffrée (HTTPS) et uniquement au service d’IA que vous avez choisi, à l’adresse enregistrée avec sa clé :
 
-- la photo de la volée, dont les données cachées (lieu, modèle de l’appareil, date) ont été retirées et qui, sauf si vous désactivez cette option, est recadrée sur la cible ;
+- la photo de la volée, dont les données cachées (lieu, modèle de l’appareil, date) ont été retirées et qui, sauf si vous désactivez cette option, est recadrée sur le carré autour du cercle de cadrage, ce qui écarte l’essentiel des alentours mais pas ce qui se trouve devant la cible ;
 - les renseignements dont le service a besoin pour la compter : le blason et les blasons sur la butte, le nombre de flèches, la règle de comptage, la description de vos flèches et la langue de ses remarques ;
 - votre clé API, qui identifie votre compte auprès de ce service.
 

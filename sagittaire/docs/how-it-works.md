@@ -12,7 +12,7 @@ After the end, you photograph the target from in front, fitting the face in the 
 - **with its hidden data removed**: no location, no phone model, no date;
 - with a small copy for the lists.
 
-By default, the copy that will be sent is also **trimmed to the target area**, so people or things around the target stay on your phone.
+By default, the copy that will be sent is also **cropped to the square around the framing circle**, so most of what surrounds the target stays on your phone.
 
 ## 2. The photo goes to the AI, with instructions
 

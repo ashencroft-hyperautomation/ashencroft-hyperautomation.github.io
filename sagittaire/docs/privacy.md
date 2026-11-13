@@ -21,7 +21,7 @@ That's all of it: your bows and places, your sessions, each end with its photo, 
 
 Only when an end is scored with an AI service, over an encrypted connection, to that service only:
 
-- **the photo of the end**, without hidden data (no location, no phone model) and, by default, trimmed to the target area;
+- **the photo of the end**, without hidden data (no location, no phone model) and, by default, cropped to the square around the framing circle (most of the surroundings stay on your phone, so keep people out of the photo);
 - **your setup**: target face, paper faces, number of arrows and scoring rule, and your arrow description;
 - **your API key**, which identifies your account with that service.
 

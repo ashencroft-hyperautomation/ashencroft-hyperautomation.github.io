@@ -42,7 +42,7 @@ sagitt·AI·re was designed so that there's very little to protect away from you
 
     ---
 
-    By default, the photo is trimmed to the target before it's sent, so the people and things around it stay on your phone.
+    By default, the photo is cropped to the square around the framing circle before it's sent, so most of what surrounds the target stays on your phone. Keep people out of the photo all the same.
 
 -   :material-robot-outline: **The AI can only answer**
 

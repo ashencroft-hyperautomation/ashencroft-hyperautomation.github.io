@@ -21,7 +21,7 @@ Das ist alles: deine Bögen und Orte, deine Einheiten, jede Passe mit ihrem Foto
 
 Nur wenn eine Passe mit einem KI-Dienst gewertet wird, über eine verschlüsselte Verbindung, und nur an diesen Dienst:
 
-- **das Foto der Passe**, ohne versteckte Daten (kein Standort, kein Handymodell) und standardmäßig auf den Scheibenbereich zugeschnitten;
+- **das Foto der Passe**, ohne versteckte Daten (kein Standort, kein Handymodell) und standardmäßig auf das Quadrat um den Rahmenkreis zugeschnitten (das meiste der Umgebung bleibt auf deinem Handy, halte also Personen aus dem Bild);
 - **deine Angaben**: Auflage, Auflagen auf der Scheibe, Pfeilzahl und Wertungsregel sowie deine Pfeilbeschreibung;
 - **dein API-Schlüssel**, der dein Konto bei diesem Dienst ausweist.
 

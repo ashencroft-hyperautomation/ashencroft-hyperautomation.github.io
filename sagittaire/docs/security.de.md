@@ -42,7 +42,7 @@ sagitt·AI·re ist so gebaut, dass es außerhalb deines Handys kaum etwas zu sch
 
     ---
 
-    Standardmäßig wird das Foto vor dem Senden auf die Scheibe zugeschnitten, sodass die Menschen und Dinge drumherum auf deinem Handy bleiben.
+    Standardmäßig wird das Foto vor dem Senden auf das Quadrat um den Rahmenkreis zugeschnitten, sodass das meiste rund um die Scheibe auf deinem Handy bleibt. Halte trotzdem Personen aus dem Bild.
 
 -   :material-robot-outline: **Die KI kann nur antworten**
 

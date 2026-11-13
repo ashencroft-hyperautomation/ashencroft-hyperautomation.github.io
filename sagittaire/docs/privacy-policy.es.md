@@ -25,7 +25,7 @@ Otras aplicaciones no pueden leer esta información, y las fotos no aparecen en 
 
 **Puntuación con tu propia clave de API.** Cuando se puntúa una tanda, la App envía, mediante una conexión cifrada (HTTPS) y solo al servicio de IA que elegiste, a la dirección guardada con su clave:
 
-- la foto de la tanda, sin sus datos ocultos (ubicación, modelo del dispositivo, fecha) y, salvo que desactives esta opción, recortada a la diana;
+- la foto de la tanda, sin sus datos ocultos (ubicación, modelo del dispositivo, fecha) y, salvo que desactives esta opción, recortada al cuadrado alrededor del círculo de encuadre, lo que deja fuera casi todo el entorno, pero no lo que esté delante de la diana;
 - la configuración que el servicio necesita para puntuarla: la diana y las dianas colocadas en el parapeto, el número de flechas, la regla de puntuación, la descripción de tus flechas y el idioma de sus notas;
 - tu clave de API, que identifica tu cuenta en ese servicio.
 
