@@ -8,10 +8,9 @@ on:
     branches: [main]
   workflow_dispatch:
 
+# Least privilege: the build job only reads the repository; only the deploy job may publish to Pages.
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
   group: pages
@@ -20,6 +19,8 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
@@ -29,7 +30,8 @@ jobs:
           python-version: "3.12"
       - name: Build
         run: |
-          pip install -r sagittaire/requirements.txt
+          # Every package pinned with its SHA-256 (sagittaire/requirements.lock, made from requirements.txt).
+          pip install --require-hashes -r sagittaire/requirements.lock
           mkdocs build --strict -f sagittaire/mkdocs.yml -d "$PWD/_site/sagittaire"
           cp index.html _site/
       - name: Redirect the old /ullr/ addresses
@@ -49,7 +51,6 @@ jobs:
                           f'<meta http-equiv="refresh" content="0; url={url}"><link rel="canonical" href="{url}"></head>'
                           f'<body><p>Ullr is now <a href="{url}">sagitt·AI·re</a>.</p></body></html>')
           EOF
-      - uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6.0.0
       - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
         with:
           path: _site
@@ -57,6 +58,9 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

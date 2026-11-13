@@ -1,4 +1,7 @@
-# Pinned so the public site builds the same way every time.
+# Pinned so the public site builds the same way every time. Install from requirements.lock, which pins every
+# package below these and their SHA-256 hashes: pip install --require-hashes -r site/requirements.lock
+# After changing a version here, regenerate the lock (in a throwaway venv with pip-tools, Python 3.12+):
+#   pip-compile --generate-hashes --allow-unsafe --strip-extras --no-emit-index-url --output-file=requirements.lock requirements.txt
 mkdocs==1.6.1
 mkdocs-material==9.7.7
 mkdocs-static-i18n==1.3.1

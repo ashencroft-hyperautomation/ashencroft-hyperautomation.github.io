@@ -1,0 +1,12 @@
+# Weekly update checks for the site's Python packages and the workflow's actions (pinned to commit SHAs).
+# The site's packages are pinned in sagittaire/requirements.txt and, with hashes, in sagittaire/requirements.lock.
+version: 2
+updates:
+  - package-ecosystem: pip
+    directory: /sagittaire
+    schedule:
+      interval: weekly
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
