@@ -1,0 +1,59 @@
+/* sagitt·AI·re is Archery Canada's app: its red, ink and white; Oswald for headings, Open Sans for text (theme font). */
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&display=swap");
+:root, [data-md-color-scheme="default"] {
+  --md-primary-fg-color: #c52328;
+  --md-primary-fg-color--light: #d6454a;
+  --md-primary-fg-color--dark: #a11d21;
+  --md-accent-fg-color: #a11d21;
+  --md-typeset-a-color: #a11d21;
+  --md-typeset-color: #272221;
+  --md-primary-bg-color: #ffffff;          /* text and icons on the header */
+  --md-primary-bg-color--light: #ffffffb3;
+}
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #272221;
+  --md-primary-fg-color--light: #3d3635;
+  --md-primary-fg-color--dark: #1b1716;
+  --md-accent-fg-color: #ff6b6e;
+  --md-typeset-a-color: #ff8a8c;
+  --md-default-bg-color: #1b1716;
+  --md-primary-bg-color: #ffffff;
+  --md-primary-bg-color--light: #ffffffb3;
+}
+.md-typeset h1, .md-typeset h2, .md-typeset h3, .md-header__topic, .md-tabs__link {
+  font-family: "Oswald", "Arial Narrow", sans-serif;
+  letter-spacing: .02em;
+}
+.md-typeset h1, .md-typeset h2 { font-weight: 600; color: var(--md-typeset-color); }
+.md-header__button.md-logo img { height: 1.8rem; border-radius: 22%; }
+/* Phone screenshots: rounded, with a soft shadow. */
+.shot img, img.shot { border-radius: 14px; box-shadow: 0 4px 14px rgba(0,0,0,.25); }
+.shots { display: flex; flex-wrap: wrap; gap: 1rem; }
+.shots figure { margin: 0; width: 220px; }
+.shots figcaption { font-size: .75rem; text-align: left; }
+.hero img { width: 100%; border-radius: 10px; }
+.md-typeset .grid.cards > ul > li { border-radius: 10px; }
+/* Tabs on the red header: white, the active one underlined. */
+.md-tabs__link { opacity: .9; font-size: .8rem; }
+.md-tabs__item--active .md-tabs__link { opacity: 1; text-decoration: underline; text-underline-offset: .35em; }
+
+/* Pixel art stays crisp when scaled up. */
+.pixel { image-rendering: pixelated; }
+
+/* Home page: game mode in its own dark-wood band, like the game itself. */
+.md-typeset .game-band {
+  background: #24160c;
+  color: #f3e3c3;
+  border: 3px solid #5a3a1e;
+  border-radius: 12px;
+  padding: .4rem 1.4rem 1.2rem;
+  margin: 1.6rem 0;
+}
+.md-typeset .game-band h2 { color: #e0b062; margin-top: .8rem; letter-spacing: .02em; }
+.md-typeset .game-band a:not(.md-button) { color: #e0b062; }
+.md-typeset .game-band figcaption { color: #d9c4a0; }
+.md-typeset .game-band .md-button--primary { background: #9a3b26; border-color: #9a3b26; color: #f3e3c3; }
+.md-typeset .game-band .md-button--primary:hover { background: #c0563a; border-color: #c0563a; }
+/* The Game mode tab stands out with a gamepad. */
+.md-tabs__link[href$="game/"] { opacity: 1; font-weight: 700; }
+.md-tabs__link[href$="game/"]::before { content: "🎮 "; }

@@ -1,4 +1,5 @@
-# Builds the Ullr site (MkDocs Material, English and French) from ullr/ and publishes it with GitHub Pages.
+# Builds the sagitt·AI·re site (MkDocs Material, English, French, German and Spanish) from sagittaire/ and publishes it
+# with GitHub Pages. The app was called Ullr before: every old /ullr/ address gets a page that redirects to its new one.
 # The sources are pushed here from the private project by its tools/site.py. No secrets are used.
 name: Pages
 
@@ -28,9 +29,26 @@ jobs:
           python-version: "3.12"
       - name: Build
         run: |
-          pip install -r ullr/requirements.txt
-          mkdocs build --strict -f ullr/mkdocs.yml -d "$PWD/_site/ullr"
+          pip install -r sagittaire/requirements.txt
+          mkdocs build --strict -f sagittaire/mkdocs.yml -d "$PWD/_site/sagittaire"
           cp index.html _site/
+      - name: Redirect the old /ullr/ addresses
+        run: |
+          python3 - <<'EOF'
+          import html, os
+          base = "https://ashencroft-hyperautomation.github.io/sagittaire/"
+          for folder, _, files in os.walk("_site/sagittaire"):
+              if "index.html" not in files:
+                  continue
+              rel = os.path.relpath(folder, "_site/sagittaire")
+              rel = "" if rel == "." else rel + "/"
+              url = html.escape(base + rel)
+              os.makedirs(os.path.join("_site/ullr", rel), exist_ok=True)
+              with open(os.path.join("_site/ullr", rel, "index.html"), "w", encoding="utf-8") as f:
+                  f.write(f'<!doctype html><html><head><meta charset="utf-8"><title>sagitt·AI·re</title>'
+                          f'<meta http-equiv="refresh" content="0; url={url}"><link rel="canonical" href="{url}"></head>'
+                          f'<body><p>Ullr is now <a href="{url}">sagitt·AI·re</a>.</p></body></html>')
+          EOF
       - uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6.0.0
       - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
         with:

@@ -1,0 +1,203 @@
+# Mode jeu
+
+sagitt·AI·re s’utilise aussi autrement : **la même application, en petit jeu vidéo en pixel art.** Votre archer se promène dans une maison nordique et sur un pas de tir, et chaque endroit ouvre un écran. Vos arcs, vos séances et vos scores sont exactement les mêmes qu’en mode normal, et les écrans de comptage fonctionnent de la même façon.
+
+Activez-le dans **Réglages → Apparence et jeu → Jeu (aperçu)**. **Normal** revient en arrière à tout moment, sans rien perdre.
+
+<div class="shots" markdown>
+<figure markdown>
+![La maison en pixel art : un feu dans l’âtre de pierre, le râtelier avec les arcs de l’archer, le mur des trophées avec un bouclier rond et des coupes, un miroir, un tapis, un bureau et la porte. L’archer marche vers le râtelier, indiqué Râtelier à arcs.](images/screenshots/fr/game-hall.png){ .shot }
+<figcaption><b>La maison.</b> Touchez un endroit et votre archer s’y rend.</figcaption>
+</figure>
+<figure markdown>
+![Le pas de tir : trois buttes, la ligne de tir avec les couloirs 1 à 3, le porte-flèches, des arbres, le chemin de la maison et un renard qui suit l’archer.](images/screenshots/fr/game-range.png){ .shot }
+<figcaption><b>Le pas de tir.</b> La ligne de tir commence une séance.</figcaption>
+</figure>
+<figure markdown>
+![La maison : l’archer aux tresses rousses, couronne de fleurs et mantelet de fourrure, passe près du tapis, un renard trottant à ses côtés.](images/screenshots/fr/game-pet.png){ .shot }
+<figcaption><b>Un compagnon</b> vous suit partout.</figcaption>
+</figure>
+</div>
+
+## Se déplacer
+
+- **Touchez un endroit :** votre archer s’y rend par le plus court chemin, en contournant les meubles, puis l’endroit s’ouvre. Son nom s’affiche au-dessus et dans le panneau du bas, avec **Y aller** ou **Ouvrir**.
+- **Touchez le plancher** pour simplement y marcher.
+- **Endroits** (☰, en haut à droite) liste tous les endroits des deux pièces et les ouvre directement, sans marcher. Pratique quand on est pressé, et facile avec un lecteur d’écran.
+- **Tirer maintenant**, en bas, ouvre directement l’appareil photo de votre séance en cours, ou une nouvelle séance. Le jeu ne vous ralentit jamais au pas de tir.
+- **Retour**, depuis n’importe quel écran, vous ramène au jeu, là où se tenait votre archer.
+
+| Dans la maison | Ouvre |
+|----------------|-------|
+| **Râtelier à arcs** (vos propres arcs y sont accrochés, chacun dessiné selon son type : arc nu, arc recourbé avec viseur et stabilisateur, arc à poulies avec ses cames ; votre archer tient le même type) | Vos arcs |
+| **Mur des trophées** | Vos trophées : niveau, insignes et records personnels |
+| **Bureau** | Les réglages |
+| **Miroir** | Votre archer |
+| **Âtre** | Vos statistiques, « au coin du feu » |
+| **Porte** | Le pas de tir |
+
+| Sur le pas de tir | Ouvre |
+|-------------------|-------|
+| **Ligne de tir** | Une nouvelle séance, ou celle en cours |
+| **Cibles** | La séance en cours (pendant une séance, des flèches sont plantées dans les cibles) |
+| **Porte-flèches** | La volée qui attend votre vérification. Un **!** apparaît au-dessus quand une volée attend. |
+| **Chemin de la maison** | La maison |
+
+## Votre archer
+
+Rendez-vous au **miroir** pour habiller votre archer. L’aperçu reste en haut pendant que vous faites défiler les choix, et chaque changement est enregistré aussitôt.
+
+<div class="shots" markdown>
+<figure markdown>
+![Votre archer : un aperçu de l’archer et d’un renard sur le tapis, un bouton Au hasard, et les choix de peau, coiffure, couleur des cheveux, barbe, tunique, cape et pantalon.](images/screenshots/fr/game-mirror.png){ .shot }
+<figcaption><b>Le miroir.</b> Choisissez, et voyez le résultat tout de suite.</figcaption>
+</figure>
+<figure markdown>
+![Huit archers vus de face, de profil et de dos : casque et barbe; toque et mantelet de fourrure; couronne de fleurs, tresses et écharpe; bandeau et amulette marteau; lunettes; et les tenues à gagner : diadème d’or avec tunique pourpre royale et médaille, couronne de laurier avec cape argentée, et chapeau à plume avec carquois.](images/game-outfits.png){ width="360" .pixel }
+<figcaption><b>Les tenues</b>, dessinées sous tous les angles.</figcaption>
+</figure>
+</div>
+
+| Choix | Options |
+|-------|---------|
+| Peau | Cinq teintes |
+| Cheveux | Longs, courts, tresses ou capuchon, en cinq couleurs |
+| Barbe | Avec ou sans |
+| Tunique, cape, pantalon | Six, cinq et cinq couleurs, et pas de cape si vous préférez; une **tunique pourpre royale** (niveau 8), une **cape dorée** (niveau 5) et une **cape argentée** (insigne *Dix X*) à gagner |
+| Coiffe | Casque, toque de fourrure, couronne de fleurs, bandeau; un **diadème d’or** (niveau 3), une **couronne de laurier** (insigne *Volée parfaite*) et un **chapeau à plume** (insigne *Explorateur*) à gagner |
+| Accessoire | Mantelet de fourrure, écharpe, amulette marteau, lunettes; un **carquois** (insigne *Première volée*) et une **médaille** (insigne *Nouveau record*) à gagner |
+
+![Cinq archers de face, de profil et de dos, avec chaque coiffure (longs, courts, tresses, capuchon), cinq teintes de peau, des barbes et des couleurs de tunique et de cape différentes.](images/game-avatars.png){ width="330" .pixel }
+
+**Au hasard** choisit une apparence au hasard. Votre archer tient le type de votre premier arc : arc nu, arc recourbé ou arc à poulies.
+
+**Archers légendaires.** En haut du miroir, quatre archers tout prêts règlent toute l’apparence et le compagnon en une touche : **Artémis**, déesse grecque de la chasse, avec son chien ; **Ullr**, dieu nordique du tir à l’arc et de l’hiver, en fourrures, avec un corbeau ; **Robin des Bois**, tout en vert, avec un renard ; et **Hou Yi**, l’archer chinois qui abattit neuf soleils. Changez ensuite ce que vous voulez.
+
+![Les quatre archers légendaires de face, de profil et de dos : Artémis et son chien, Ullr et un corbeau, Robin des Bois et un renard, et Hou Yi.](images/game-legends.png){ width="420" .pixel }
+
+## Les compagnons
+
+Choisissez un compagnon au miroir : un **chien**, un **chat**, un **renard** ou un **corbeau**, un **hibou** une fois que vous avez tiré quatre semaines de suite, et un autre à découvrir. Il suit le chemin parcouru par votre archer, environ un pas derrière, sans jamais traverser les meubles, et s’assoit à côté de vous quand vous vous arrêtez. Le chien, le chat et le renard trottinent et remuent la queue, le corbeau sautille, et le hibou sautille et cligne de ses grands yeux.
+
+![Les compagnons animaux : un chien, un chat, un renard, un corbeau et un hibou.](images/game-companions.png){ width="420" .pixel }
+
+## Niveaux, insignes et trophées
+
+Seul le vrai tir rapporte : **10 points d’expérience** par volée confirmée, **30** par séance terminée et **50** par insigne. Rien à acheter, et rien pour simplement ouvrir l’application. Votre niveau et sa barre s’affichent en bas du jeu, avec un titre qui passe de **Novice** à **Archer**, **Tireur d’élite**, **Maître archer** et **Légende**.
+
+<div class="shots" markdown>
+<figure markdown>
+![Trophées : niveau 2, Novice, 220 sur 300 XP ; dix insignes, dont deux obtenus en or ; les records personnels plus bas.](images/screenshots/fr/game-trophies.png){ .shot }
+<figcaption><b>Les trophées</b>, au mur des trophées.</figcaption>
+</figure>
+<figure markdown>
+![La maison avec la barre de niveau au-dessus de Tirer maintenant, et deux coupes sur l’étagère des trophées.](images/screenshots/fr/game-level.png){ .shot }
+<figcaption>Votre niveau, et une coupe par record.</figcaption>
+</figure>
+</div>
+
+- **Dix insignes** pour de vraies étapes, en or une fois gagnés, en gris d’ici là. Chacun rapporte aussi une [récompense](#recompenses) :
+
+| Médaille | Insigne | Comment l’obtenir | Récompense |
+|:-:|--------|-------------------|------------|
+| ![Médaille 1](images/game-medal-first-end.png){ width="36" .pixel } | **Première volée** | Confirmer votre première volée | Carquois |
+| ![Médaille X](images/game-medal-first-x.png){ width="36" .pixel } | **Premier X** | Tirer un X | Cible peinte dans la maison |
+| ![Médaille 10](images/game-medal-perfect-end.png){ width="36" .pixel } | **Volée parfaite** | Toutes les flèches d’une volée dans le 10 | Couronne de laurier |
+| ![Médaille XX](images/game-medal-ten-x.png){ width="36" .pixel } | **Dix X** | 10 X dans une même séance | Cape argentée |
+| ![Médaille C](images/game-medal-arrows-100.png){ width="36" .pixel } | **100 flèches** | Tirer 100 flèches | Flèches croisées dans la maison |
+| ![Médaille M](images/game-medal-arrows-1000.png){ width="36" .pixel } | **1 000 flèches** | Tirer 1 000 flèches | Peau de bête près du tapis |
+| ![Médaille S](images/game-medal-sessions-10.png){ width="36" .pixel } | **Dix séances** | Terminer 10 séances | Bannière dans la maison |
+| ![Médaille +](images/game-medal-personal-best.png){ width="36" .pixel } | **Nouveau record** | Battre votre meilleur score sur une épreuve | Médaille |
+| ![Médaille *](images/game-medal-new-discipline.png){ width="36" .pixel } | **Explorateur** | Tirer en campagne, en 3D ou en para-tir à l’arc | Chapeau à plume |
+| ![Médaille 4](images/game-medal-weeks-4.png){ width="36" .pixel } | **Quatre semaines** | Tirer quatre semaines de suite | Hibou compagnon |
+
+![Une médaille pas encore gagnée, en gris.](images/game-medal-locked.png){ width="36" .pixel } Une médaille pas encore gagnée reste grise. Le signe sur chaque médaille (chiffres, chiffres romains) se lit pareil en français et en anglais.
+
+- **Records personnels** pour chaque épreuve (distance, blason et nombre de flèches). Chacun pose une coupe sur l’étagère, et les plaques s’allument au fil des insignes. Touchez un record pour ouvrir sa séance.
+- Un nouveau niveau ou un nouvel insigne est annoncé par **une fanfare et une bannière**, une seule fois. Battre un record personnel sur une épreuve déjà tirée fait sonner **le cor de guerre**.
+- Tout est calculé à partir de vos séances : supprimez une séance et ce qu’elle a rapporté disparaît avec elle.
+- **Remettre à zéro l’expérience et les insignes**, au bas des trophées, vous ramène au niveau 1 sans insigne, après confirmation. Vos séances, vos scores et vos records restent ; à partir de là, ce que vous tirez rapporte de nouveau de l’expérience et des insignes, et les trophées indiquent depuis quand. Pour effacer aussi les séances, voir [Stockage et sauvegarde](backup.md#effacer-les-donnees).
+
+## Défi de la semaine
+
+Avec des [objectifs d’entraînement](normal.md#objectifs-dentrainement), le mur des trophées affiche le **défi de la semaine** : les flèches à tirer cette semaine, avec une barre dorée, et la moyenne par flèche à atteindre. La première fois que vous atteignez l’objectif de flèches dans la semaine, la maison joue une **fanfare** avec une bannière **Défi relevé !**. Les objectifs ne rapportent pas d’expérience : en changer un ne réécrit jamais votre progression.
+
+![Le mur des trophées : niveau 14, Légende ; Défi de la semaine : 100 flèches tirées, défi relevé, avec une barre dorée pleine ; Moyenne à atteindre : 9,30, 9,04 sur 4 semaines.](images/screenshots/fr/game-challenge.png){ .shot width="320" }
+
+## Récompenses
+
+Ce que vous gagnez en tirant débloque des **récompenses**, listées au mur des trophées. Rien ne s’achète, et toutes les autres tenues sont libres dès le départ.
+
+| Récompense | Comment la gagner |
+|------------|-------------------|
+| **Diadème d’or**, au miroir | Atteindre le niveau 3 |
+| **Cape dorée**, au miroir | Atteindre le niveau 5 |
+| **Tunique pourpre royale**, au miroir | Atteindre le niveau 8 |
+| **Carquois**, au miroir | Gagner l’insigne *Première volée* |
+| **Une cible peinte dans la maison**, sur le mur de gauche | Gagner l’insigne *Premier X* |
+| **Couronne de laurier**, au miroir | Gagner l’insigne *Volée parfaite* |
+| **Cape argentée**, au miroir | Gagner l’insigne *Dix X* |
+| **Des flèches croisées dans la maison**, au-dessus du miroir | Gagner l’insigne *100 flèches* |
+| **Une peau de bête près du tapis** | Gagner l’insigne *1 000 flèches* |
+| **Une bannière dans la maison**, sur le mur de gauche | Gagner l’insigne *Dix séances* |
+| **Médaille**, au miroir | Gagner l’insigne *Nouveau record* |
+| **Chapeau à plume**, au miroir | Gagner l’insigne *Explorateur* |
+| **Hibou**, un compagnon au miroir | Gagner l’insigne *Quatre semaines* |
+
+<div class="shots" markdown>
+<figure markdown>
+![La maison avec ses quatre décorations : une bannière guède et une cible peinte sur le mur de gauche, des flèches croisées au-dessus du miroir, et une peau d’ours près du tapis.](images/screenshots/fr/game-hall-rewards.png){ .shot }
+<figcaption>Toutes les décorations, gagnées.</figcaption>
+</figure>
+<figure markdown>
+![Les récompenses au mur des trophées : diadème d’or, cape dorée, tunique pourpre royale, carquois, cible peinte, cape argentée, flèches croisées, peau de bête et bannière gagnés; la couronne de laurier encore à gagner, avec son insigne.](images/screenshots/fr/game-rewards.png){ .shot }
+<figcaption><b>Récompenses</b>, au mur des trophées.</figcaption>
+</figure>
+<figure markdown>
+![Au miroir, À gagner : couronne de laurier avec l’insigne Volée parfaite, chapeau à plume avec l’insigne Explorateur.](images/screenshots/fr/game-earn.png){ .shot }
+<figcaption><b>À gagner</b>, au miroir.</figcaption>
+</figure>
+</div>
+
+Les tenues à gagner attendent au bas du miroir sous **À gagner**; une fois gagnées, elles rejoignent les autres, et **Au hasard** peut les choisir. Après une remise à zéro, une récompense que vous portez reste en place.
+
+## Les saisons
+
+Le pas de tir suit le calendrier : neige et conifères en hiver (de décembre à février), fleurs et arbres en fleurs au printemps, vert en été, et arbres rouges et dorés aux feuilles qui tombent en automne (de septembre à novembre).
+
+![Le pas de tir aux quatre saisons, côte à côte : l’hiver sous la neige avec des conifères et des flocons, le printemps en fleurs, l’été vert avec des papillons, l’automne aux arbres rouges et dorés et aux feuilles tombées.](images/screenshots/fr/game-seasons.png)
+
+## Sons et musique
+
+Des pas sur le plancher et dans l’herbe, un petit son quand vous choisissez un endroit, un carillon quand il s’ouvre, le grincement de la porte, le crépitement du feu dans la maison, le vent et les oiseaux sur le pas de tir, et un petit air de luth. Tout a été composé pour sagitt·AI·re.
+
+- Le son joue au volume **multimédia** du téléphone, comme les autres jeux : les modes silencieux et vibreur coupent les appels et les notifications, pas les jeux.
+- Le **bouton haut-parleur**, en haut du jeu, coupe et remet le son. **Réglages → Apparence et jeu → Sons du jeu** et **Musique** les coupent séparément.
+- Le son s’arrête dès que l’application passe en arrière-plan.
+
+## Tous les écrans au style du jeu
+
+En mode jeu, chaque écran prend le style du jeu : bois sombre et or, lettres en pixels pour les titres, les boutons et les gros scores, et chaque score dans la couleur de sa zone.
+
+<div class="shots" markdown>
+<figure markdown>
+![Résumé de la séance au style du jeu : titre et total 207 en pixels, le graphique par volée, et chaque flèche dans la couleur de sa zone.](images/screenshots/fr/game-session.png){ .shot }
+<figcaption>Un résumé de séance</figcaption>
+</figure>
+<figure markdown>
+![Les arcs au style du jeu : cartes en bois sombre et titre en pixels.](images/screenshots/fr/game-bows.png){ .shot }
+<figcaption>Vos arcs</figcaption>
+</figure>
+<figure markdown>
+![Réglages au style du jeu : un menu Méthode de comptage, Règles de comptage, Confidentialité, Apparence et jeu, Langue, et Stockage et sauvegarde.](images/screenshots/fr/game-settings.png){ .shot }
+<figcaption>Les réglages, regroupés par thème</figcaption>
+</figure>
+</div>
+
+## Confidentialité
+
+Le mode jeu n’envoie rien. L’apparence de votre archer, votre compagnon et vos réglages de son restent sur le téléphone avec les autres réglages. Les images sont dessinées par l’application et les sons en font partie : rien n’est téléchargé, et aucune permission n’est ajoutée.
+
+## La suite
+
+Le mode jeu est un aperçu. Voir la [feuille de route](roadmap.md) pour la suite.
