@@ -1,6 +1,6 @@
 # Feuille de route
 
-Ullr est un projet personnel, construit au grand jour. Voici où il en est.
+Ullr est un projet pro bono du Studio Ashencroft, construit au grand jour. Voici où il en est.
 
 ## Fait
 

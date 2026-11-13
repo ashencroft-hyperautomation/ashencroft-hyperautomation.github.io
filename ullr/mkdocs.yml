@@ -2,7 +2,7 @@
 site_name: Ullr
 site_description: Archery records with AI or manual scoring, for Android. Photograph the target, check the arrows the AI is unsure about or place them yourself, keep your history on your phone.
 site_url: https://ashencroft-hyperautomation.github.io/ullr/
-copyright: Ullr — a personal archery project
+copyright: Ullr is a pro bono project of <strong>Ashencroft Studio</strong> — Responsible AI &amp; Hyperautomation Experts
 
 theme:
   name: material
@@ -49,6 +49,7 @@ plugins:
           build: true
           site_name: Ullr
           site_description: Le carnet de tir à l'arc avec comptage par IA, pour Android. Photographiez la cible, vérifiez les flèches dont l'IA doute, gardez votre historique sur votre téléphone.
+          copyright: Ullr est un projet pro bono du <strong>Studio Ashencroft</strong> — Experts en IA &amp; Hyper Automatisation Responsable
           nav_translations:
             Home: Accueil
             Getting started: Pour commencer

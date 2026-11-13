@@ -1,6 +1,6 @@
 # Roadmap
 
-Ullr is a personal project, built in the open. Here's where it stands.
+Ullr is a pro bono project of Ashencroft Studio, built in the open. Here's where it stands.
 
 ## Done
 
