@@ -21,7 +21,7 @@ Le mode jeu a son propre style, sur chaque écran.
 
 ## Langue
 
-Ullr parle français et anglais, et suit la langue de votre téléphone. Sur Android 13 et plus récent, **Réglages → Langue** permet de choisir le français, l’anglais ou la langue du téléphone, pour Ullr seulement.
+Ullr parle français, anglais, allemand et espagnol, et suit la langue de votre téléphone. Sur Android 13 et plus récent, **Réglages → Langue** permet d’en choisir une, ou la langue du téléphone, pour Ullr seulement. Ce site est en français et en anglais.
 
 ## Grand texte et lecteurs d’écran
 

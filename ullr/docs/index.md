@@ -148,7 +148,7 @@ Same records, same scoring: pick the one you like, and switch at any time in **S
 
     ---
 
-    Three themes, including one for bright sunlight. English and French.
+    Three themes, including one for bright sunlight. English, French, German and Spanish.
 
 -   :material-shield-lock-outline: **[Privacy](privacy.md)**
 

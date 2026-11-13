@@ -148,7 +148,7 @@ Les mêmes données, le même comptage : choisissez celle qui vous plaît, et ch
 
     ---
 
-    Trois thèmes, dont un pour le plein soleil. Français et anglais.
+    Trois thèmes, dont un pour le plein soleil. Français, anglais, allemand et espagnol.
 
 -   :material-shield-lock-outline: **[Confidentialité](privacy.md)**
 

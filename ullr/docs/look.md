@@ -21,7 +21,7 @@ Game mode has its own look, on every screen.
 
 ## Language
 
-Ullr speaks English and French and follows your phone's language. On Android 13 and later, **Settings → Language** (*Langue*) lets you choose English, French, or the phone's language, for Ullr only.
+Ullr speaks English, French, German and Spanish, and follows your phone's language. On Android 13 and later, **Settings → Language** (*Langue*) lets you choose one of them, or the phone's language, for Ullr only. This website is in English and French.
 
 ## Large text and screen readers
 

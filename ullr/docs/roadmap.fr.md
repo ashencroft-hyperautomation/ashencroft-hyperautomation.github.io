@@ -18,6 +18,7 @@ Ullr est un projet pro bono du Studio Ashencroft, construit au grand jour. Voici
 - [x] Tableau de bord, historique, feuille de marque et graphique des volées
 - [x] Vos arcs, avec un catalogue d'arcs à poulies actuels, la puissance et l'allonge
 - [x] Français et anglais
+- [x] Allemand et espagnol dans l’application, avec les conditions d’utilisation et la politique de confidentialité traduites (ce site reste en français et en anglais)
 - [x] La confidentialité dès la conception : photos recadrées sur la cible, données cachées retirées, rien sur vous ni sur votre téléphone n'est envoyé
 - [x] Ullr Demo, avec six mois de séances d'exemple pour essayer chaque écran
 - [x] Les types d’arc des divisions World Archery (arc nu, recourbé, à poulies), et la discipline de chaque séance (tir sur cible, en campagne, 3D ou para-tir à l’arc)
