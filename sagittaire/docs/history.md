@@ -1,6 +1,6 @@
 # History
 
-Every session stays on your phone with its photos. The **History** tab (*Historique*) lists them; in game mode, the **trophy wall** has a link to all of them.
+Every session stays on your phone with its photos. The **History** tab lists them; in game mode, the **trophy wall** has a link to all of them.
 
 <div class="shots" markdown>
 <figure markdown>

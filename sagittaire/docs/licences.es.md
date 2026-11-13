@@ -497,8 +497,8 @@ Las imágenes, la música, los sonidos y la fuente de píxeles se hicieron para 
 
 *2 bibliotecas*
 
-- `Google Fonts:Open Sans` variable — Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)
-- `Google Fonts:Oswald` variable — Copyright 2016 The Oswald Project Authors (https://github.com/googlefonts/OswaldFont)
+- Open Sans (Google Fonts) — Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)
+- Oswald (Google Fonts) — Copyright 2016 The Oswald Project Authors (https://github.com/googlefonts/OswaldFont)
 
 ??? note "Texto completo (en inglés)"
     ```text

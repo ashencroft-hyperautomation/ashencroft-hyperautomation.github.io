@@ -18,11 +18,11 @@ El icono de hoy es media diana y media hoja de arce: un círculo cuya mitad izqu
 <figcaption><b>3. La diana tallada.</b> La primera idea, rehecha como talla nórdica en madera. La elegida.</figcaption>
 </figure>
 <figure markdown>
-![El icono actual: la misma diana tallada, con la banda de runas que ahora forma SAGITTAIRE.](images/icons/4-sagittaire.png){ width="180" }
+![Cuarto icono: la misma diana tallada, con la banda de runas que ahora forma SAGITTAIRE.](images/icons/4-sagittaire.png){ width="180" }
 <figcaption><b>4. El nuevo nombre.</b> Cuando Ullr pasó a ser sagitt·AI·re, las runas cambiaron para formar el nuevo nombre.</figcaption>
 </figure>
 <figure markdown>
-![El icono de hoy: sobre el rojo de Archery Canada, un anillo de diana blanco con cuatro neuronas unidas al centro, y el signo de Sagitario en negro, cuya flecha termina en el centro blanco.](images/icons/5-archery-canada.png){ width="180" }
+![Quinto icono: sobre el rojo de Archery Canada, un anillo de diana blanco con cuatro neuronas unidas al centro, y el signo de Sagitario en negro, cuya flecha termina en el centro blanco.](images/icons/5-archery-canada.png){ width="180" }
 <figcaption><b>5. Archery Canada.</b> sagitt·AI·re pasa a ser la app de Archery Canada: un nuevo símbolo, en su rojo.</figcaption>
 </figure>
 <figure markdown>
@@ -51,4 +51,4 @@ El icono de hoy es media diana y media hoja de arce: un círculo cuya mitad izqu
 </figure>
 </div>
 
-El icono lo dibuja un pequeño programa y no se hace a mano, así que todos los tamaños, del lanzador a la Play Store, salen del mismo dibujo.
+El icono lo dibuja un pequeño programa y no se hace a mano, así que todos los tamaños, del lanzador a este sitio web, salen del mismo dibujo.

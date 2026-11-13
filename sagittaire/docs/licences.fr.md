@@ -497,8 +497,8 @@ Les images, la musique, les sons et la police pixel ont été créés pour sagit
 
 *2 bibliothèques*
 
-- `Google Fonts:Open Sans` variable — Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)
-- `Google Fonts:Oswald` variable — Copyright 2016 The Oswald Project Authors (https://github.com/googlefonts/OswaldFont)
+- Open Sans (Google Fonts) — Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)
+- Oswald (Google Fonts) — Copyright 2016 The Oswald Project Authors (https://github.com/googlefonts/OswaldFont)
 
 ??? note "Texte intégral (en anglais)"
     ```text

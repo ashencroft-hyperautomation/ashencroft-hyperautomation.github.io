@@ -12,9 +12,9 @@ Le Développeur ne recueille rien. L’Application n’a ni compte, ni publicit�
 
 Pour fonctionner, l’Application conserve les éléments suivants dans son espace de stockage privé, sur votre appareil :
 
-- vos arcs (nom, type, réglages et description de vos flèches) et les lieux où vous tirez, tels que vous les nommez;
-- vos séances : date, lieu, arc, distance, blason, volées, flèches, pointages, ainsi que la photo de chaque volée et un petit aperçu;
-- vos réglages, dont votre méthode de comptage, les services d’IA que vous avez configurés, leurs adresses et leurs modèles, votre apparence et votre archer en mode jeu, ainsi que la date à laquelle vous avez accepté les conditions d’utilisation;
+- vos arcs (nom, type, réglages et description de vos flèches) et les lieux où vous tirez, tels que vous les nommez ;
+- vos séances : date, lieu, arc, distance, blason, volées, flèches, pointages, ainsi que la photo de chaque volée et un petit aperçu ;
+- vos réglages, dont votre méthode de comptage, les services d’IA que vous avez configurés, leurs adresses et leurs modèles, votre apparence et votre archer en mode jeu, ainsi que la date à laquelle vous avez accepté les conditions d’utilisation ;
 - vos clés API, chiffrées au moyen d’une clé conservée dans le matériel sécurisé de l’appareil (Android Keystore).
 
 Les autres applications ne peuvent pas lire ces renseignements, et les photos n’apparaissent pas dans votre galerie. L’Application désactive la sauvegarde automatique d’Android dans le nuage et le transfert d’un appareil à un autre : rien n’est donc copié automatiquement hors de votre appareil.
@@ -23,8 +23,8 @@ Les autres applications ne peuvent pas lire ces renseignements, et les photos n�
 
 **Comptage avec votre propre clé API.** Lorsqu’une volée est comptée, l’Application envoie, par une connexion chiffrée (HTTPS) et uniquement au service d’IA que vous avez choisi, à l’adresse enregistrée avec sa clé :
 
-- la photo de la volée, dont les données cachées (lieu, modèle de l’appareil, date) ont été retirées et qui, sauf si vous désactivez cette option, est recadrée sur la cible;
-- les renseignements dont le service a besoin pour la compter : le blason et les blasons sur la butte, le nombre de flèches, la règle de pointage, la description de vos flèches et la langue de ses remarques;
+- la photo de la volée, dont les données cachées (lieu, modèle de l’appareil, date) ont été retirées et qui, sauf si vous désactivez cette option, est recadrée sur la cible ;
+- les renseignements dont le service a besoin pour la compter : le blason et les blasons sur la butte, le nombre de flèches, la règle de comptage, la description de vos flèches et la langue de ses remarques ;
 - votre clé API, qui identifie votre compte auprès de ce service.
 
 Votre nom, vos lieux, votre historique, vos pointages et les détails de votre appareil ne sont jamais envoyés. Les renseignements techniques que les applications envoient habituellement au sujet de l’appareil sont remplacés par « unknown ». Comme pour tout service Internet, le service d’IA peut voir votre adresse réseau (IP).
@@ -58,7 +58,7 @@ Vos renseignements restent sur votre appareil jusqu’à ce que vous les supprim
 
 ## 7. Vos choix et vos droits
 
-Comme le Développeur ne détient aucun renseignement à votre sujet, tout ce que l’Application sait de vous se trouve sur votre appareil et reste sous votre contrôle : vous pouvez le consulter dans l’Application, en obtenir une copie au moyen d’une exportation, le rectifier et le supprimer, comme il est décrit ci-dessus. Pour les renseignements qu’un service d’IA a reçus, exercez les droits que vous donne sa politique de confidentialité; en vertu des lois du Québec et du Canada, et des lois de l’endroit où vous résidez, vous pouvez avoir auprès de ce service des droits d’accès, de rectification et de suppression.
+Comme le Développeur ne détient aucun renseignement à votre sujet, tout ce que l’Application sait de vous se trouve sur votre appareil et reste sous votre contrôle : vous pouvez le consulter dans l’Application, en obtenir une copie au moyen d’une exportation, le rectifier et le supprimer, comme il est décrit ci-dessus. Pour les renseignements qu’un service d’IA a reçus, exercez les droits que vous donne sa politique de confidentialité ; en vertu des lois du Québec et du Canada, et des lois de l’endroit où vous résidez, vous pouvez avoir auprès de ce service des droits d’accès, de rectification et de suppression.
 
 ## 8. Sécurité
 
@@ -78,4 +78,4 @@ L’Application et son site Web sont créés pro bono pour Tir à l’arc Canada
 
 ## 12. Langue
 
-La présente politique est rédigée en français et en anglais, et les deux versions font également foi. *This policy is drawn up in French and in English; both versions are equally authoritative.*
+La présente politique est rédigée en français et en anglais, et les deux versions font également foi. *This policy is drawn up in French and in English ; both versions are equally authoritative.*

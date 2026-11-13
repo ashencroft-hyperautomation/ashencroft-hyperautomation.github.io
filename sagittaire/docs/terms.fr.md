@@ -42,7 +42,7 @@ Vous acceptez d’utiliser l’Application de façon licite et conformément aux
 
 ## 10. Modifications et fin
 
-Le Développeur peut modifier ou cesser l’Application, ou modifier les présentes conditions, à tout moment. Une nouvelle version des conditions sera affichée dans l’Application, et il vous sera demandé de l’accepter avant de continuer. Vous pouvez cesser d’utiliser l’Application à tout moment en la désinstallant; la désinstallation supprime les données que l’Application enregistre sur votre appareil.
+Le Développeur peut modifier ou cesser l’Application, ou modifier les présentes conditions, à tout moment. Une nouvelle version des conditions sera affichée dans l’Application, et il vous sera demandé de l’accepter avant de continuer. Vous pouvez cesser d’utiliser l’Application à tout moment en la désinstallant ; la désinstallation supprime les données que l’Application enregistre sur votre appareil.
 
 ## 11. Droit applicable
 
@@ -50,7 +50,7 @@ Les présentes conditions sont régies par les lois de la province de Québec et
 
 ## 12. Langue
 
-Les présentes conditions sont rédigées en français et en anglais, et les deux versions font également foi. La version anglaise est offerte dans l’Application et sur le site Web. *These terms are drawn up in French and in English; both versions are equally authoritative.*
+Les présentes conditions sont rédigées en français et en anglais, et les deux versions font également foi. La version anglaise est offerte dans l’Application et sur le site Web. *These terms are drawn up in French and in English ; both versions are equally authoritative.*
 
 ## 13. Dispositions générales
 

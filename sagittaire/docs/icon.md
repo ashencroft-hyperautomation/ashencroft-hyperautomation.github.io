@@ -18,11 +18,11 @@ Today's icon is half a target and half a maple leaf: a circle whose left half is
 <figcaption><b>3. The carved target.</b> The first idea, redone as Norse wood carving. Chosen.</figcaption>
 </figure>
 <figure markdown>
-![Today's icon: the same carved target, its band of runes now spelling SAGITTAIRE.](images/icons/4-sagittaire.png){ width="180" }
+![Fourth icon: the same carved target, its band of runes now spelling SAGITTAIRE.](images/icons/4-sagittaire.png){ width="180" }
 <figcaption><b>4. Renamed.</b> When Ullr became sagitt·AI·re, the runes changed to spell the new name.</figcaption>
 </figure>
 <figure markdown>
-![Today's icon: on Archery Canada red, a white target ring with four neurons linked to the centre, and the Sagittarius sign in ink, its arrow ending in the white bullseye.](images/icons/5-archery-canada.png){ width="180" }
+![Fifth icon: on Archery Canada red, a white target ring with four neurons linked to the centre, and the Sagittarius sign in ink, its arrow ending in the white bullseye.](images/icons/5-archery-canada.png){ width="180" }
 <figcaption><b>5. Archery Canada.</b> sagitt·AI·re becomes Archery Canada's app: a new mark, in its red.</figcaption>
 </figure>
 <figure markdown>
@@ -51,4 +51,4 @@ Today's icon is half a target and half a maple leaf: a circle whose left half is
 </figure>
 </div>
 
-The icon is drawn by a small program rather than by hand, so every size, from the launcher to the Play Store, comes from the same drawing.
+The icon is drawn by a small program rather than by hand, so every size, from the launcher to this website, comes from the same drawing.

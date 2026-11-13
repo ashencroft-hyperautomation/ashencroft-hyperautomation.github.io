@@ -4,7 +4,7 @@ En pocas palabras: **tus registros se quedan en tu teléfono.** Solo sale de él
 
 Esta página lo explica con palabras sencillas. El texto formal es la [política de privacidad](privacy-policy.md), también en la app en **Ajustes → Información y aviso legal**.
 
-## Qué guarda sagitt·AI·re, y dónde { #what-ullr-keeps-and-where }
+## Qué guarda sagitt·AI·re, y dónde { #what-sagittaire-keeps-and-where }
 
 ![Lo que guarda sagitt·AI·re, todo en tu teléfono: tus arcos y lugares llevan a las sesiones; cada sesión tiene tandas con su foto; cada tanda tiene sus flechas; los ajustes guardan el idioma, el método de puntuación y la clave de API, cifrada.](images/diagrams/data-stored.es.png)
 

@@ -36,7 +36,7 @@ Para cada flecha, la IA da:
 
 Indica la zona tal como está dibujada, no los puntos. Es a propósito: sagitt·AI·re convierte las zonas en puntos con tu regla, así puedes cambiar la regla de una sesión más tarde y todos los totales se vuelven a calcular, sin preguntar otra vez a la IA.
 
-## 4. sagitt·AI·re marca con un círculo lo que debes revisar { #4-ullr-circles-what-you-should-check }
+## 4. sagitt·AI·re marca con un círculo lo que debes revisar { #4-sagittaire-circles-what-you-should-check }
 
 <div class="shots" markdown>
 <figure markdown>

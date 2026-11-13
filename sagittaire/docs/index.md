@@ -6,7 +6,7 @@ hide:
 ---
 
 <div class="hero" markdown>
-![sagitt·AI·re, archery records with AI scoring: the carved target icon, the name, and two phone screens showing the dashboard and an end with two arrows to check.](images/banner.png)
+![sagitt·AI·re, archery records with AI scoring: the icon, half a World Archery target and half a white maple leaf on Archery Canada red, the name, and two phone screens showing the dashboard and an end with two arrows to check.](images/banner.png)
 </div>
 
 # sagitt·AI·re
@@ -15,7 +15,7 @@ hide:
 
 *Its name: Sagittaire, French for Sagittarius, the archer among the stars, with AI at its heart.*
 
-**sagitt·AI·re is Archery Canada’s app**, created pro bono by Ashencroft Studio. It is for practice and leisure: its scores are never official, and in competition only the judges’ scorecards count.
+**sagitt·AI·re is Archery Canada’s app**, created pro bono by Ashencroft Studio. It is for practice and leisure: its scores are never official, and in competition only the official scorecards count.
 
 <div class="game-band" markdown>
 
@@ -164,4 +164,4 @@ Same records, same scoring: pick the one you like, and switch at any time in **S
 
 ## Status
 
-sagitt·AI·re is a pro bono project of Ashencroft Studio, in active development. It runs on Android 8 and later. **It isn't on Google Play yet.** See the [roadmap](roadmap.md) for what's done and what's next. Using sagitt·AI·re means accepting its [terms of use](terms.md): it is provided as is. Its [privacy policy](privacy-policy.md) explains what stays on your phone and what is sent.
+sagitt·AI·re is a pro bono project of Ashencroft Studio, in active development. It runs on Android 8 and later. **It isn't on Google Play:** it is installed directly on the phone. See the [roadmap](roadmap.md) for what's done and what's next. Using sagitt·AI·re means accepting its [terms of use](terms.md): it is provided as is. Its [privacy policy](privacy-policy.md) explains what stays on your phone and what is sent.

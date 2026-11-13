@@ -497,8 +497,8 @@ The pictures, music, sounds and pixel font were made for sagitt·AI·re.
 
 *2 libraries*
 
-- `Google Fonts:Open Sans` variable — Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)
-- `Google Fonts:Oswald` variable — Copyright 2016 The Oswald Project Authors (https://github.com/googlefonts/OswaldFont)
+- Open Sans (Google Fonts) — Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)
+- Oswald (Google Fonts) — Copyright 2016 The Oswald Project Authors (https://github.com/googlefonts/OswaldFont)
 
 ??? note "Full text"
     ```text

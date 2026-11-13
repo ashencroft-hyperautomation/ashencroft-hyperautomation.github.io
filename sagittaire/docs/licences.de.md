@@ -497,8 +497,8 @@ Die Bilder, die Musik, die Klänge und die Pixelschrift wurden für sagitt·AI·
 
 *2 Bibliotheken*
 
-- `Google Fonts:Open Sans` variable — Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)
-- `Google Fonts:Oswald` variable — Copyright 2016 The Oswald Project Authors (https://github.com/googlefonts/OswaldFont)
+- Open Sans (Google Fonts) — Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)
+- Oswald (Google Fonts) — Copyright 2016 The Oswald Project Authors (https://github.com/googlefonts/OswaldFont)
 
 ??? note "Volltext (auf Englisch)"
     ```text

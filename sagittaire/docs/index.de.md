@@ -6,16 +6,16 @@ hide:
 ---
 
 <div class="hero" markdown>
-![sagitt·AI·re, Bogenschieß-Aufzeichnungen mit KI-Wertung: das geschnitzte Scheiben-Symbol, der Name und zwei Handy-Bildschirme mit der Übersicht und einer Passe mit zwei Pfeilen zum Prüfen.](images/banner.de.png)
+![sagitt·AI·re, Bogenschieß-Aufzeichnungen mit KI-Wertung: das Symbol, halb World-Archery-Scheibe, halb weißes Ahornblatt auf dem Rot von Archery Canada, der Name und zwei Handy-Bildschirme mit der Übersicht und einer Passe mit zwei Pfeilen zum Prüfen.](images/banner.de.png)
 </div>
 
-# sagitt·AI·re { #ullr }
+# sagitt·AI·re { #sagittaire }
 
 **Dein Schießzettel, für dich geführt.** Nach jeder Passe machst du ein Foto der Scheibe. Eine KI findet deine Pfeile, wertet sie und kreist die ein, bei denen sie sich nicht sicher ist. Oder du lässt die KI weg und tippst deine Pfeile selbst auf dem Foto an. Jede Einheit wird mit ihren Fotos auf deinem Handy gespeichert.
 
 *Der Name: Sagittaire, französisch für das Sternbild Schütze, mit AI (KI) in der Mitte.*
 
-**sagitt·AI·re ist die App von Archery Canada**, pro bono entwickelt von Ashencroft Studio. Sie ist für Training und Freizeit: Ihre Ergebnisse sind nie offiziell, im Wettkampf zählen nur die Schießzettel der Kampfrichter.
+**sagitt·AI·re ist die App von Archery Canada**, pro bono entwickelt von Ashencroft Studio. Sie ist für Training und Freizeit: Ihre Ergebnisse sind nie offiziell, im Wettkampf zählen nur die offiziellen Schießzettel.
 
 <div class="game-band" markdown>
 
@@ -164,4 +164,4 @@ Dieselben Daten, dieselbe Wertung: Nimm, was dir gefällt, und wechsle jederzeit
 
 ## Stand { #status }
 
-sagitt·AI·re ist ein Pro-bono-Projekt von Ashencroft Studio und wird aktiv entwickelt. Es läuft ab Android 8. **Es ist noch nicht bei Google Play.** In der [Roadmap](roadmap.md) steht, was fertig ist und was als Nächstes kommt. Wer sagitt·AI·re nutzt, akzeptiert seine [Nutzungsbedingungen](terms.md): Es wird bereitgestellt, wie es ist. Seine [Datenschutzerklärung](privacy-policy.md) erklärt, was auf deinem Handy bleibt und was gesendet wird.
+sagitt·AI·re ist ein Pro-bono-Projekt von Ashencroft Studio und wird aktiv entwickelt. Es läuft ab Android 8. **Es ist nicht bei Google Play:** Die App wird direkt auf dem Handy installiert. In der [Roadmap](roadmap.md) steht, was fertig ist und was als Nächstes kommt. Wer sagitt·AI·re nutzt, akzeptiert seine [Nutzungsbedingungen](terms.md): Es wird bereitgestellt, wie es ist. Seine [Datenschutzerklärung](privacy-policy.md) erklärt, was auf deinem Handy bleibt und was gesendet wird.

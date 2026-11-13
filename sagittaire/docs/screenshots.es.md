@@ -26,7 +26,7 @@ Tomadas con **sagitt·AI·re Demo**, una versión de la app llena de seis meses 
 <figcaption><b>Una tanda pasada.</b> Cada tanda conserva su foto.</figcaption>
 </figure>
 <figure markdown>
-![Pantalla de carga: el icono de la diana tallada, el nombre de la app, Registros de tiro con arco, una barra de progreso y el paso Tensando la cuerda.](images/screenshots/es/loading.png){ .shot }
+![Pantalla de carga: blanca, ARCHERY CANADA arriba, el icono (mitad diana, mitad hoja de arce blanca sobre rojo) con su banda DEMO, el nombre de la app, Registros de tiro con arco, una barra de progreso y el paso Tensando la cuerda, y la mención pro bono abajo.](images/screenshots/es/loading.png){ .shot }
 <figcaption><b>Carga.</b> Unos 2 segundos al abrir la app.</figcaption>
 </figure>
 </div>
@@ -89,7 +89,7 @@ Tomadas con **sagitt·AI·re Demo**, una versión de la app llena de seis meses 
 
 <div class="shots" markdown>
 <figure markdown>
-![La pantalla del primer uso: un breve resumen, las condiciones de uso en inglés, francés, alemán o español, enlaces a la política de privacidad y a las licencias, la casilla Acepto y Aceptar y continuar.](images/screenshots/es/terms.png){ .shot }
+![La pantalla del primer uso: un breve resumen, los botones de idioma Français, English, Deutsch y Español, las condiciones de uso, enlaces a la política de privacidad y a las licencias, la casilla Acepto y Aceptar y continuar.](images/screenshots/es/terms.png){ .shot }
 <figcaption><b>Condiciones de uso.</b> Se aceptan una vez, antes de nada.</figcaption>
 </figure>
 <figure markdown>

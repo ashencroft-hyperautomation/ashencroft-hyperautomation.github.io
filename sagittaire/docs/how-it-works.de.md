@@ -36,7 +36,7 @@ Für jeden Pfeil gibt die KI an:
 
 Sie meldet den Ring so, wie er gezeichnet ist, nicht Punkte. Das ist Absicht: sagitt·AI·re macht aus Ringen Punkte, mit deiner Regel. So kannst du die Regel einer Einheit später ändern, und jedes Ergebnis wird neu berechnet, ohne die KI noch einmal zu fragen.
 
-## 4. sagitt·AI·re kreist ein, was du prüfen solltest { #4-ullr-circles-what-you-should-check }
+## 4. sagitt·AI·re kreist ein, was du prüfen solltest { #4-sagittaire-circles-what-you-should-check }
 
 <div class="shots" markdown>
 <figure markdown>

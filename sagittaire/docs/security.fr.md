@@ -2,7 +2,7 @@
 
 sagitt·AI·re a été conçu pour qu'il y ait très peu de choses à protéger hors de votre téléphone, et que ce qui en sort soit réduit au minimum. Voici ce qui vous protège, vous et vos données, en mots simples.
 
-![Ce qui sort de votre téléphone : tout reste sur le téléphone, sauf, seulement quand une volée est comptée, la photo recadrée, les paramètres de la séance et votre clé, envoyées chiffrées au service d'IA choisi, qui ne renvoie que les scores.](images/diagrams/data-sent.fr.png){ width="640" }
+![Ce qui sort de votre téléphone : tout reste sur le téléphone, sauf, seulement quand une volée est comptée, la photo recadrée, les paramètres de la séance et votre clé, envoyées chiffrées au service d'IA choisi, qui ne renvoie que les scores.](images/diagrams/data-sent.fr.png){ width="640" }
 
 ## Ce qui vous protège
 
@@ -30,19 +30,19 @@ sagitt·AI·re a été conçu pour qu'il y ait très peu de choses à protéger 
 
     ---
 
-    Votre clé API est chiffrée avec le coffre sécurisé de votre téléphone (sur la plupart des téléphones, une puce de sécurité dédiée). Elle n'est plus jamais affichée, jamais exportée, et n'est envoyée qu'au service auquel elle appartient. Changez l’adresse d’un service et sa clé est supprimée : elle ne peut pas suivre vers la nouvelle adresse.
+    Votre clé API est chiffrée avec le coffre sécurisé de votre téléphone (sur la plupart des téléphones, une puce de sécurité dédiée). Elle n'est plus jamais affichée, jamais exportée, et n'est envoyée qu'au service auquel elle appartient. Changez l’adresse d’un service et sa clé est supprimée : elle ne peut pas suivre vers la nouvelle adresse.
 
 -   :material-incognito: **Rien sur votre téléphone ni sur vous**
 
     ---
 
-    Les photos perdent leurs données cachées (position, modèle de téléphone). Les détails techniques que les applications envoient d'habitude sur le téléphone sont remplacés par « unknown ». Votre nom, vos lieux et votre historique ne sont jamais envoyés.
+    Les photos perdent leurs données cachées (position, modèle de téléphone). Les détails techniques que les applications envoient d'habitude sur le téléphone sont remplacés par « unknown ». Votre nom, vos lieux et votre historique ne sont jamais envoyés.
 
 -   :material-crop: **Seulement la cible**
 
     ---
 
-    Par défaut, la photo est recadrée sur la cible avant l'envoi : les personnes et les objets autour restent sur votre téléphone.
+    Par défaut, la photo est recadrée sur la cible avant l'envoi : les personnes et les objets autour restent sur votre téléphone.
 
 -   :material-robot-outline: **L'IA ne peut que répondre**
 
@@ -72,23 +72,23 @@ sagitt·AI·re a été conçu pour qu'il y ait très peu de choses à protéger 
 
 ## Les questions des archers
 
-**Et si je perds mon téléphone ?**
-Votre historique est protégé par l'écran de verrouillage du téléphone, comme vos autres applications. Par prudence, supprimez votre clé API sur le site du service d'IA : elle cesse de fonctionner aussitôt. Une limite de dépenses chez le service garantit que personne ne pourra jamais dépenser plus.
+**Et si je perds mon téléphone ?**
+Votre historique est protégé par l'écran de verrouillage du téléphone, comme vos autres applications. Par prudence, supprimez votre clé API sur le site du service d'IA : elle cesse de fonctionner aussitôt. Une limite de dépenses chez le service garantit que personne ne pourra jamais dépenser plus.
 
-**J’utilise un autre service, à ma propre adresse. Est-ce sûr ?**
-sagitt·AI·re n’accepte que les adresses `https://`, sans nom d’utilisateur ni mot de passe. La clé que vous enregistrez n’est envoyée qu’à cette adresse, et les adresses ne sont pas mises dans les exports : un fichier que vous restaurez ne peut donc pas envoyer votre clé ailleurs. Choisissez un service de confiance : il reçoit la photo et votre clé, comme les grands services.
+**J’utilise un autre service, à ma propre adresse. Est-ce sûr ?**
+sagitt·AI·re n’accepte que les adresses `https://`, sans nom d’utilisateur ni mot de passe. La clé que vous enregistrez n’est envoyée qu’à cette adresse, et les adresses ne sont pas mises dans les exports : un fichier que vous restaurez ne peut donc pas envoyer votre clé ailleurs. Choisissez un service de confiance : il reçoit la photo et votre clé, comme les grands services.
 
-**Le service d'IA voit-il mon historique ?**
+**Le service d'IA voit-il mon historique ?**
 Non. Il reçoit seulement la photo de la volée comptée, les paramètres de la séance (blason, nombre de flèches, règle de comptage, description des flèches) et votre clé. Voir [Confidentialité](privacy.md) pour ce que chaque service en fait.
 
-**sagitt·AI·re me piste-t-il ou affiche-t-il des publicités ?**
+**sagitt·AI·re me piste-t-il ou affiche-t-il des publicités ?**
 Non. Pas de statistiques d'utilisation, pas de publicité, pas de pistage. L'application ne demande ni votre position, ni vos contacts, ni le micro, ni vos fichiers.
 
-**De quelles autorisations a-t-elle besoin ?**
+**De quelles autorisations a-t-elle besoin ?**
 Seulement l'appareil photo, pour photographier la cible, et l'accès à Internet, pour compter avec un service d'IA. Le comptage manuel n’utilise pas Internet. L'import d'une photo passe par le sélecteur de photos d'Android, qui ne donne à sagitt·AI·re que la photo que vous choisissez.
 
-**Quelqu'un vérifie-t-il l'application ?**
-Chaque modification est testée automatiquement : plus de 75 tests couvrent le comptage, les consignes envoyées à l'IA, et exactement ce qui sort du téléphone. La conception a été revue sous l'angle de la confidentialité et de la sécurité, et les bibliothèques utilisées sont tenues à jour.
+**Quelqu'un vérifie-t-il l'application ?**
+Chaque modification est testée automatiquement : plus de 75 tests couvrent le comptage, les consignes envoyées à l'IA, et exactement ce qui sort du téléphone. La conception a été revue sous l'angle de la confidentialité et de la sécurité, et les bibliothèques utilisées sont tenues à jour.
 
 ## Une bonne habitude
 

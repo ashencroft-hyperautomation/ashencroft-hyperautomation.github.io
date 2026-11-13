@@ -1,6 +1,6 @@
 # Mode normal
 
-L’application telle que vous l’attendez : une barre d’onglets en bas, et les écrans qui s’ouvrent à partir d’elle. C’est le moyen le plus rapide de s’y retrouver au pas de tir, et c’est ainsi que sagitt·AI·re s’ouvre la première fois.
+L’application telle que vous l’attendez : une barre d’onglets en bas, et les écrans qui s’ouvrent à partir d’elle. C’est le moyen le plus rapide de s’y retrouver au pas de tir, et c’est ainsi que sagitt·AI·re s’ouvre la première fois.
 
 <div class="shots" markdown>
 <figure markdown>
@@ -8,11 +8,11 @@ L’application telle que vous l’attendez : une barre d’onglets en bas, et l
 <figcaption><b>Accueil.</b> Vos chiffres et vos séances récentes.</figcaption>
 </figure>
 <figure markdown>
-![Historique : les séances par mois, avec un filtre par arc.](images/screenshots/fr/history.png){ .shot }
+![Historique : les séances par mois, avec un filtre par arc.](images/screenshots/fr/history.png){ .shot }
 <figcaption><b>Historique.</b> Toutes les séances terminées.</figcaption>
 </figure>
 <figure markdown>
-![Liste des arcs : chaque arc marqué d’un petit dessin de son type, avec puissance, allonge et valeurs par défaut.](images/screenshots/fr/bows.png){ .shot }
+![Liste des arcs : chaque arc marqué d’un petit dessin de son type, avec puissance, allonge et valeurs par défaut.](images/screenshots/fr/bows.png){ .shot }
 <figcaption><b>Arcs.</b> Vos arcs et leurs valeurs par défaut.</figcaption>
 </figure>
 </div>
@@ -38,18 +38,18 @@ Chaque page des réglages commence par une courte explication, puis ses choix.
 | **Objectifs d’entraînement** | Des flèches par semaine et une moyenne par flèche à atteindre. Voir [Objectifs d’entraînement](#objectifs-dentrainement). |
 | **Confidentialité** | N’envoyer que la zone de la cible, et ce qui est envoyé. Voir [Confidentialité](privacy.md). |
 | **Apparence et jeu** | Mode normal ou jeu, le thème, les sons du jeu et la musique. Voir [Apparence et langue](look.md). |
-| **Langue** | Français, anglais, ou la langue du téléphone (Android 13 et plus récent). |
+| **Langue** | Français, anglais, allemand, espagnol ou la langue du téléphone (Android 13 et plus récent). |
 | **Lieux enregistrés** | Renommer, fusionner ou supprimer les lieux de vos séances. Voir [Lieux enregistrés](sessions.md#lieux-enregistres). |
 | **Stockage et sauvegarde** | Espace utilisé, exporter, restaurer, libérer de l’espace. Voir [Stockage et sauvegarde](backup.md). |
 | **À propos et mentions légales** | La version, les [conditions d’utilisation](terms.md), la [politique de confidentialité](privacy-policy.md) et les [licences de logiciels libres](licences.md). |
 
 ## Objectifs d’entraînement
 
-**Réglages → Objectifs d’entraînement** : combien de **flèches par semaine** vous voulez tirer (de 10 à 999), et une **moyenne par flèche** à atteindre (par exemple 9,2). Laissez-en un vide pour le désactiver ; **Retirer les deux objectifs** les désactive tous les deux.
+**Réglages → Objectifs d’entraînement** : combien de **flèches par semaine** vous voulez tirer (de 10 à 999), et une **moyenne par flèche** à atteindre (par exemple 9,2). Laissez-en un vide pour le désactiver ; **Retirer les deux objectifs** les désactive tous les deux.
 
-![La carte Objectifs de l’accueil : Cette semaine : 120 flèches sur 100, objectif atteint, avec une barre pleine ; 4 dernières semaines : 9,04 par flèche, objectif 9,30, encore 0,26.](images/screenshots/fr/goals-dash.png){ .shot width="320" }
+![La carte Objectifs de l’accueil : Cette semaine : 120 flèches sur 100, objectif atteint, avec une barre pleine ; 4 dernières semaines : 9,04 par flèche, objectif 9,30, encore 0,26.](images/screenshots/fr/goals-dash.png){ .shot width="320" }
 
-L’accueil affiche alors une carte **Objectifs** : les flèches de la semaine (du lundi au dimanche, séance en cours comprise) face à votre objectif, avec une barre, et votre moyenne par flèche sur les quatre dernières semaines de séances terminées face à votre cible. Touchez-la pour changer les objectifs. En mode jeu, le mur des trophées en fait le [défi de la semaine](game.md#defi-de-la-semaine).
+L’accueil affiche alors une carte **Objectifs** : les flèches de la semaine (du lundi au dimanche, séance en cours comprise) face à votre objectif, avec une barre, et votre moyenne par flèche sur les quatre dernières semaines de séances terminées face à votre cible. Touchez-la pour changer les objectifs. En mode jeu, le mur des trophées en fait le [défi de la semaine](game.md#defi-de-la-semaine).
 
 ## Passer au mode jeu
 

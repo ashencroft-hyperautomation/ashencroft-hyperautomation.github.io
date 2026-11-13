@@ -2,7 +2,7 @@
 
 The automatic method: after each photo, sagitt·AI·re sends the target to the AI service you choose, using **your own key** (bring your own key). The service finds every arrow and its ring, and the end is ready to check a few seconds later. Arrows it isn't sure about are circled in amber for you to [check](review.md).
 
-**Settings → Scoring method → Your own API key (automatic)** (*Réglages → Méthode de comptage → Votre propre clé API (automatique)*).
+**Settings → Scoring method → Your own API key (automatic)**.
 
 <div class="shots" markdown>
 <figure markdown>
@@ -22,7 +22,7 @@ The automatic method: after each photo, sagitt·AI·re sends the target to the A
 | **Anthropic (Claude)** | Opus 5.5 (default), Sonnet 5.5 (cheaper) |
 | **OpenAI** | GPT-6.1 Sol (default), GPT-6 Astra (most capable, about 5 times the price) |
 | **Google (Gemini)** | Gemini 4 Carbon (default), Gemini 3.8 Flash (faster, cheaper). Use a key from a project with billing turned on (see [Privacy](privacy.md)). |
-| **Other service (OpenAI-compatible)** (*Autre service (compatible OpenAI)*) | Any model you name, on any service that uses the OpenAI chat format: OpenRouter, Mistral, Groq, a company gateway… |
+| **Other service (OpenAI-compatible)** | Any model you name, on any service that uses the OpenAI chat format: OpenRouter, Mistral, Groq, a company gateway… |
 
 Every service gets the same instructions. Each one keeps its own key, so you can switch and come back without typing a key again.
 
@@ -30,9 +30,9 @@ Every service gets the same instructions. Each one keeps its own key, so you can
 
 Choose **Other service (OpenAI-compatible)**, then fill in the **Service** section:
 
-1. **Service address** (*Adresse du service*): the address the service gives for its API, with its version, for example `https://openrouter.ai/api/v1`. It must start with `https://`.
-2. **Model id** (*Identifiant du modèle*): exactly as the service names it. Pick a model that can read images.
-3. **Save address and model** (*Enregistrer l’adresse et le modèle*), then paste the key below.
+1. **Service address**: the address the service gives for its API, with its version, for example `https://openrouter.ai/api/v1`. It must start with `https://`.
+2. **Model id**: exactly as the service names it. Pick a model that can read images.
+3. **Save address and model**, then paste the key below.
 
 The key section is named after the service's address (for example *openrouter.ai API key*), so you always know where your key goes.
 
@@ -41,7 +41,7 @@ The key section is named after the service's address (for example *openrouter.ai
 
 ## Advanced: another address or model
 
-For the three main services, **Advanced: address and model** (*Avancé : adresse et modèle*), under the models, lets you set:
+For the three main services, **Advanced: address and model**, under the models, lets you set:
 
 - a **service address**, for a proxy or a company gateway in front of the service;
 - a **model id** that isn't in the list, for example a newer model.
@@ -52,7 +52,7 @@ Leave a field empty to use the default shown under it.
 
 ![The in-app guide Getting an API key: create an account and add credit, set a spending limit, create a key just for sagitt·AI·re, paste it in sagitt·AI·re, what it costs, and what to do if your phone is lost.](images/screenshots/key-guide-other.png){ .shot width="220" align=right }
 
-The app walks you through it: under the key, **How to get a key, and what it costs** (*Comment obtenir une clé, et ce qu’elle coûte*) gives the steps for the service you chose, from the account to a key made just for sagitt·AI·re, with a spending limit, and the cost per end.
+The app walks you through it: under the key, **How to get a key, and what it costs** gives the steps for the service you chose, from the account to a key made just for sagitt·AI·re, with a spending limit, and the cost per end.
 
 
 - **Anthropic:** create a key in the Anthropic Console (console.anthropic.com → API keys). It usually starts with `sk-ant-`.
@@ -60,12 +60,12 @@ The app walks you through it: under the key, **How to get a key, and what it cos
 - **Google Gemini:** create a key in Google AI Studio (aistudio.google.com → Get API key), in a project with billing turned on. It usually starts with `AIza`.
 - **Other service:** create a key on the service's website.
 
-Then paste it in **API key** (*Clé API*), **Save key** (*Enregistrer la clé*), and **Check key** (*Vérifier la clé*). The app tells you whether the key works. **Any key can be saved**: if it doesn't look like the usual format for that service (a reseller's key, for example), the app only points it out.
+Then paste it in **API key**, **Save key**, and **Check key**. The app tells you whether the key works. **Any key can be saved**: if it doesn't look like the usual format for that service (a reseller's key, for example), the app only points it out.
 
 !!! tip "Protect your key"
     Create a key just for sagitt·AI·re, and set a low monthly spending limit with the service. If the phone is lost, delete the key there, and nobody can spend more than the limit.
 
-The key is stored encrypted on the phone. It is never shown again, never exported, and **Remove key** (*Supprimer la clé*) deletes it, after asking.
+The key is stored encrypted on the phone. It is never shown again, never exported, and **Remove key** deletes it, after asking.
 
 ## Cost
 
@@ -88,7 +88,7 @@ No signal? Keep shooting. Photos are saved and scored when the phone is back onl
 
 | Status | Meaning |
 |--------|---------|
-| waiting to score (*en attente de comptage*) | No network yet, or queued. It starts by itself when the network comes back. |
-| scoring… (*comptage en cours…*) | The AI is reading the photo. |
-| ready to check (*à vérifier*) | Open it and confirm. |
-| not scored (*non comptée*) | Something went wrong. Open it to retry, share with your AI app instead, or score by hand. |
+| waiting to score | No network yet, or queued. It starts by itself when the network comes back. |
+| scoring… | The AI is reading the photo. |
+| ready to check | Open it and confirm. |
+| not scored | Something went wrong. Open it to retry, share with your AI app instead, or score by hand. |

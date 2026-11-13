@@ -4,30 +4,30 @@ De l’ouverture de l’application à votre première volée validée, en quelq
 
 <div class="shots" markdown>
 <figure markdown>
-![Écran de chargement avec l’icône de la cible sculptée et une barre de progression.](images/screenshots/fr/loading.png){ .shot }
+![Écran de chargement : blanc, TIR À L’ARC CANADA en haut, l’icône moitié cible, moitié feuille d’érable et une barre de progression, et la mention pro bono en bas.](images/screenshots/fr/loading.png){ .shot }
 <figcaption>L’écran de chargement</figcaption>
 </figure>
 <figure markdown>
-![Réglages : une entrée par page, chacune avec ce qui est choisi en ce moment.](images/screenshots/fr/settings-menu.png){ .shot }
+![Réglages : une entrée par page, chacune avec ce qui est choisi en ce moment.](images/screenshots/fr/settings-menu.png){ .shot }
 <figcaption>Les réglages, une page par thème</figcaption>
 </figure>
 </div>
 
 ## 0. Accepter les conditions d’utilisation
 
-![L’écran de première utilisation : un court résumé, les conditions en français ou en anglais, les liens vers la politique de confidentialité et les licences, la case J’accepte, Accepter et continuer, et Refuser et fermer.](images/screenshots/fr/terms.png){ .shot width="220" align=right }
+![L’écran de première utilisation : un court résumé, les boutons de langue Français, English, Deutsch et Español, les conditions, les liens vers la politique de confidentialité et les licences, la case J’accepte, Accepter et continuer, et Refuser et fermer.](images/screenshots/fr/terms.png){ .shot width="220" align=right }
 
-À la première ouverture, sagitt·AI·re affiche ses [conditions d’utilisation](terms.md) en français et en anglais, avec des liens vers sa [politique de confidentialité](privacy-policy.md) et ses [licences de logiciels libres](licences.md). Cochez **J’ai lu et j’accepte les conditions d’utilisation, et j’ai lu la politique de confidentialité** et touchez **Accepter et continuer**. En bref : sagitt·AI·re est gratuit et fourni tel quel, ses pointages sont des suggestions à vérifier, et dans toute la mesure permise par la loi, son développeur n’est pas responsable des erreurs, des pertes de données, des blessures ni des services d’IA de tiers. **Refuser et fermer** ferme l’application. Vous pouvez relire les trois dans **Réglages → À propos et mentions légales**. Si les conditions ou la politique de confidentialité changent, sagitt·AI·re vous les redemande.
+À la première ouverture, sagitt·AI·re affiche ses [conditions d’utilisation](terms.md), avec des liens vers sa [politique de confidentialité](privacy-policy.md) et ses [licences de logiciels libres](licences.md), en français, en anglais, en allemand ou en espagnol : les versions française et anglaise font foi, les versions allemande et espagnole sont des traductions. Cochez **J’ai lu et j’accepte les conditions d’utilisation, et j’ai lu la politique de confidentialité** et touchez **Accepter et continuer**. En bref : sagitt·AI·re est gratuit et fourni tel quel, ses pointages sont des suggestions à vérifier, et dans toute la mesure permise par la loi, son développeur n’est pas responsable des erreurs, des pertes de données, des blessures ni des services d’IA de tiers. **Refuser et fermer** ferme l’application. Vous pouvez relire les trois dans **Réglages → À propos et mentions légales**. Si les conditions ou la politique de confidentialité changent, sagitt·AI·re vous les redemande.
 
 ## 1. Choisir un mode
 
-L’application s’ouvre en [mode normal](normal.md) : des onglets et des écrans. Si vous préférez promener un archer dans une maison en pixel art, activez le [mode jeu](game.md) dans **Réglages → Apparence et jeu**. Vous pouvez revenir en arrière à tout moment.
+L’application s’ouvre en [mode normal](normal.md) : des onglets et des écrans. Si vous préférez promener un archer dans une maison en pixel art, activez le [mode jeu](game.md) dans **Réglages → Apparence et jeu**. Vous pouvez revenir en arrière à tout moment.
 
-L’application suit la langue de votre téléphone (français ou anglais). Sur Android 13 et plus récent, vous pouvez aussi la choisir dans **Réglages → Langue**.
+L’application suit la langue de votre téléphone (français, anglais, allemand ou espagnol). Sur Android 13 et plus récent, vous pouvez aussi la choisir dans **Réglages → Langue**.
 
 ## 2. Choisir comment les volées sont comptées
 
-**Réglages → Méthode de comptage** :
+**Réglages → Méthode de comptage** :
 
 | Méthode | Il vous faut | Page |
 |---------|--------------|------|
@@ -35,11 +35,11 @@ L’application suit la langue de votre téléphone (français ou anglais). Sur 
 | **Partager avec votre application d’IA** | Une application d’IA sur votre téléphone | [Partager avec votre application d’IA](scoring-share.md) |
 | **Manuel (sans IA)** | Rien | [Comptage manuel](scoring-manual.md) |
 
-Vous hésitez ? Commencez par **Manuel (sans IA)** : ça fonctionne tout de suite, et vous pourrez changer de méthode plus tard. Les séances passées restent telles quelles.
+Vous hésitez ? Commencez par **Manuel (sans IA)** : ça fonctionne tout de suite, et vous pourrez changer de méthode plus tard. Les séances passées restent telles quelles.
 
 ## 3. Ajouter un arc
 
-**Arcs → Ajouter un arc** : un nom, le type d’arc, et les valeurs par défaut des nouvelles séances. Voir [Arcs](bows.md).
+**Arcs → Ajouter un arc** : un nom, le type d’arc, et les valeurs par défaut des nouvelles séances. Voir [Arcs](bows.md).
 
 ## 4. Tirer une séance
 
@@ -66,14 +66,14 @@ Retirer un arc, une clé ou une flèche, supprimer une volée ou une séance, ch
 
 ## Questions
 
-**La volée indique « non comptée ».** Ouvrez-la pour savoir pourquoi :
+**La volée indique « non comptée ».** Ouvrez-la pour savoir pourquoi :
 
-- *Pas de clé API :* ajoutez la clé du service choisi dans **Réglages → Méthode de comptage**.
-- *Pas configuré :* un service compatible OpenAI demande aussi son adresse et son modèle.
-- *Clé refusée :* la clé a été supprimée ou mal tapée. Vérifiez-la dans les réglages.
-- *Service indisponible :* l’application a réessayé trois fois. Touchez **Réessayer** plus tard.
-- *Plus de crédit :* ajoutez du crédit chez le service, ou relevez sa limite, puis réessayez.
-- *Réponse inutilisable :* réessayez, partagez plutôt avec votre application d’IA, ou saisissez la volée à la main.
+- *Pas de clé API :* ajoutez la clé du service choisi dans **Réglages → Méthode de comptage**.
+- *Pas configuré :* un service compatible OpenAI demande aussi son adresse et son modèle.
+- *Clé refusée :* la clé a été supprimée ou mal tapée. Vérifiez-la dans les réglages.
+- *Service indisponible :* l’application a réessayé trois fois. Touchez **Réessayer** plus tard.
+- *Plus de crédit :* ajoutez du crédit chez le service, ou relevez sa limite, puis réessayez.
+- *Réponse inutilisable :* réessayez, partagez plutôt avec votre application d’IA, ou saisissez la volée à la main.
 
 **Pas de réseau au pas de tir.** Continuez à tirer. Les photos sont enregistrées et comptées dès le retour du réseau. En comptage manuel, rien n’a besoin du réseau.
 
@@ -83,4 +83,4 @@ Retirer un arc, une clé ou une flèche, supprimer une volée ou une séance, ch
 
 **L’application s’est fermée pendant une séance.** Rien n’est perdu. La séance apparaît dans l’onglet **Accueil** avec **Reprendre**, et les volées en attente de comptage sont remises en file.
 
-**Quelle place prennent les photos ?** Environ 0,6 à 1,2 Mo par volée. **Réglages → Stockage et sauvegarde** affiche le total. Voir [Stockage et sauvegarde](backup.md).
+**Quelle place prennent les photos ?** Environ 0,6 à 1,2 Mo par volée. **Réglages → Stockage et sauvegarde** affiche le total. Voir [Stockage et sauvegarde](backup.md).

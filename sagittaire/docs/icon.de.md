@@ -18,11 +18,11 @@ Das heutige Symbol ist halb Scheibe, halb Ahornblatt: ein Kreis, dessen linke H�
 <figcaption><b>3. Die geschnitzte Scheibe.</b> Die erste Idee, neu umgesetzt als nordische Holzschnitzerei. Gewählt.</figcaption>
 </figure>
 <figure markdown>
-![Das heutige Symbol: dieselbe geschnitzte Scheibe, deren Runenband jetzt SAGITTAIRE schreibt.](images/icons/4-sagittaire.png){ width="180" }
+![Viertes Symbol: dieselbe geschnitzte Scheibe, deren Runenband jetzt SAGITTAIRE schreibt.](images/icons/4-sagittaire.png){ width="180" }
 <figcaption><b>4. Der neue Name.</b> Als aus Ullr sagitt·AI·re wurde, schreiben die Runen nun den neuen Namen.</figcaption>
 </figure>
 <figure markdown>
-![Das heutige Symbol: auf dem Rot von Archery Canada ein weißer Scheibenring mit vier Neuronen, die mit der Mitte verbunden sind, und das Zeichen des Schützen in Schwarz, dessen Pfeil in der weißen Mitte endet.](images/icons/5-archery-canada.png){ width="180" }
+![Fünftes Symbol: auf dem Rot von Archery Canada ein weißer Scheibenring mit vier Neuronen, die mit der Mitte verbunden sind, und das Zeichen des Schützen in Schwarz, dessen Pfeil in der weißen Mitte endet.](images/icons/5-archery-canada.png){ width="180" }
 <figcaption><b>5. Archery Canada.</b> sagitt·AI·re wird die App von Archery Canada: ein neues Zeichen, in ihrem Rot.</figcaption>
 </figure>
 <figure markdown>
@@ -51,4 +51,4 @@ Das heutige Symbol ist halb Scheibe, halb Ahornblatt: ein Kreis, dessen linke H�
 </figure>
 </div>
 
-Das Symbol wird von einem kleinen Programm gezeichnet statt von Hand, sodass jede Größe, vom Launcher bis zum Play Store, aus derselben Zeichnung stammt.
+Das Symbol wird von einem kleinen Programm gezeichnet statt von Hand, sodass jede Größe, vom Launcher bis zu dieser Website, aus derselben Zeichnung stammt.

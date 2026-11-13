@@ -23,11 +23,11 @@ Each arrow has a white marker with its ring. Where arrows are close together, th
 
 - **Amber circle:** check this arrow. It's near a line, the AI wasn't confident, two arrows are in the same spot of a 3-spot face, or you placed it and haven't picked its ring yet (**?**).
 - **Tap an arrow** to select it, then tap the right ring. The AI's second choice is highlighted, with its confidence.
-- **Add an arrow** (*Ajouter une flèche*): tap its ring, or turn on **Or tap the photo where it is** (*Ou touchez la photo à son emplacement*), tap where it is, then pick its ring.
-- **Remove this arrow** (*Retirer cette flèche*): for another archer's arrow, or one counted twice. The app asks first.
+- **Add an arrow**: tap its ring, or turn on **Or tap the photo where it is**, tap where it is, then pick its ring.
+- **Remove this arrow**: for another archer's arrow, or one counted twice. The app asks first.
 - A banner warns you when the number of arrows found isn't the number shot, or when the photo has problems (glare, blur, face cut off).
 
-Then tap **Confirm · shoot next end** (*Valider · volée suivante*) to go straight back to the camera, or **Confirm and back to session** (*Valider et revenir à la séance*). The trash button deletes the end, after asking.
+Then tap **Confirm · shoot next end** to go straight back to the camera, or **Confirm and back to session**. The trash button deletes the end, after asking.
 
 !!! warning "Check before you pull your arrows"
     The arrows in the target are the proof. If you score from the photo later, zoom in on the circled arrows.

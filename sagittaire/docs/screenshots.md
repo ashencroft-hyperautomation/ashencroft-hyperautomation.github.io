@@ -26,7 +26,7 @@ Taken with **sagitt·AI·re Demo**, a version of the app filled with six months 
 <figcaption><b>A past end.</b> Every end keeps its photo.</figcaption>
 </figure>
 <figure markdown>
-![Loading screen: the carved target icon, the app name, Archery records, a progress bar and the step Stringing the bow.](images/screenshots/loading.png){ .shot }
+![Loading screen: white, ARCHERY CANADA at the top, the icon (half a target, half a white maple leaf on red) with its DEMO banner, the app name, Archery records, a progress bar and the step Stringing the bow, and the pro bono credit at the bottom.](images/screenshots/loading.png){ .shot }
 <figcaption><b>Loading.</b> About 2 seconds at launch.</figcaption>
 </figure>
 </div>
@@ -89,7 +89,7 @@ Taken with **sagitt·AI·re Demo**, a version of the app filled with six months 
 
 <div class="shots" markdown>
 <figure markdown>
-![The first-use screen: a short summary, the terms of use in French or English, links to the privacy policy and the licences, the I accept box and Accept and continue.](images/screenshots/terms.png){ .shot }
+![The first-use screen: a short summary, the language buttons Français, English, Deutsch and Español, the terms of use, links to the privacy policy and the licences, the I accept box and Accept and continue.](images/screenshots/terms.png){ .shot }
 <figcaption><b>Terms of use.</b> Accepted once, before anything else.</figcaption>
 </figure>
 <figure markdown>

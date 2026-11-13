@@ -6,16 +6,16 @@ hide:
 ---
 
 <div class="hero" markdown>
-![sagitt·AI·re, registros de tiro con arco con puntuación por IA: el icono de la diana tallada, el nombre y dos pantallas de teléfono que muestran la pantalla de inicio y una tanda con dos flechas por revisar.](images/banner.es.png)
+![sagitt·AI·re, registros de tiro con arco con puntuación por IA: el icono, mitad diana de World Archery, mitad hoja de arce blanca sobre el rojo de Archery Canada, el nombre y dos pantallas de teléfono que muestran la pantalla de inicio y una tanda con dos flechas por revisar.](images/banner.es.png)
 </div>
 
-# sagitt·AI·re { #ullr }
+# sagitt·AI·re { #sagittaire }
 
 **Tu hoja de puntuación de tiro con arco, guardada por ti.** Después de cada tanda, haz una foto de la diana. Una IA encuentra tus flechas, las puntúa y marca con un círculo las que no tiene claras. O prescinde de la IA y toca tú mismo tus flechas en la foto. Cada sesión se guarda en tu teléfono con sus fotos.
 
 *Su nombre: Sagittaire, Sagitario en francés, el arquero de las estrellas, con la IA (AI) en el centro.*
 
-**sagitt·AI·re es la app de Archery Canada**, creada pro bono por Estudio Ashencroft. Es para el entrenamiento y el ocio: sus puntuaciones nunca son oficiales, y en competición solo cuentan las hojas de los jueces.
+**sagitt·AI·re es la app de Archery Canada**, creada pro bono por Estudio Ashencroft. Es para el entrenamiento y el ocio: sus puntuaciones nunca son oficiales, y en competición solo cuentan las hojas de puntuación oficiales.
 
 <div class="game-band" markdown>
 
@@ -164,4 +164,4 @@ Los mismos registros, la misma puntuación: elige la que te guste y cambia cuand
 
 ## Estado { #status }
 
-sagitt·AI·re es un proyecto pro bono del Estudio Ashencroft, en desarrollo activo. Funciona en Android 8 y posteriores. **Todavía no está en Google Play.** Consulta la [hoja de ruta](roadmap.md) para ver lo que está hecho y lo que viene. Usar sagitt·AI·re significa aceptar sus [condiciones de uso](terms.md): se ofrece tal cual. Su [política de privacidad](privacy-policy.md) explica qué se queda en tu teléfono y qué se envía.
+sagitt·AI·re es un proyecto pro bono del Estudio Ashencroft, en desarrollo activo. Funciona en Android 8 y posteriores. **No está en Google Play:** se instala directamente en el teléfono. Consulta la [hoja de ruta](roadmap.md) para ver lo que está hecho y lo que viene. Usar sagitt·AI·re significa aceptar sus [condiciones de uso](terms.md): se ofrece tal cual. Su [política de privacidad](privacy-policy.md) explica qué se queda en tu teléfono y qué se envía.

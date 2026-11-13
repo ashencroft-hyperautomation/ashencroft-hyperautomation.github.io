@@ -1,6 +1,6 @@
 # Bows
 
-The **Bows** tab (*Arcs*) lists your bows. Tap one to open its page: its setup, **sight marks**, **arrow sets** and **tuning log**. In game mode, they hang on the **bow rack** in the hall, each drawn as its type, and your archer holds the type of your first bow.
+The **Bows** tab lists your bows. Tap one to open its page: its setup, **sight marks**, **arrow sets** and **tuning log**. In game mode, they hang on the **bow rack** in the hall, each drawn as its type, and your archer holds the type of your first bow.
 
 <div class="shots" markdown>
 <figure markdown>
@@ -19,7 +19,7 @@ The **Bows** tab (*Arcs*) lists your bows. Tap one to open its page: its setup, 
 
 ## Add a bow
 
-**Add bow** (*Ajouter un arc*):
+**Add bow**:
 
 - **Name** and **bow type**. Each type has a small drawing that marks the bow in lists: barebow; recurve with sight and stabilizer; compound with cams.
 - For a compound, you can start from a **brand and model** in the built-in catalog (PSE, Hoyt, Mathews, Bowtech). It fills in the name, shows the model's specs, and warns you if your draw length is outside the model's range.
@@ -40,10 +40,10 @@ The **Bows** tab (*Arcs*) lists your bows. Tap one to open its page: its setup, 
 </figure>
 </div>
 
-- **Sight marks** (*Repères de visée*): your sight setting at each distance, written your way: `5.2`, `3 turns + 12`, or for a barebow your string walk or point of aim, with an optional note. One per distance. The mark for the session's bow and distance shows when you start a session and on the session itself, where **Change** (*Modifier*) updates it from the shooting line.
-- **Arrow sets** (*Jeux de flèches*): name, spine as printed on the shaft, length, point weight, number of arrows, fletching and notes. A new session starts with the set the bow used last time; pick another in the form, or **Change** it on the session. **Retire this set** (*Retirer ce jeu*) hides it from new sessions and keeps it on the sessions shot with it. In [Statistics](stats.md#filters), filter by arrow set.
-- **Tuning log** (*Carnet de réglages*): dated notes of what you changed: brace height, tiller, nocking point, a new string. With the bow chosen in [Statistics](stats.md#average-per-arrow-by-session), each note shows on the trend, so you can see what it did.
+- **Sight marks**: your sight setting at each distance, written your way: `5.2`, `3 turns + 12`, or for a barebow your string walk or point of aim, with an optional note. One per distance. The mark for the session's bow and distance shows when you start a session and on the session itself, where **Change** updates it from the shooting line.
+- **Arrow sets**: name, spine as printed on the shaft, length, point weight, number of arrows, fletching and notes. A new session starts with the set the bow used last time; pick another in the form, or **Change** it on the session. **Retire this set** hides it from new sessions and keeps it on the sessions shot with it. In [Statistics](stats.md#filters), filter by arrow set.
+- **Tuning log**: dated notes of what you changed: brace height, tiller, nocking point, a new string. With the bow chosen in [Statistics](stats.md#average-per-arrow-by-session), each note shows on the trend, so you can see what it did.
 
 ## Change or remove a bow
 
-**Edit** (the pencil, top right of the bow's page) opens the form. Changing a bow later doesn't change past sessions. **Remove this bow** (*Retirer cet arc*) asks first; past sessions shot with it are kept.
+**Edit** (the pencil, top right of the bow's page) opens the form. Changing a bow later doesn't change past sessions. **Remove this bow** asks first; past sessions shot with it are kept.

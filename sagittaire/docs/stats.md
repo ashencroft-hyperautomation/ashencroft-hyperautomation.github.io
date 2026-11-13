@@ -1,6 +1,6 @@
 # Statistics
 
-The **Stats** tab shows what matters in training and competition: your level and its trend, how much you shoot, where your arrows score, how steady you are, where they group, and your records per round. In game mode, walk to the **hearth** (*Âtre*): the same statistics open "by the fire", in the game's look.
+The **Stats** tab shows what matters in training and competition: your level and its trend, how much you shoot, where your arrows score, how steady you are, where they group, and your records per round. In game mode, walk to the **hearth**: the same statistics open "by the fire", in the game's look.
 
 Only confirmed ends of finished sessions count. Nothing is sent anywhere: it's all worked out on your phone.
 
@@ -21,11 +21,11 @@ Choose what the statistics cover, at the top:
 
 | Filter | Choices |
 |--------|---------|
-| **Period** (*Période*) | 4 weeks, 3 months (the default), 12 months, or all |
-| **Bow** (*Arc*) | All bows, or one (shown when you have more than one) |
-| **Distance** (*Distance*) | All distances, or one, such as 18 m (shown when you've shot more than one) |
-| **Face** (*Blason*) | All faces, or one, such as 40 cm triple or 20 cm field (shown when you've shot more than one) |
-| **Arrows** (*Flèches*) | All arrow sets, or one (shown when the sessions shown used more than one; see [arrow sets](bows.md#sight-marks-arrow-sets-and-tuning-log)) |
+| **Period** | 4 weeks, 3 months (the default), 12 months, or all |
+| **Bow** | All bows, or one (shown when you have more than one) |
+| **Distance** | All distances, or one, such as 18 m (shown when you've shot more than one) |
+| **Face** | All faces, or one, such as 40 cm triple or 20 cm field (shown when you've shot more than one) |
+| **Arrows** | All arrow sets, or one (shown when the sessions shown used more than one; see [arrow sets](bows.md#sight-marks-arrow-sets-and-tuning-log)) |
 
 When every session shown uses the same face, its own rings are drawn behind the grouping and the heat map, and on a 3-spot face you also get one map per spot.
 
@@ -33,10 +33,10 @@ When every session shown uses the same face, its own rings are drawn behind the 
 
 | Tile | What it tells you |
 |------|-------------------|
-| **Average per arrow** (*Moyenne par flèche*) | Your level, under each session's scoring rule |
+| **Average per arrow** | Your level, under each session's scoring rule |
 | **Arrows shot**, **sessions**, **ends** | Training volume |
 | **X**, **10 and X**, **gold (9 to X)** | How often you hit the middle (target faces only) |
-| **Misses** (*Manqués*) | Share of arrows outside the scoring zones |
+| **Misses** | Share of arrows outside the scoring zones |
 
 ## Average per arrow, by session
 
@@ -55,7 +55,7 @@ When every session shown uses the same face, its own rings are drawn behind the 
 - **Tuning changes:** with one bow chosen, each note of its [tuning log](bows.md#sight-marks-arrow-sets-and-tuning-log) shows as a dotted line between the sessions before and after it, listed with its date under the chart. Did the new string help? Compare the dots on each side.
 
 ![The trend for one bow with two tuning changes: dotted lines on Sep 12 (Peep raised 2 mm) and Oct 19 (Rest moved 1 mm left), listed under the chart.](images/screenshots/stats-tuning.png){ .shot width="300" }
-- **Arrows per week** (*Flèches par semaine*): arrows shot each week over the last 12 weeks, this week highlighted, with the total and the weekly average. Handy to see how much you really train.
+- **Arrows per week**: arrows shot each week over the last 12 weeks, this week highlighted, with the total and the weekly average. Handy to see how much you really train.
 
 ## Where your arrows score
 
@@ -74,9 +74,9 @@ How many arrows landed in each ring, from X (or 11 on a 3D animal) down to a mis
 
 ## Consistency
 
-- **Best end** (*Meilleure volée*).
-- **End-to-end spread** (*Écart d’une volée à l’autre*): how much your ends vary, as the standard deviation of their average per arrow. Lower is steadier.
-- **Second half against the first** (*Seconde moitié contre la première*): in sessions of 4 ends or more, your second half per arrow minus your first half. Negative means you fade (fatigue); positive means you warm up.
+- **Best end**.
+- **End-to-end spread**: how much your ends vary, as the standard deviation of their average per arrow. Lower is steadier.
+- **Second half against the first**: in sessions of 4 ends or more, your second half per arrow minus your first half. Negative means you fade (fatigue); positive means you warm up.
 
 ## Where your arrows group
 

@@ -1,11 +1,11 @@
 # Look and language
 
-**Settings → Appearance and game** (*Réglages → Apparence et jeu*) sets how sagitt·AI·re looks and how you get around it.
+**Settings → Appearance and game** sets how sagitt·AI·re looks and how you get around it.
 
 ## Mode
 
 - **Normal**: tabs and screens. See [Normal mode](normal.md).
-- **Game (preview)** (*Jeu (aperçu)*): the same app as a pixel-art game, with sound and music you can turn off here. See [Game mode](game.md).
+- **Game (preview)**: the same app as a pixel-art game, with sound and music you can turn off here. See [Game mode](game.md).
 
 ## Theme
 
@@ -14,14 +14,14 @@ In normal mode, three themes:
 | Theme | For |
 |-------|-----|
 | **Original** | Archery Canada's red, ink and white, light or dark following the phone. |
-| **Range day** (*Jour de tir*) | Light and high-contrast, easy to read in sunlight. Scores in the target's colours. |
-| **Night range** (*Tir de nuit*) | Dark with amber, for indoor and evening shooting. Scores in the target's colours. |
+| **Range day** | Light and high-contrast, easy to read in sunlight. Scores in the target's colours. |
+| **Night range** | Dark with amber, for indoor and evening shooting. Scores in the target's colours. |
 
 Game mode has its own look, on every screen.
 
 ## Language
 
-sagitt·AI·re speaks English, French, German and Spanish, and follows your phone's language. On Android 13 and later, **Settings → Language** (*Langue*) lets you choose one of them, or the phone's language, for sagitt·AI·re only. This website is in English and French.
+sagitt·AI·re speaks English, French, German and Spanish, and follows your phone's language. On Android 13 and later, **Settings → Language** lets you choose one of them, or the phone's language, for sagitt·AI·re only. This website is in English, French, German and Spanish too.
 
 ## Large text and screen readers
 

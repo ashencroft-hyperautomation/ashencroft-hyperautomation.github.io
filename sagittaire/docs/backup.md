@@ -1,6 +1,6 @@
 # Storage and backup
 
-Everything is stored on your phone only, and uninstalling the app deletes it. **Settings → Storage and backup** (*Réglages → Stockage et sauvegarde*) shows the space used and keeps your records safe.
+Everything is stored on your phone only, and uninstalling the app deletes it. **Settings → Storage and backup** shows the space used and keeps your records safe.
 
 <div class="shots" markdown>
 <figure markdown>
@@ -30,11 +30,11 @@ Delete the full-size photos of sessions older than 3 months, 6 months or a year,
 </figure>
 </div>
 
-At the bottom of **Storage and backup**, **Erase data** (*Effacer les données*) offers two choices:
+At the bottom of **Storage and backup**, **Erase data** offers two choices:
 
 | Choice | What goes | What stays |
 |--------|-----------|------------|
-| **Erase all sessions** (*Effacer toutes les séances*) | Every session, end, arrow and photo, with the experience and badges they earned | Bows, places, settings and API keys |
-| **Erase everything** (*Tout effacer*) | Also bows, places, every setting, API keys and your acceptance of the terms of use | Nothing: sagitt·AI·re starts again as if newly installed, with the terms screen first |
+| **Erase all sessions** | Every session, end, arrow and photo, with the experience and badges they earned | Bows, places, settings and API keys |
+| **Erase everything** | Also bows, places, every setting, API keys and your acceptance of the terms of use | Nothing: sagitt·AI·re starts again as if newly installed, with the terms screen first |
 
-Both ask first, and the button stays off until you type **ERASE** (*EFFACER*), because erasing can't be undone. Export first if you might want your records back. To restart only your experience and badges while keeping your sessions, use **Reset experience and badges** at the trophy wall (see [Game mode](game.md#levels-badges-and-trophies)).
+Both ask first, and the button stays off until you type **ERASE**, because erasing can't be undone. Export first if you might want your records back. To restart only your experience and badges while keeping your sessions, use **Reset experience and badges** at the trophy wall (see [Game mode](game.md#levels-badges-and-trophies)).

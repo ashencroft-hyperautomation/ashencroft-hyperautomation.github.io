@@ -26,7 +26,7 @@ Aufgenommen mit **sagitt·AI·re Demo**, einer Version der App mit sechs Monaten
 <figcaption><b>Eine frühere Passe.</b> Jede Passe behält ihr Foto.</figcaption>
 </figure>
 <figure markdown>
-![Ladebildschirm: das geschnitzte Scheiben-Symbol, der App-Name, „Schießtagebuch“, ein Fortschrittsbalken und der aktuelle Schritt: Bogen bespannen….](images/screenshots/de/loading.png){ .shot }
+![Ladebildschirm: weiß, oben ARCHERY CANADA, das Symbol (halb Scheibe, halb weißes Ahornblatt auf Rot) mit seinem DEMO-Band, der App-Name, „Schießtagebuch“, ein Fortschrittsbalken und der Schritt „Bogen bespannen…“, unten der Pro-bono-Hinweis.](images/screenshots/de/loading.png){ .shot }
 <figcaption><b>Laden.</b> Etwa 2 Sekunden beim Start.</figcaption>
 </figure>
 </div>
@@ -89,7 +89,7 @@ Aufgenommen mit **sagitt·AI·re Demo**, einer Version der App mit sechs Monaten
 
 <div class="shots" markdown>
 <figure markdown>
-![Der Bildschirm beim ersten Start: eine kurze Zusammenfassung, die Nutzungsbedingungen in der Sprache der App, Links zur Datenschutzerklärung und zu den Lizenzen, das Kästchen „Ich akzeptiere“ und „Akzeptieren und weiter“.](images/screenshots/de/terms.png){ .shot }
+![Der Bildschirm beim ersten Start: eine kurze Zusammenfassung, die Sprachknöpfe Français, English, Deutsch und Español, die Nutzungsbedingungen, Links zur Datenschutzerklärung und zu den Lizenzen, das Kästchen „Ich akzeptiere“ und „Akzeptieren und weiter“.](images/screenshots/de/terms.png){ .shot }
 <figcaption><b>Nutzungsbedingungen.</b> Einmal akzeptiert, vor allem anderen.</figcaption>
 </figure>
 <figure markdown>

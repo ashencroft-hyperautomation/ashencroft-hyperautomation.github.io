@@ -2,7 +2,7 @@
 
 sagitt·AI·re has a second way to use it: **the same app, as a small pixel-art video game.** Your archer walks around a Norse hall and an archery range, and each place opens a screen. Your bows, sessions and scores are exactly the same as in the normal mode, and the scoring screens work the same way.
 
-Turn it on in **Settings → Appearance and game → Game (preview)** (*Réglages → Apparence et jeu → Jeu (aperçu)*). **Normal** switches back at any time; nothing is lost either way.
+Turn it on in **Settings → Appearance and game → Game (preview)**. **Normal** switches back at any time; nothing is lost either way.
 
 <div class="shots" markdown>
 <figure markdown>
@@ -24,7 +24,7 @@ Turn it on in **Settings → Appearance and game → Game (preview)** (*Réglage
 - **Tap a place:** your archer walks there by the shortest way, around the furniture, then the place opens. Its name shows above it and in the panel at the bottom, with **Go** or **Open**.
 - **Tap the floor** to just walk there.
 - **Places** (☰, top right) lists every place in both rooms and opens it straight away, without walking. Handy when you're in a hurry, and easy to use with a screen reader.
-- **Shoot now** (*Tirer maintenant*), at the bottom, goes straight to the camera for your session in progress, or to a new session. The game never slows you down at the range.
+- **Shoot now**, at the bottom, goes straight to the camera for your session in progress, or to a new session. The game never slows you down at the range.
 - **Back** from any screen returns you to the game, where your archer was standing.
 
 | In the hall | Opens |
@@ -69,7 +69,7 @@ Walk to the **mirror** to dress your archer. The preview stays at the top while 
 
 ![Five archers from the front, side and back, with each hair style (long, short, braids, hood), five skin tones, beards and different tunic and cloak colours.](images/game-avatars.png){ width="330" .pixel }
 
-**Surprise me** (*Au hasard*) picks a random look. Your archer holds the type of your first bow: barebow, recurve or compound.
+**Surprise me** picks a random look. Your archer holds the type of your first bow: barebow, recurve or compound.
 
 **Legendary archers.** At the top of the mirror, four ready-made archers set the whole look and companion in one tap: **Artemis**, Greek goddess of the hunt, with her hound; **Ullr**, Norse god of archery and winter, in furs, with a raven; **Robin Hood** in Lincoln green, with a fox; and **Hou Yi**, the Chinese archer who shot down nine suns. Change any piece after.
 
@@ -111,16 +111,16 @@ Only real shooting earns anything: **10 experience** for each confirmed end, **3
 | ![Medal *](images/game-medal-new-discipline.png){ width="36" .pixel } | **Explorer** | Shoot field, 3D or para archery | Feathered hat |
 | ![Medal 4](images/game-medal-weeks-4.png){ width="36" .pixel } | **Four weeks** | Shoot four weeks in a row | Owl companion |
 
-![A medal not earned yet, in grey.](images/game-medal-locked.png){ width="36" .pixel } A medal not earned yet stays grey. The mark on each medal (numbers, Roman numerals) reads the same in English and French.
+![A medal not earned yet, in grey.](images/game-medal-locked.png){ width="36" .pixel } A medal not earned yet stays grey. The mark on each medal (numbers, Roman numerals) reads the same in English, French, German and Spanish.
 
 - **Personal bests** for each round (distance, face and number of arrows). Each one puts a cup on the trophy shelf, and the plaques light up as badges come in. Tap a record to open its session.
 - A new level or badge is announced with a **fanfare and a banner**, once. Beating a personal best on a round you've shot before sounds the **war horn**.
 - It's all worked out from your sessions: delete a session and what it earned goes with it.
-- **Reset experience and badges** (*Remettre à zéro l’expérience et les insignes*), at the bottom of the trophies, starts again at level 1 with no badges, after asking. Your sessions, scores and personal bests stay; from then on, what you shoot earns experience and badges again, and the trophies say since when. To erase sessions too, see [Storage and backup](backup.md#erase-data).
+- **Reset experience and badges**, at the bottom of the trophies, starts again at level 1 with no badges, after asking. Your sessions, scores and personal bests stay; from then on, what you shoot earns experience and badges again, and the trophies say since when. To erase sessions too, see [Storage and backup](backup.md#erase-data).
 
 ## This week's challenge
 
-With [training goals](normal.md#training-goals) set, the trophy wall shows **this week's challenge** (*Défi de la semaine*): the arrows to shoot this week, with a gold bar, and the average per arrow to reach. The first time you meet the arrows goal in a week, the hall plays a **fanfare** with a **Challenge met!** banner. Goals earn no experience, so changing one never rewrites your progress.
+With [training goals](normal.md#training-goals) set, the trophy wall shows **this week's challenge**: the arrows to shoot this week, with a gold bar, and the average per arrow to reach. The first time you meet the arrows goal in a week, the hall plays a **fanfare** with a **Challenge met!** banner. Goals earn no experience, so changing one never rewrites your progress.
 
 ![The trophy wall: level 14, Legend; This week's challenge: 100 arrows shot, challenge met, with a full gold bar; Average to reach: 9.30, now 9.04 over 4 weeks.](images/screenshots/game-challenge.png){ .shot width="320" }
 
@@ -159,7 +159,7 @@ What you earn by shooting unlocks **rewards**, listed at the trophy wall. Nothin
 </figure>
 </div>
 
-Outfits still to earn wait at the bottom of the mirror under **To earn** (*À gagner*); once earned, they appear with the others, and **Surprise me** can pick them. After a reset, a reward you're wearing stays on.
+Outfits still to earn wait at the bottom of the mirror under **To earn**; once earned, they appear with the others, and **Surprise me** can pick them. After a reset, a reward you're wearing stays on.
 
 ## Seasons
 

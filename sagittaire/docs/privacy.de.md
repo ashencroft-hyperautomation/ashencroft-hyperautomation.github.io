@@ -4,7 +4,7 @@ Die Kurzfassung: **Deine Daten bleiben auf deinem Handy.** Nur das Foto der Sche
 
 Diese Seite erklärt es in einfachen Worten. Der formelle Text ist die [Datenschutzerklärung](privacy-policy.md), auch in der App unter **Einstellungen → Info und Rechtliches**.
 
-## Was sagitt·AI·re speichert, und wo { #what-ullr-keeps-and-where }
+## Was sagitt·AI·re speichert, und wo { #what-sagittaire-keeps-and-where }
 
 ![Was sagitt·AI·re speichert, alles auf deinem Handy: deine Bögen und Orte führen zu Einheiten; jede Einheit hat Passen mit ihrem Foto; jede Passe hat ihre Pfeile; die Einstellungen enthalten die Sprache, die Wertungsmethode und den API-Schlüssel, verschlüsselt.](images/diagrams/data-stored.de.png)
 
