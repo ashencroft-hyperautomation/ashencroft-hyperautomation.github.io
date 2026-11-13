@@ -118,6 +118,12 @@ Only real shooting earns anything: **10 experience** for each confirmed end, **3
 - It's all worked out from your sessions: delete a session and what it earned goes with it.
 - **Reset experience and badges** (*Remettre à zéro l’expérience et les insignes*), at the bottom of the trophies, starts again at level 1 with no badges, after asking. Your sessions, scores and personal bests stay; from then on, what you shoot earns experience and badges again, and the trophies say since when. To erase sessions too, see [Storage and backup](backup.md#erase-data).
 
+## This week's challenge
+
+With [training goals](normal.md#training-goals) set, the trophy wall shows **this week's challenge** (*Défi de la semaine*): the arrows to shoot this week, with a gold bar, and the average per arrow to reach. The first time you meet the arrows goal in a week, the hall plays a **fanfare** with a **Challenge met!** banner. Goals earn no experience, so changing one never rewrites your progress.
+
+![The trophy wall: level 14, Legend; This week's challenge: 100 arrows shot, challenge met, with a full gold bar; Average to reach: 9.30, now 9.04 over 4 weeks.](images/screenshots/game-challenge.png){ .shot width="320" }
+
 ## Rewards
 
 What you earn by shooting unlocks **rewards**, listed at the trophy wall. Nothing is bought, and every other outfit is free from the start.

@@ -118,6 +118,12 @@ Seul le vrai tir rapporte : **10 points d’expérience** par volée confirmée,
 - Tout est calculé à partir de vos séances : supprimez une séance et ce qu’elle a rapporté disparaît avec elle.
 - **Remettre à zéro l’expérience et les insignes**, au bas des trophées, vous ramène au niveau 1 sans insigne, après confirmation. Vos séances, vos scores et vos records restent ; à partir de là, ce que vous tirez rapporte de nouveau de l’expérience et des insignes, et les trophées indiquent depuis quand. Pour effacer aussi les séances, voir [Stockage et sauvegarde](backup.md#effacer-les-donnees).
 
+## Défi de la semaine
+
+Avec des [objectifs d’entraînement](normal.md#objectifs-dentrainement), le mur des trophées affiche le **défi de la semaine** : les flèches à tirer cette semaine, avec une barre dorée, et la moyenne par flèche à atteindre. La première fois que vous atteignez l’objectif de flèches dans la semaine, la maison joue une **fanfare** avec une bannière **Défi relevé !**. Les objectifs ne rapportent pas d’expérience : en changer un ne réécrit jamais votre progression.
+
+![Le mur des trophées : niveau 14, Légende ; Défi de la semaine : 100 flèches tirées, défi relevé, avec une barre dorée pleine ; Moyenne à atteindre : 9,30, 9,04 sur 4 semaines.](images/screenshots/fr/game-challenge.png){ .shot width="320" }
+
 ## Récompenses
 
 Ce que vous gagnez en tirant débloque des **récompenses**, listées au mur des trophées. Rien ne s’achète, et toutes les autres tenues sont libres dès le départ.

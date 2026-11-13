@@ -25,6 +25,7 @@ Choose what the statistics cover, at the top:
 | **Bow** (*Arc*) | All bows, or one (shown when you have more than one) |
 | **Distance** (*Distance*) | All distances, or one, such as 18 m (shown when you've shot more than one) |
 | **Face** (*Blason*) | All faces, or one, such as 40 cm triple or 20 cm field (shown when you've shot more than one) |
+| **Arrows** (*Flèches*) | All arrow sets, or one (shown when the sessions shown used more than one; see [arrow sets](bows.md#sight-marks-arrow-sets-and-tuning-log)) |
 
 When every session shown uses the same face, its own rings are drawn behind the grouping and the heat map, and on a 3-spot face you also get one map per spot.
 
@@ -51,6 +52,9 @@ When every session shown uses the same face, its own rings are drawn behind the 
 </div>
 
 - **Trend:** the average per arrow of each session (the last 20), with the period's average as a dashed line. With ten sessions or more, the line under it compares your last five sessions with the five before: up, down, or steady.
+- **Tuning changes:** with one bow chosen, each note of its [tuning log](bows.md#sight-marks-arrow-sets-and-tuning-log) shows as a dotted line between the sessions before and after it, listed with its date under the chart. Did the new string help? Compare the dots on each side.
+
+![The trend for one bow with two tuning changes: dotted lines on Sep 12 (Peep raised 2 mm) and Oct 19 (Rest moved 1 mm left), listed under the chart.](images/screenshots/stats-tuning.png){ .shot width="300" }
 - **Arrows per week** (*Flèches par semaine*): arrows shot each week over the last 12 weeks, this week highlighted, with the total and the weekly average. Handy to see how much you really train.
 
 ## Where your arrows score

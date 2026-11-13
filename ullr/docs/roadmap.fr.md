@@ -34,6 +34,11 @@ Ullr est un projet personnel, construit au grand jour. Voici où il en est.
 - [x] Records personnels par type d’épreuve (par exemple 18 m, 60 flèches), à l’accueil et sur chaque séance
 - [x] Statistiques par distance et par blason, et carte de chaleur par spot
 - [x] Repères plus petits là où les flèches sont proches
+- [x] **Repères de visée** par arc et par distance, affichés au pas de tir
+- [x] **Jeux de flèches** et **carnet de réglages** pour chaque arc, avec les réglages sur la tendance des statistiques
+- [x] **Objectifs d’entraînement :** flèches par semaine et une moyenne à atteindre, à l’accueil, et un défi de la semaine en mode jeu
+- [x] Une vérification de l’accessibilité de chaque écran (grand texte, lecteur d’écran)
+- [ ] Le comptage par l’IA vérifié sur les blasons de campagne et les cibles 3D
 
 ## Google Play
 

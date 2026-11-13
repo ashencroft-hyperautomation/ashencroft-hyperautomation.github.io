@@ -34,6 +34,11 @@ Ullr is a personal project, built in the open. Here's where it stands.
 - [x] Personal bests per round type (for example 18 m, 60 arrows), on the Dashboard and each session
 - [x] Statistics by distance and face, and a heat map per spot
 - [x] Smaller markers where arrows are close together
+- [x] **Sight marks** per bow and distance, shown on the shooting line
+- [x] **Arrow sets** and a **tuning log** for each bow, with the tuning changes on the statistics trend
+- [x] **Training goals:** arrows per week and an average to reach, on the Dashboard, and a weekly challenge in game mode
+- [x] An accessibility check of every screen (large text, screen reader)
+- [ ] AI scoring checked on field and 3D faces
 
 ## Google Play
 

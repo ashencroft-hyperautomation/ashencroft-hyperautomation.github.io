@@ -22,3 +22,13 @@ Game mode has its own look, on every screen.
 ## Language
 
 Ullr speaks English and French and follows your phone's language. On Android 13 and later, **Settings → Language** (*Langue*) lets you choose English, French, or the phone's language, for Ullr only.
+
+## Large text and screen readers
+
+Ullr follows your phone's **font size** and **display size**, up to the largest settings, and works with **TalkBack**:
+
+- Every screen was checked at the largest font and display size, in English and French: text wraps instead of being cut off, side-by-side fields stack, and the game's **Shoot now** always stays on screen (the hall's picture shrinks to make room).
+- In game mode, the pixel lettering grows with the font size, up to half as big again.
+- Every button and picture has a name for screen readers, settings switches are read with their title and state, and touch targets are at least 48 dp.
+- In game mode, **Places** (☰) lists every place and opens it without walking: the easiest way with a screen reader.
+- Colour is never the only signal: arrows to check are marked with **?** and counted, and the rings are named.

@@ -25,6 +25,7 @@ Choisissez ce que couvrent les statistiques, en haut :
 | **Arc** | Tous les arcs, ou un seul (affiché si vous en avez plus d’un) |
 | **Distance** | Toutes les distances, ou une seule, comme 18 m (affiché si vous en avez tiré plus d’une) |
 | **Blason** | Tous les blasons, ou un seul, comme le trispot 40 cm ou la campagne 20 cm (affiché si vous en avez tiré plus d’un) |
+| **Flèches** | Tous les jeux de flèches, ou un seul (affiché si les séances montrées en ont utilisé plus d’un ; voir [jeux de flèches](bows.md#reperes-de-visee-jeux-de-fleches-et-carnet-de-reglages)) |
 
 Quand toutes les séances affichées utilisent le même blason, ses propres zones sont dessinées derrière le groupement et la carte de chaleur, et sur un trispot vous obtenez aussi une carte par spot.
 
@@ -51,6 +52,9 @@ Quand toutes les séances affichées utilisent le même blason, ses propres zone
 </div>
 
 - **Tendance :** la moyenne par flèche de chaque séance (les 20 dernières), avec la moyenne de la période en pointillé. À partir de dix séances, la ligne dessous compare vos cinq dernières séances aux cinq précédentes : en hausse, en baisse ou stable.
+- **Réglages :** avec un seul arc choisi, chaque note de son [carnet de réglages](bows.md#reperes-de-visee-jeux-de-fleches-et-carnet-de-reglages) s’affiche en pointillé entre les séances d’avant et d’après, et sous le graphique avec sa date. La nouvelle corde a-t-elle aidé ? Comparez les points de chaque côté.
+
+![La tendance d’un arc avec deux réglages : des pointillés le 12 sept. (Peep raised 2 mm) et le 19 oct. (Rest moved 1 mm left), listés sous le graphique.](images/screenshots/fr/stats-tuning.png){ .shot width="300" }
 - **Flèches par semaine :** les flèches tirées chaque semaine sur les 12 dernières semaines, la semaine en cours mise en évidence, avec le total et la moyenne hebdomadaire. Pratique pour voir combien vous vous entraînez vraiment.
 
 ## Répartition des flèches
