@@ -26,7 +26,7 @@ Tomadas con **sagitt·AI·re Demo**, una versión de la app llena de seis meses 
 <figcaption><b>Una tanda pasada.</b> Cada tanda conserva su foto.</figcaption>
 </figure>
 <figure markdown>
-![Pantalla de carga: blanca, ARCHERY CANADA arriba, el icono (mitad diana, mitad hoja de arce blanca sobre rojo) con su banda DEMO, el nombre de la app, Registros de tiro con arco, una barra de progreso y el paso Tensando la cuerda, y la mención pro bono abajo.](images/screenshots/es/loading.png){ .shot }
+![Pantalla de carga: blanca, el logotipo de Archery Canada arriba, el icono (mitad diana, mitad hoja de arce blanca sobre rojo) con su banda DEMO, el nombre de la app, Registros de tiro con arco, una barra de progreso y el paso Tensando la cuerda, y la mención pro bono abajo.](images/screenshots/es/loading.png){ .shot }
 <figcaption><b>Carga.</b> Unos 2 segundos al abrir la app.</figcaption>
 </figure>
 </div>
@@ -105,7 +105,7 @@ Tomadas con **sagitt·AI·re Demo**, una versión de la app llena de seis meses 
 <figcaption><b>Lugares guardados.</b> Cambia el nombre, fusiona o elimina; las sesiones se quedan.</figcaption>
 </figure>
 <figure markdown>
-![Información y aviso legal: la app y su versión, luego las condiciones de uso con la fecha en que se aceptaron, la política de privacidad y las licencias de código abierto.](images/screenshots/es/about.png){ .shot }
+![Información y aviso legal: el logotipo de Archery Canada, la app y su versión, luego las condiciones de uso con la fecha en que se aceptaron, la política de privacidad y las licencias de código abierto.](images/screenshots/es/about.png){ .shot }
 <figcaption><b>Información y aviso legal.</b> Condiciones, política de privacidad y licencias.</figcaption>
 </figure>
 <figure markdown>

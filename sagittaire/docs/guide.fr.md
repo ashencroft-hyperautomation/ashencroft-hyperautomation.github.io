@@ -4,7 +4,7 @@ De l’ouverture de l’application à votre première volée validée, en quelq
 
 <div class="shots" markdown>
 <figure markdown>
-![Écran de chargement : blanc, TIR À L’ARC CANADA en haut, l’icône moitié cible, moitié feuille d’érable et une barre de progression, et la mention pro bono en bas.](images/screenshots/fr/loading.png){ .shot }
+![Écran de chargement : blanc, le logo de Tir à l’arc Canada en haut, l’icône moitié cible, moitié feuille d’érable et une barre de progression, et la mention pro bono en bas.](images/screenshots/fr/loading.png){ .shot }
 <figcaption>L’écran de chargement</figcaption>
 </figure>
 <figure markdown>

@@ -15,6 +15,8 @@ hide:
 
 *Son nom : le Sagittaire, l’archer des étoiles, avec l’IA (AI) en son cœur.*
 
+![Logo de Tir à l’arc Canada](images/brand/archery-canada.svg){ .owner-logo }
+
 **sagitt·AI·re est l’application de Tir à l’arc Canada**, créée pro bono par le Studio Ashencroft. Elle sert à l’entraînement et au loisir : ses pointages ne sont jamais officiels, et en compétition seules les feuilles de marque officielles comptent.
 
 <div class="game-band" markdown>

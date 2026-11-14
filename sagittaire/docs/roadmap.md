@@ -35,10 +35,10 @@ sagitt·AI·re is a pro bono project of Ashencroft Studio, built in the open. He
 - [x] **Arrow sets** and a **tuning log** for each bow, with the tuning changes on the statistics trend
 - [x] **Training goals:** arrows per week and an average to reach, on the Dashboard, and a weekly challenge in game mode
 - [x] An accessibility check of every screen (large text, screen reader)
+- [x] Archery Canada's logo on the loading screen, in About and on the website
 
 ## Coming
 
 - [ ] AI scoring checked on real field and 3D faces
-- [ ] Archery Canada's official logo files
 
 sagitt·AI·re is installed directly on the phone: no app store release is planned.

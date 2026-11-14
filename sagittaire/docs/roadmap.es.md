@@ -35,10 +35,10 @@ sagitt·AI·re es un proyecto pro bono del Estudio Ashencroft, construido a la v
 - [x] **Juegos de flechas** y un **registro de ajustes** para cada arco, con los cambios de ajuste en la tendencia de las estadísticas
 - [x] **Objetivos de entrenamiento:** flechas por semana y una media que alcanzar, en Inicio, y un reto de la semana en el modo juego
 - [x] Una revisión de accesibilidad de todas las pantallas (texto grande, lector de pantalla)
+- [x] El logotipo de Archery Canada en la pantalla de carga, en Información y en el sitio web
 
 ## Próximamente { #coming }
 
 - [ ] Puntuación con IA comprobada en dianas reales de campo y 3D
-- [ ] Los archivos oficiales del logotipo de Archery Canada
 
 sagitt·AI·re se instala directamente en el teléfono: no está prevista su publicación en ninguna tienda de aplicaciones.

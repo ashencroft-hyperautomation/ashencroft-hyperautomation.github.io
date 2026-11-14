@@ -33,6 +33,8 @@
 .shots figure { margin: 0; width: 220px; }
 .shots figcaption { font-size: .75rem; text-align: left; }
 .hero img { width: 100%; border-radius: 10px; }
+/* Archery Canada's logo, on white as they show it (its navy needs a light ground, also in dark mode). */
+.md-typeset img.owner-logo { display: block; width: 200px; max-width: 60%; background: #fff; padding: 10px 14px; border-radius: 8px; }
 .md-typeset .grid.cards > ul > li { border-radius: 10px; }
 /* Tabs on the red header: white, the active one underlined. */
 .md-tabs__link { opacity: .9; font-size: .8rem; }

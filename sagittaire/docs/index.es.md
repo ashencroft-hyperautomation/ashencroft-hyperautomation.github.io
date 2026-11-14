@@ -15,6 +15,8 @@ hide:
 
 *Su nombre: Sagittaire, Sagitario en francés, el arquero de las estrellas, con la IA (AI) en el centro.*
 
+![Logotipo de Archery Canada](images/brand/archery-canada.svg){ .owner-logo }
+
 **sagitt·AI·re es la app de Archery Canada**, creada pro bono por Estudio Ashencroft. Es para el entrenamiento y el ocio: sus puntuaciones nunca son oficiales, y en competición solo cuentan las hojas de puntuación oficiales.
 
 <div class="game-band" markdown>

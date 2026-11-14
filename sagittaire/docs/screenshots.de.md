@@ -26,7 +26,7 @@ Aufgenommen mit **sagitt·AI·re Demo**, einer Version der App mit sechs Monaten
 <figcaption><b>Eine frühere Passe.</b> Jede Passe behält ihr Foto.</figcaption>
 </figure>
 <figure markdown>
-![Ladebildschirm: weiß, oben ARCHERY CANADA, das Symbol (halb Scheibe, halb weißes Ahornblatt auf Rot) mit seinem DEMO-Band, der App-Name, „Schießtagebuch“, ein Fortschrittsbalken und der Schritt „Bogen bespannen…“, unten der Pro-bono-Hinweis.](images/screenshots/de/loading.png){ .shot }
+![Ladebildschirm: weiß, oben das Logo von Archery Canada, das Symbol (halb Scheibe, halb weißes Ahornblatt auf Rot) mit seinem DEMO-Band, der App-Name, „Schießtagebuch“, ein Fortschrittsbalken und der Schritt „Bogen bespannen…“, unten der Pro-bono-Hinweis.](images/screenshots/de/loading.png){ .shot }
 <figcaption><b>Laden.</b> Etwa 2 Sekunden beim Start.</figcaption>
 </figure>
 </div>
@@ -105,7 +105,7 @@ Aufgenommen mit **sagitt·AI·re Demo**, einer Version der App mit sechs Monaten
 <figcaption><b>Gespeicherte Orte.</b> Umbenennen, zusammenführen oder löschen; die Einheiten bleiben.</figcaption>
 </figure>
 <figure markdown>
-![Info und Rechtliches: die App und ihre Version, dann die Nutzungsbedingungen mit dem Datum der Annahme, die Datenschutzerklärung und die Open-Source-Lizenzen.](images/screenshots/de/about.png){ .shot }
+![Info und Rechtliches: das Logo von Archery Canada, die App und ihre Version, dann die Nutzungsbedingungen mit dem Datum der Annahme, die Datenschutzerklärung und die Open-Source-Lizenzen.](images/screenshots/de/about.png){ .shot }
 <figcaption><b>Info und Rechtliches.</b> Nutzungsbedingungen, Datenschutzerklärung und Lizenzen.</figcaption>
 </figure>
 <figure markdown>

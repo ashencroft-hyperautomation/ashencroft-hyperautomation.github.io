@@ -35,10 +35,10 @@ sagitt·AI·re ist ein Pro-bono-Projekt von Ashencroft Studio und wird offen ent
 - [x] **Pfeilsätze** und ein **Tuning-Logbuch** für jeden Bogen, mit den Tuning-Änderungen im Statistik-Verlauf
 - [x] **Trainingsziele:** Pfeile pro Woche und ein Schnitt, den du erreichen willst, auf der Übersicht, und eine Wochenherausforderung im Spielmodus
 - [x] Eine Prüfung der Barrierefreiheit auf jedem Bildschirm (große Schrift, Screenreader)
+- [x] Das Logo von Archery Canada auf dem Ladebildschirm, unter Info und auf der Website
 
 ## Geplant { #coming }
 
 - [ ] KI-Wertung auf echten Feld- und 3D-Auflagen geprüft
-- [ ] Die offiziellen Logodateien von Archery Canada
 
 sagitt·AI·re wird direkt auf dem Handy installiert: Eine Veröffentlichung in einem App-Store ist nicht geplant.

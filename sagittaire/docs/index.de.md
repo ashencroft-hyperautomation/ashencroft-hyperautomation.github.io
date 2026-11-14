@@ -15,6 +15,8 @@ hide:
 
 *Der Name: Sagittaire, französisch für das Sternbild Schütze, mit AI (KI) in der Mitte.*
 
+![Logo von Archery Canada](images/brand/archery-canada.svg){ .owner-logo }
+
 **sagitt·AI·re ist die App von Archery Canada**, pro bono entwickelt von Ashencroft Studio. Sie ist für Training und Freizeit: Ihre Ergebnisse sind nie offiziell, im Wettkampf zählen nur die offiziellen Schießzettel.
 
 <div class="game-band" markdown>

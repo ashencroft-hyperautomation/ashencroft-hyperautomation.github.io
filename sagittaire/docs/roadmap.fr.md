@@ -35,10 +35,10 @@ sagitt·AI·re est un projet pro bono du Studio Ashencroft, construit au grand j
 - [x] **Jeux de flèches** et **carnet de réglages** pour chaque arc, avec les réglages sur la tendance des statistiques
 - [x] **Objectifs d’entraînement :** flèches par semaine et une moyenne à atteindre, à l’accueil, et un défi de la semaine en mode jeu
 - [x] Une vérification de l’accessibilité de chaque écran (grand texte, lecteur d’écran)
+- [x] Le logo de Tir à l’arc Canada sur l’écran de chargement, dans À propos et sur le site
 
 ## À venir
 
 - [ ] Le comptage par l’IA vérifié sur de vrais blasons de campagne et de vraies cibles 3D
-- [ ] Les fichiers officiels du logo de Tir à l’arc Canada
 
 sagitt·AI·re s’installe directement sur le téléphone : aucune publication dans une boutique d’applications n’est prévue.
