@@ -1,8 +1,8 @@
 # Politique de confidentialité
 
-*Version 4 · En vigueur le 13 novembre 2026*
+*Version 5 · En vigueur le 14 novembre 2026*
 
-La présente politique explique quels renseignements l’application sagitt·AI·re (l’« Application ») traite, où ils sont conservés, quand ils quittent votre appareil et ce que vous pouvez faire à leur égard. Elle fait partie des conditions d’utilisation. Le « Développeur » désigne le développeur de sagitt·AI·re.
+La présente politique explique quels renseignements l’application sagitt·AI·re (l’« Application ») traite, où ils sont conservés, quand ils quittent votre appareil et ce que vous pouvez faire à leur égard. Elle fait partie des conditions d’utilisation. Le « Développeur » désigne le Studio Ashencroft — Experts en IA & Hyper Automatisation Responsable, développeur de sagitt·AI·re.
 
 ## 1. En bref
 

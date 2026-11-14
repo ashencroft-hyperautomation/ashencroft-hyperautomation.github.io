@@ -41,7 +41,7 @@ Chaque page des réglages commence par une courte explication, puis ses choix.
 | **Langue** | Français, anglais, allemand, espagnol ou la langue du téléphone (Android 13 et plus récent). |
 | **Lieux enregistrés** | Renommer, fusionner ou supprimer les lieux de vos séances. Voir [Lieux enregistrés](sessions.md#lieux-enregistres). |
 | **Stockage et sauvegarde** | Espace utilisé, exporter, restaurer, libérer de l’espace. Voir [Stockage et sauvegarde](backup.md). |
-| **À propos et mentions légales** | La version, l’empreinte du certificat qui a signé cette copie ([la vérifier](index.md#ou-en-est-le-projet)), les [conditions d’utilisation](terms.md), la [politique de confidentialité](privacy-policy.md) et les [licences de logiciels libres](licences.md). |
+| **À propos et mentions légales** | La version, le développeur (Studio Ashencroft), les [conditions d’utilisation](terms.md), la [politique de confidentialité](privacy-policy.md) et les [licences de logiciels libres](licences.md). |
 
 ## Objectifs d’entraînement
 

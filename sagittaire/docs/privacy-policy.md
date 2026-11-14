@@ -1,8 +1,8 @@
 # Privacy policy
 
-*Version 4 · Effective November 13, 2026*
+*Version 5 · Effective November 14, 2026*
 
-This policy explains what information the sagitt·AI·re application (the "App") handles, where it is kept, when it leaves your device and what you can do about it. It is part of the terms of use. "Developer" means the developer of sagitt·AI·re.
+This policy explains what information the sagitt·AI·re application (the "App") handles, where it is kept, when it leaves your device and what you can do about it. It is part of the terms of use. "Developer" means Ashencroft Studio — Responsible AI & Hyperautomation Experts, the developer of sagitt·AI·re.
 
 ## 1. In short
 

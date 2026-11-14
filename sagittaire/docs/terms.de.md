@@ -1,10 +1,10 @@
 # Nutzungsbedingungen
 
-*Version 4 · Gültig ab 13. November 2026*
+*Version 5 · Gültig ab 14. November 2026*
 
 *Dies ist eine Übersetzung, die dir nur zur besseren Verständlichkeit bereitgestellt wird; maßgeblich sind allein die französische und die englische Fassung, die bei jeder Abweichung Vorrang haben.*
 
-Bitte lies diese Bedingungen sorgfältig. Sie bilden eine rechtliche Vereinbarung zwischen dir und dem Entwickler von sagitt·AI·re (der „Entwickler“). Indem du auf **Akzeptieren und weiter** tippst oder die Anwendung sagitt·AI·re (die „App“) installierst, öffnest oder auf andere Weise nutzt, bestätigst du, dass du diese Bedingungen gelesen, verstanden und akzeptiert hast. Wenn du sie nicht akzeptierst, nutze die App nicht und deinstalliere sie.
+Bitte lies diese Bedingungen sorgfältig. Sie bilden eine rechtliche Vereinbarung zwischen dir und Ashencroft Studio — Experten für verantwortungsvolle KI & Hyperautomatisierung, dem Entwickler von sagitt·AI·re (der „Entwickler“). Indem du auf **Akzeptieren und weiter** tippst oder die Anwendung sagitt·AI·re (die „App“) installierst, öffnest oder auf andere Weise nutzt, bestätigst du, dass du diese Bedingungen gelesen, verstanden und akzeptiert hast. Wenn du sie nicht akzeptierst, nutze die App nicht und deinstalliere sie.
 
 ## 1. Was die App ist
 

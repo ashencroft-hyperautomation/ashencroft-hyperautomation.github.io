@@ -1,10 +1,10 @@
 # Política de privacidad
 
-*Versión 4 · Vigente desde el 13 de noviembre de 2026*
+*Versión 5 · Vigente desde el 14 de noviembre de 2026*
 
 *Esta es una traducción que se ofrece solo para tu comodidad; únicamente las versiones en francés y en inglés hacen fe y, si hay cualquier diferencia, prevalecen sobre esta.*
 
-Esta política explica qué información trata la aplicación sagitt·AI·re (la «App»), dónde se guarda, cuándo sale de tu dispositivo y qué puedes hacer al respecto. Forma parte de las condiciones de uso. «Desarrollador» significa el desarrollador de sagitt·AI·re.
+Esta política explica qué información trata la aplicación sagitt·AI·re (la «App»), dónde se guarda, cuándo sale de tu dispositivo y qué puedes hacer al respecto. Forma parte de las condiciones de uso. «Desarrollador» significa el Estudio Ashencroft — Expertos en IA y Hiperautomatización Responsables, desarrollador de sagitt·AI·re.
 
 ## 1. En resumen
 

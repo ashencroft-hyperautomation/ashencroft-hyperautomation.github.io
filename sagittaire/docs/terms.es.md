@@ -1,10 +1,10 @@
 # Condiciones de uso
 
-*Versión 4 · Vigente desde el 13 de noviembre de 2026*
+*Versión 5 · Vigente desde el 14 de noviembre de 2026*
 
 *Esta es una traducción que se ofrece solo para tu comodidad; únicamente las versiones en francés y en inglés hacen fe y, si hay cualquier diferencia, prevalecen sobre esta.*
 
-Lee atentamente estas condiciones. Constituyen un acuerdo legal entre tú y el desarrollador de sagitt·AI·re (el «Desarrollador»). Al tocar **Aceptar y continuar**, o al instalar, abrir o usar de cualquier otro modo la aplicación sagitt·AI·re (la «App»), confirmas que has leído, entendido y aceptado estas condiciones. Si no las aceptas, no uses la App y desinstálala.
+Lee atentamente estas condiciones. Constituyen un acuerdo legal entre tú y el Estudio Ashencroft — Expertos en IA y Hiperautomatización Responsables, desarrollador de sagitt·AI·re (el «Desarrollador»). Al tocar **Aceptar y continuar**, o al instalar, abrir o usar de cualquier otro modo la aplicación sagitt·AI·re (la «App»), confirmas que has leído, entendido y aceptado estas condiciones. Si no las aceptas, no uses la App y desinstálala.
 
 ## 1. Qué es la App
 

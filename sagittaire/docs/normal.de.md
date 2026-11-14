@@ -41,7 +41,7 @@ Jede Einstellungsseite beginnt mit einer kurzen Erklärung, dann folgen ihre Opt
 | **Sprache** | Englisch, Französisch, Deutsch, Spanisch oder die Sprache des Handys (Android 13 und neuer). |
 | **Gespeicherte Orte** | Die Orte deiner Einheiten umbenennen, zusammenführen oder löschen. Siehe [Gespeicherte Orte](sessions.md#saved-places). |
 | **Speicher und Sicherung** | Belegter Speicher, Export, Wiederherstellen, Speicher freigeben. Siehe [Speicher und Sicherung](backup.md). |
-| **Info und Rechtliches** | Die Version, den Fingerabdruck des Zertifikats, mit dem diese Kopie signiert ist ([prüfen](index.md#status)), die [Nutzungsbedingungen](terms.md), die [Datenschutzerklärung](privacy-policy.md) und die [Open-Source-Lizenzen](licences.md). |
+| **Info und Rechtliches** | Die Version, den Entwickler (Ashencroft Studio), die [Nutzungsbedingungen](terms.md), die [Datenschutzerklärung](privacy-policy.md) und die [Open-Source-Lizenzen](licences.md). |
 
 ## Trainingsziele { #training-goals }
 

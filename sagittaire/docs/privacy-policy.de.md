@@ -1,10 +1,10 @@
 # Datenschutzerklärung
 
-*Version 4 · Gültig ab 13. November 2026*
+*Version 5 · Gültig ab 14. November 2026*
 
 *Dies ist eine Übersetzung, die dir nur zur besseren Verständlichkeit bereitgestellt wird; maßgeblich sind allein die französische und die englische Fassung, die bei jeder Abweichung Vorrang haben.*
 
-Diese Erklärung beschreibt, welche Informationen die Anwendung sagitt·AI·re (die „App“) verarbeitet, wo sie aufbewahrt werden, wann sie dein Gerät verlassen und was du in Bezug auf sie tun kannst. Sie ist Teil der Nutzungsbedingungen. „Entwickler“ bezeichnet den Entwickler von sagitt·AI·re.
+Diese Erklärung beschreibt, welche Informationen die Anwendung sagitt·AI·re (die „App“) verarbeitet, wo sie aufbewahrt werden, wann sie dein Gerät verlassen und was du in Bezug auf sie tun kannst. Sie ist Teil der Nutzungsbedingungen. „Entwickler“ bezeichnet Ashencroft Studio — Experten für verantwortungsvolle KI & Hyperautomatisierung, den Entwickler von sagitt·AI·re.
 
 ## 1. Kurz gesagt
 
