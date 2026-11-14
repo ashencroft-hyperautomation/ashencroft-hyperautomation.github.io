@@ -36,6 +36,10 @@ sagitt·AI·re ist ein Pro-bono-Projekt von Ashencroft Studio und wird offen ent
 - [x] **Trainingsziele:** Pfeile pro Woche und ein Schnitt, den du erreichen willst, auf der Übersicht, und eine Wochenherausforderung im Spielmodus
 - [x] Eine Prüfung der Barrierefreiheit auf jedem Bildschirm (große Schrift, Screenreader)
 - [x] Das Logo von Archery Canada auf dem Ladebildschirm, unter Info und auf der Website
+- [x] **Auflage ändern** nachträglich, und ein Hinweis, wenn das Foto nicht die Auflage der Einheit zeigt
+- [x] Statistik: Das Pfeil-Diagramm sagt, was es zeigt, hebt eine Passe nach der anderen hervor, und ein neues Diagramm zeigt **den Mittelpunkt jeder Passe**
+- [x] Die KI-Wertung findet zuerst, wo jeder Pfeil in die Auflage eintritt, und bestimmt dann seinen Ring (mehr richtige Ringe auf den Fotos eines Vereinsabends); ein markierter Pfeil zeigt, wo die KI den Einschuss sah
+- [x] Eine Seite zu [Datenschutz, Souveränität und verantwortungsvoller KI](responsible-ai.md)
 
 ## Geplant { #coming }
 

@@ -21,7 +21,7 @@ sagitt·AI·re sendet eine Anfrage an den KI-Dienst deiner Wahl. Sie enthält:
 | Teil | Was er sagt |
 |------|--------------|
 | **Das Foto** | Die zugeschnittene Scheibe. |
-| **Wie man eine Scheibe liest** | Für jede Passe gleich. Finde die Pfeile, die in der Auflage stecken, nicht alte Löcher oder die Pfeile anderer Schützen. Gib den Punkt an, an dem jeder Schaft in die Auflage eintritt, nicht die Nocke. Wende die Linienregel an: Ein Schaft, der eine Linie berührt, zählt die höhere Zone. Sag, wenn ein Pfeil nah an einer Linie ist, und wie sicher du dir bist. |
+| **Wie man eine Scheibe liest** | Für jede Passe gleich. Finde die Pfeile, die in der Auflage stecken, nicht alte Löcher oder die Pfeile anderer Schützen. Finde zuerst den Punkt, an dem jeder Schaft in die Auflage eintritt, nicht die Nocke, die Befiederung oder ihren Schatten, und sag in ein paar Worten, wo er zu den Linien liegt. Bestimme dann die Zone von diesem Punkt aus mit der Linienregel: Ein Schaft, der eine Linie berührt, zählt die höhere Zone. Sag, wenn ein Pfeil nah an einer Linie ist, und wie sicher du dir bist. |
 | **Deine Angaben** | Aus der Einheit zusammengestellt: die Auflage und ihre Ringe, wie viele Auflagen und Spots (2 Dreifach-Auflagen = 6 Spots), wie viele Pfeile zu suchen sind, deine Wertungsregel mit dem Wert jedes Rings, und deine Pfeilbeschreibung. |
 | **Das Antwortformat** | Eine feste Liste von Feldern, damit die Antwort immer gelesen werden kann. |
 

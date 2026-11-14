@@ -21,7 +21,7 @@ sagitt·AI·re envoie une seule requête au service d'IA que vous avez choisi. E
 | Partie | Ce qu'elle dit |
 |--------|----------------|
 | **La photo** | La cible, recadrée. |
-| **Comment lire une cible** | La même pour chaque volée. Trouver les flèches plantées dans le blason, pas les anciens trous ni les flèches des autres archers. Donner le point où chaque tube entre dans le blason, pas l'encoche. Appliquer la règle de la ligne : un tube qui touche une ligne prend la zone la plus haute. Signaler une flèche proche d'une ligne, et dire à quel point elle est sûre. |
+| **Comment lire une cible** | La même pour chaque volée. Trouver les flèches plantées dans le blason, pas les anciens trous ni les flèches des autres archers. Trouver d'abord le point où chaque tube entre dans le blason, pas l'encoche, l'empennage ni son ombre, et dire en quelques mots où il se trouve par rapport aux lignes. Puis décider la zone à partir de ce point avec la règle de la ligne : un tube qui touche une ligne prend la zone la plus haute. Signaler une flèche proche d'une ligne, et dire à quel point elle est sûre. |
 | **Les paramètres de la séance** | Tirés de la séance : le blason et ses zones, le nombre de blasons et de spots (2 trispots = 6 spots), le nombre de flèches à chercher, votre règle de comptage avec la valeur de chaque zone, et la description de vos flèches. |
 | **Le format de réponse** | Une liste de champs fixe, pour que la réponse soit toujours lisible. |
 

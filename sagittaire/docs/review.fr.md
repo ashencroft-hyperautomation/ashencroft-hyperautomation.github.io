@@ -25,8 +25,8 @@ Chaque flèche porte un repère blanc avec sa zone. Là où les flèches sont pr
 - **Touchez une flèche** pour la sélectionner, puis touchez la bonne zone. Le deuxième choix de l’IA est mis en évidence, avec sa confiance. Sur une flèche dont l’IA n’était pas sûre, une ligne dit où elle a vu le tube entrer (par exemple « bord du tube sur la ligne 9/10 »), pour savoir quoi regarder.
 - **Ajouter une flèche** : touchez sa zone, ou activez **Ou touchez la photo à son emplacement**, touchez l’endroit de la flèche, puis choisissez sa zone.
 - **Retirer cette flèche** : pour la flèche d’un autre archer, ou une flèche comptée deux fois. L’application demande d’abord confirmation.
-- Un bandeau vous prévient quand le nombre de flèches trouvées n’est pas le nombre tiré, ou quand la photo pose problème (reflet, flou, blason coupé).
-- Si l’IA indique que la photo ne montre pas le blason de la séance (par exemple un spot unique au lieu d’un trispot), un bandeau rouge le signale en premier, avec **Changer de blason** et, avec votre propre clé API et une volée pas encore confirmée, **Compter à nouveau**.
+- Un bandeau vous prévient quand le nombre de flèches trouvées n’est pas le nombre tiré, ou quand la photo pose problème (reflet, flou, blason coupé). Quand l’IA a trouvé plus de flèches que vous n’en avez tiré et que votre arc ne dit pas lesquelles sont les vôtres, il vous propose d’ajouter les couleurs de vos flèches à l’arc (**Arcs** → votre arc), pour que l’IA laisse de côté les flèches des autres archers la prochaine fois.
+- Si l’IA indique que la photo ne montre pas le blason de la séance (par exemple un spot unique au lieu d’un trispot), un bandeau rouge le signale en premier, avec **Changer de blason** et, avec votre propre clé API et une volée pas encore confirmée, **Compter à nouveau**. Si le nouveau comptage n’aboutit pas (pas de connexion, par exemple), la réponse précédente reste, avec une note qui dit ce qui s’est passé.
 
 Touchez ensuite **Valider · volée suivante** pour revenir directement à l’appareil photo, ou **Valider et revenir à la séance**. Le bouton corbeille supprime la volée, après confirmation.
 

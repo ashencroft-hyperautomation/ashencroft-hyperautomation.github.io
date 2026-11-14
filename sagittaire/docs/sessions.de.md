@@ -22,7 +22,7 @@ Tippe in der Übersicht auf **Einheit starten** und fülle dann aus:
 - **Disziplin**: Scheibenbogenschießen (der Standard), Feldbogenschießen, 3D-Bogenschießen oder Para-Bogenschießen.
 - **Bogentyp** (Blankbogen, Recurvebogen oder Compoundbogen, jeder mit seiner kleinen Zeichnung) und **Bogen**. Siehe [Bögen](bows.md).
 - Unter der Entfernung die **Visiermarke** des Bogens dafür, und die **Pfeile**, wenn der Bogen Pfeilsätze hat: der Satz, den er zuletzt benutzt hat. Siehe [Visiermarken, Pfeilsätze und Tuning-Logbuch](bows.md#sight-marks-arrow-sets-and-tuning-log).
-- **Entfernung**, **Auflage**, **Auflagen auf der Scheibe** (bei Dreifach-Auflagen: wie viele auf der Scheibe hängen, zum Beispiel 2 Auflagen = 6 Spots) und **Pfeile pro Passe** (beliebig viele, oft 3 oder 6). Die Auflagen richten sich nach der Disziplin: Scheibenauflagen, **Feld**-Auflagen (80, 60, 40 cm oder 20 cm in Spalten zu drei) oder das **3D**-Tier. Siehe [Feld und 3D](rules.md#field-and-3d). Diese Felder übernehmen deine letzte Einheit derselben Disziplin; der Bogen legt sie nicht fest.
+- **Entfernung**, **Auflage**, **Auflagen auf der Scheibe** (bei Dreifach-Auflagen: wie viele auf der Scheibe hängen, zum Beispiel 2 Auflagen = 6 Spots) und **Pfeile pro Passe** (beliebig viele, oft 3 oder 6). Die Auflagen richten sich nach der Disziplin: Scheibenauflagen, **Feld**-Auflagen (80, 60, 40 cm oder 20 cm in Spalten zu drei) oder das **3D**-Tier. Siehe [Feld und 3D](rules.md#field-and-3d). Diese Felder übernehmen deine letzte Einheit derselben Disziplin; der Bogen legt sie nicht fest. Vor deiner ersten Einheit einer Disziplin kommen sie vom Bogentyp und folgen ihm, wenn du einen Bogen eines anderen Typs wählst (außer du hast sie geändert).
 - **Wertungsregel**: kommt aus den Einstellungen und dem Bogentyp. Siehe [Wertungsregeln](rules.md).
 
 ## Eine Passe schießen { #shoot-an-end }
@@ -39,11 +39,11 @@ Bei der automatischen Wertung musst du nicht warten: Schieß die nächste Passe,
 - **Schießzettel:** Passe für Passe, mit der laufenden Summe. Tippe auf eine Passe, um ihr Foto und ihre Pfeile wieder zu sehen.
 - Diagramm **Ergebnis pro Passe**, mit der Durchschnittslinie und den besten und schlechtesten Passen.
 - **Ändern** wechselt die Wertungsregel, jederzeit. Alle Ergebnisse werden neu berechnet.
-- **Auflage ändern**: Wenn du auf eine andere Auflage geschossen hast als die eingestellte, wähle die richtige (gleiche Art: Scheibe oder Feld). Die Punkte werden aus den bereits erfassten Ringen neu berechnet; Pfeile, deren Ring es auf der neuen Auflage nicht gibt, und Fehlschüsse, die auf einer größeren Auflage zählen könnten, werden zur Prüfung markiert. Möglich, sobald alle Passen gewertet sind.
+- **Auflage ändern**: Wenn du auf eine andere Auflage geschossen hast als die eingestellte, wähle die richtige (gleiche Art: Scheibe oder Feld). Die Punkte werden aus den bereits erfassten Ringen neu berechnet; Pfeile, deren Ring es auf der neuen Auflage nicht gibt, und Fehlschüsse, die auf einer größeren Auflage zählen könnten, werden zur Prüfung markiert. Jeder Pfeil behält seinen Spot: Wechselst du zurück, steht jeder Pfeil wieder, wo er war. Möglich, sobald alle Passen gewertet sind.
 - Die **Visiermarke** auf dieser Entfernung und die geschossenen **Pfeile**, jeweils mit **Ändern**.
 - **Beenden**. Passen, die nicht bestätigt sind, zählen erst, wenn du sie bestätigst, was du auch später noch tun kannst.
 - **Diese Einheit verwerfen** löscht sie, nachdem sagitt·AI·re gefragt hat.
-- **Persönliche Bestleistung:** Sobald sie beendet ist, zeigt die Einheit, wo sie auf ihrer Runde steht (gleiche Entfernung, Auflage, Auflagen auf der Scheibe und Pfeilzahl): deine persönliche Bestleistung, und welches Ergebnis sie übertroffen hat; gleichauf damit; oder die Bestleistung, die es zu schlagen gilt.
+- **Persönliche Bestleistung:** Sobald sie beendet ist, zeigt die Einheit, wo sie auf ihrer Runde steht (gleiche Entfernung, Auflage, Auflagen auf der Scheibe und Pfeilzahl): deine persönliche Bestleistung, und welches Ergebnis sie übertroffen hat; gleichauf damit; oder die Bestleistung, die es zu schlagen gilt. Nach einem Auflagenwechsel zählt eine Einheit mit Passen zur Prüfung wieder, sobald du sie geprüft hast.
 
 ## Eine Einheit teilen { #share-a-session }
 

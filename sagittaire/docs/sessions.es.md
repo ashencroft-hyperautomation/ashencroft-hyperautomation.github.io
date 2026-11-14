@@ -22,7 +22,7 @@ En Inicio, toca **Empezar sesión** y completa:
 - **Disciplina**: tiro a diana (la predeterminada), tiro de campo, tiro 3D o tiro con arco adaptado (para).
 - **Tipo de arco** (arco desnudo, arco recurvo o arco compuesto, cada uno con su pequeño dibujo) y **arco**. Consulta [Arcos](bows.md).
 - Debajo de la distancia, la **marca de visor** del arco para esa distancia, y las **flechas** cuando el arco tiene juegos de flechas: el juego que usó la última vez. Consulta [Marcas de visor, juegos de flechas y registro de ajustes](bows.md#sight-marks-arrow-sets-and-tuning-log).
-- **Distancia**, **diana**, **dianas de papel** (en las triples dianas: cuántas hay en el parapeto, por ejemplo 2 dianas = 6 spots) y **flechas por tanda** (cualquier número, a menudo 3 o 6). Las dianas siguen la disciplina: dianas de tiro a diana, dianas de **campo** (80, 60, 40 cm, o 20 cm en columnas de tres) o el animal **3D**. Consulta [Campo y 3D](rules.md#field-and-3d). Estos campos parten de tu última sesión de la misma disciplina; el arco no los fija.
+- **Distancia**, **diana**, **dianas de papel** (en las triples dianas: cuántas hay en el parapeto, por ejemplo 2 dianas = 6 spots) y **flechas por tanda** (cualquier número, a menudo 3 o 6). Las dianas siguen la disciplina: dianas de tiro a diana, dianas de **campo** (80, 60, 40 cm, o 20 cm en columnas de tres) o el animal **3D**. Consulta [Campo y 3D](rules.md#field-and-3d). Estos campos parten de tu última sesión de la misma disciplina; el arco no los fija. Antes de tu primera sesión de una disciplina, vienen del tipo de arco, y lo siguen si eliges un arco de otro tipo (salvo que los hayas cambiado).
 - **Regla de puntuación**: viene de Ajustes y del tipo de arco. Consulta [Reglas de puntuación](rules.md).
 
 ## Tira una tanda { #shoot-an-end }
@@ -39,11 +39,11 @@ Con la puntuación automática no tienes que esperar: tira la siguiente tanda mi
 - **Hoja de puntuación:** tanda a tanda, con el total acumulado. Toca una tanda para volver a ver su foto y sus flechas.
 - Gráfico de **Puntuación por tanda**, con la línea de la media, y las mejores y peores tandas.
 - **Cambiar** la regla de puntuación en cualquier momento. Todos los totales se vuelven a calcular.
-- **Cambiar diana**: si tiraste a otra diana distinta de la elegida, elige la correcta (mismo tipo: diana o campo). Los puntos se recalculan a partir de las zonas ya registradas; las flechas cuya zona no existe en la nueva diana, y los fallos que podrían puntuar en una diana más grande, se marcan para revisar. Posible una vez puntuadas todas las tandas.
+- **Cambiar diana**: si tiraste a otra diana distinta de la elegida, elige la correcta (mismo tipo: diana o campo). Los puntos se recalculan a partir de las zonas ya registradas; las flechas cuya zona no existe en la nueva diana, y los fallos que podrían puntuar en una diana más grande, se marcan para revisar. Cada flecha conserva su spot: al volver a la diana anterior, cada flecha vuelve a su sitio. Posible una vez puntuadas todas las tandas.
 - La **marca de visor** a esta distancia y las **flechas** tiradas, cada una con **Cambiar**.
 - **Terminar**. Las tandas sin confirmar no cuentan hasta que las confirmes, cosa que puedes hacer más tarde.
 - **Descartar esta sesión** la borra, después de preguntarte.
-- **Mejor marca personal:** una vez terminada, la sesión te dice dónde queda en su tirada (misma distancia, diana, dianas de papel y número de flechas): tu mejor marca personal, y qué puntuación ha superado; igual a ella; o la mejor marca que tienes que superar.
+- **Mejor marca personal:** una vez terminada, la sesión te dice dónde queda en su tirada (misma distancia, diana, dianas de papel y número de flechas): tu mejor marca personal, y qué puntuación ha superado; igual a ella; o la mejor marca que tienes que superar. Tras un cambio de diana, una sesión con tandas marcadas para revisar vuelve a contar una vez que las hayas revisado.
 
 ## Comparte una sesión { #share-a-session }
 

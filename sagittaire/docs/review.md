@@ -25,8 +25,8 @@ Each arrow has a white marker with its ring. Where arrows are close together, th
 - **Tap an arrow** to select it, then tap the right ring. The AI's second choice is highlighted, with its confidence. On an arrow the AI wasn't sure about, a line says where it saw the shaft go in (for example “shaft edge on the 9/10 line”), so you know what to look at.
 - **Add an arrow**: tap its ring, or turn on **Or tap the photo where it is**, tap where it is, then pick its ring.
 - **Remove this arrow**: for another archer's arrow, or one counted twice. The app asks first.
-- A banner warns you when the number of arrows found isn't the number shot, or when the photo has problems (glare, blur, face cut off).
-- If the AI says the photo doesn't show the session's face (for example a single spot instead of a triple face), a red banner says so first, with **Change face** and, with your own API key and an end not yet confirmed, **Score again**.
+- A banner warns you when the number of arrows found isn't the number shot, or when the photo has problems (glare, blur, face cut off). When the AI found more arrows than you shot and your bow doesn't say which are yours, it suggests adding your arrows' colours to the bow (**Bows** → your bow), so the AI leaves other archers' arrows out next time.
+- If the AI says the photo doesn't show the session's face (for example a single spot instead of a triple face), a red banner says so first, with **Change face** and, with your own API key and an end not yet confirmed, **Score again**. If scoring again doesn't work (no connection, for example), the earlier answer stays, with a note saying what went wrong.
 
 Then tap **Confirm · shoot next end** to go straight back to the camera, or **Confirm and back to session**. The trash button deletes the end, after asking.
 

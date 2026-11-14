@@ -22,7 +22,7 @@ On the Dashboard, tap **Start session**, then fill in:
 - **Discipline**: target archery (the default), field archery, 3D archery or para archery.
 - **Bow type** (barebow, recurve bow or compound bow, each with its small drawing) and **bow**. See [Bows](bows.md).
 - Under the distance, the bow's **sight mark** for it, and the **arrows** when the bow has arrow sets: the set it used last time. See [Sight marks, arrow sets and tuning log](bows.md#sight-marks-arrow-sets-and-tuning-log).
-- **Distance**, **target face**, **paper faces** (for 3-spot faces: how many are on the boss, for example 2 faces = 6 spots), and **arrows per end** (any number, often 3 or 6). The faces follow the discipline: target faces, **field** faces (80, 60, 40 cm, or 20 cm in columns of three), or the **3D** animal. See [Field and 3D](rules.md#field-and-3d). These fields start from your last session of the same discipline; the bow doesn't set them.
+- **Distance**, **target face**, **paper faces** (for 3-spot faces: how many are on the boss, for example 2 faces = 6 spots), and **arrows per end** (any number, often 3 or 6). The faces follow the discipline: target faces, **field** faces (80, 60, 40 cm, or 20 cm in columns of three), or the **3D** animal. See [Field and 3D](rules.md#field-and-3d). These fields start from your last session of the same discipline; the bow doesn't set them. Before your first session of a discipline, they come from the bow type, and follow it if you pick a bow of another type (unless you changed them).
 - **Scoring rule**: set from Settings and the bow type. See [Scoring rules](rules.md).
 
 ## Shoot an end
@@ -39,11 +39,11 @@ With automatic scoring you don't have to wait: shoot the next end while the prev
 - **Scoresheet:** end by end, with the running total. Tap an end to see its photo and arrows again.
 - **Score by end** chart, with the average line, and the best and worst ends.
 - **Change** the scoring rule at any time. All the totals are recalculated.
-- **Change face**: if you shot at another face than the one set, pick the right one (same kind of face: target or field). Points are recalculated from the rings already recorded; arrows whose ring isn't on the new face, and misses that may score on a larger face, are marked for review. Possible once every end is scored.
+- **Change face**: if you shot at another face than the one set, pick the right one (same kind of face: target or field). Points are recalculated from the rings already recorded; arrows whose ring isn't on the new face, and misses that may score on a larger face, are marked for review. Each arrow keeps its spot, so changing back puts every arrow where it was. Possible once every end is scored.
 - The **sight mark** at this distance and the **arrows** shot, each with **Change**.
 - **Finish**. Ends that aren't confirmed don't count until you confirm them, which you can still do later.
 - **Discard this session** deletes it, after asking.
-- **Personal best:** once finished, the session says where it stands on its round (same distance, face, paper faces and number of arrows): your personal best, and which score it beat; equal to it; or the best to beat.
+- **Personal best:** once finished, the session says where it stands on its round (same distance, face, paper faces and number of arrows): your personal best, and which score it beat; equal to it; or the best to beat. After a face change, a session with ends marked for review counts again once you've checked them.
 
 ## Share a session
 

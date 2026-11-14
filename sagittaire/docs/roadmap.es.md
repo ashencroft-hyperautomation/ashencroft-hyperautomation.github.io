@@ -36,6 +36,10 @@ sagitt·AI·re es un proyecto pro bono del Estudio Ashencroft, construido a la v
 - [x] **Objetivos de entrenamiento:** flechas por semana y una media que alcanzar, en Inicio, y un reto de la semana en el modo juego
 - [x] Una revisión de accesibilidad de todas las pantallas (texto grande, lector de pantalla)
 - [x] El logotipo de Archery Canada en la pantalla de carga, en Información y en el sitio web
+- [x] **Cambiar la diana** de una sesión después, y un aviso cuando la foto no muestra la diana de la sesión
+- [x] Estadísticas: el gráfico de flechas dice lo que muestra, resalta una tanda cada vez, y un nuevo gráfico muestra **el centro de cada tanda**
+- [x] La puntuación por IA encuentra primero dónde entra cada flecha en la diana y luego decide su zona (más zonas correctas en las fotos de una tarde de club); una flecha marcada dice dónde la vio entrar la IA
+- [x] Una página sobre [privacidad, soberanía e IA responsable](responsible-ai.md)
 
 ## Próximamente { #coming }
 

@@ -36,6 +36,10 @@ sagitt·AI·re is a pro bono project of Ashencroft Studio, built in the open. He
 - [x] **Training goals:** arrows per week and an average to reach, on the Dashboard, and a weekly challenge in game mode
 - [x] An accessibility check of every screen (large text, screen reader)
 - [x] Archery Canada's logo on the loading screen, in About and on the website
+- [x] **Change the face** of a session afterwards, and a warning when the photo doesn't show the session's face
+- [x] Statistics: the arrows chart says what it shows, highlights one end at a time, and a new chart shows **each end's centre**
+- [x] AI scoring finds where each arrow enters the face first, then decides its ring (more rings right on a club evening's photos); a flagged arrow shows where the AI saw it go in
+- [x] A page on [privacy, sovereignty and responsible AI](responsible-ai.md)
 
 ## Coming
 

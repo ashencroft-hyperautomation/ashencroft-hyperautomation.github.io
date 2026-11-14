@@ -25,8 +25,8 @@ Cada flecha tiene un marcador blanco con su zona. Donde las flechas están junta
 - **Toca una flecha** para seleccionarla y luego toca la zona correcta. La segunda opción de la IA aparece resaltada, con su confianza. En una flecha de la que la IA no estaba segura, una línea dice dónde vio entrar el tubo (por ejemplo «borde del tubo sobre la línea 9/10»), para que sepas qué mirar.
 - **Añadir una flecha**: toca su zona, o activa **O toca la foto donde está**, toca donde está y luego elige su zona.
 - **Quitar esta flecha**: para la flecha de otro arquero, o una contada dos veces. La app pregunta antes.
-- Un aviso te advierte cuando el número de flechas encontradas no coincide con el de flechas tiradas, o cuando la foto tiene problemas (reflejos, desenfoque, diana cortada).
-- Si la IA indica que la foto no muestra la diana de la sesión (por ejemplo un solo spot en lugar de una triple diana), un aviso rojo lo dice primero, con **Cambiar diana** y, con tu propia clave de API y una tanda aún no confirmada, **Puntuar de nuevo**.
+- Un aviso te advierte cuando el número de flechas encontradas no coincide con el de flechas tiradas, o cuando la foto tiene problemas (reflejos, desenfoque, diana cortada). Cuando la IA encontró más flechas de las que tiraste y tu arco no dice cuáles son las tuyas, te sugiere añadir los colores de tus flechas al arco (**Arcos** → tu arco), para que la IA deje fuera las flechas de otros arqueros la próxima vez.
+- Si la IA indica que la foto no muestra la diana de la sesión (por ejemplo un solo spot en lugar de una triple diana), un aviso rojo lo dice primero, con **Cambiar diana** y, con tu propia clave de API y una tanda aún no confirmada, **Puntuar de nuevo**. Si puntuar de nuevo no funciona (sin conexión, por ejemplo), la respuesta anterior se mantiene, con una nota que dice qué falló.
 
 Luego toca **Confirmar · tirar la siguiente tanda** para volver directamente a la cámara, o **Confirmar y volver a la sesión**. El botón de la papelera elimina la tanda, tras preguntar.
 

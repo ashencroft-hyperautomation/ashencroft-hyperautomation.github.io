@@ -21,7 +21,7 @@ sagitt·AI·re sends one request to the AI service you chose. It contains:
 | Part | What it says |
 |------|--------------|
 | **The photo** | The trimmed target. |
-| **How to read a target** | The same for every end. Find the arrows stuck in the face, not old holes or other archers' arrows. Give the point where each shaft enters the face, not the nock. Apply the line rule: a shaft touching a line scores the higher zone. Say when an arrow is close to a line, and how sure you are. |
+| **How to read a target** | The same for every end. Find the arrows stuck in the face, not old holes or other archers' arrows. First find where each shaft enters the face, not the nock, the fletching or its shadow, and say in a few words where that is against the lines. Then decide the ring from that point with the line rule: a shaft touching a line scores the higher zone. Say when an arrow is close to a line, and how sure you are. |
 | **Your setup** | Built from the session: the face and its rings, how many paper faces and spots (2 triple faces = 6 spots), how many arrows to look for, your scoring rule with what each ring is worth, and your arrow description. |
 | **The answer format** | A fixed list of fields, so the answer can always be read. |
 

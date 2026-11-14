@@ -21,7 +21,7 @@ sagitt·AI·re envía una solicitud al servicio de IA que elegiste. Contiene:
 | Parte | Qué dice |
 |------|--------------|
 | **La foto** | La diana recortada. |
-| **Cómo leer una diana** | Lo mismo para cada tanda. Encuentra las flechas clavadas en la diana, no agujeros antiguos ni flechas de otros arqueros. Da el punto donde cada varilla entra en la diana, no el culatín. Aplica la regla de la línea: una varilla que toca una línea puntúa la zona más alta. Indica cuándo una flecha está cerca de una línea, y cuán seguro estás. |
+| **Cómo leer una diana** | Lo mismo para cada tanda. Encuentra las flechas clavadas en la diana, no agujeros antiguos ni flechas de otros arqueros. Encuentra primero el punto donde cada varilla entra en la diana, no el culatín, las plumas ni su sombra, y di en pocas palabras dónde queda respecto a las líneas. Luego decide la zona desde ese punto con la regla de la línea: una varilla que toca una línea puntúa la zona más alta. Indica cuándo una flecha está cerca de una línea, y cuán seguro estás. |
 | **Tu configuración** | Se construye a partir de la sesión: la diana y sus zonas, cuántas dianas de papel y spots (2 triples dianas = 6 spots), cuántas flechas buscar, tu regla de puntuación con lo que vale cada zona, y la descripción de tus flechas. |
 | **El formato de la respuesta** | Una lista fija de campos, para que la respuesta siempre se pueda leer. |
 
