@@ -164,13 +164,13 @@ Les images, la musique, les sons et la police pixel ont été créés pour sagit
 - `com.anthropic:anthropic-java-client-okhttp` 3.8.0
 - `com.anthropic:anthropic-java-core` 3.8.0
 - `com.fasterxml:classmate` 1.7.0
-- `com.fasterxml.jackson:jackson-bom` 2.19.4
-- `com.fasterxml.jackson.core:jackson-annotations` 2.19.4
-- `com.fasterxml.jackson.core:jackson-core` 2.19.4
-- `com.fasterxml.jackson.core:jackson-databind` 2.19.4
-- `com.fasterxml.jackson.datatype:jackson-datatype-jdk8` 2.19.4
-- `com.fasterxml.jackson.datatype:jackson-datatype-jsr310` 2.19.4
-- `com.fasterxml.jackson.module:jackson-module-kotlin` 2.19.4
+- `com.fasterxml.jackson:jackson-bom` 2.21.7
+- `com.fasterxml.jackson.core:jackson-annotations` 2.21
+- `com.fasterxml.jackson.core:jackson-core` 2.21.7
+- `com.fasterxml.jackson.core:jackson-databind` 2.21.7
+- `com.fasterxml.jackson.datatype:jackson-datatype-jdk8` 2.21.7
+- `com.fasterxml.jackson.datatype:jackson-datatype-jsr310` 2.21.7
+- `com.fasterxml.jackson.module:jackson-module-kotlin` 2.21.7
 - `com.github.victools:jsonschema-generator` 4.38.0
 - `com.github.victools:jsonschema-module-jackson` 4.38.0
 - `com.github.victools:jsonschema-module-swagger-2` 4.38.0
@@ -183,22 +183,22 @@ Les images, la musique, les sons et la police pixel ont été créés pour sagit
 - `com.google.dagger:hilt-android` 2.60.1
 - `com.google.dagger:hilt-core` 2.60.1
 - `com.google.errorprone:error_prone_annotations` 2.50.0
-- `com.google.guava:failureaccess` 1.0.2
-- `com.google.guava:guava` 33.3.1-android
+- `com.google.guava:failureaccess` 1.0.3
+- `com.google.guava:guava` 33.7.2-android
 - `com.google.guava:listenablefuture` 9999.0-empty-to-avoid-conflict-with-guava
-- `com.google.j2objc:j2objc-annotations` 3.0.0
+- `com.google.j2objc:j2objc-annotations` 3.1
 - `com.squareup.okhttp3:okhttp` 4.12.0
 - `com.squareup.okio:okio` 3.17.0
 - `com.squareup.okio:okio-jvm` 3.17.0
-- `io.opentelemetry:opentelemetry-api` 1.62.0
-- `io.opentelemetry:opentelemetry-common` 1.62.0
-- `io.opentelemetry:opentelemetry-context` 1.62.0
+- `io.opentelemetry:opentelemetry-api` 1.67.0
+- `io.opentelemetry:opentelemetry-common` 1.67.0
+- `io.opentelemetry:opentelemetry-context` 1.67.0
 - `io.swagger.core.v3:swagger-annotations` 2.2.50
 - `jakarta.inject:jakarta.inject-api` 2.0.1
 - `javax.inject:javax.inject` 1
 - `org.jetbrains:annotations` 23.0.0
 - `org.jetbrains.kotlin:kotlin-bom` 1.8.0
-- `org.jetbrains.kotlin:kotlin-reflect` 1.9.25
+- `org.jetbrains.kotlin:kotlin-reflect` 2.1.21
 - `org.jetbrains.kotlin:kotlin-stdlib` 2.4.21
 - `org.jetbrains.kotlin:kotlin-stdlib-common` 2.4.21
 - `org.jetbrains.kotlin:kotlin-stdlib-jdk7` 1.9.0
@@ -214,7 +214,7 @@ Les images, la musique, les sons et la police pixel ont été créés pour sagit
 - `org.jetbrains.kotlinx:kotlinx-serialization-core-jvm` 1.12.0
 - `org.jetbrains.kotlinx:kotlinx-serialization-json` 1.12.0
 - `org.jetbrains.kotlinx:kotlinx-serialization-json-jvm` 1.12.0
-- `org.jspecify:jspecify` 1.0.0
+- `org.jspecify:jspecify` 1.0.1
 
 ??? note "Texte intégral (en anglais)"
     ```text
@@ -421,39 +421,6 @@ Les images, la musique, les sons et la police pixel ont été créés pour sagit
        limitations under the License.
     ```
 
-## MIT License
-
-*3 bibliothèques*
-
-- `com.standardwebhooks:standardwebhooks` 1.2.0 — Copyright (c) 2023 Svix (https://www.svix.com)
-- `org.checkerframework:checker-qual` 3.43.0 — Copyright 2004-present by the Checker Framework developers
-- `org.slf4j:slf4j-api` 2.0.16 — Copyright (c) 2004-2022 QOS.ch Sarl (Switzerland). All rights reserved.
-
-??? note "Texte intégral (en anglais)"
-    ```text
-    MIT License
-
-    Copyright (c) <the copyright notice shown with each library>
-
-    Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to deal
-    in the Software without restriction, including without limitation the rights
-    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-    copies of the Software, and to permit persons to whom the Software is
-    furnished to do so, subject to the following conditions:
-
-    The above copyright notice and this permission notice shall be included in all
-    copies or substantial portions of the Software.
-
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-    SOFTWARE.
-    ```
-
 ## BSD 3-Clause License
 
 *2 bibliothèques*
@@ -491,6 +458,38 @@ Les images, la musique, les sons et la police pixel ont été créés pour sagit
     CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
     OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
     OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+    ```
+
+## MIT License
+
+*2 bibliothèques*
+
+- `com.standardwebhooks:standardwebhooks` 1.2.0 — Copyright (c) 2023 Svix (https://www.svix.com)
+- `org.slf4j:slf4j-api` 2.0.16 — Copyright (c) 2004-2022 QOS.ch Sarl (Switzerland). All rights reserved.
+
+??? note "Texte intégral (en anglais)"
+    ```text
+    MIT License
+
+    Copyright (c) <the copyright notice shown with each library>
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.
     ```
 
 ## SIL Open Font License 1.1
