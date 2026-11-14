@@ -1,6 +1,6 @@
 # Política de privacidad
 
-*Versión 3 · Vigente desde el 13 de noviembre de 2026*
+*Versión 4 · Vigente desde el 13 de noviembre de 2026*
 
 *Esta es una traducción que se ofrece solo para tu comodidad; únicamente las versiones en francés y en inglés hacen fe y, si hay cualquier diferencia, prevalecen sobre esta.*
 
@@ -39,13 +39,20 @@ Tu nombre, tus lugares, tu historial, tus puntuaciones y los datos de tu disposi
 
 **Informar de un problema de puntuación.** Cuando tocas Informar de un problema de puntuación en una tanda, la App redacta un correo sobre esa tanda (diana, distancia, regla, modelo de IA, y cada flecha tal como la puntuó la IA y como está ahora) y, si lo marcas, adjunta la copia de la foto que se envía al servicio de IA. Tu app de correo se abre sin destinatario: tú eliges a quién enviarlo, y no se envía nada hasta que lo envíes. Tus arcos, lugares y fechas no se incluyen.
 
-**Exportaciones.** Cuando exportas tus registros, la App escribe un archivo en el lugar que elijas (por ejemplo, tu carpeta de descargas o una unidad en la nube). Las claves de API y las direcciones de los servicios nunca se incluyen en una exportación. Guarda el archivo en un lugar privado: cualquiera que tenga el archivo puede leer tus registros.
+**Exportaciones.** Cuando exportas tus registros, la App escribe un archivo, sin cifrar, en el lugar que elijas (por ejemplo, tu carpeta de descargas o una unidad en la nube). Según lo que elijas exportar, contiene tus arcos, lugares, sesiones, tandas, flechas y notas, la respuesta del servicio de IA para cada tanda, tus ajustes salvo las claves y las direcciones, y las fotos de tus tandas a tamaño completo y sin recortar, con cualquier persona o cosa que aparezca en ellas. Las claves de API y las direcciones de los servicios nunca se incluyen en una exportación. Guarda el archivo en un lugar privado y borra las copias que ya no necesites: cualquiera que tenga el archivo puede leer tus registros y ver tus fotos.
 
 **Verificar una clave.** El botón «Comprobar clave» envía tu clave a su servicio para confirmar que funciona.
 
 ## 4. Servicios de IA
 
 Cada servicio de IA que usas es una empresa independiente con sus propias condiciones y su propia política de privacidad, que determinan cómo usa, conserva y protege lo que recibe, incluido si puede usarlo para entrenar sus modelos, y en qué lugar del mundo lo trata, que puede estar fuera de Québec y de Canadá. Léelas antes de usar el servicio, y elige el servicio y la configuración de tu cuenta en él en consecuencia. El Desarrollador no tiene ningún control sobre estos servicios y no recibe nada de ellos.
+
+A noviembre de 2026, los servicios que ofrece la App dicen lo siguiente sobre lo que reciben a través de sus API. Sus propias condiciones prevalecen y pueden cambiar, y el sitio web de sagitt·AI·re indica lo que dice cada uno:
+
+- lo conservan hasta 30 o 55 días, según el servicio, para detectar abusos, y algunos lo conservan hasta 2 años cuando sus sistemas de seguridad lo marcan;
+- algunos revisan las imágenes en busca de material de abuso sexual infantil y conservan las imágenes marcadas para su revisión;
+- con una cuenta de pago, no lo usan para entrenar sus modelos ni para mejorar sus productos, salvo que lo aceptes en tu cuenta;
+- el nivel gratuito de uno de los servicios lo usa para mejorar sus productos y permite que revisores humanos lo lean: con ese servicio, usa una clave con la facturación activada, como explican los Ajustes de la App.
 
 ## 5. Permisos
 
@@ -70,14 +77,18 @@ La App protege tu información con el aislamiento de aplicaciones (sandbox) de A
 
 La App no está dirigida a menores de 14 años y no recopila información de nadie. Los servicios de IA fijan sus propias edades mínimas. Un padre, una madre o un tutor debería configurar cualquier servicio de IA que use un menor, o elegir la puntuación manual, que no envía nada.
 
-## 10. Cambios en esta política
+## 10. El sitio web
+
+El sitio web de sagitt·AI·re (ashencroft-hyperautomation.github.io/sagittaire) está alojado por GitHub. Cuando lo visitas, GitHub recibe tu dirección de red (IP) y las páginas que pides, y las trata según la Declaración de privacidad de GitHub; el Desarrollador no recibe estos registros. El sitio web no tiene cuentas, cookies, analítica, publicidad ni rastreo. Sus fuentes y demás archivos se sirven desde el propio sitio web, así que, en un navegador actual, visitarlo no contacta con ningún otro servicio. Tu elección de apariencia clara u oscura solo la recuerda tu navegador. Si abres una incidencia (issue) en GitHub, lo que escribas es público y GitHub lo trata según sus propias condiciones.
+
+## 11. Cambios en esta política
 
 Si esta política cambia de forma sustancial, la nueva versión se mostrará en la App, con su fecha, y se te pedirá que vuelvas a aceptar las condiciones de uso antes de continuar. La versión vigente está siempre en la App (Ajustes → Información y aviso legal) y en el sitio web de sagitt·AI·re.
 
-## 11. Preguntas
+## 12. Preguntas
 
 La App y su sitio web están hechos pro bono para Archery Canada y los gestiona el Desarrollador. Si tienes preguntas sobre esta política, abre una incidencia (issue) en github.com/ashencroft-hyperautomation/ashencroft-hyperautomation.github.io/issues. Las incidencias son públicas: no incluyas información personal, fotos ni claves de API.
 
-## 12. Idioma
+## 13. Idioma
 
 Esta política está redactada en francés y en inglés; ambas versiones hacen igualmente fe. *Cette politique est rédigée en français et en anglais; les deux versions font également foi.*

@@ -40,6 +40,9 @@ extra_css:
 
 plugins:
   - search
+  # Downloads the Google Fonts (and any other outside file) at build time and serves them from the site itself, so a
+  # visit contacts only GitHub (privacy policy, section 10).
+  - privacy
   - i18n:
       docs_structure: suffix
       languages:

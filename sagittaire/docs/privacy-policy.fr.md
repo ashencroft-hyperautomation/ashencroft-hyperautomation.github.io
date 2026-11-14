@@ -1,6 +1,6 @@
 # Politique de confidentialité
 
-*Version 3 · En vigueur le 13 novembre 2026*
+*Version 4 · En vigueur le 13 novembre 2026*
 
 La présente politique explique quels renseignements l’application sagitt·AI·re (l’« Application ») traite, où ils sont conservés, quand ils quittent votre appareil et ce que vous pouvez faire à leur égard. Elle fait partie des conditions d’utilisation. Le « Développeur » désigne le développeur de sagitt·AI·re.
 
@@ -37,13 +37,20 @@ Votre nom, vos lieux, votre historique, vos pointages et les détails de votre a
 
 **Signaler un problème de comptage.** Lorsque vous touchez Signaler un problème de comptage sur une volée, l’Application rédige un e-mail sur cette volée (blason, distance, règle, modèle d’IA, et chaque flèche telle que l’IA l’a comptée et telle qu’elle est maintenant) et, si vous cochez la case, y joint la copie de la photo envoyée au service d’IA. Votre application de messagerie s’ouvre sans destinataire : vous choisissez à qui l’envoyer, et rien n’est envoyé tant que vous ne l’envoyez pas. Vos arcs, lieux et dates n’y figurent pas.
 
-**Exportations.** Lorsque vous exportez vos registres, l’Application écrit un fichier à l’endroit que vous choisissez (par exemple, vos téléchargements ou un espace de stockage en ligne). Les clés API et les adresses des services ne sont jamais incluses dans une exportation. Gardez ce fichier en lieu sûr : quiconque l’a en main peut lire vos registres.
+**Exportations.** Lorsque vous exportez vos registres, l’Application écrit un fichier, non chiffré, à l’endroit que vous choisissez (par exemple, vos téléchargements ou un espace de stockage en ligne). Selon ce que vous choisissez d’exporter, il contient vos arcs, vos lieux, vos séances, vos volées, vos flèches et vos notes, la réponse du service d’IA pour chaque volée, vos réglages autres que les clés et les adresses, et les photos de vos volées en pleine taille et non recadrées, avec toute personne ou toute chose qui y figure. Les clés API et les adresses des services ne sont jamais incluses dans une exportation. Gardez ce fichier en lieu sûr et supprimez les copies dont vous n’avez plus besoin : quiconque l’a en main peut lire vos registres et voir vos photos.
 
 **Vérification d’une clé.** Le bouton « Vérifier la clé » envoie votre clé à son service pour confirmer qu’elle fonctionne.
 
 ## 4. Services d’IA
 
 Chaque service d’IA que vous utilisez est une entreprise distincte qui a ses propres conditions et sa propre politique de confidentialité. Ce sont elles qui déterminent comment il utilise, conserve et protège ce qu’il reçoit, notamment s’il peut s’en servir pour entraîner ses modèles, et où dans le monde il le traite, ce qui peut être à l’extérieur du Québec et du Canada. Lisez-les avant d’utiliser le service, et choisissez le service et les réglages de votre compte en conséquence. Le Développeur n’a aucun contrôle sur ces services et ne reçoit rien d’eux.
+
+En novembre 2026, les services que l’Application propose indiquent ce qui suit au sujet de ce qu’ils reçoivent par leurs API. Leurs propres conditions l’emportent et peuvent changer, et le site Web de sagitt·AI·re indique ce que chacun en dit :
+
+- ils le conservent jusqu’à 30 ou 55 jours, selon le service, pour détecter les abus, et certains le conservent jusqu’à 2 ans quand leurs systèmes de sécurité le signalent ;
+- certains vérifient les images à la recherche de matériel d’abus pédosexuel et conservent les images signalées pour examen ;
+- avec un compte payant, ils ne s’en servent pas pour entraîner leurs modèles ni pour améliorer leurs produits, sauf si vous l’acceptez dans votre compte ;
+- l’offre gratuite d’un des services s’en sert pour améliorer ses produits et permet à des examinateurs humains de le lire : avec ce service, utilisez une clé dont la facturation est activée, comme l’expliquent les Réglages de l’Application.
 
 ## 5. Autorisations
 
@@ -68,14 +75,18 @@ L’Application protège vos renseignements au moyen de l’isolement des applic
 
 L’Application ne s’adresse pas aux enfants de moins de 14 ans et ne recueille de renseignements auprès de personne. Les services d’IA fixent leur propre âge minimum. Un parent ou un tuteur devrait configurer tout service d’IA qu’un enfant utilise, ou choisir le comptage manuel, qui n’envoie rien.
 
-## 10. Modifications de la présente politique
+## 10. Le site Web
+
+Le site Web de sagitt·AI·re (ashencroft-hyperautomation.github.io/sagittaire) est hébergé par GitHub. Quand vous le visitez, GitHub reçoit votre adresse réseau (IP) et les pages que vous demandez, et les traite selon la Déclaration de confidentialité de GitHub ; le Développeur ne reçoit pas ces journaux. Le site Web n’a ni compte, ni témoins (cookies), ni outil d’analyse, ni publicité, ni pistage. Ses polices de caractères et ses autres fichiers sont servis par le site Web lui-même, de sorte que, dans un navigateur récent, le visiter ne contacte aucun autre service. Votre choix d’apparence claire ou sombre n’est mémorisé que par votre navigateur. Si vous ouvrez un ticket (issue) sur GitHub, ce que vous écrivez est public et traité par GitHub selon ses propres conditions.
+
+## 11. Modifications de la présente politique
 
 Si la présente politique change de façon importante, la nouvelle version sera affichée dans l’Application, avec sa date, et il vous sera demandé d’accepter de nouveau les conditions d’utilisation avant de continuer. La version en vigueur se trouve toujours dans l’Application (Réglages → À propos et mentions légales) et sur le site Web de sagitt·AI·re.
 
-## 11. Questions
+## 12. Questions
 
 L’Application et son site Web sont créés pro bono pour Tir à l’arc Canada et gérés par le Développeur. Pour toute question sur la présente politique, ouvrez un billet (« issue ») à l’adresse github.com/ashencroft-hyperautomation/ashencroft-hyperautomation.github.io/issues. Les billets sont publics : n’y incluez aucun renseignement personnel, aucune photo et aucune clé API.
 
-## 12. Langue
+## 13. Langue
 
 La présente politique est rédigée en français et en anglais, et les deux versions font également foi. *This policy is drawn up in French and in English ; both versions are equally authoritative.*

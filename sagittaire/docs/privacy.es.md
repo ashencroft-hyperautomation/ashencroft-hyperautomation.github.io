@@ -13,7 +13,7 @@ Eso es todo: tus arcos y lugares, tus sesiones, cada tanda con su foto y cada fl
 - Otras apps no pueden leerlo, y las fotos no están en tu galería.
 - Nada va automáticamente a una copia de seguridad en la nube ni a un teléfono nuevo.
 - No hay cuenta, ni publicidad, ni analítica, ni seguimiento.
-- **Desinstalar la app lo borra todo**, así que exporta antes: **Ajustes → Almacenamiento y copia de seguridad** guarda todo en un archivo que conservas, y lo restaura en el mismo teléfono o en uno nuevo. Las claves de API y las direcciones de los servicios nunca se incluyen en una exportación.
+- **Desinstalar la app lo borra todo**, así que exporta antes: **Ajustes → Almacenamiento y copia de seguridad** guarda todo en un archivo que conservas, y lo restaura en el mismo teléfono o en uno nuevo. Las claves de API y las direcciones de los servicios nunca se incluyen en una exportación. El archivo no está cifrado y contiene tus fotos a tamaño completo, sin recortar: guárdalo en un lugar privado.
 
 ## Qué se envía, y cuándo { #what-is-sent-and-when }
 
@@ -45,11 +45,13 @@ Ajustes muestra la misma lista, en **Qué se envía a …**, para el servicio qu
 
 | Servicio | ¿Se usa para entrenar IA? | Se conserva |
 |---------|-------------------|------|
-| **Anthropic** | No | Según las condiciones comerciales de Anthropic |
-| **OpenAI** | No, salvo que lo aceptes en tu cuenta | sagitt·AI·re pide a OpenAI que no guarde la solicitud. Los registros de seguridad se conservan hasta 30 días. |
-| **Google Gemini**, con facturación | No | Se registra durante un tiempo limitado para detectar abusos |
+| **Anthropic** | No | Se borra en un plazo de 30 días; hasta 2 años si sus sistemas de seguridad lo marcan |
+| **OpenAI** | No, salvo que lo aceptes en tu cuenta | sagitt·AI·re pide a OpenAI que no guarde la solicitud. Los registros de seguridad se conservan hasta 30 días. Las imágenes se revisan en busca de material de abuso sexual infantil. |
+| **Google Gemini**, con facturación | No | Se registra 55 días para detectar abusos |
 | **Google Gemini**, nivel gratuito | **Sí**: puede usarse para mejorar los productos de Google, y revisores humanos pueden leerlo | No se indica |
 | **Un servicio compatible con OpenAI**, o **tu app de IA** | Depende de ese servicio: consulta sus condiciones | Depende de ese servicio |
+
+Según lo indica cada servicio en noviembre de 2026; sus propias condiciones prevalecen y pueden cambiar. El texto formal está en la [política de privacidad](privacy-policy.md), sección 4.
 
 !!! warning "Gemini: usa una clave con facturación"
     En el nivel gratuito de Google, tus fotos de dianas pueden ser usadas por Google y vistas por revisores. Usa una clave de un proyecto de Google Cloud con la facturación activada. sagitt·AI·re no puede comprobarlo por ti.
@@ -74,5 +76,9 @@ El modo juego no envía nada. El aspecto de tu arquero, tu compañero y tus ajus
 | Internet | Para la puntuación automática con un servicio de IA (no se usa en la puntuación manual) |
 
 Ningún permiso de ubicación, contactos, micrófono ni almacenamiento. Importar una foto usa el selector de fotos de Android, que solo le da a sagitt·AI·re la foto que eliges.
+
+## Este sitio web { #this-website }
+
+Este sitio web está alojado por GitHub, que ve tu dirección de red (IP) cuando lo visitas. No hay cookies, analítica ni rastreo, y sus fuentes vienen de este sitio, no de Google. Tu elección de apariencia clara u oscura solo la recuerda tu navegador.
 
 Más sobre cómo se protegen tus datos: [Seguridad](security.md).

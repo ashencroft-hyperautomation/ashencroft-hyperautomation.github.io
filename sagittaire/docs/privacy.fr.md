@@ -13,7 +13,7 @@ C'est tout : vos arcs et vos lieux, vos séances, chaque volée avec sa photo, 
 - Les autres applications ne peuvent pas les lire, et les photos ne sont pas dans votre galerie.
 - Rien ne part automatiquement vers une sauvegarde en ligne ou un nouveau téléphone.
 - Pas de compte, pas de publicité, pas de statistiques d'utilisation, pas de pistage.
-- **Désinstaller l'application efface tout**, alors exportez d'abord : **Réglages → Stockage et sauvegarde** enregistre tout dans un fichier que vous gardez, et le restaure sur le même téléphone ou un nouveau. Les clés API et les adresses de service ne sont jamais mises dans un export.
+- **Désinstaller l'application efface tout**, alors exportez d'abord : **Réglages → Stockage et sauvegarde** enregistre tout dans un fichier que vous gardez, et le restaure sur le même téléphone ou un nouveau. Les clés API et les adresses de service ne sont jamais mises dans un export. Le fichier n'est pas chiffré et contient vos photos en pleine taille, non recadrées : gardez-le en lieu sûr.
 
 ## Ce qui est envoyé, et quand
 
@@ -45,11 +45,13 @@ Les réglages affichent la même liste, sous **Ce qui est envoyé à …**, pour
 
 | Service | Sert à entraîner une IA ? | Conservation |
 |---------|---------------------------|--------------|
-| **Anthropic** | Non | Selon les conditions commerciales d'Anthropic |
-| **OpenAI** | Non, sauf si vous l'acceptez sur votre compte | sagitt·AI·re demande à OpenAI de ne pas garder la requête. Journaux de sécurité gardés jusqu'à 30 jours. |
-| **Google Gemini**, facturation activée | Non | Journalisé pendant une durée limitée pour détecter les abus |
+| **Anthropic** | Non | Supprimé dans les 30 jours ; jusqu'à 2 ans si ses systèmes de sécurité le signalent |
+| **OpenAI** | Non, sauf si vous l'acceptez sur votre compte | sagitt·AI·re demande à OpenAI de ne pas garder la requête. Journaux de sécurité gardés jusqu'à 30 jours. Les images sont vérifiées à la recherche de matériel d'abus pédosexuel. |
+| **Google Gemini**, facturation activée | Non | Journalisé 55 jours pour détecter les abus |
 | **Google Gemini**, offre gratuite | **Oui** : peut servir à améliorer les produits de Google, et être lu par des personnes | Non précisé |
 | **Un service compatible OpenAI**, ou **votre application d’IA** | Selon ce service : consultez ses conditions | Selon ce service |
+
+Tel que chaque service l'indique en novembre 2026 ; leurs propres conditions l'emportent et peuvent changer. Le texte officiel est dans la [politique de confidentialité](privacy-policy.md), section 4.
 
 !!! warning "Gemini : utilisez une clé avec la facturation activée"
     Avec l'offre gratuite de Google, vos photos de cible peuvent être utilisées par Google et vues par des examinateurs. Utilisez une clé d'un projet Google Cloud avec la facturation activée. sagitt·AI·re ne peut pas le vérifier à votre place.
@@ -74,5 +76,9 @@ Le mode jeu n’envoie rien. L’apparence de votre archer, votre compagnon et v
 | Internet | Pour le comptage automatique par un service d’IA (inutile en comptage manuel) |
 
 Aucune autorisation de position, de contacts, de micro ou de stockage. L'import d'une photo passe par le sélecteur de photos d'Android, qui ne donne à sagitt·AI·re que la photo que vous choisissez.
+
+## Ce site Web
+
+Ce site Web est hébergé par GitHub, qui voit votre adresse réseau (IP) quand vous le visitez. Il n'y a ni témoins (cookies), ni outil d'analyse, ni pistage, et ses polices de caractères viennent de ce site, pas de Google. Votre choix d'apparence claire ou sombre n'est mémorisé que par votre navigateur.
 
 Pour en savoir plus sur la protection de vos données : [Sécurité](security.md).

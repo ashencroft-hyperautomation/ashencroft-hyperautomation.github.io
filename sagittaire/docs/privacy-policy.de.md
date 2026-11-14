@@ -1,6 +1,6 @@
 # Datenschutzerklärung
 
-*Version 3 · Gültig ab 13. November 2026*
+*Version 4 · Gültig ab 13. November 2026*
 
 *Dies ist eine Übersetzung, die dir nur zur besseren Verständlichkeit bereitgestellt wird; maßgeblich sind allein die französische und die englische Fassung, die bei jeder Abweichung Vorrang haben.*
 
@@ -39,13 +39,20 @@ Dein Name, deine Orte, dein Verlauf, deine Ergebnisse und Angaben zu deinem Ger�
 
 **Ein Wertungsproblem melden.** Wenn du bei einer Passe auf „Wertungsproblem melden“ tippst, schreibt die App eine E-Mail zu dieser Passe (Auflage, Entfernung, Regel, KI-Modell und jeder Pfeil so, wie die KI ihn gewertet hat und wie er jetzt ist) und hängt, wenn du es ankreuzt, die Kopie des Fotos an, die an den KI-Dienst geht. Deine E-Mail-App öffnet sich ohne Empfänger: Du wählst, an wen sie geht, und nichts wird gesendet, bevor du sie sendest. Deine Bögen, Orte und Daten sind nicht enthalten.
 
-**Exporte.** Wenn du deine Aufzeichnungen exportierst, schreibt die App eine Datei an den Ort, den du wählst (zum Beispiel deinen Download-Ordner oder einen Cloud-Speicher). API-Schlüssel und Dienstadressen werden nie in einen Export aufgenommen. Bewahre die Datei an einem privaten Ort auf: Wer die Datei hat, kann deine Aufzeichnungen lesen.
+**Exporte.** Wenn du deine Aufzeichnungen exportierst, schreibt die App eine unverschlüsselte Datei an den Ort, den du wählst (zum Beispiel deinen Download-Ordner oder einen Cloud-Speicher). Je nachdem, was du exportierst, enthält sie deine Bögen, Orte, Einheiten, Passen, Pfeile und Notizen, die Antwort des KI-Dienstes zu jeder Passe, deine Einstellungen außer Schlüsseln und Adressen sowie die Fotos deiner Passen in voller Größe und unbeschnitten, mit allen Personen und Dingen, die darauf zu sehen sind. API-Schlüssel und Dienstadressen werden nie in einen Export aufgenommen. Bewahre die Datei an einem privaten Ort auf und lösche Kopien, die du nicht mehr brauchst: Wer die Datei hat, kann deine Aufzeichnungen lesen und deine Fotos sehen.
 
 **Prüfen eines Schlüssels.** Die Schaltfläche „Schlüssel prüfen“ sendet deinen Schlüssel an den zugehörigen Dienst, um zu bestätigen, dass er funktioniert.
 
 ## 4. KI-Dienste
 
 Jeder KI-Dienst, den du nutzt, ist ein eigenständiges Unternehmen mit eigenen Nutzungsbedingungen und eigener Datenschutzerklärung. Diese legen fest, wie er das, was er erhält, verwendet, aufbewahrt und schützt, einschließlich der Frage, ob er es zum Training seiner Modelle verwenden darf und wo auf der Welt er es verarbeitet, was auch außerhalb von Québec und Kanada sein kann. Lies sie, bevor du den Dienst nutzt, und wähle den Dienst und die Einstellungen deines Kontos dort entsprechend. Der Entwickler hat keine Kontrolle über diese Dienste und erhält nichts von ihnen.
+
+Stand November 2026 sagen die Dienste, die die App anbietet, Folgendes über das, was sie über ihre APIs erhalten. Ihre eigenen Bedingungen haben Vorrang und können sich ändern, und die Website von sagitt·AI·re gibt an, was jeder Dienst sagt:
+
+- Sie bewahren es je nach Dienst bis zu 30 oder 55 Tage zur Missbrauchserkennung auf, und manche bis zu 2 Jahre, wenn ihre Sicherheitssysteme es markieren;
+- manche prüfen Bilder auf Darstellungen sexuellen Kindesmissbrauchs und bewahren markierte Bilder zur Prüfung auf;
+- mit einem kostenpflichtigen Konto verwenden sie es nicht zum Training ihrer Modelle oder zur Verbesserung ihrer Produkte, außer du stimmst dem in deinem Konto zu;
+- das kostenlose Angebot eines der Dienste verwendet es zur Verbesserung seiner Produkte, und menschliche Prüfer können es lesen: Verwende bei diesem Dienst einen Schlüssel mit aktivierter Abrechnung, wie es die Einstellungen der App erklären.
 
 ## 5. Berechtigungen
 
@@ -70,14 +77,18 @@ Die App schützt deine Informationen mit der App-Sandbox von Android, verschlüs
 
 Die App richtet sich nicht an Kinder unter 14 Jahren und erhebt von niemandem Informationen. KI-Dienste legen ihr eigenes Mindestalter fest. Ein Elternteil oder eine erziehungsberechtigte Person sollte jeden KI-Dienst einrichten, den ein Kind nutzt, oder die manuelle Wertung wählen, bei der nichts gesendet wird.
 
-## 10. Änderungen dieser Erklärung
+## 10. Die Website
+
+Die Website von sagitt·AI·re (ashencroft-hyperautomation.github.io/sagittaire) wird von GitHub gehostet. Wenn du sie besuchst, erhält GitHub deine Netzwerkadresse (IP-Adresse) und die Seiten, die du aufrufst, und verarbeitet sie gemäß der Datenschutzerklärung von GitHub; der Entwickler erhält diese Protokolle nicht. Die Website hat kein Konto, keine Cookies, keine Analyse, keine Werbung und kein Tracking. Ihre Schriften und anderen Dateien kommen von der Website selbst, sodass bei einem Besuch mit einem aktuellen Browser kein anderer Dienst kontaktiert wird. Deine Wahl zwischen hellem und dunklem Erscheinungsbild merkt sich nur dein Browser. Wenn du auf GitHub ein Issue eröffnest, ist das, was du schreibst, öffentlich und wird von GitHub nach seinen eigenen Bedingungen verarbeitet.
+
+## 11. Änderungen dieser Erklärung
 
 Wenn sich diese Erklärung inhaltlich ändert, wird die neue Fassung mit ihrem Datum in der App angezeigt, und du wirst gebeten, die Nutzungsbedingungen erneut zu akzeptieren, bevor du weitermachst. Die aktuelle Fassung ist immer in der App (Einstellungen → Info und Rechtliches) und auf der Website von sagitt·AI·re verfügbar.
 
-## 11. Fragen
+## 12. Fragen
 
 Die App und ihre Website werden pro bono für Archery Canada gemacht und vom Entwickler betrieben. Bei Fragen zu dieser Erklärung eröffne ein Issue unter github.com/ashencroft-hyperautomation/ashencroft-hyperautomation.github.io/issues. Issues sind öffentlich: Füge keine personenbezogenen Informationen, Fotos oder API-Schlüssel hinzu.
 
-## 12. Sprache
+## 13. Sprache
 
 Diese Erklärung ist in französischer und in englischer Sprache abgefasst; beide Fassungen sind gleichermaßen verbindlich. *Cette politique est rédigée en français et en anglais; les deux versions font également foi.*

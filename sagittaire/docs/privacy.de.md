@@ -13,7 +13,7 @@ Das ist alles: deine Bögen und Orte, deine Einheiten, jede Passe mit ihrem Foto
 - Andere Apps können es nicht lesen, und die Fotos sind nicht in deiner Galerie.
 - Nichts geht automatisch in eine Cloud-Sicherung oder auf ein neues Handy.
 - Es gibt kein Konto, keine Werbung, keine Analyse und kein Tracking.
-- **Wenn du die App deinstallierst, wird alles gelöscht**, also exportiere vorher: **Einstellungen → Speicher und Sicherung** speichert alles in eine Datei, die du behältst, und stellt es auf demselben oder einem neuen Handy wieder her. API-Schlüssel und Adressen von Diensten kommen nie in einen Export.
+- **Wenn du die App deinstallierst, wird alles gelöscht**, also exportiere vorher: **Einstellungen → Speicher und Sicherung** speichert alles in eine Datei, die du behältst, und stellt es auf demselben oder einem neuen Handy wieder her. API-Schlüssel und Adressen von Diensten kommen nie in einen Export. Die Datei ist nicht verschlüsselt und enthält deine Fotos in voller Größe, unbeschnitten: Bewahre sie an einem privaten Ort auf.
 
 ## Was gesendet wird, und wann { #what-is-sent-and-when }
 
@@ -45,11 +45,13 @@ Die Einstellungen zeigen dieselbe Liste unter **Was an … gesendet wird**, für
 
 | Dienst | Zum Trainieren von KI genutzt? | Aufbewahrt |
 |---------|-------------------|------|
-| **Anthropic** | Nein | Nach den kommerziellen Bedingungen von Anthropic |
-| **OpenAI** | Nein, außer du stimmst in deinem Konto zu | sagitt·AI·re bittet OpenAI, die Anfrage nicht zu speichern. Sicherheitsprotokolle werden bis zu 30 Tage aufbewahrt. |
-| **Google Gemini**, mit aktivierter Abrechnung | Nein | Für begrenzte Zeit protokolliert, um Missbrauch zu erkennen |
+| **Anthropic** | Nein | Innerhalb von 30 Tagen gelöscht; bis zu 2 Jahre, wenn seine Sicherheitssysteme es markieren |
+| **OpenAI** | Nein, außer du stimmst in deinem Konto zu | sagitt·AI·re bittet OpenAI, die Anfrage nicht zu speichern. Sicherheitsprotokolle werden bis zu 30 Tage aufbewahrt. Bilder werden auf Darstellungen sexuellen Kindesmissbrauchs geprüft. |
+| **Google Gemini**, mit aktivierter Abrechnung | Nein | 55 Tage protokolliert, um Missbrauch zu erkennen |
 | **Google Gemini**, kostenlose Stufe | **Ja**: kann genutzt werden, um die Produkte von Google zu verbessern, und von menschlichen Prüfern gelesen werden | Nicht angegeben |
 | **Ein OpenAI-kompatibler Dienst** oder **deine KI-App** | Hängt von diesem Dienst ab: Prüf seine Bedingungen | Hängt von diesem Dienst ab |
+
+So, wie es jeder Dienst im November 2026 angibt; ihre eigenen Bedingungen haben Vorrang und können sich ändern. Der verbindliche Text steht in der [Datenschutzerklärung](privacy-policy.md), Abschnitt 4.
 
 !!! warning "Gemini: Nimm einen Schlüssel mit aktivierter Abrechnung"
     In der kostenlosen Stufe von Google können deine Scheibenfotos von Google genutzt und von Prüfern gesehen werden. Nimm einen Schlüssel aus einem Google-Cloud-Projekt mit aktivierter Abrechnung. sagitt·AI·re kann das nicht für dich prüfen.
@@ -74,5 +76,9 @@ Der Spielmodus sendet nichts. Das Aussehen deiner Figur, dein Begleiter und dein
 | Internet | Für die automatische Wertung mit einem KI-Dienst (bei der Wertung von Hand nicht genutzt) |
 
 Keine Berechtigungen für Standort, Kontakte, Mikrofon oder Speicher. Zum Importieren eines Fotos dient die Fotoauswahl von Android, die sagitt·AI·re nur das Foto gibt, das du wählst.
+
+## Diese Website { #this-website }
+
+Diese Website wird von GitHub gehostet, das beim Besuch deine Netzwerkadresse (IP-Adresse) sieht. Es gibt keine Cookies, keine Analyse und kein Tracking, und die Schriften kommen von dieser Website, nicht von Google. Deine Wahl zwischen hell und dunkel merkt sich nur dein Browser.
 
 Mehr dazu, wie deine Daten geschützt sind: [Sicherheit](security.md).

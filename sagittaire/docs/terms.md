@@ -1,6 +1,6 @@
 # Terms of use
 
-*Version 3 · Effective November 13, 2026*
+*Version 4 · Effective November 13, 2026*
 
 Please read these terms carefully. They form a legal agreement between you and the developer of sagitt·AI·re (the "Developer"). By tapping **Accept and continue**, or by installing, opening or otherwise using the sagitt·AI·re application (the "App"), you confirm that you have read, understood and accepted these terms. If you do not accept them, do not use the App and uninstall it.
 

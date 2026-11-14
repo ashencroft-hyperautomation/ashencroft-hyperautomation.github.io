@@ -1,4 +1,5 @@
 /* sagitt·AI·re is Archery Canada's app: its red, ink and white; Oswald for headings, Open Sans for text (theme font). */
+/* The privacy plugin (mkdocs.yml) downloads this at build time: the site serves the font itself. */
 @import url("https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&display=swap");
 :root, [data-md-color-scheme="default"] {
   --md-primary-fg-color: #c52328;

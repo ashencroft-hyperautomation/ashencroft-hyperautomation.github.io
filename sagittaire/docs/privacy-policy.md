@@ -1,6 +1,6 @@
 # Privacy policy
 
-*Version 3 · Effective November 13, 2026*
+*Version 4 · Effective November 13, 2026*
 
 This policy explains what information the sagitt·AI·re application (the "App") handles, where it is kept, when it leaves your device and what you can do about it. It is part of the terms of use. "Developer" means the developer of sagitt·AI·re.
 
@@ -37,13 +37,20 @@ Your name, places, history, scores and details about your device are never sent.
 
 **Reporting a scoring problem.** When you tap Report a scoring problem on an end, the App writes an email about that end (face, distance, rule, AI model, and each arrow as the AI scored it and as it is now) and, if you tick it, attaches the copy of the photo sent to the AI service. Your email app opens with no recipient: you choose who to send it to, and nothing is sent until you send it. Your bows, places and dates are not included.
 
-**Exports.** When you export your records, the App writes one file where you choose (for example, your Downloads or a cloud drive). API keys and service addresses are never put in an export. Keep the file somewhere private: anyone with the file can read your records.
+**Exports.** When you export your records, the App writes one file, which is not encrypted, where you choose (for example, your Downloads or a cloud drive). Depending on what you choose to export, it holds your bows, places, sessions, ends, arrows and notes, the AI service's answer for each end, your settings other than keys and addresses, and the photos of your ends at full size and uncropped, with anyone or anything that appears in them. API keys and service addresses are never put in an export. Keep the file somewhere private and delete copies you no longer need: anyone with the file can read your records and see your photos.
 
 **Checking a key.** The "Check key" button sends your key to its service to confirm it works.
 
 ## 4. AI services
 
 Each AI service you use is a separate company with its own terms and privacy policy, which decide how it uses, keeps and protects what it receives, including whether it may use it to train its models, and where in the world it processes it, which may be outside Québec and Canada. Read them before you use the service, and choose the service and the settings of your account with it accordingly. The Developer has no control over these services and receives nothing from them.
+
+As of November 2026, the services the App offers say this about what they receive through their APIs. Their own terms prevail and may change, and the sagitt·AI·re website lists what each one says:
+
+- they keep it for up to 30 or 55 days, depending on the service, to detect abuse, and some keep it up to 2 years when their safety systems flag it;
+- some check images for child sexual abuse material and keep flagged images for review;
+- with a paid account, they do not use it to train their models or improve their products, unless you agree to it in your account;
+- one service's free tier uses it to improve its products and lets human reviewers read it: with that service, use a key with billing turned on, as the App's Settings explain.
 
 ## 5. Permissions
 
@@ -68,14 +75,18 @@ The App protects your information with Android's app sandbox, encrypts your API 
 
 The App is not directed at children under 14 and collects no information from anyone. AI services set their own minimum ages. A parent or guardian should set up any AI service a child uses, or choose manual scoring, which sends nothing.
 
-## 10. Changes to this policy
+## 10. The website
+
+The sagitt·AI·re website (ashencroft-hyperautomation.github.io/sagittaire) is hosted by GitHub. When you visit it, GitHub receives your network (IP) address and the pages you ask for, and handles them under the GitHub Privacy Statement; the Developer does not receive these logs. The website has no account, no cookies, no analytics, no advertising and no tracking. Its fonts and other files are served from the website itself, so in a current browser, visiting it contacts no other service. Your choice of light or dark appearance is remembered by your browser only. If you open an issue on GitHub, what you write is public and handled by GitHub under its own terms.
+
+## 11. Changes to this policy
 
 If this policy changes in substance, the new version will be shown in the App, with its date, and you will be asked to accept the terms of use again before continuing. The current version is always in the App (Settings → About and legal) and on the sagitt·AI·re website.
 
-## 11. Questions
+## 12. Questions
 
 The App and its website are made pro bono for Archery Canada and run by the Developer. For questions about this policy, open an issue at github.com/ashencroft-hyperautomation/ashencroft-hyperautomation.github.io/issues. Issues are public: do not include personal information, photos or API keys.
 
-## 12. Language
+## 13. Language
 
 This policy is drawn up in French and in English; both versions are equally authoritative. *Cette politique est rédigée en français et en anglais; les deux versions font également foi.*

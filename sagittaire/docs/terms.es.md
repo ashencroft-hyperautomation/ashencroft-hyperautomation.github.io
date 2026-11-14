@@ -1,6 +1,6 @@
 # Condiciones de uso
 
-*Versión 3 · Vigente desde el 13 de noviembre de 2026*
+*Versión 4 · Vigente desde el 13 de noviembre de 2026*
 
 *Esta es una traducción que se ofrece solo para tu comodidad; únicamente las versiones en francés y en inglés hacen fe y, si hay cualquier diferencia, prevalecen sobre esta.*
 

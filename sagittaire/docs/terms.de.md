@@ -1,6 +1,6 @@
 # Nutzungsbedingungen
 
-*Version 3 · Gültig ab 13. November 2026*
+*Version 4 · Gültig ab 13. November 2026*
 
 *Dies ist eine Übersetzung, die dir nur zur besseren Verständlichkeit bereitgestellt wird; maßgeblich sind allein die französische und die englische Fassung, die bei jeder Abweichung Vorrang haben.*
 
