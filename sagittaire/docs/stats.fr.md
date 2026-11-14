@@ -95,7 +95,7 @@ Vos **300 dernières flèches placées** des séances terminées (pour la pério
 
 - le **centre du groupe** (une croix) : haut, bas, gauche ou droite, en part du rayon du blason. Utile pour régler le viseur;
 - la **dispersion** (un cercle pointillé) : la distance moyenne des flèches au centre du groupe ;
-- **une volée à la fois** : sous le graphique, ◀ montre votre dernière volée en rouge et les autres en gris, ◀ ▶ passent d’une volée à l’autre, et toucher le nom de la volée réaffiche toutes les flèches.
+- **une volée à la fois** : sous le graphique, ◀ montre votre dernière volée dans la couleur d’accent du thème et les autres en gris, ◀ ▶ passent d’une volée à l’autre, et toucher le nom de la volée réaffiche toutes les flèches.
 
 Le centre et la dispersion comptent toutes les flèches placées de la période ; les points montrent les 300 dernières.
 

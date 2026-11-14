@@ -95,7 +95,7 @@ Tus **últimas 300 flechas colocadas** de sesiones terminadas (para el periodo y
 
 - el **centro del grupo** (una cruz): alto, bajo, a la izquierda o a la derecha, como proporción del radio de la diana. Práctico para las marcas de visor;
 - la **dispersión** (un círculo discontinuo): a qué distancia del centro del grupo quedan las flechas de media;
-- **una tanda a la vez**: bajo el gráfico, ◀ muestra tu última tanda en rojo y las demás en gris, ◀ ▶ pasan de una tanda a otra, y tocar el nombre de la tanda vuelve a mostrar todas las flechas.
+- **una tanda a la vez**: bajo el gráfico, ◀ muestra tu última tanda en el color de acento del tema y las demás en gris, ◀ ▶ pasan de una tanda a otra, y tocar el nombre de la tanda vuelve a mostrar todas las flechas.
 
 El centro y la dispersión cuentan todas las flechas colocadas del periodo; los puntos muestran las 300 últimas.
 

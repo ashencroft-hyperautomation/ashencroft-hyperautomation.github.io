@@ -95,7 +95,7 @@ Deine **letzten 300 platzierten Pfeile** aus beendeten Einheiten (für den gewä
 
 - der **Gruppenmitte** (ein Kreuz): hoch, tief, links oder rechts, als Anteil am Radius der Auflage. Praktisch für Visiermarken;
 - der **Streuung** (ein gestrichelter Kreis): wie weit die Pfeile im Schnitt von der Gruppenmitte entfernt sitzen;
-- **einer Passe nach der anderen**: Unter dem Diagramm zeigt ◀ deine letzte Passe in Rot und die anderen in Grau, ◀ ▶ blättern durch die Passen, und ein Tippen auf den Namen der Passe zeigt wieder alle Pfeile.
+- **einer Passe nach der anderen**: Unter dem Diagramm zeigt ◀ deine letzte Passe in der Akzentfarbe des Designs und die anderen in Grau, ◀ ▶ blättern durch die Passen, und ein Tippen auf den Namen der Passe zeigt wieder alle Pfeile.
 
 Mitte und Streuung zählen alle platzierten Pfeile des Zeitraums; die Punkte zeigen die letzten 300.
 

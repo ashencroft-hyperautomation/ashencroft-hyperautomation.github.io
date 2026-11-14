@@ -95,7 +95,7 @@ Your **latest 300 placed arrows** from finished sessions (for the period and fil
 
 - the **group centre** (a cross): high, low, left or right, as a share of the face's radius. Handy for sight marks;
 - the **spread** (a dashed circle): how far arrows sit from the group centre on average;
-- **one end at a time**: under the chart, ◀ shows your latest end in red and the others in grey, ◀ ▶ step through the ends, and tapping the end's name shows every arrow again.
+- **one end at a time**: under the chart, ◀ shows your latest end in the theme’s accent colour and the others in grey, ◀ ▶ step through the ends, and tapping the end's name shows every arrow again.
 
 The centre and spread count every placed arrow in the period; the dots show the latest 300.
 
