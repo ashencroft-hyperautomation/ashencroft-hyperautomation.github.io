@@ -22,7 +22,7 @@ Antes de que una tanda cuente, la revisas: el resultado de la IA con los método
 Cada flecha tiene un marcador blanco con su zona. Donde las flechas están juntas, sus marcadores se hacen más pequeños para no taparse entre sí; amplía y vuelven a crecer. Pellizca para ampliar, arrastra para moverte, toca dos veces para restablecer.
 
 - **Círculo ámbar:** revisa esta flecha. Está cerca de una línea, la IA no estaba segura, hay dos flechas en el mismo spot de una triple diana, o la colocaste tú y aún no has elegido su zona (**?**).
-- **Toca una flecha** para seleccionarla y luego toca la zona correcta. La segunda opción de la IA aparece resaltada, con su confianza.
+- **Toca una flecha** para seleccionarla y luego toca la zona correcta. La segunda opción de la IA aparece resaltada, con su confianza. En una flecha de la que la IA no estaba segura, una línea dice dónde vio entrar el tubo (por ejemplo «borde del tubo sobre la línea 9/10»), para que sepas qué mirar.
 - **Añadir una flecha**: toca su zona, o activa **O toca la foto donde está**, toca donde está y luego elige su zona.
 - **Quitar esta flecha**: para la flecha de otro arquero, o una contada dos veces. La app pregunta antes.
 - Un aviso te advierte cuando el número de flechas encontradas no coincide con el de flechas tiradas, o cuando la foto tiene problemas (reflejos, desenfoque, diana cortada).

@@ -22,7 +22,7 @@ Before an end counts, you check it: the AI's result with the [automatic](scoring
 Each arrow has a white marker with its ring. Where arrows are close together, their markers get smaller so they don't hide each other; zoom in and they grow back. Pinch to zoom, drag to move, double-tap to reset.
 
 - **Amber circle:** check this arrow. It's near a line, the AI wasn't confident, two arrows are in the same spot of a 3-spot face, or you placed it and haven't picked its ring yet (**?**).
-- **Tap an arrow** to select it, then tap the right ring. The AI's second choice is highlighted, with its confidence.
+- **Tap an arrow** to select it, then tap the right ring. The AI's second choice is highlighted, with its confidence. On an arrow the AI wasn't sure about, a line says where it saw the shaft go in (for example “shaft edge on the 9/10 line”), so you know what to look at.
 - **Add an arrow**: tap its ring, or turn on **Or tap the photo where it is**, tap where it is, then pick its ring.
 - **Remove this arrow**: for another archer's arrow, or one counted twice. The app asks first.
 - A banner warns you when the number of arrows found isn't the number shot, or when the photo has problems (glare, blur, face cut off).

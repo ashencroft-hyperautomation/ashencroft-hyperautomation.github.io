@@ -22,7 +22,7 @@ Avant qu’une volée compte, vous la vérifiez : le résultat de l’IA avec l
 Chaque flèche porte un repère blanc avec sa zone. Là où les flèches sont proches, leurs repères rapetissent pour ne pas se cacher; zoomez et ils reprennent leur taille. Écartez deux doigts pour zoomer, faites glisser pour vous déplacer, touchez deux fois pour revenir.
 
 - **Cercle orange :** vérifiez cette flèche. Elle est près d’une ligne, l’IA n’était pas sûre, deux flèches sont dans le même spot d’un trispot, ou vous l’avez placée sans encore choisir sa zone (**?**).
-- **Touchez une flèche** pour la sélectionner, puis touchez la bonne zone. Le deuxième choix de l’IA est mis en évidence, avec sa confiance.
+- **Touchez une flèche** pour la sélectionner, puis touchez la bonne zone. Le deuxième choix de l’IA est mis en évidence, avec sa confiance. Sur une flèche dont l’IA n’était pas sûre, une ligne dit où elle a vu le tube entrer (par exemple « bord du tube sur la ligne 9/10 »), pour savoir quoi regarder.
 - **Ajouter une flèche** : touchez sa zone, ou activez **Ou touchez la photo à son emplacement**, touchez l’endroit de la flèche, puis choisissez sa zone.
 - **Retirer cette flèche** : pour la flèche d’un autre archer, ou une flèche comptée deux fois. L’application demande d’abord confirmation.
 - Un bandeau vous prévient quand le nombre de flèches trouvées n’est pas le nombre tiré, ou quand la photo pose problème (reflet, flou, blason coupé).

@@ -22,7 +22,7 @@ Bevor eine Passe zählt, prüfst du sie: das Ergebnis der KI bei der [automatisc
 Jeder Pfeil hat eine weiße Markierung mit seinem Ring. Wo Pfeile dicht beieinander stecken, werden ihre Markierungen kleiner, damit sie sich nicht verdecken; zoomst du hinein, werden sie wieder größer. Zieh die Finger auseinander zum Zoomen, zieh mit einem Finger zum Verschieben und tipp zweimal zum Zurücksetzen.
 
 - **Bernsteinfarbener Kreis:** Prüf diesen Pfeil. Er liegt nahe an einer Linie, die KI war sich nicht sicher, zwei Pfeile stecken im selben Spot einer Dreifach-Auflage, oder du hast ihn gesetzt und noch keinen Ring gewählt (**?**).
-- **Tipp auf einen Pfeil**, um ihn auszuwählen, und dann auf den richtigen Ring. Die zweite Wahl der KI ist hervorgehoben, mit ihrer Sicherheit.
+- **Tipp auf einen Pfeil**, um ihn auszuwählen, und dann auf den richtigen Ring. Die zweite Wahl der KI ist hervorgehoben, mit ihrer Sicherheit. Bei einem Pfeil, bei dem die KI unsicher war, sagt eine Zeile, wo sie den Schaft eintreten sah (zum Beispiel „Schaftrand auf der 9/10-Linie“), damit du weißt, worauf du achten musst.
 - **Pfeil hinzufügen**: Tipp auf seinen Ring, oder schalte **Oder tippe auf die Stelle im Foto** ein, tipp auf die Stelle und wähl dann seinen Ring.
 - **Diesen Pfeil entfernen**: für den Pfeil eines anderen Schützen oder einen doppelt gezählten. Die App fragt vorher nach.
 - Ein Hinweis warnt dich, wenn die Zahl der gefundenen Pfeile nicht der Zahl der geschossenen entspricht oder wenn das Foto Probleme hat (Spiegelung, Unschärfe, abgeschnittene Auflage).
