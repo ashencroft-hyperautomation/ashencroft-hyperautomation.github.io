@@ -5,7 +5,7 @@ Eine Einheit ist ein Besuch am Bogenplatz: ein Ort, ein Datum, ein Bogen und ein
 <div class="shots" markdown>
 <figure markdown>
 ![Ausgefülltes Formular Neue Einheit für einen Compoundbogen auf zwei senkrechten Dreifach-Auflagen.](images/screenshots/de/new-session.png){ .shot }
-<figcaption><b>Neue Einheit.</b> Die Vorgaben des Bogens füllen den Rest aus.</figcaption>
+<figcaption><b>Neue Einheit.</b> Die Angaben deiner letzten Einheit füllen den Rest aus.</figcaption>
 </figure>
 <figure markdown>
 ![Bildschirm der Einheit mit dem Gesamtergebnis, dem Diagramm Ergebnis pro Passe und dem Schießzettel.](images/screenshots/de/session.png){ .shot }
@@ -20,9 +20,9 @@ Tippe in der Übersicht auf **Einheit starten** und fülle dann aus:
 - **Ort**: Gib einen neuen ein oder wähle einen, den du schon benutzt hast. Um einen Tippfehler zu korrigieren, zwei Namen für denselben Platz zusammenzuführen oder einen zu entfernen, siehe [Gespeicherte Orte](#saved-places).
 - **Datum**: standardmäßig jetzt.
 - **Disziplin**: Scheibenbogenschießen (der Standard), Feldbogenschießen, 3D-Bogenschießen oder Para-Bogenschießen.
-- **Bogentyp** (Blankbogen, Recurvebogen oder Compoundbogen, jeder mit seiner kleinen Zeichnung) und **Bogen**. Die Vorgaben des Bogens füllen den Rest aus. Siehe [Bögen](bows.md).
+- **Bogentyp** (Blankbogen, Recurvebogen oder Compoundbogen, jeder mit seiner kleinen Zeichnung) und **Bogen**. Siehe [Bögen](bows.md).
 - Unter der Entfernung die **Visiermarke** des Bogens dafür, und die **Pfeile**, wenn der Bogen Pfeilsätze hat: der Satz, den er zuletzt benutzt hat. Siehe [Visiermarken, Pfeilsätze und Tuning-Logbuch](bows.md#sight-marks-arrow-sets-and-tuning-log).
-- **Entfernung**, **Auflage**, **Auflagen auf der Scheibe** (bei Dreifach-Auflagen: wie viele auf der Scheibe hängen, zum Beispiel 2 Auflagen = 6 Spots) und **Pfeile pro Passe** (beliebig viele, oft 3 oder 6). Die Auflagen richten sich nach der Disziplin: Scheibenauflagen, **Feld**-Auflagen (80, 60, 40 cm oder 20 cm in Spalten zu drei) oder das **3D**-Tier. Siehe [Feld und 3D](rules.md#field-and-3d).
+- **Entfernung**, **Auflage**, **Auflagen auf der Scheibe** (bei Dreifach-Auflagen: wie viele auf der Scheibe hängen, zum Beispiel 2 Auflagen = 6 Spots) und **Pfeile pro Passe** (beliebig viele, oft 3 oder 6). Die Auflagen richten sich nach der Disziplin: Scheibenauflagen, **Feld**-Auflagen (80, 60, 40 cm oder 20 cm in Spalten zu drei) oder das **3D**-Tier. Siehe [Feld und 3D](rules.md#field-and-3d). Diese Felder übernehmen deine letzte Einheit derselben Disziplin; der Bogen legt sie nicht fest.
 - **Wertungsregel**: kommt aus den Einstellungen und dem Bogentyp. Siehe [Wertungsregeln](rules.md).
 
 ## Eine Passe schießen { #shoot-an-end }
@@ -39,6 +39,7 @@ Bei der automatischen Wertung musst du nicht warten: Schieß die nächste Passe,
 - **Schießzettel:** Passe für Passe, mit der laufenden Summe. Tippe auf eine Passe, um ihr Foto und ihre Pfeile wieder zu sehen.
 - Diagramm **Ergebnis pro Passe**, mit der Durchschnittslinie und den besten und schlechtesten Passen.
 - **Ändern** wechselt die Wertungsregel, jederzeit. Alle Ergebnisse werden neu berechnet.
+- **Auflage ändern**: Wenn du auf eine andere Auflage geschossen hast als die eingestellte, wähle die richtige (gleiche Art: Scheibe oder Feld). Die Punkte werden aus den bereits erfassten Ringen neu berechnet; Pfeile, deren Ring es auf der neuen Auflage nicht gibt, und Fehlschüsse, die auf einer größeren Auflage zählen könnten, werden zur Prüfung markiert. Möglich, sobald alle Passen gewertet sind.
 - Die **Visiermarke** auf dieser Entfernung und die geschossenen **Pfeile**, jeweils mit **Ändern**.
 - **Beenden**. Passen, die nicht bestätigt sind, zählen erst, wenn du sie bestätigst, was du auch später noch tun kannst.
 - **Diese Einheit verwerfen** löscht sie, nachdem sagitt·AI·re gefragt hat.

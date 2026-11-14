@@ -39,7 +39,7 @@ Nicht sicher? Fang mit **Von Hand** an: Das funktioniert sofort, und du kannst d
 
 ## 3. Einen Bogen hinzufügen { #3-add-a-bow }
 
-**Bögen → Bogen hinzufügen**: ein Name, der Bogentyp und die Vorgaben für neue Einheiten. Siehe [Bögen](bows.md).
+**Bögen → Bogen hinzufügen**: ein Name und der Bogentyp (Auflage und Entfernung wählst du bei jeder Einheit). Siehe [Bögen](bows.md).
 
 ## 4. Eine Einheit schießen { #4-shoot-a-session }
 

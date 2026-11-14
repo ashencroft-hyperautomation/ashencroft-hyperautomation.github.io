@@ -4,7 +4,7 @@ La pestaña **Arcos** muestra tus arcos. Toca uno para abrir su página: su conf
 
 <div class="shots" markdown>
 <figure markdown>
-![Lista de arcos: dos recurvos y dos compuestos, cada uno marcado con un pequeño dibujo de su tipo, con potencia, apertura y valores predeterminados.](images/screenshots/es/bows.png){ .shot }
+![Lista de arcos: dos recurvos y dos compuestos, cada uno marcado con un pequeño dibujo de su tipo, con potencia y apertura.](images/screenshots/es/bows.png){ .shot }
 <figcaption><b>Tus arcos</b></figcaption>
 </figure>
 <figure markdown>
@@ -25,7 +25,7 @@ La pestaña **Arcos** muestra tus arcos. Toca uno para abrir su página: su conf
 - Para un compuesto, puedes partir de una **marca y modelo** del catálogo integrado (PSE, Hoyt, Mathews, Bowtech). Rellena el nombre, muestra las especificaciones del modelo y te avisa si tu apertura está fuera del rango del modelo.
 - **Potencia** (lb) y **Apertura** (pulgadas). Las dos aceptan coma o punto.
 - **Descripción de las flechas**, por ejemplo «tubos negros, emplumado naranja». Se envía con la foto para que la IA ignore las flechas de otros arqueros en el mismo parapeto.
-- **Valores predeterminados:** diana, dianas de papel, distancia y flechas por tanda, para rellenar las sesiones nuevas.
+- La **diana**, la **distancia** y las **flechas por tanda** pertenecen a cada sesión, no al arco: una sesión nueva parte de la última. Consulta [Sesiones](sessions.md).
 
 ## Marcas de visor, juegos de flechas y registro de ajustes { #sight-marks-arrow-sets-and-tuning-log }
 

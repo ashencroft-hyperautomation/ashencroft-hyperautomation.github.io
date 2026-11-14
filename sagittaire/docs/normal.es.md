@@ -12,8 +12,8 @@ La app tal como la esperas: una barra de pestañas abajo y pantallas que se abre
 <figcaption><b>Historial.</b> Todas las sesiones terminadas.</figcaption>
 </figure>
 <figure markdown>
-![Lista de arcos: cada arco marcado con un pequeño dibujo de su tipo, con potencia, apertura y valores predeterminados.](images/screenshots/es/bows.png){ .shot }
-<figcaption><b>Arcos.</b> Tus arcos y sus valores predeterminados.</figcaption>
+![Lista de arcos: cada arco marcado con un pequeño dibujo de su tipo, con potencia y apertura.](images/screenshots/es/bows.png){ .shot }
+<figcaption><b>Arcos.</b> Tus arcos y su configuración.</figcaption>
 </figure>
 </div>
 

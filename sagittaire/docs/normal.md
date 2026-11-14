@@ -12,8 +12,8 @@ The app as you'd expect it: a tab bar at the bottom, and screens that open from 
 <figcaption><b>History.</b> Every finished session.</figcaption>
 </figure>
 <figure markdown>
-![Bows list: each bow marked with a small drawing of its type, with draw weight, draw length and defaults.](images/screenshots/bows.png){ .shot }
-<figcaption><b>Bows.</b> Your bows and their defaults.</figcaption>
+![Bows list: each bow marked with a small drawing of its type, with draw weight and draw length.](images/screenshots/bows.png){ .shot }
+<figcaption><b>Bows.</b> Your bows and their setup.</figcaption>
 </figure>
 </div>
 

@@ -5,7 +5,7 @@ Une séance, c’est une visite au pas de tir : un lieu, une date, un arc et un
 <div class="shots" markdown>
 <figure markdown>
 ![Formulaire de nouvelle séance rempli pour un arc à poulies sur deux trispots verticaux.](images/screenshots/fr/new-session.png){ .shot }
-<figcaption><b>Nouvelle séance.</b> Les valeurs par défaut de l’arc remplissent le reste.</figcaption>
+<figcaption><b>Nouvelle séance.</b> Le réglage de votre dernière séance remplit le reste.</figcaption>
 </figure>
 <figure markdown>
 ![Écran de séance avec le total, le graphique des volées et la feuille de marque.](images/screenshots/fr/session.png){ .shot }
@@ -20,9 +20,9 @@ Dans l’onglet **Accueil**, touchez **Commencer une séance**, puis remplissez�
 - **Lieu** : tapez-en un nouveau, ou choisissez-en un déjà utilisé. Pour corriger une faute de frappe, réunir deux noms du même terrain ou en retirer un, voir [Lieux enregistrés](#lieux-enregistres).
 - **Date** : maintenant, par défaut.
 - **Discipline** : tir sur cible (par défaut), tir en campagne, tir 3D ou para-tir à l’arc.
-- **Type d’arc** (arc nu, arc recourbé ou arc à poulies, chacun avec son petit dessin) et **arc**. Les valeurs par défaut de l’arc remplissent le reste. Voir [Arcs](bows.md).
+- **Type d’arc** (arc nu, arc recourbé ou arc à poulies, chacun avec son petit dessin) et **arc**. Voir [Arcs](bows.md).
 - Sous la distance, le **repère de visée** de l’arc à cette distance, et les **flèches** quand l’arc a des jeux de flèches : le jeu utilisé la dernière fois. Voir [Repères de visée, jeux de flèches et carnet de réglages](bows.md#reperes-de-visee-jeux-de-fleches-et-carnet-de-reglages).
-- **Distance**, **blason**, **blasons sur la butte** (pour les trispots : combien il y en a sur la butte, par exemple 2 blasons = 6 spots) et **flèches par volée** (n’importe quel nombre, souvent 3 ou 6). Les blasons suivent la discipline : blasons de tir sur cible, blasons de **campagne** (80, 60, 40 cm, ou 20 cm en colonnes de trois), ou la cible **3D**. Voir [Campagne et 3D](rules.md#campagne-et-3d).
+- **Distance**, **blason**, **blasons sur la butte** (pour les trispots : combien il y en a sur la butte, par exemple 2 blasons = 6 spots) et **flèches par volée** (n’importe quel nombre, souvent 3 ou 6). Les blasons suivent la discipline : blasons de tir sur cible, blasons de **campagne** (80, 60, 40 cm, ou 20 cm en colonnes de trois), ou la cible **3D**. Voir [Campagne et 3D](rules.md#campagne-et-3d). Ces champs reprennent votre dernière séance de la même discipline ; l’arc ne les fixe pas.
 - **Comptage** : la règle, proposée d’après les réglages et le type d’arc. Voir [Règles de comptage](rules.md).
 
 ## Tirer une volée
@@ -39,6 +39,7 @@ Avec le comptage automatique, pas besoin d’attendre : tirez la volée suivant
 - **Feuille de marque :** volée par volée, avec le cumul. Touchez une volée pour revoir sa photo et ses flèches.
 - Le graphique **Score par volée**, avec la ligne de moyenne, et la meilleure et la moins bonne volée.
 - **Modifier** change la règle de comptage, à tout moment. Tous les totaux sont recalculés.
+- **Changer de blason** : si vous avez tiré sur un autre blason que celui choisi, choisissez le bon (même type de blason : cible ou campagne). Les points sont recalculés à partir des zones déjà enregistrées ; les flèches dont la zone n’existe pas sur le nouveau blason, et les flèches manquées qui pourraient compter sur un blason plus grand, sont marquées pour vérification. Possible une fois toutes les volées comptées.
 - Le **repère de visée** à cette distance et les **flèches** tirées, chacun avec **Modifier**.
 - **Terminer**. Les volées non validées ne comptent pas tant que vous ne les validez pas, ce que vous pouvez encore faire plus tard.
 - **Supprimer cette séance** l’efface, après confirmation.

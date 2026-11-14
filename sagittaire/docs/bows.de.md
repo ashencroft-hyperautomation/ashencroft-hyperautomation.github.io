@@ -4,7 +4,7 @@ Der Tab **Bögen** listet deine Bögen. Tipp auf einen, um seine Seite zu öffne
 
 <div class="shots" markdown>
 <figure markdown>
-![Liste der Bögen: zwei Recurve- und zwei Compoundbögen, jeder mit einer kleinen Zeichnung seines Typs markiert, mit Zuggewicht, Auszugslänge und Standardwerten.](images/screenshots/de/bows.png){ .shot }
+![Liste der Bögen: zwei Recurve- und zwei Compoundbögen, jeder mit einer kleinen Zeichnung seines Typs markiert, mit Zuggewicht und Auszugslänge.](images/screenshots/de/bows.png){ .shot }
 <figcaption><b>Deine Bögen</b></figcaption>
 </figure>
 <figure markdown>
@@ -25,7 +25,7 @@ Der Tab **Bögen** listet deine Bögen. Tipp auf einen, um seine Seite zu öffne
 - Bei einem Compound kannst du mit **Marke und Modell** aus dem eingebauten Katalog starten (PSE, Hoyt, Mathews, Bowtech). Das füllt den Namen aus, zeigt die Daten des Modells und warnt dich, wenn deine Auszugslänge außerhalb des Bereichs des Modells liegt.
 - **Zuggewicht** (lb) und **Auszugslänge** (Zoll). Beide akzeptieren Komma oder Punkt.
 - **Pfeilbeschreibung**, zum Beispiel „schwarze Schäfte, orange Befiederung“. Sie wird mit dem Foto gesendet, damit die KI die Pfeile anderer Schützen auf derselben Scheibe ignoriert.
-- **Standardwerte:** Auflage, Auflagen auf der Scheibe, Entfernung und Pfeile pro Passe, mit denen neue Einheiten ausgefüllt werden.
+- **Auflage**, **Entfernung** und **Pfeile pro Passe** gehören zu jeder Einheit, nicht zum Bogen: Eine neue Einheit übernimmt die letzte. Siehe [Einheiten](sessions.md).
 
 ## Visiermarken, Pfeilsätze und Tuning-Logbuch { #sight-marks-arrow-sets-and-tuning-log }
 

@@ -5,7 +5,7 @@ Una sesión es una visita al campo de tiro: un lugar, una fecha, un arco y una t
 <div class="shots" markdown>
 <figure markdown>
 ![Formulario de nueva sesión completado para un arco compuesto con dos triples dianas verticales.](images/screenshots/es/new-session.png){ .shot }
-<figcaption><b>Nueva sesión.</b> Los valores predeterminados del arco completan el resto.</figcaption>
+<figcaption><b>Nueva sesión.</b> La configuración de tu última sesión completa el resto.</figcaption>
 </figure>
 <figure markdown>
 ![Pantalla de la sesión con el total, el gráfico de puntuación por tanda y la hoja de puntuación.](images/screenshots/es/session.png){ .shot }
@@ -20,9 +20,9 @@ En Inicio, toca **Empezar sesión** y completa:
 - **Lugar**: escribe uno nuevo o elige uno que ya usaste. Para corregir una errata, juntar dos nombres del mismo campo de tiro o quitar uno, consulta [Lugares guardados](#saved-places).
 - **Fecha**: ahora, por defecto.
 - **Disciplina**: tiro a diana (la predeterminada), tiro de campo, tiro 3D o tiro con arco adaptado (para).
-- **Tipo de arco** (arco desnudo, arco recurvo o arco compuesto, cada uno con su pequeño dibujo) y **arco**. Los valores predeterminados del arco completan el resto. Consulta [Arcos](bows.md).
+- **Tipo de arco** (arco desnudo, arco recurvo o arco compuesto, cada uno con su pequeño dibujo) y **arco**. Consulta [Arcos](bows.md).
 - Debajo de la distancia, la **marca de visor** del arco para esa distancia, y las **flechas** cuando el arco tiene juegos de flechas: el juego que usó la última vez. Consulta [Marcas de visor, juegos de flechas y registro de ajustes](bows.md#sight-marks-arrow-sets-and-tuning-log).
-- **Distancia**, **diana**, **dianas de papel** (en las triples dianas: cuántas hay en el parapeto, por ejemplo 2 dianas = 6 spots) y **flechas por tanda** (cualquier número, a menudo 3 o 6). Las dianas siguen la disciplina: dianas de tiro a diana, dianas de **campo** (80, 60, 40 cm, o 20 cm en columnas de tres) o el animal **3D**. Consulta [Campo y 3D](rules.md#field-and-3d).
+- **Distancia**, **diana**, **dianas de papel** (en las triples dianas: cuántas hay en el parapeto, por ejemplo 2 dianas = 6 spots) y **flechas por tanda** (cualquier número, a menudo 3 o 6). Las dianas siguen la disciplina: dianas de tiro a diana, dianas de **campo** (80, 60, 40 cm, o 20 cm en columnas de tres) o el animal **3D**. Consulta [Campo y 3D](rules.md#field-and-3d). Estos campos parten de tu última sesión de la misma disciplina; el arco no los fija.
 - **Regla de puntuación**: viene de Ajustes y del tipo de arco. Consulta [Reglas de puntuación](rules.md).
 
 ## Tira una tanda { #shoot-an-end }
@@ -39,6 +39,7 @@ Con la puntuación automática no tienes que esperar: tira la siguiente tanda mi
 - **Hoja de puntuación:** tanda a tanda, con el total acumulado. Toca una tanda para volver a ver su foto y sus flechas.
 - Gráfico de **Puntuación por tanda**, con la línea de la media, y las mejores y peores tandas.
 - **Cambiar** la regla de puntuación en cualquier momento. Todos los totales se vuelven a calcular.
+- **Cambiar diana**: si tiraste a otra diana distinta de la elegida, elige la correcta (mismo tipo: diana o campo). Los puntos se recalculan a partir de las zonas ya registradas; las flechas cuya zona no existe en la nueva diana, y los fallos que podrían puntuar en una diana más grande, se marcan para revisar. Posible una vez puntuadas todas las tandas.
 - La **marca de visor** a esta distancia y las **flechas** tiradas, cada una con **Cambiar**.
 - **Terminar**. Las tandas sin confirmar no cuentan hasta que las confirmes, cosa que puedes hacer más tarde.
 - **Descartar esta sesión** la borra, después de preguntarte.

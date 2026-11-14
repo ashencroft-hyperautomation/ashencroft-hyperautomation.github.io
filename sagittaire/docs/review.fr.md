@@ -26,6 +26,7 @@ Chaque flèche porte un repère blanc avec sa zone. Là où les flèches sont pr
 - **Ajouter une flèche** : touchez sa zone, ou activez **Ou touchez la photo à son emplacement**, touchez l’endroit de la flèche, puis choisissez sa zone.
 - **Retirer cette flèche** : pour la flèche d’un autre archer, ou une flèche comptée deux fois. L’application demande d’abord confirmation.
 - Un bandeau vous prévient quand le nombre de flèches trouvées n’est pas le nombre tiré, ou quand la photo pose problème (reflet, flou, blason coupé).
+- Si l’IA indique que la photo ne montre pas le blason de la séance (par exemple un spot unique au lieu d’un trispot), un bandeau rouge le signale en premier, avec **Changer de blason** et, avec votre propre clé API et une volée pas encore confirmée, **Compter à nouveau**.
 
 Touchez ensuite **Valider · volée suivante** pour revenir directement à l’appareil photo, ou **Valider et revenir à la séance**. Le bouton corbeille supprime la volée, après confirmation.
 

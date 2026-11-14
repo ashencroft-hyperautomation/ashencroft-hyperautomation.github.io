@@ -26,6 +26,7 @@ Jeder Pfeil hat eine weiße Markierung mit seinem Ring. Wo Pfeile dicht beieinan
 - **Pfeil hinzufügen**: Tipp auf seinen Ring, oder schalte **Oder tippe auf die Stelle im Foto** ein, tipp auf die Stelle und wähl dann seinen Ring.
 - **Diesen Pfeil entfernen**: für den Pfeil eines anderen Schützen oder einen doppelt gezählten. Die App fragt vorher nach.
 - Ein Hinweis warnt dich, wenn die Zahl der gefundenen Pfeile nicht der Zahl der geschossenen entspricht oder wenn das Foto Probleme hat (Spiegelung, Unschärfe, abgeschnittene Auflage).
+- Wenn die KI meldet, dass das Foto nicht die Auflage der Einheit zeigt (zum Beispiel ein Einzelspot statt einer Dreifach-Auflage), steht zuerst ein roter Hinweis da, mit **Auflage ändern** und, mit deinem eigenen API-Schlüssel und einer noch nicht bestätigten Passe, **Erneut werten**.
 
 Tipp dann auf **Bestätigen · nächste Passe**, um direkt zur Kamera zurückzukehren, oder auf **Bestätigen und zurück zur Einheit**. Der Papierkorb löscht die Passe, nach einer Rückfrage.
 

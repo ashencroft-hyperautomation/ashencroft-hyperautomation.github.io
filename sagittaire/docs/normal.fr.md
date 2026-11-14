@@ -12,8 +12,8 @@ L’application telle que vous l’attendez : une barre d’onglets en bas, et 
 <figcaption><b>Historique.</b> Toutes les séances terminées.</figcaption>
 </figure>
 <figure markdown>
-![Liste des arcs : chaque arc marqué d’un petit dessin de son type, avec puissance, allonge et valeurs par défaut.](images/screenshots/fr/bows.png){ .shot }
-<figcaption><b>Arcs.</b> Vos arcs et leurs valeurs par défaut.</figcaption>
+![Liste des arcs : chaque arc marqué d’un petit dessin de son type, avec puissance et allonge.](images/screenshots/fr/bows.png){ .shot }
+<figcaption><b>Arcs.</b> Vos arcs et leurs réglages.</figcaption>
 </figure>
 </div>
 

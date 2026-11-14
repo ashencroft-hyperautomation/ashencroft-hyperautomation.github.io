@@ -12,8 +12,8 @@ Die App, wie du sie erwartest: eine Tab-Leiste unten und Bildschirme, die sich v
 <figcaption><b>Verlauf.</b> Jede abgeschlossene Einheit.</figcaption>
 </figure>
 <figure markdown>
-![Liste der Bögen: Jeder Bogen ist mit einer kleinen Zeichnung seines Typs markiert, mit Zuggewicht, Auszugslänge und Standardwerten.](images/screenshots/de/bows.png){ .shot }
-<figcaption><b>Bögen.</b> Deine Bögen und ihre Standardwerte.</figcaption>
+![Liste der Bögen: Jeder Bogen ist mit einer kleinen Zeichnung seines Typs markiert, mit Zuggewicht und Auszugslänge.](images/screenshots/de/bows.png){ .shot }
+<figcaption><b>Bögen.</b> Deine Bögen und ihre Einstellungen.</figcaption>
 </figure>
 </div>
 

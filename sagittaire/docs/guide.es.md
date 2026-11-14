@@ -39,7 +39,7 @@ La app sigue el idioma de tu teléfono (inglés, francés, alemán o español). 
 
 ## 3. Añade un arco { #3-add-a-bow }
 
-**Arcos → Añadir arco**: un nombre, el tipo de arco y los valores predeterminados para las sesiones nuevas. Consulta [Arcos](bows.md).
+**Arcos → Añadir arco**: un nombre y el tipo de arco (la diana y la distancia se eligen en cada sesión). Consulta [Arcos](bows.md).
 
 ## 4. Tira una sesión { #4-shoot-a-session }
 

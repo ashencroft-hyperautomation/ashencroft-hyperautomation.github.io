@@ -55,7 +55,7 @@ Tomadas con **sagitt·AI·re Demo**, una versión de la app llena de seis meses 
 <figcaption><b>Historial.</b> Todas las sesiones por mes, filtradas por arco.</figcaption>
 </figure>
 <figure markdown>
-![Lista de arcos: dos arcos recurvos y dos compuestos, cada uno marcado con un pequeño dibujo de su tipo, con potencia, apertura y valores predeterminados.](images/screenshots/es/bows.png){ .shot }
+![Lista de arcos: dos arcos recurvos y dos compuestos, cada uno marcado con un pequeño dibujo de su tipo, con potencia y apertura.](images/screenshots/es/bows.png){ .shot }
 <figcaption><b>Arcos.</b> Cada arco con su configuración.</figcaption>
 </figure>
 <figure markdown>

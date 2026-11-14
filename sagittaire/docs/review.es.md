@@ -26,6 +26,7 @@ Cada flecha tiene un marcador blanco con su zona. Donde las flechas están junta
 - **Añadir una flecha**: toca su zona, o activa **O toca la foto donde está**, toca donde está y luego elige su zona.
 - **Quitar esta flecha**: para la flecha de otro arquero, o una contada dos veces. La app pregunta antes.
 - Un aviso te advierte cuando el número de flechas encontradas no coincide con el de flechas tiradas, o cuando la foto tiene problemas (reflejos, desenfoque, diana cortada).
+- Si la IA indica que la foto no muestra la diana de la sesión (por ejemplo un solo spot en lugar de una triple diana), un aviso rojo lo dice primero, con **Cambiar diana** y, con tu propia clave de API y una tanda aún no confirmada, **Puntuar de nuevo**.
 
 Luego toca **Confirmar · tirar la siguiente tanda** para volver directamente a la cámara, o **Confirmar y volver a la sesión**. El botón de la papelera elimina la tanda, tras preguntar.
 

@@ -55,7 +55,7 @@ Prises avec **sagitt·AI·re Demo**, une version de l'application remplie de six
 <figcaption><b>Historique.</b> Toutes les séances par mois, filtrées par arc.</figcaption>
 </figure>
 <figure markdown>
-![Liste des arcs : deux arcs recourbés et deux arcs à poulies, chacun marqué d’un petit dessin de son type, avec puissance, allonge et valeurs par défaut.](images/screenshots/fr/bows.png){ .shot }
+![Liste des arcs : deux arcs recourbés et deux arcs à poulies, chacun marqué d’un petit dessin de son type, avec puissance et allonge.](images/screenshots/fr/bows.png){ .shot }
 <figcaption><b>Arcs.</b> Chaque arc avec ses réglages.</figcaption>
 </figure>
 <figure markdown>

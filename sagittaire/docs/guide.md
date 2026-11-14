@@ -39,7 +39,7 @@ Not sure? Start with **Manual**: it works right away, and you can change the met
 
 ## 3. Add a bow
 
-**Bows → Add bow**: a name, the bow type, and the defaults for new sessions. See [Bows](bows.md).
+**Bows → Add bow**: a name and the bow type (the face and distance are chosen with each session). See [Bows](bows.md).
 
 ## 4. Shoot a session
 

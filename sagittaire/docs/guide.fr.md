@@ -39,7 +39,7 @@ Vous hésitez ? Commencez par **Manuel (sans IA)** : ça fonctionne tout de su
 
 ## 3. Ajouter un arc
 
-**Arcs → Ajouter un arc** : un nom, le type d’arc, et les valeurs par défaut des nouvelles séances. Voir [Arcs](bows.md).
+**Arcs → Ajouter un arc** : un nom et le type d’arc (le blason et la distance se choisissent à chaque séance). Voir [Arcs](bows.md).
 
 ## 4. Tirer une séance
 

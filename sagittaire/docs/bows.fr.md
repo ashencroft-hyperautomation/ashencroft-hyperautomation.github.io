@@ -4,7 +4,7 @@ L’onglet **Arcs** liste vos arcs. Touchez-en un pour ouvrir sa page : ses ré
 
 <div class="shots" markdown>
 <figure markdown>
-![Liste des arcs : deux arcs recourbés et deux arcs à poulies, chacun marqué d’un petit dessin de son type, avec puissance, allonge et valeurs par défaut.](images/screenshots/fr/bows.png){ .shot }
+![Liste des arcs : deux arcs recourbés et deux arcs à poulies, chacun marqué d’un petit dessin de son type, avec puissance et allonge.](images/screenshots/fr/bows.png){ .shot }
 <figcaption><b>Vos arcs</b></figcaption>
 </figure>
 <figure markdown>
@@ -25,7 +25,7 @@ L’onglet **Arcs** liste vos arcs. Touchez-en un pour ouvrir sa page : ses ré
 - Pour un arc à poulies, vous pouvez partir d’une **marque** et d’un **modèle** du catalogue intégré (PSE, Hoyt, Mathews, Bowtech). Il remplit le nom, montre les caractéristiques du modèle, et vous prévient si votre allonge sort de la plage du modèle.
 - **Puissance** (lb) et **allonge** (pouces). Les deux acceptent une virgule ou un point.
 - **Description des flèches**, par exemple « tubes noirs, plumes orange ». Elle est envoyée avec la photo pour que l’IA ignore les flèches des autres archers sur la même butte.
-- **Valeurs par défaut :** blason, blasons sur la butte, distance et flèches par volée, pour remplir les nouvelles séances.
+- Le **blason**, la **distance** et les **flèches par volée** appartiennent à chaque séance, pas à l’arc : une nouvelle séance reprend la dernière. Voir [Séances](sessions.md).
 
 ## Repères de visée, jeux de flèches et carnet de réglages
 

@@ -4,7 +4,7 @@ The **Bows** tab lists your bows. Tap one to open its page: its setup, **sight m
 
 <div class="shots" markdown>
 <figure markdown>
-![Bows list: two recurve and two compound bows, each marked with a small drawing of its type, with draw weight, draw length and defaults.](images/screenshots/bows.png){ .shot }
+![Bows list: two recurve and two compound bows, each marked with a small drawing of its type, with draw weight and draw length.](images/screenshots/bows.png){ .shot }
 <figcaption><b>Your bows</b></figcaption>
 </figure>
 <figure markdown>
@@ -25,7 +25,7 @@ The **Bows** tab lists your bows. Tap one to open its page: its setup, **sight m
 - For a compound, you can start from a **brand and model** in the built-in catalog (PSE, Hoyt, Mathews, Bowtech). It fills in the name, shows the model's specs, and warns you if your draw length is outside the model's range.
 - **Draw weight** (lb) and **draw length** (inches). Both accept a comma or a dot.
 - **Arrow description**, for example "black shafts, orange fletching". It's sent with the photo so the AI ignores other archers' arrows on the same boss.
-- **Defaults:** target face, paper faces, distance and arrows per end, used to fill in new sessions.
+- The **target face**, **distance** and **arrows per end** belong to each session, not to the bow: a new session starts from your last one. See [Sessions](sessions.md#start-a-session).
 
 ## Sight marks, arrow sets and tuning log
 

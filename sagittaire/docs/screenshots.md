@@ -55,7 +55,7 @@ Taken with **sagitt·AI·re Demo**, a version of the app filled with six months 
 <figcaption><b>History.</b> Every session by month, filtered by bow.</figcaption>
 </figure>
 <figure markdown>
-![Bows list: two recurve and two compound bows, each marked with a small drawing of its type, with draw weight, draw length and defaults.](images/screenshots/bows.png){ .shot }
+![Bows list: two recurve and two compound bows, each marked with a small drawing of its type, with draw weight and draw length.](images/screenshots/bows.png){ .shot }
 <figcaption><b>Bows.</b> Each bow with its setup.</figcaption>
 </figure>
 <figure markdown>

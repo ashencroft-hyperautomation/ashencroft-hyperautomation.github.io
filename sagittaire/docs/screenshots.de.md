@@ -55,7 +55,7 @@ Aufgenommen mit **sagitt·AI·re Demo**, einer Version der App mit sechs Monaten
 <figcaption><b>Verlauf.</b> Jede Einheit nach Monat, nach Bogen gefiltert.</figcaption>
 </figure>
 <figure markdown>
-![Liste der Bögen: zwei Recurve- und zwei Compoundbögen, jeder mit einer kleinen Zeichnung seines Typs, mit Zuggewicht, Auszugslänge und Standardwerten.](images/screenshots/de/bows.png){ .shot }
+![Liste der Bögen: zwei Recurve- und zwei Compoundbögen, jeder mit einer kleinen Zeichnung seines Typs, mit Zuggewicht und Auszugslänge.](images/screenshots/de/bows.png){ .shot }
 <figcaption><b>Bögen.</b> Jeder Bogen mit seinem Setup.</figcaption>
 </figure>
 <figure markdown>
