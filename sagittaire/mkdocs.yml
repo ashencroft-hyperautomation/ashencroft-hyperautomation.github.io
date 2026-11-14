@@ -58,6 +58,7 @@ plugins:
           copyright: sagitt·AI·re, l’application de Tir à l’arc Canada · Créée pro bono par le <strong>Studio Ashencroft</strong> — Experts en IA &amp; Hyper Automatisation Responsable
           nav_translations:
             Home: Accueil
+            Privacy, sovereignty and responsible AI: Vie privée, souveraineté et IA responsable
             Getting started: Pour commencer
             Modes: Modes
             Normal mode: Mode normal
@@ -94,6 +95,7 @@ plugins:
           copyright: sagitt·AI·re, die App von Archery Canada · Pro bono entwickelt von <strong>Ashencroft Studio</strong> — Experten für verantwortungsvolle KI &amp; Hyperautomatisierung
           nav_translations:
             Home: Start
+            Privacy, sovereignty and responsible AI: Datenschutz, Souveränität und verantwortungsvolle KI
             Getting started: Erste Schritte
             Normal mode: Normalmodus
             Game mode: Spielmodus
@@ -129,6 +131,7 @@ plugins:
           copyright: sagitt·AI·re, la app de Archery Canada · Creada pro bono por <strong>Estudio Ashencroft</strong> — Expertos en IA y Hiperautomatización Responsables
           nav_translations:
             Home: Inicio
+            Privacy, sovereignty and responsible AI: Privacidad, soberanía e IA responsable
             Getting started: Primeros pasos
             Normal mode: Modo normal
             Game mode: Modo juego
@@ -193,6 +196,7 @@ nav:
       - Screenshots: screenshots.md
       - How it works: how-it-works.md
       - Privacy: privacy.md
+      - Privacy, sovereignty and responsible AI: responsible-ai.md
       - Security: security.md
       - App icon: icon.md
       - Roadmap: roadmap.md
