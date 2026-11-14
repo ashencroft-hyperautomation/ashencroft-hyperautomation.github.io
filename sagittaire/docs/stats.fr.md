@@ -91,12 +91,21 @@ Le nombre de flèches dans chaque zone, du X (ou du 11 sur une cible 3D) jusqu�
 </figure>
 </div>
 
-Chaque flèche placée sur une même cible, chacune dessinée sur son propre spot, avec :
+Vos **300 dernières flèches placées** des séances terminées (pour la période et les filtres choisis) sur une même cible, chacune dessinée sur son propre spot, avec :
 
 - le **centre du groupe** (une croix) : haut, bas, gauche ou droite, en part du rayon du blason. Utile pour régler le viseur;
-- la **dispersion** (un cercle pointillé) : la distance moyenne des flèches au centre du groupe.
+- la **dispersion** (un cercle pointillé) : la distance moyenne des flèches au centre du groupe ;
+- **une volée à la fois** : sous le graphique, ◀ montre votre dernière volée en rouge et les autres en gris, ◀ ▶ passent d’une volée à l’autre, et toucher le nom de la volée réaffiche toutes les flèches.
+
+Le centre et la dispersion comptent toutes les flèches placées de la période ; les points montrent les 300 dernières.
 
 Les flèches placées par l’IA comptent toujours. Les flèches placées à la main comptent une fois la [cible marquée](scoring-manual.md#marquer-la-cible).
+
+## Centre de chaque volée
+
+![Centre de chaque volée : un point par volée sur la cible, une croix au centre moyen et un cercle pointillé pour la dérive des volées.](images/screenshots/fr/stats-centres.png){ .shot }
+
+Un point par volée confirmée : le centre de ses flèches placées. La **croix** marque le centre moyen ; le **cercle pointillé** montre de combien vos volées dérivent d’une fois à l’autre (visée, réglage du viseur). En dessous : où se situe le centre moyen, la dérive, et le nombre de volées pris en compte. Il faut 3 volées avec des flèches placées sur la photo. Une volée corrigée change de place dès que vous la confirmez de nouveau.
 
 ## Où arrivent vos flèches
 

@@ -91,12 +91,21 @@ Wie viele Pfeile in jedem Ring gelandet sind, von X (oder 11 bei einem 3D-Tier) 
 </figure>
 </div>
 
-Jeder platzierte Pfeil auf einer Scheibe, jeder auf seinem eigenen Spot gezeichnet, mit:
+Deine **letzten 300 platzierten Pfeile** aus beendeten Einheiten (für den gewählten Zeitraum und die Filter) auf einer Scheibe, jeder auf seinem eigenen Spot gezeichnet, mit:
 
 - der **Gruppenmitte** (ein Kreuz): hoch, tief, links oder rechts, als Anteil am Radius der Auflage. Praktisch für Visiermarken;
-- der **Streuung** (ein gestrichelter Kreis): wie weit die Pfeile im Schnitt von der Gruppenmitte entfernt sitzen.
+- der **Streuung** (ein gestrichelter Kreis): wie weit die Pfeile im Schnitt von der Gruppenmitte entfernt sitzen;
+- **einer Passe nach der anderen**: Unter dem Diagramm zeigt ◀ deine letzte Passe in Rot und die anderen in Grau, ◀ ▶ blättern durch die Passen, und ein Tippen auf den Namen der Passe zeigt wieder alle Pfeile.
+
+Mitte und Streuung zählen alle platzierten Pfeile des Zeitraums; die Punkte zeigen die letzten 300.
 
 Pfeile, die die KI platziert hat, zählen immer. Von Hand platzierte Pfeile zählen, sobald du [die Scheibe markiert](scoring-manual.md#mark-the-target) hast.
+
+## Mitte jeder Passe { #centre-of-each-end }
+
+![Mitte jeder Passe: ein Punkt pro Passe auf der Scheibe, ein Kreuz in der mittleren Mitte und ein gestrichelter Kreis für das Wandern der Passen.](images/screenshots/de/stats-centres.png){ .shot }
+
+Ein Punkt pro bestätigter Passe: die Mitte ihrer platzierten Pfeile. Das **Kreuz** ist die mittlere Mitte; der **gestrichelte Kreis** zeigt, wie stark deine Passen von einer zur nächsten wandern (Zielen, Visiereinstellung). Darunter: wo die mittlere Mitte liegt, das Wandern und auf wie vielen Passen es beruht. Es braucht 3 Passen mit auf dem Foto platzierten Pfeilen. Eine korrigierte Passe wandert, sobald du sie erneut bestätigst.
 
 ## Wo deine Pfeile landen { #where-your-arrows-land }
 

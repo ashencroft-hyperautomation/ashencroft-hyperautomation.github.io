@@ -91,12 +91,21 @@ How many arrows landed in each ring, from X (or 11 on a 3D animal) down to a mis
 </figure>
 </div>
 
-Every placed arrow on one target, each drawn on its own spot, with:
+Your **latest 300 placed arrows** from finished sessions (for the period and filters chosen) on one target, each drawn on its own spot, with:
 
 - the **group centre** (a cross): high, low, left or right, as a share of the face's radius. Handy for sight marks;
-- the **spread** (a dashed circle): how far arrows sit from the group centre on average.
+- the **spread** (a dashed circle): how far arrows sit from the group centre on average;
+- **one end at a time**: under the chart, ◀ shows your latest end in red and the others in grey, ◀ ▶ step through the ends, and tapping the end's name shows every arrow again.
+
+The centre and spread count every placed arrow in the period; the dots show the latest 300.
 
 Arrows the AI placed always count. Arrows placed by hand count once you've [marked the target](scoring-manual.md#mark-the-target).
+
+## Centre of each end
+
+![Centre of each end: one dot per end on the target, a cross at the average centre and a dashed circle for how much ends drift.](images/screenshots/stats-centres.png){ .shot }
+
+One dot per confirmed end: the centre of its placed arrows. The **cross** is the average centre; the **dashed circle** shows how far your ends drift from one to the next (aim, sight setting). Below it: where the average centre sits, the drift, and how many ends it is based on. It needs 3 ends with arrows placed on the photo. A corrected end moves as soon as you confirm it again.
 
 ## Where your arrows land
 

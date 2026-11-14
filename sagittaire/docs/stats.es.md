@@ -91,12 +91,21 @@ Cuántas flechas cayeron en cada zona, desde la X (o el 11 en un animal 3D) hast
 </figure>
 </div>
 
-Cada flecha colocada sobre una sola diana, cada una dibujada en su propio spot, con:
+Tus **últimas 300 flechas colocadas** de sesiones terminadas (para el periodo y los filtros elegidos) sobre una sola diana, cada una dibujada en su propio spot, con:
 
 - el **centro del grupo** (una cruz): alto, bajo, a la izquierda o a la derecha, como proporción del radio de la diana. Práctico para las marcas de visor;
-- la **dispersión** (un círculo discontinuo): a qué distancia del centro del grupo quedan las flechas de media.
+- la **dispersión** (un círculo discontinuo): a qué distancia del centro del grupo quedan las flechas de media;
+- **una tanda a la vez**: bajo el gráfico, ◀ muestra tu última tanda en rojo y las demás en gris, ◀ ▶ pasan de una tanda a otra, y tocar el nombre de la tanda vuelve a mostrar todas las flechas.
+
+El centro y la dispersión cuentan todas las flechas colocadas del periodo; los puntos muestran las 300 últimas.
 
 Las flechas que colocó la IA siempre cuentan. Las flechas colocadas a mano cuentan una vez que has [marcado la diana](scoring-manual.md#mark-the-target).
+
+## Centro de cada tanda { #centre-of-each-end }
+
+![Centro de cada tanda: un punto por tanda sobre la diana, una cruz en el centro medio y un círculo discontinuo para el desplazamiento de las tandas.](images/screenshots/es/stats-centres.png){ .shot }
+
+Un punto por tanda confirmada: el centro de sus flechas colocadas. La **cruz** marca el centro medio; el **círculo discontinuo** muestra cuánto se desplazan tus tandas de una a otra (puntería, ajuste del visor). Debajo: dónde está el centro medio, el desplazamiento y en cuántas tandas se basa. Hacen falta 3 tandas con flechas colocadas en la foto. Una tanda corregida cambia de sitio en cuanto la vuelves a confirmar.
 
 ## Dónde caen tus flechas { #where-your-arrows-land }
 
