@@ -77,7 +77,7 @@ Vous corrigez une flèche entourée d'une touche, ajoutez une flèche oubliée o
 
 | Méthode | Comment |
 |---------|---------|
-| **[Votre propre clé API](scoring-api.md)** | Automatique, en arrière-plan. Anthropic (Claude), Google (Gemini), OpenAI, ou tout service compatible OpenAI à l’adresse que vous indiquez. |
+| **[Votre propre clé API](scoring-api.md)** | Automatique, en arrière-plan. Anthropic, Google (Gemini), OpenAI, ou tout service compatible OpenAI à l’adresse que vous indiquez. |
 | **[Partager avec votre application d’IA](scoring-share.md)** | Sans clé : partagez la photo et le texte avec l’application d’IA de votre téléphone, puis collez sa réponse. |
 | **[Manuel](scoring-manual.md)** | Sans IA : touchez chaque flèche sur la photo et choisissez sa zone. Rien n’est envoyé. |
 | **À la main** | Toujours possible, sur chaque volée, quelle que soit la méthode. |

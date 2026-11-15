@@ -77,7 +77,7 @@ Du korrigierst jeden eingekreisten Pfeil mit einem Tippen, fügst einen überseh
 
 | Methode | Wie |
 |--------|-----|
-| **[Dein eigener API-Schlüssel](scoring-api.md)** | Automatisch, im Hintergrund. Anthropic (Claude), Google (Gemini), OpenAI oder jeder OpenAI-kompatible Dienst unter der Adresse, die du angibst. |
+| **[Dein eigener API-Schlüssel](scoring-api.md)** | Automatisch, im Hintergrund. Anthropic, Google (Gemini), OpenAI oder jeder OpenAI-kompatible Dienst unter der Adresse, die du angibst. |
 | **[Mit deiner KI-App teilen](scoring-share.md)** | Kein Schlüssel: Teile Foto und Anweisung mit der KI-App auf deinem Handy und füge ihre Antwort ein. |
 | **[Von Hand](scoring-manual.md)** | Keine KI: Tippe jeden Pfeil auf dem Foto an und wähle seinen Ring. Nichts wird gesendet. |
 | **Direkt eintippen** | Immer möglich, bei jeder Passe, egal mit welcher Methode. |

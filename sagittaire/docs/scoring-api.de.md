@@ -17,9 +17,11 @@ Die automatische Methode: Nach jedem Foto sendet sagitt·AI·re die Scheibe an d
 
 ## Den KI-Dienst wählen { #choose-the-ai-service }
 
+Es ist kein Dienst für dich vorausgewählt: Wähle den, dessen Schlüssel du hast, dann erscheinen sein Schlüssel und seine Anleitung.
+
 | Dienst | Modelle |
 |---------|--------|
-| **Anthropic (Claude)** | Opus 5.5 (Standard), Sonnet 5.5 (günstiger) |
+| **Anthropic** | Opus 5.5 (Standard), Sonnet 5.5 (günstiger) |
 | **OpenAI** | GPT-6.1 Sol (Standard), GPT-6 Astra (am leistungsfähigsten, etwa 5-facher Preis) |
 | **Google (Gemini)** | Gemini 4 Carbon (Standard), Gemini 3.8 Flash (schneller, günstiger). Nimm einen Schlüssel aus einem Projekt mit aktivierter Abrechnung (siehe [Datenschutz](privacy.md)). |
 | **Anderer Dienst (OpenAI-kompatibel)** | Jedes Modell, das du angibst, bei jedem Dienst, der das Chat-Format von OpenAI nutzt: OpenRouter, Mistral, Groq, ein Firmen-Gateway… |

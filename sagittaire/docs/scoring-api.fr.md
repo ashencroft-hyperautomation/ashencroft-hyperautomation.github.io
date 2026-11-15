@@ -17,9 +17,11 @@ La méthode automatique : après chaque photo, sagitt·AI·re envoie la cible a
 
 ## Choisir le service d’IA
 
+Aucun service n’est choisi pour vous : choisissez celui dont vous avez la clé, puis sa clé et son guide apparaissent.
+
 | Service | Modèles |
 |---------|---------|
-| **Anthropic (Claude)** | Opus 5.5 (par défaut), Sonnet 5.5 (moins cher) |
+| **Anthropic** | Opus 5.5 (par défaut), Sonnet 5.5 (moins cher) |
 | **OpenAI** | GPT-6.1 Sol (par défaut), GPT-6 Astra (le plus puissant, environ 5 fois plus cher) |
 | **Google (Gemini)** | Gemini 4 Carbon (par défaut), Gemini 3.8 Flash (plus rapide, moins cher). Utilisez une clé d’un projet avec la facturation activée (voir [Confidentialité](privacy.md)). |
 | **Autre service (compatible OpenAI)** | N’importe quel modèle que vous nommez, sur tout service qui utilise le format de conversation d’OpenAI : OpenRouter, Mistral, Groq, une passerelle d’entreprise… |

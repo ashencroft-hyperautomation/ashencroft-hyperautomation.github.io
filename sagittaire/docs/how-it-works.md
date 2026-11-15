@@ -77,7 +77,7 @@ You fix any circled arrow with one tap, add a missed arrow or remove another arc
 
 | Method | How |
 |--------|-----|
-| **[Your own API key](scoring-api.md)** | Automatic, in the background. Anthropic (Claude), Google (Gemini), OpenAI, or any OpenAI-compatible service at the address you give. |
+| **[Your own API key](scoring-api.md)** | Automatic, in the background. Anthropic, Google (Gemini), OpenAI, or any OpenAI-compatible service at the address you give. |
 | **[Share with your AI app](scoring-share.md)** | No key: share the photo and prompt with the AI app on your phone, paste its answer. |
 | **[Manual](scoring-manual.md)** | No AI: tap each arrow on the photo and pick its ring. Nothing is sent. |
 | **By hand** | Always possible, on any end, whatever the method. |

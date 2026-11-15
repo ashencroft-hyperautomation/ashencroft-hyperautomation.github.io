@@ -17,9 +17,11 @@ The automatic method: after each photo, sagitt·AI·re sends the target to the A
 
 ## Choose the AI service
 
+None is chosen for you: pick the service whose key you have, and its key and guide appear.
+
 | Service | Models |
 |---------|--------|
-| **Anthropic (Claude)** | Opus 5.5 (default), Sonnet 5.5 (cheaper) |
+| **Anthropic** | Opus 5.5 (default), Sonnet 5.5 (cheaper) |
 | **OpenAI** | GPT-6.1 Sol (default), GPT-6 Astra (most capable, about 5 times the price) |
 | **Google (Gemini)** | Gemini 4 Carbon (default), Gemini 3.8 Flash (faster, cheaper). Use a key from a project with billing turned on (see [Privacy](privacy.md)). |
 | **Other service (OpenAI-compatible)** | Any model you name, on any service that uses the OpenAI chat format: OpenRouter, Mistral, Groq, a company gateway… |

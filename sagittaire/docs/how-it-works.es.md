@@ -77,7 +77,7 @@ Corriges cualquier flecha marcada con un toque, añades una flecha que falte o q
 
 | Método | Cómo |
 |--------|-----|
-| **[Tu propia clave de API](scoring-api.md)** | Automático, en segundo plano. Anthropic (Claude), Google (Gemini), OpenAI, o cualquier servicio compatible con OpenAI en la dirección que indiques. |
+| **[Tu propia clave de API](scoring-api.md)** | Automático, en segundo plano. Anthropic, Google (Gemini), OpenAI, o cualquier servicio compatible con OpenAI en la dirección que indiques. |
 | **[Compartir con tu app de IA](scoring-share.md)** | Sin clave: comparte la foto y el prompt con la app de IA de tu teléfono y pega su respuesta. |
 | **[Manual](scoring-manual.md)** | Sin IA: toca cada flecha en la foto y elige su zona. No se envía nada. |
 | **A mano** | Siempre es posible, en cualquier tanda, sea cual sea el método. |
