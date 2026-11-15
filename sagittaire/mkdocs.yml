@@ -64,6 +64,8 @@ plugins:
             Normal mode: Mode normal
             Game mode: Mode jeu
             Education: Éducation
+            Learning with the game: Apprendre avec le jeu
+            The archer's book: Le livre de l’archer
             Scoring: Comptage
             Three ways to score: Trois façons de compter
             Your own API key: Votre propre clé API
@@ -101,6 +103,8 @@ plugins:
             Normal mode: Normalmodus
             Game mode: Spielmodus
             Education: Lernen
+            Learning with the game: Lernen mit dem Spiel
+            The archer's book: Das Buch des Bogenschützen
             Scoring: Wertung
             Three ways to score: Drei Arten der Wertung
             Your own API key: Dein eigener API-Schlüssel
@@ -138,6 +142,8 @@ plugins:
             Normal mode: Modo normal
             Game mode: Modo juego
             Education: Educación
+            Learning with the game: Aprender con el juego
+            The archer's book: El libro del arquero
             Scoring: Puntuación
             Three ways to score: Tres formas de puntuar
             Your own API key: Tu propia clave de API
@@ -180,7 +186,9 @@ nav:
   - Home: index.md
   - Getting started: guide.md
   - Game mode: game.md
-  - Education: education.md
+  - Education:
+      - Learning with the game: education.md
+      - The archer's book: book.md
   - Statistics: stats.md
   - Scoring:
       - Three ways to score: scoring.md

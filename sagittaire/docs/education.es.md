@@ -6,7 +6,7 @@ niños (y los mayores) aprenden qué es un culatín, el cuerpo del arco o una da
 muestra.
 
 Esta página es para madres, padres, entrenadores y docentes que quieren usar el juego para ayudar a aprender a los
-arqueros jóvenes.
+arqueros jóvenes. El libro completo también está en PDF para imprimir, en cuatro idiomas: [El libro del arquero](book.md).
 
 !!! note "El libro es un borrador"
     Las 56 páginas del libro aún se están revisando antes de que la app se reparta más. Nombra las cosas y explica para qué
@@ -50,7 +50,7 @@ o más.
 
 ![Cinco páginas del capítulo El arco, con sus nombres en inglés: el cuerpo, las palas, la cuerda, el reposaflechas y el botón de presión, y el punto de enfulque; a la derecha, la silueta oscura de cada página tal como se ve mientras está bloqueada.](images/game-book-bow.png){ width="480" .pixel }
 
-## Los 11 capítulos
+## Los 11 capítulos { #the-11-chapters }
 
 Cada página y el escalón de insignia que la abre:
 

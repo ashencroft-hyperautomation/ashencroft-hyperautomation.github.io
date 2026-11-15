@@ -6,7 +6,7 @@ Bogenschießens. Kinder (und Erwachsene) lernen, was eine Nocke, ein Mittelteil 
 verdient haben, die es zeigt.
 
 Diese Seite ist für Eltern, Trainerinnen und Trainer und Lehrkräfte, die das Spiel nutzen möchten, um jungen
-Bogenschützen beim Lernen zu helfen.
+Bogenschützen beim Lernen zu helfen. Das ganze Buch gibt es auch als PDF zum Ausdrucken, in vier Sprachen: [Das Buch des Bogenschützen](book.md).
 
 !!! note "Das Buch ist ein Entwurf"
     Die 56 Seiten des Buchs werden noch geprüft, bevor die App breiter verteilt wird. Es benennt Dinge und erklärt, wozu
@@ -50,7 +50,7 @@ Saison oder mehr.
 
 ![Fünf Seiten des Kapitels Der Bogen, mit englischen Beschriftungen: das Mittelteil, die Wurfarme, die Sehne, Pfeilauflage und Button, und der Nockpunkt; rechts der dunkle Umriss jeder Seite, wie er erscheint, solange sie gesperrt ist.](images/game-book-bow.png){ width="480" .pixel }
 
-## Die 11 Kapitel
+## Die 11 Kapitel { #the-11-chapters }
 
 Jede Seite und die Abzeichenstufe, die sie öffnet:
 

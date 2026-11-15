@@ -4,7 +4,7 @@
 step forward opens a page of **the archer's book**, an illustrated picture dictionary of archery. Children (and
 grown-ups) learn what a nock, a riser or a finger tab is because they earned the page that shows it.
 
-This page is for parents, coaches and teachers who want to use the game to help young archers learn.
+This page is for parents, coaches and teachers who want to use the game to help young archers learn. The whole book is also a printable PDF, in four languages: [The archer's book](book.md).
 
 !!! note "The book is a draft"
     The book's 56 pages are still being checked before the app is handed out more widely. It names things and
@@ -45,7 +45,7 @@ outdoors**, and practising in four different weeks opens **Warming up**. Later p
 
 ![Five pages of the chapter The bow, with their labels in English: the riser (limb pocket, sight window, grip), the limbs, the string (strands, loop, centre serving), the rest and plunger, and the nocking point; on the right, each page's dark silhouette as it shows while locked.](images/game-book-bow.png){ width="480" .pixel }
 
-## The 11 chapters
+## The 11 chapters { #the-11-chapters }
 
 Each page and the badge step that opens it:
 

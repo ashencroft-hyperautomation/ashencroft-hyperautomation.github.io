@@ -5,7 +5,7 @@ progrès ouvre une page du **livre de l’archer**, un dictionnaire illustré du
 apprennent ce qu’est une encoche, une poignée ou une palette parce qu’ils ont gagné la page qui les montre.
 
 Cette page s’adresse aux parents, aux entraîneurs et aux enseignants qui veulent se servir du jeu pour aider de jeunes
-archers à apprendre.
+archers à apprendre. Le livre entier existe aussi en PDF à imprimer, en quatre langues : [Le livre de l’archer](book.md).
 
 !!! note "Le livre est un brouillon"
     Les 56 pages du livre sont encore en cours de vérification avant une diffusion plus large de l’application. Il nomme
@@ -49,14 +49,14 @@ saison ou plus.
 
 ![Cinq pages du chapitre L’arc, avec leurs noms en anglais : la poignée, les branches, la corde, le repose-flèche et le berger button, et le point d’encochage ; à droite, la silhouette sombre de chaque page telle qu’elle s’affiche tant qu’elle est verrouillée.](images/game-book-bow.png){ width="480" .pixel }
 
-## Les 11 chapitres
+## Les 11 chapitres { #the-11-chapters }
 
 Chaque page et l’étape d’insigne qui l’ouvre :
 
 - **Les flèches :** Les parties d’une flèche (Flèches I), L’encoche (Flèches II), Empennes et plumes (Flèches III), Les pointes (Flèches IV), Le spine (Flèches V).
 - **L’arc :** La poignée (Séances I), Les branches (Séances II), La corde (Séances III), Repose-flèche et berger button (Séances IV), Le point d’encochage (Séances V).
 - **La cible :** Le blason et ses couleurs (X I), Les blasons spot (X II), Les blasons de campagne (X III), Les animaux 3D (X IV), La butte et le chevalet (X V).
-- **La visée :** Le viseur (Volées parfaites I), Le clicker (Volées parfaites II), Les stabilisateurs (Volées parfaites III), Ancrage et kisser (Volées parfaites IV), String walking et face walking (Volées parfaites V).
+- **La visée :** Le viseur (Volées parfaites I), Le clicker (Volées parfaites II), Les stabilisateurs (Volées parfaites III), Ancrage et kisser (Volées parfaites IV), Déplacer les doigts ou l’ancrage (Volées parfaites V).
 - **L’équipement de l’archer :** La palette (Records I), Le protège-bras (Records II), Le plastron (Records III), Le décocheur (Records IV), La dragonne (Records V).
 - **Soins et habitudes :** L’échauffement (Semaines I), Les jours de repos (Semaines II), Vérifier ses flèches (Semaines III), La cire à corde (Semaines IV), Ranger son arc (Semaines V).
 - **Sur le terrain :** En salle et dehors (Distances I), Le vent (Distances II), Lumière et ombre (Distances III), En montée et en descente (Distances IV), Estimer la distance (Distances V).

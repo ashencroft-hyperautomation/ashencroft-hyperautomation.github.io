@@ -140,7 +140,7 @@ Tout se compte au total, jamais par jour : 300 flèches aujourd’hui ne rappor
 | ![Médaille Volées parfaites II](images/game-medal-perfect-ends-2.png){ width="36" .pixel } | **Volées parfaites II** | Tirer 5 volées parfaites | Cotte de mailles | Le clicker |
 | ![Médaille Volées parfaites III](images/game-medal-perfect-ends-3.png){ width="36" .pixel } | **Volées parfaites III** | Tirer 10 volées parfaites | Fanions runiques | Les stabilisateurs |
 | ![Médaille Volées parfaites IV](images/game-medal-perfect-ends-4.png){ width="36" .pixel } | **Volées parfaites IV** | Tirer 25 volées parfaites | Couronne de bois de cerf | Ancrage et kisser |
-| ![Médaille Volées parfaites V](images/game-medal-perfect-ends-5.png){ width="36" .pixel } | **Volées parfaites V** | Tirer 50 volées parfaites | Loup | String walking et face walking |
+| ![Médaille Volées parfaites V](images/game-medal-perfect-ends-5.png){ width="36" .pixel } | **Volées parfaites V** | Tirer 50 volées parfaites | Loup | Déplacer les doigts ou l’ancrage |
 | ![Médaille Records I](images/game-medal-records-1.png){ width="36" .pixel } | **Records I** | Battre 1 record personnel | Médaille | La palette |
 | ![Médaille Records II](images/game-medal-records-2.png){ width="36" .pixel } | **Records II** | Battre 3 records personnels | Cor de guerre | Le protège-bras |
 | ![Médaille Records III](images/game-medal-records-3.png){ width="36" .pixel } | **Records III** | Battre 10 records personnels | Pierre runique | Le plastron |
@@ -274,7 +274,7 @@ Le **lutrin** de la maison porte **le livre de l’archer** : 56 pages illustr�
 - Le livre nomme les choses et explique à quoi elles servent. Ce n’est pas un règlement : pour les règles de compétition, voir [Tir à l’arc Canada](https://archerycanada.ca/).
 - Les textes des pages sont des brouillons, encore en cours de vérification.
 - Les lecteurs d’écran lisent le texte et les noms de chaque dessin.
-- Pour les parents, les entraîneurs et les enseignants : comment le livre aide les enfants à apprendre les mots du tir à l’arc, dans [Éducation](education.md).
+- Pour les parents, les entraîneurs et les enseignants : comment le livre aide les enfants à apprendre les mots du tir à l’arc, dans [Éducation](education.md). Le livre entier, à imprimer : [Le livre de l’archer](book.md).
 
 ![Cinq pages du chapitre L’arc, avec leurs noms en anglais : la poignée, les branches, la corde, le repose-flèche et le berger button, et le point d’encochage ; à droite, la silhouette sombre de chaque page telle qu’elle s’affiche tant qu’elle est verrouillée.](images/game-book-bow.png){ width="480" .pixel }
 

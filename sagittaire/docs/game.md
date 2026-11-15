@@ -274,7 +274,7 @@ The **lectern** in the hall holds **the archer's book**: 56 illustrated pages in
 - The book names things and explains what they do. It is not a rule book: for the rules of competition, see [Archery Canada](https://archerycanada.ca/).
 - The page texts are drafts, still being checked.
 - Screen readers read the text and the labels of each drawing.
-- For parents, coaches and teachers: how the book helps children learn the words of archery, in [Education](education.md).
+- For parents, coaches and teachers: how the book helps children learn the words of archery, in [Education](education.md). The whole book, to print: [The archer's book](book.md).
 
 ![Five pages of the chapter The bow, with their labels in English: the riser (limb pocket, sight window, grip), the limbs, the string (strands, loop, centre serving), the rest and plunger, and the nocking point; on the right, each page's dark silhouette as it shows while locked.](images/game-book-bow.png){ width="480" .pixel }
 
