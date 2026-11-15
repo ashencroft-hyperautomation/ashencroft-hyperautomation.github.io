@@ -274,6 +274,7 @@ Auf dem **Lesepult** in der Halle liegt **das Buch des Bogenschützen**: 56 bebi
 - Das Buch benennt Dinge und erklärt, wozu sie dienen. Es ist kein Regelwerk: Für die Wettkampfregeln siehe [Archery Canada](https://archerycanada.ca/).
 - Die Seitentexte sind Entwürfe und werden noch geprüft.
 - Screenreader lesen den Text und die Beschriftungen jeder Zeichnung vor.
+- Für Eltern, Trainer und Lehrkräfte: wie das Buch Kindern hilft, die Wörter des Bogenschießens zu lernen, unter [Lernen](education.md).
 
 ![Fünf Seiten des Kapitels Der Bogen, mit englischen Beschriftungen: das Mittelteil, die Wurfarme, die Sehne, Pfeilauflage und Button, und der Nockpunkt; rechts der dunkle Umriss jeder Seite, wie er erscheint, solange sie gesperrt ist.](images/game-book-bow.png){ width="480" .pixel }
 

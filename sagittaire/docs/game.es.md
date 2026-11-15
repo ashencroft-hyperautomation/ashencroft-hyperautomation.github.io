@@ -274,6 +274,7 @@ El **atril** del salón sostiene **el libro del arquero**: 56 páginas ilustrada
 - El libro nombra las cosas y explica para qué sirven. No es un reglamento: para las reglas de competición, consulta [Archery Canada](https://archerycanada.ca/).
 - Los textos de las páginas son borradores que aún se están revisando.
 - Los lectores de pantalla leen el texto y los nombres de cada dibujo.
+- Para familias, entrenadores y docentes: cómo el libro ayuda a los niños a aprender las palabras del tiro con arco, en [Educación](education.md).
 
 ![Cinco páginas del capítulo El arco, con sus nombres en inglés: el cuerpo, las palas, la cuerda, el reposaflechas y el botón de presión, y el punto de enfulque; a la derecha, la silueta oscura de cada página tal como se ve mientras está bloqueada.](images/game-book-bow.png){ width="480" .pixel }
 
