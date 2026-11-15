@@ -163,12 +163,36 @@ Prises avec **sagitt·AI·re Demo**, une version de l'application remplie de six
 <figcaption><b>Les réglages, regroupés par thème.</b></figcaption>
 </figure>
 <figure markdown>
-![La maison avec une bannière et une cible peinte sur le mur de gauche, des flèches croisées au-dessus du miroir et une peau d’ours près du tapis, toutes gagnées.](images/screenshots/fr/game-hall-rewards.png){ .shot }
-<figcaption><b>Décorations gagnées.</b> Une bannière, une cible peinte, des flèches croisées et une peau de bête.</figcaption>
+![La maison décorée : un mur de boucliers et une carte sur le mur de gauche, des flèches croisées et une tapisserie sur le mur de droite, un établi du facteur d’arcs et une peau d’ours au sol, l’archer près du lutrin avec un lièvre.](images/screenshots/fr/game-hall-rewards.png){ .shot }
+<figcaption><b>La maison, décorée.</b></figcaption>
 </figure>
 <figure markdown>
-![Les récompenses au mur des trophées : des tenues au miroir, des décorations dans la maison.](images/screenshots/fr/game-rewards.png){ .shot }
-<figcaption><b>Récompenses.</b> Gagnées en tirant.</figcaption>
+![Le mur des trophées : Flèches, Séances et X à l’étape IV, chacun avec son compte, une barre et ses cinq étapes.](images/screenshots/fr/game-trophies.png){ .shot }
+<figcaption><b>Les jalons.</b> Cinq étapes chacun.</figcaption>
+</figure>
+<figure markdown>
+![Premières fois gagnées et à gagner, et combinaisons avec les insignes qu’il leur faut, cochés.](images/screenshots/fr/game-combos.png){ .shot }
+<figcaption><b>Premières fois et combinaisons.</b></figcaption>
+</figure>
+<figure markdown>
+![Les combinaisons, puis les récompenses des niveaux : diadème d’or, cape dorée et tunique pourpre royale.](images/screenshots/fr/game-rewards.png){ .shot }
+<figcaption><b>Récompenses</b> des niveaux.</figcaption>
+</figure>
+<figure markdown>
+![Le miroir : l’archer en pourpoint de cuir, cape de la forêt, pantalon à carreaux et bottes fourrées, avec un lièvre ; les choix de bottes en dessous.](images/screenshots/fr/game-boots.png){ .shot }
+<figcaption><b>Les bottes</b> et des tenues gagnées avec les insignes.</figcaption>
+</figure>
+<figure markdown>
+![Décorer : un aperçu de la maison et chaque emplacement avec son choix, Auto ou une pièce.](images/screenshots/fr/game-decorate.png){ .shot }
+<figcaption><b>Décorer</b>, depuis le coffre.</figcaption>
+</figure>
+<figure markdown>
+![Le livre de l’archer : les chapitres et leurs pages, les nouvelles pages marquées, les pages verrouillées avec l’insigne qu’il faut.](images/screenshots/fr/game-book.png){ .shot }
+<figcaption><b>Le livre de l’archer</b>, sur le lutrin.</figcaption>
+</figure>
+<figure markdown>
+![Une page du livre : la poignée, avec ses parties nommées et un court texte.](images/screenshots/fr/game-book-page.png){ .shot }
+<figcaption><b>Une page :</b> les parties nommées, un court texte.</figcaption>
 </figure>
 </div>
 

@@ -163,12 +163,36 @@ Tomadas con **sagitt·AI·re Demo**, una versión de la app llena de seis meses 
 <figcaption><b>Ajustes, agrupados por tema.</b></figcaption>
 </figure>
 <figure markdown>
-![El salón con un estandarte y una diana pintada en la pared izquierda, flechas cruzadas encima del espejo y una piel de oso junto a la alfombra, todo conseguido.](images/screenshots/es/game-hall-rewards.png){ .shot }
-<figcaption><b>Decoraciones conseguidas.</b> Un estandarte, una diana pintada, flechas cruzadas y una piel.</figcaption>
+![El salón decorado: un muro de escudos y un mapa en la pared izquierda, flechas cruzadas y un tapiz en la pared derecha, un banco del artesano de arcos y una piel de oso en el suelo, el arquero junto al atril con una liebre.](images/screenshots/es/game-hall-rewards.png){ .shot }
+<figcaption><b>El salón, decorado.</b></figcaption>
 </figure>
 <figure markdown>
-![Las recompensas del muro de trofeos: atuendos en el espejo, decoraciones en el salón.](images/screenshots/es/game-rewards.png){ .shot }
-<figcaption><b>Recompensas.</b> Se consiguen tirando.</figcaption>
+![El muro de trofeos: Flechas, Sesiones y X en el escalón IV, cada uno con su cuenta, una barra y sus cinco escalones.](images/screenshots/es/game-trophies.png){ .shot }
+<figcaption><b>Hitos.</b> Cinco escalones cada uno.</figcaption>
+</figure>
+<figure markdown>
+![Primeras veces conseguidas y por conseguir, y combinaciones con las insignias que necesitan, marcadas.](images/screenshots/es/game-combos.png){ .shot }
+<figcaption><b>Primeras veces y combinaciones.</b></figcaption>
+</figure>
+<figure markdown>
+![Las combinaciones, y después las recompensas por nivel: diadema de oro, capa dorada y túnica púrpura real.](images/screenshots/es/game-rewards.png){ .shot }
+<figcaption><b>Recompensas</b> por nivel.</figcaption>
+</figure>
+<figure markdown>
+![El espejo: el arquero con jubón de cuero, capa del bosque, pantalón de cuadros y botas de piel, con una liebre; debajo, las opciones de botas.](images/screenshots/es/game-boots.png){ .shot }
+<figcaption><b>Botas</b> y ropa conseguida con insignias.</figcaption>
+</figure>
+<figure markdown>
+![Decorar: una vista previa del salón y cada sitio con lo elegido, Auto o una pieza.](images/screenshots/es/game-decorate.png){ .shot }
+<figcaption><b>Decorar</b>, desde el arcón.</figcaption>
+</figure>
+<figure markdown>
+![El libro del arquero: los capítulos con sus páginas, las nuevas marcadas, las bloqueadas con la insignia que necesitan.](images/screenshots/es/game-book.png){ .shot }
+<figcaption><b>El libro del arquero</b>, en el atril.</figcaption>
+</figure>
+<figure markdown>
+![Una página del libro: el cuerpo del arco, con sus partes nombradas y un texto corto.](images/screenshots/es/game-book-page.png){ .shot }
+<figcaption><b>Una página:</b> partes nombradas, un texto corto.</figcaption>
 </figure>
 </div>
 

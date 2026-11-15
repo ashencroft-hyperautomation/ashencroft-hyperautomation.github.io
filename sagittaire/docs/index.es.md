@@ -35,14 +35,14 @@ Activa el **modo juego** y sagitt·AI·re se convierte en un pequeño videojuego
 <figcaption><b>Viste a tu arquero</b>, elige un compañero</figcaption>
 </figure>
 <figure markdown>
-![Trofeos: nivel y experiencia, diez insignias con medallas de oro, mejores marcas personales.](images/screenshots/es/game-trophies.png){ .shot }
+![Trofeos: nivel y experiencia, las insignias en hitos con sus cinco escalones, y por dónde vas en cada una.](images/screenshots/es/game-trophies.png){ .shot }
 <figcaption><b>Niveles, insignias</b>, un reto de la semana</figcaption>
 </figure>
 </div>
 
 ![Los cuatro arqueros legendarios de frente, de lado y de espaldas: Artemisa con su perro, Ullr con un cuervo, Robin Hood con un zorro, y Hou Yi.](images/game-legends.png){ .pixel width="360" }
 
-Atuendos y decoraciones del salón por ganar, un búho por cuatro semanas seguidas, un cuerno de guerra por una mejor marca personal, el campo de tiro en las cuatro estaciones, música y sonidos hechos para sagitt·AI·re.
+Veinte insignias que suben por escalones, cada escalón con ropa, un compañero o una decoración por ganar y una página del libro del arquero; decora el salón y el campo de tiro a tu gusto; un cuerno de guerra por una mejor marca personal, el campo de tiro en las cuatro estaciones, música y sonidos hechos para sagitt·AI·re.
 
 [Descubre el modo juego](game.md){ .md-button .md-button--primary }
 

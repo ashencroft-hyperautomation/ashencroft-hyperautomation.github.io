@@ -163,12 +163,36 @@ Aufgenommen mit **sagitt·AI·re Demo**, einer Version der App mit sechs Monaten
 <figcaption><b>Einstellungen, nach Thema gruppiert.</b></figcaption>
 </figure>
 <figure markdown>
-![Die Halle mit einem Banner und einer bemalten Scheibe an der linken Wand, gekreuzten Pfeilen über dem Spiegel und einem Bärenfell neben dem Teppich, alles verdient.](images/screenshots/de/game-hall-rewards.png){ .shot }
-<figcaption><b>Dekorationen, verdient.</b> Ein Banner, eine bemalte Scheibe, gekreuzte Pfeile und ein Fell.</figcaption>
+![Die dekorierte Halle: ein Schildwall und eine Karte an der linken Wand, gekreuzte Pfeile und ein Wandteppich an der rechten Wand, eine Werkbank des Bogenbauers und ein Bärenfell auf dem Boden, die Figur mit einem Hasen am Lesepult.](images/screenshots/de/game-hall-rewards.png){ .shot }
+<figcaption><b>Die Halle, dekoriert.</b></figcaption>
 </figure>
 <figure markdown>
-![Die Belohnungen an der Trophäenwand: Outfits am Spiegel, Dekorationen in der Halle.](images/screenshots/de/game-rewards.png){ .shot }
-<figcaption><b>Belohnungen.</b> Durch Schießen verdient.</figcaption>
+![Die Trophäenwand: Pfeile, Einheiten und X-Treffer auf Stufe IV, jeweils mit Zählung, Balken und fünf Stufen.](images/screenshots/de/game-trophies.png){ .shot }
+<figcaption><b>Meilensteine.</b> Je fünf Stufen.</figcaption>
+</figure>
+<figure markdown>
+![Erste Male, verdient und noch zu verdienen, und Kombinationen mit den Abzeichen, die sie brauchen, abgehakt.](images/screenshots/de/game-combos.png){ .shot }
+<figcaption><b>Erste Male und Kombinationen.</b></figcaption>
+</figure>
+<figure markdown>
+![Die Kombinationen, dann die Belohnungen für Stufen: Goldreif, goldener Umhang und königspurpurne Tunika.](images/screenshots/de/game-rewards.png){ .shot }
+<figcaption><b>Belohnungen</b> für Stufen.</figcaption>
+</figure>
+<figure markdown>
+![Der Spiegel: die Figur in Lederwams, Waldumhang, karierter Hose und Fellstiefeln, mit einem Hasen; darunter die Auswahl der Stiefel.](images/screenshots/de/game-boots.png){ .shot }
+<figcaption><b>Stiefel</b> und Kleidung aus Abzeichen.</figcaption>
+</figure>
+<figure markdown>
+![Dekorieren: eine Vorschau der Halle und jeder Platz mit seiner Wahl, Automatisch oder ein Teil.](images/screenshots/de/game-decorate.png){ .shot }
+<figcaption><b>Dekorieren</b>, über die Truhe.</figcaption>
+</figure>
+<figure markdown>
+![Das Buch des Bogenschützen: Kapitel mit ihren Seiten, neue Seiten markiert, gesperrte Seiten mit dem Abzeichen, das sie brauchen.](images/screenshots/de/game-book.png){ .shot }
+<figcaption><b>Das Buch des Bogenschützen</b>, auf dem Lesepult.</figcaption>
+</figure>
+<figure markdown>
+![Eine Seite des Buchs: das Mittelteil, mit beschrifteten Teilen und einem kurzen Text.](images/screenshots/de/game-book-page.png){ .shot }
+<figcaption><b>Eine Seite:</b> benannte Teile, ein kurzer Text.</figcaption>
 </figure>
 </div>
 

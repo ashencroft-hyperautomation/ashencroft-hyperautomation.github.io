@@ -49,7 +49,7 @@ Chaque page des réglages commence par une courte explication, puis ses choix.
 
 ![La carte Objectifs de l’accueil : Cette semaine : 120 flèches sur 100, objectif atteint, avec une barre pleine ; 4 dernières semaines : 9,04 par flèche, objectif 9,30, encore 0,26.](images/screenshots/fr/goals-dash.png){ .shot width="320" }
 
-L’accueil affiche alors une carte **Objectifs** : les flèches de la semaine (du lundi au dimanche, séance en cours comprise) face à votre objectif, avec une barre, et votre moyenne par flèche sur les quatre dernières semaines de séances terminées face à votre cible. Touchez-la pour changer les objectifs. En mode jeu, le mur des trophées en fait le [défi de la semaine](game.md#defi-de-la-semaine).
+L’accueil affiche alors une carte **Objectifs** : les flèches de la semaine (du lundi au dimanche, séance en cours comprise) face à votre objectif, avec une barre, et votre moyenne par flèche sur les quatre dernières semaines de séances terminées face à votre cible. Touchez-la pour changer les objectifs. En mode jeu, le mur des trophées en fait le [défi de la semaine](game.md#this-weeks-challenge).
 
 ## Passer au mode jeu
 

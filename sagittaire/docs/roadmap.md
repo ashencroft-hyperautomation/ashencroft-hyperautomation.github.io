@@ -24,6 +24,7 @@ sagitt·AI·re is a pro bono project of Ashencroft Studio, built in the open. He
 - [x] Three looks: Original, Range day (for sunlight) and Night range (for indoors), with scores in their ring colours
 - [x] Game mode (preview): the hall and the range in pixel art, walk to a place to open it, your own archer, companions, music and sounds, and every screen in the game look; your statistics by the hearth, the end to check at the arrow stand, and levels, badges and trophies earned by real shooting
 - [x] **Game mode:** outfits and hall decorations earned by levels and badges, a reward for every badge (a quiver, a laurel wreath, a silver cloak, a feathered hat, an owl companion, a painted target and crossed arrows), a war horn for a personal best, and the range in four seasons
+- [x] **Game mode badges:** 20 badges in milestones (five steps each), firsts and combos, each step with clothing (boots too), a companion or a decoration and a page of **the archer's book** on a lectern in the hall; **decorate** the hall and the range from a storage chest
 - [x] **Your data, your way:** export (everything, records only, or photos only) to a folder you choose, restore on the same or a new phone, and free up space by removing old photos
 - [x] Share a session summary, as text or with a picture of the scoresheet
 - [x] Statistics: average over time, volume, score distribution, consistency, fatigue over a session, where your arrows group, records per round

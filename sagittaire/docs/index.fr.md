@@ -35,14 +35,14 @@ Activez le **mode jeu** et sagitt·AI·re devient un petit jeu vidéo en pixel a
 <figcaption><b>Habillez votre archer</b>, choisissez un compagnon</figcaption>
 </figure>
 <figure markdown>
-![Trophées : niveau et expérience, dix insignes avec des médailles d’or, records personnels.](images/screenshots/fr/game-trophies.png){ .shot }
+![Trophées : niveau et expérience, les insignes en jalons avec leurs cinq étapes, et où vous en êtes pour chacun.](images/screenshots/fr/game-trophies.png){ .shot }
 <figcaption><b>Niveaux, insignes</b>, un défi chaque semaine</figcaption>
 </figure>
 </div>
 
 ![Les quatre archers légendaires de face, de profil et de dos : Artémis et son chien, Ullr et un corbeau, Robin des Bois et un renard, et Hou Yi.](images/game-legends.png){ .pixel width="360" }
 
-Des tenues et des décorations à gagner, un hibou pour quatre semaines de suite, un cor de guerre pour un record personnel, le pas de tir aux quatre saisons, de la musique et des sons faits pour sagitt·AI·re.
+Vingt insignes qui montent par étapes, chaque étape avec une tenue, un compagnon ou une décoration à gagner et une page du livre de l’archer ; la maison et le pas de tir à décorer à votre goût ; un cor de guerre pour un record personnel, le pas de tir aux quatre saisons, de la musique et des sons faits pour sagitt·AI·re.
 
 [Découvrir le mode jeu](game.md){ .md-button .md-button--primary }
 

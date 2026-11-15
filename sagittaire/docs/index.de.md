@@ -35,14 +35,14 @@ Schalte den **Spielmodus** ein, und sagitt·AI·re wird zu einem kleinen Pixel-A
 <figcaption><b>Kleide deine Figur ein</b>, wähle einen Begleiter</figcaption>
 </figure>
 <figure markdown>
-![Trophäen: Stufe und Erfahrung, zehn Abzeichen mit Goldmedaillen, persönliche Bestleistungen.](images/screenshots/de/game-trophies.png){ .shot }
+![Trophäen: Stufe und Erfahrung, Abzeichen als Meilensteine mit ihren fünf Stufen und wie weit du jeweils bist.](images/screenshots/de/game-trophies.png){ .shot }
 <figcaption><b>Stufen, Abzeichen</b>, eine Wochenherausforderung</figcaption>
 </figure>
 </div>
 
 ![Die vier legendären Bogenschützen von vorn, von der Seite und von hinten: Artemis mit ihrem Hund, Ullr mit einem Raben, Robin Hood mit einem Fuchs und Hou Yi.](images/game-legends.png){ .pixel width="360" }
 
-Kleidung und Hallenschmuck zum Verdienen, eine Eule für vier Wochen am Stück, ein Kriegshorn für eine persönliche Bestleistung, der Bogenplatz in vier Jahreszeiten, Musik und Klänge eigens für sagitt·AI·re.
+Zwanzig Abzeichen, die in Stufen steigen, jede Stufe mit Kleidung, einem Begleiter oder einer Dekoration zum Verdienen und einer Seite im Buch des Bogenschützen; Halle und Bogenplatz nach deinem Geschmack dekorieren; ein Kriegshorn für eine persönliche Bestleistung, der Bogenplatz in vier Jahreszeiten, Musik und Klänge eigens für sagitt·AI·re.
 
 [Den Spielmodus entdecken](game.md){ .md-button .md-button--primary }
 

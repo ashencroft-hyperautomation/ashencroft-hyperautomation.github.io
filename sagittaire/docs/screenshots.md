@@ -163,12 +163,36 @@ Taken with **sagitt·AI·re Demo**, a version of the app filled with six months 
 <figcaption><b>Settings, grouped by topic.</b></figcaption>
 </figure>
 <figure markdown>
-![The hall with a banner and a painted target on the left wall, crossed arrows above the mirror and a bear pelt by the rug, all earned.](images/screenshots/game-hall-rewards.png){ .shot }
-<figcaption><b>Decorations, earned.</b> A banner, a painted target, crossed arrows and a pelt.</figcaption>
+![The hall decorated: a shield wall and a map on the left wall, crossed arrows and a tapestry on the right wall, a bow-maker's workbench and a bear pelt on the floor, the archer by the lectern with a hare.](images/screenshots/game-hall-rewards.png){ .shot }
+<figcaption><b>The hall, decorated.</b></figcaption>
 </figure>
 <figure markdown>
-![The trophy wall's rewards: outfits at the mirror, decorations in the hall.](images/screenshots/game-rewards.png){ .shot }
-<figcaption><b>Rewards.</b> Earned by shooting.</figcaption>
+![The trophy wall: Arrows, Sessions and Xs at step IV, each with its count, a bar and its five steps.](images/screenshots/game-trophies.png){ .shot }
+<figcaption><b>Milestones.</b> Five steps each.</figcaption>
+</figure>
+<figure markdown>
+![Firsts earned and still to earn, and combos with the badges each one needs, ticked off.](images/screenshots/game-combos.png){ .shot }
+<figcaption><b>Firsts and combos.</b></figcaption>
+</figure>
+<figure markdown>
+![Combos, then the rewards for levels: gold circlet, gold cloak and royal purple tunic.](images/screenshots/game-rewards.png){ .shot }
+<figcaption><b>Rewards</b> for levels.</figcaption>
+</figure>
+<figure markdown>
+![The mirror: the archer in a leather jerkin, a forest cloak, plaid trousers and fur boots, with a hare; the boots choices below.](images/screenshots/game-boots.png){ .shot }
+<figcaption><b>Boots</b> and clothes earned with badges.</figcaption>
+</figure>
+<figure markdown>
+![Decorate: a preview of the hall and each spot with its choice, Auto or a piece.](images/screenshots/game-decorate.png){ .shot }
+<figcaption><b>Decorate</b>, from the storage chest.</figcaption>
+</figure>
+<figure markdown>
+![The archer's book: chapters with their pages, new pages marked, locked pages with the badge they need.](images/screenshots/game-book.png){ .shot }
+<figcaption><b>The archer's book</b>, on the lectern.</figcaption>
+</figure>
+<figure markdown>
+![A page of the book: the riser, with its parts labelled and a short text.](images/screenshots/game-book-page.png){ .shot }
+<figcaption><b>A page:</b> parts named, a short text.</figcaption>
 </figure>
 </div>
 
