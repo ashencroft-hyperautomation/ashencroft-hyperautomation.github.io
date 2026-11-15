@@ -59,7 +59,7 @@ Pourquoi plusieurs signaux ? La confiance d'une IA n'est pas toujours juste. Le
 
 <div class="shots" markdown>
 <figure markdown>
-![Une flèche signalée sélectionnée : le choix de la zone met en évidence les deux zones possibles selon l'IA, 9 et 10, avec sa confiance.](images/screenshots/fr/review-select.png){ .shot }
+![Une flèche signalée sélectionnée : le choix de la zone met en évidence les deux zones possibles selon l'IA, 9 et 10, avec sa confiance. Une ligne dit où l’IA l’a vue entrer : sur la ligne 9/10.](images/screenshots/fr/review-select.png){ .shot }
 <figcaption>Choisir la bonne zone, puis valider</figcaption>
 </figure>
 </div>

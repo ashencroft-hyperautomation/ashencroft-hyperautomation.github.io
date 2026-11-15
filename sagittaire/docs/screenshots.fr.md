@@ -14,7 +14,7 @@ Prises avec **sagitt·AI·re Demo**, une version de l'application remplie de six
 <figcaption><b>2 à vérifier.</b> Les flèches près d'une ligne ou peu sûres sont entourées en orange et listées en premier.</figcaption>
 </figure>
 <figure markdown>
-![Une flèche signalée sélectionnée : le choix de la zone met en évidence 9 et 10 ; l'IA a donné 9, peut-être 10, avec 58 % de confiance.](images/screenshots/fr/review-select.png){ .shot }
+![Une flèche signalée sélectionnée : le choix de la zone met en évidence 9 et 10 ; l'IA a donné 9, peut-être 10, avec 58 % de confiance. Une ligne dit où l’IA l’a vue entrer : sur la ligne 9/10.](images/screenshots/fr/review-select.png){ .shot }
 <figcaption><b>Corriger une flèche.</b> Les deux zones possibles selon l'IA sont mises en évidence, avec sa confiance.</figcaption>
 </figure>
 <figure markdown>

@@ -59,7 +59,7 @@ Why several signals? An AI's confidence isn't always right. The dangerous case i
 
 <div class="shots" markdown>
 <figure markdown>
-![A flagged arrow selected: the ring picker highlights the AI's two candidate rings, 9 and 10, with its confidence.](images/screenshots/review-select.png){ .shot }
+![A flagged arrow selected: the ring picker highlights the AI's two candidate rings, 9 and 10, with its confidence. A line says where the AI saw it go in: on the 9/10 line.](images/screenshots/review-select.png){ .shot }
 <figcaption>Pick the right ring, then confirm</figcaption>
 </figure>
 </div>

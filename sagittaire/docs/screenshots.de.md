@@ -14,7 +14,7 @@ Aufgenommen mit **sagitt·AI·re Demo**, einer Version der App mit sechs Monaten
 <figcaption><b>2 zu prüfen.</b> Pfeile nahe einer Linie oder mit geringer Sicherheit werden bernsteinfarben eingekreist und zuerst aufgelistet.</figcaption>
 </figure>
 <figure markdown>
-![Prüfung mit einem ausgewählten markierten Pfeil: Die Ringauswahl hebt 9 und 10 hervor; die KI sagte 9, vielleicht 10, mit 58 Prozent Sicherheit.](images/screenshots/de/review-select.png){ .shot }
+![Prüfung mit einem ausgewählten markierten Pfeil: Die Ringauswahl hebt 9 und 10 hervor; die KI sagte 9, vielleicht 10, mit 58 Prozent Sicherheit. Eine Zeile sagt, wo die KI den Einschuss sah: auf der Linie 9/10.](images/screenshots/de/review-select.png){ .shot }
 <figcaption><b>Einen Pfeil korrigieren.</b> Die zwei Ringe, zwischen denen die KI schwankt, sind hervorgehoben, mit ihrer Sicherheit.</figcaption>
 </figure>
 <figure markdown>

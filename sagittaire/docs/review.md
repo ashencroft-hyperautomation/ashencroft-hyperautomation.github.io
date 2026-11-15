@@ -8,7 +8,7 @@ Before an end counts, you check it: the AI's result with the [automatic](scoring
 <figcaption><b>Two arrows to check</b></figcaption>
 </figure>
 <figure markdown>
-![A flagged arrow selected: the ring picker highlights the AI's two candidate rings, 9 and 10, with its confidence.](images/screenshots/review-select.png){ .shot }
+![A flagged arrow selected: the ring picker highlights the AI's two candidate rings, 9 and 10, with its confidence. A line says where the AI saw it go in: on the 9/10 line.](images/screenshots/review-select.png){ .shot }
 <figcaption><b>Choosing the right ring</b></figcaption>
 </figure>
 <figure markdown>

@@ -8,7 +8,7 @@ Antes de que una tanda cuente, la revisas: el resultado de la IA con los método
 <figcaption><b>Dos flechas por revisar</b></figcaption>
 </figure>
 <figure markdown>
-![Una flecha señalada seleccionada: el selector de zona resalta las dos zonas candidatas de la IA, 9 y 10, con su confianza.](images/screenshots/es/review-select.png){ .shot }
+![Una flecha señalada seleccionada: el selector de zona resalta las dos zonas candidatas de la IA, 9 y 10, con su confianza. Una línea dice dónde la vio entrar la IA: sobre la línea 9/10.](images/screenshots/es/review-select.png){ .shot }
 <figcaption><b>Elegir la zona correcta</b></figcaption>
 </figure>
 <figure markdown>

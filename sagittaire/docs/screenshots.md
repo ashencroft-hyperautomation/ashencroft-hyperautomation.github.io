@@ -14,7 +14,7 @@ Taken with **sagitt·AI·re Demo**, a version of the app filled with six months 
 <figcaption><b>2 to check.</b> Arrows near a line or with low confidence are circled in amber and listed first.</figcaption>
 </figure>
 <figure markdown>
-![Review with one flagged arrow selected: the ring picker highlights 9 and 10; the AI said 9, maybe 10, with 58 percent confidence.](images/screenshots/review-select.png){ .shot }
+![Review with one flagged arrow selected: the ring picker highlights 9 and 10; the AI said 9, maybe 10, with 58 percent confidence. A line says where the AI saw it go in: on the 9/10 line.](images/screenshots/review-select.png){ .shot }
 <figcaption><b>Fixing an arrow.</b> The AI's two candidate rings are highlighted, with its confidence.</figcaption>
 </figure>
 <figure markdown>

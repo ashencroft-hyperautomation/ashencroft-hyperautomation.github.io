@@ -59,7 +59,7 @@ Un aviso también te advierte cuando el número de flechas encontradas no es el 
 
 <div class="shots" markdown>
 <figure markdown>
-![Una flecha señalada y seleccionada: el selector de zonas resalta las dos zonas candidatas de la IA, 9 y 10, con su confianza.](images/screenshots/es/review-select.png){ .shot }
+![Una flecha señalada y seleccionada: el selector de zonas resalta las dos zonas candidatas de la IA, 9 y 10, con su confianza. Una línea dice dónde la vio entrar la IA: sobre la línea 9/10.](images/screenshots/es/review-select.png){ .shot }
 <figcaption>Elige la zona correcta y luego confirma</figcaption>
 </figure>
 </div>

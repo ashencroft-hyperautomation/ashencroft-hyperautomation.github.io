@@ -59,7 +59,7 @@ Warum mehrere Signale? Die Sicherheit einer KI stimmt nicht immer. Gefährlich i
 
 <div class="shots" markdown>
 <figure markdown>
-![Ein markierter Pfeil ist ausgewählt: Die Ringauswahl hebt die beiden Ringe hervor, die die KI in Frage zieht, 9 und 10, mit ihrer Sicherheit.](images/screenshots/de/review-select.png){ .shot }
+![Ein markierter Pfeil ist ausgewählt: Die Ringauswahl hebt die beiden Ringe hervor, die die KI in Frage zieht, 9 und 10, mit ihrer Sicherheit. Eine Zeile sagt, wo die KI den Einschuss sah: auf der Linie 9/10.](images/screenshots/de/review-select.png){ .shot }
 <figcaption>Den richtigen Ring wählen, dann bestätigen</figcaption>
 </figure>
 </div>

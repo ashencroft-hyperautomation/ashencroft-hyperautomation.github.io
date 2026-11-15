@@ -14,7 +14,7 @@ Tomadas con **sagitt·AI·re Demo**, una versión de la app llena de seis meses 
 <figcaption><b>2 por revisar.</b> Las flechas cerca de una línea o con poca confianza se rodean en ámbar y se muestran primero.</figcaption>
 </figure>
 <figure markdown>
-![Revisión con una flecha marcada seleccionada: el selector de zona resalta el 9 y el 10; la IA dijo 9, quizá 10, con un 58 por ciento de confianza.](images/screenshots/es/review-select.png){ .shot }
+![Revisión con una flecha marcada seleccionada: el selector de zona resalta el 9 y el 10; la IA dijo 9, quizá 10, con un 58 por ciento de confianza. Una línea dice dónde la vio entrar la IA: sobre la línea 9/10.](images/screenshots/es/review-select.png){ .shot }
 <figcaption><b>Corregir una flecha.</b> Las dos zonas candidatas de la IA aparecen resaltadas, con su confianza.</figcaption>
 </figure>
 <figure markdown>

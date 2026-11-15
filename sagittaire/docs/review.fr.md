@@ -8,7 +8,7 @@ Avant qu’une volée compte, vous la vérifiez : le résultat de l’IA avec l
 <figcaption><b>Deux flèches à vérifier</b></figcaption>
 </figure>
 <figure markdown>
-![Une flèche signalée sélectionnée : le choix de la zone met en évidence les deux zones possibles selon l’IA, 9 et 10, avec sa confiance.](images/screenshots/fr/review-select.png){ .shot }
+![Une flèche signalée sélectionnée : le choix de la zone met en évidence les deux zones possibles selon l’IA, 9 et 10, avec sa confiance. Une ligne dit où l’IA l’a vue entrer : sur la ligne 9/10.](images/screenshots/fr/review-select.png){ .shot }
 <figcaption><b>Choisir la bonne zone</b></figcaption>
 </figure>
 <figure markdown>
