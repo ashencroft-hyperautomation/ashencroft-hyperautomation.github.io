@@ -122,7 +122,7 @@ Los mismos registros, la misma puntuación: elige la que te guste y cambia cuand
 
     ---
 
-    Las flechas dudosas, marcadas con un círculo ámbar. Toca una y elige la zona correcta. Se aplica la regla de la línea.
+    Las flechas dudosas, marcadas con un círculo ámbar, cada una con el punto donde la IA la vio entrar. Toca una y elige la zona correcta. Se aplica la regla de la línea.
 
 -   :material-scale-balance: **[Reglas de puntuación](rules.md)**
 
@@ -140,7 +140,7 @@ Los mismos registros, la misma puntuación: elige la que te guste y cambia cuand
 
     ---
 
-    Cada sesión con sus fotos, un gráfico de puntuación por tanda, tendencias, regularidad, dónde se agrupan tus flechas y un mapa de calor por spot, por distancia y diana.
+    Cada sesión con sus fotos, un gráfico de puntuación por tanda, tendencias, regularidad, dónde se agrupan tus flechas, el centro de cada tanda y un mapa de calor por spot, por distancia y diana.
 
 -   :material-archive-outline: **[Almacenamiento y copia de seguridad](backup.md)**
 

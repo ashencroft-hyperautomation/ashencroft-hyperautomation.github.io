@@ -122,7 +122,7 @@ Same records, same scoring: pick the one you like, and switch at any time in **S
 
     ---
 
-    Uncertain arrows circled in amber. Tap one, pick the right ring. The line rule applies.
+    Uncertain arrows circled in amber, each saying where the AI saw it go in. Tap one, pick the right ring. The line rule applies.
 
 -   :material-scale-balance: **[Scoring rules](rules.md)**
 
@@ -140,7 +140,7 @@ Same records, same scoring: pick the one you like, and switch at any time in **S
 
     ---
 
-    Every session with its photos, a score-by-end chart, trends, consistency, where your arrows group and a heat map per spot, by distance and face.
+    Every session with its photos, a score-by-end chart, trends, consistency, where your arrows group, the centre of each end and a heat map per spot, by distance and face.
 
 -   :material-archive-outline: **[Storage and backup](backup.md)**
 

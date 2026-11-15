@@ -122,7 +122,7 @@ Dieselben Daten, dieselbe Wertung: Nimm, was dir gefällt, und wechsle jederzeit
 
     ---
 
-    Unsichere Pfeile sind bernsteinfarben eingekreist. Tippe einen an, wähle den richtigen Ring. Die Linienregel gilt.
+    Unsichere Pfeile sind bernsteinfarben eingekreist, jeder mit der Stelle, wo die KI den Einschuss sah. Tippe einen an, wähle den richtigen Ring. Die Linienregel gilt.
 
 -   :material-scale-balance: **[Wertungsregeln](rules.md)**
 
@@ -140,7 +140,7 @@ Dieselben Daten, dieselbe Wertung: Nimm, was dir gefällt, und wechsle jederzeit
 
     ---
 
-    Jede Einheit mit ihren Fotos, ein Diagramm der Ergebnisse pro Passe, Trends, Gleichmäßigkeit, wo deine Pfeile gruppieren, und eine Heatmap pro Spot, nach Entfernung und Auflage.
+    Jede Einheit mit ihren Fotos, ein Diagramm der Ergebnisse pro Passe, Trends, Gleichmäßigkeit, wo deine Pfeile gruppieren, der Mittelpunkt jeder Passe und eine Heatmap pro Spot, nach Entfernung und Auflage.
 
 -   :material-archive-outline: **[Speicher und Sicherung](backup.md)**
 

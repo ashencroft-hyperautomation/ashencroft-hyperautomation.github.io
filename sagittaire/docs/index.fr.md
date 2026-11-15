@@ -122,7 +122,7 @@ Les mêmes données, le même comptage : choisissez celle qui vous plaît, et c
 
     ---
 
-    Les flèches incertaines sont entourées en orange. Touchez-en une, choisissez la bonne zone. La règle de la ligne s’applique.
+    Les flèches incertaines sont entourées en orange, chacune avec l’endroit où l’IA l’a vue entrer. Touchez-en une, choisissez la bonne zone. La règle de la ligne s’applique.
 
 -   :material-scale-balance: **[Règles de comptage](rules.md)**
 
@@ -140,7 +140,7 @@ Les mêmes données, le même comptage : choisissez celle qui vous plaît, et c
 
     ---
 
-    Chaque séance avec ses photos, un graphique du score par volée, les tendances, la régularité, le groupement de vos flèches et une carte de chaleur par spot, par distance et par blason.
+    Chaque séance avec ses photos, un graphique du score par volée, les tendances, la régularité, le groupement de vos flèches, le centre de chaque volée et une carte de chaleur par spot, par distance et par blason.
 
 -   :material-archive-outline: **[Stockage et sauvegarde](backup.md)**
 
