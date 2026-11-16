@@ -125,7 +125,7 @@ Todo cuenta en total, nunca por día: 300 flechas hoy no dan más que volver la 
 | ![Medalla Flechas II](images/game-medal-arrows-2.png){ width="36" .pixel } | **Flechas II** | Tira 500 flechas | Botas de cuero | El culatín |
 | ![Medalla Flechas III](images/game-medal-arrows-3.png){ width="36" .pixel } | **Flechas III** | Tira 1.000 flechas | Una piel junto a la alfombra | Aletas y plumas |
 | ![Medalla Flechas IV](images/game-medal-arrows-4.png){ width="36" .pixel } | **Flechas IV** | Tira 2.500 flechas | Banco del flechero | Puntas |
-| ![Medalla Flechas V](images/game-medal-arrows-5.png){ width="36" .pixel } | **Flechas V** | Tira 5.000 flechas | Gavilán | Spine |
+| ![Medalla Flechas V](images/game-medal-arrows-5.png){ width="36" .pixel } | **Flechas V** | Tira 5.000 flechas | Gavilán | Rigidez (spine) |
 | ![Medalla Sesiones I](images/game-medal-sessions-1.png){ width="36" .pixel } | **Sesiones I** | Termina 1 sesión | Carcaj | El cuerpo (riser) |
 | ![Medalla Sesiones II](images/game-medal-sessions-2.png){ width="36" .pixel } | **Sesiones II** | Termina 10 sesiones | Un estandarte en el salón | Las palas |
 | ![Medalla Sesiones III](images/game-medal-sessions-3.png){ width="36" .pixel } | **Sesiones III** | Termina 25 sesiones | Liebre | La cuerda |
@@ -259,7 +259,7 @@ El **atril** del salón sostiene **el libro del arquero**: 56 páginas ilustrada
 
 <div class="shots" markdown>
 <figure markdown>
-![El libro del arquero, índice: Flechas, 1 de 5 leídas (Partes de una flecha; El culatín, Aletas y plumas y Puntas marcadas como Nueva; Spine aún bloqueada, Consigue Flechas V para leer esta página); El arco, 3 de 5 leídas; La diana, 0 de 5 leídas.](images/screenshots/es/game-book.png){ .shot }
+![El libro del arquero, índice: Flechas, 1 de 5 leídas (Partes de una flecha; El culatín, Aletas y plumas y Puntas marcadas como Nueva; Rigidez (spine) aún bloqueada, Consigue Flechas V para leer esta página); El arco, 3 de 5 leídas; La diana, 0 de 5 leídas.](images/screenshots/es/game-book.png){ .shot }
 <figcaption><b>El índice.</b> Las páginas nuevas están marcadas.</figcaption>
 </figure>
 <figure markdown>
@@ -276,7 +276,7 @@ El **atril** del salón sostiene **el libro del arquero**: 56 páginas ilustrada
 - Los lectores de pantalla leen el texto y los nombres de cada dibujo.
 - Para familias, entrenadores y docentes: cómo el libro ayuda a los niños a aprender las palabras del tiro con arco, en [Educación](education.md). El libro completo, para imprimir: [El libro del arquero](book.md).
 
-![Cinco páginas del capítulo El arco, con sus nombres en inglés: el cuerpo, las palas, la cuerda, el reposaflechas y el botón de presión, y el punto de enfulque; a la derecha, la silueta oscura de cada página tal como se ve mientras está bloqueada.](images/game-book-bow.png){ width="480" .pixel }
+![Cinco páginas del capítulo El arco, con sus nombres en español: el cuerpo, las palas, la cuerda, el reposaflechas y el botón de presión, y el punto de enfulque; a la derecha, la silueta oscura de cada página tal como se ve mientras está bloqueada.](images/game-book-bow.es.png){ width="480" .pixel }
 
 ## Estaciones { #seasons }
 

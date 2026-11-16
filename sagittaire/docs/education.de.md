@@ -48,7 +48,7 @@ Die ersten Seiten kommen schnell, so sieht ein Anfänger das Buch schon am erste
 **Halle und draußen**, und Training in vier verschiedenen Wochen öffnet **Aufwärmen**. Spätere Seiten brauchen eine
 Saison oder mehr.
 
-![Fünf Seiten des Kapitels Der Bogen, mit englischen Beschriftungen: das Mittelteil, die Wurfarme, die Sehne, Pfeilauflage und Button, und der Nockpunkt; rechts der dunkle Umriss jeder Seite, wie er erscheint, solange sie gesperrt ist.](images/game-book-bow.png){ width="480" .pixel }
+![Fünf Seiten des Kapitels Der Bogen, mit deutschen Beschriftungen: das Mittelteil, die Wurfarme, die Sehne, Pfeilauflage und Button, und der Nockpunkt; rechts der dunkle Umriss jeder Seite, wie er erscheint, solange sie gesperrt ist.](images/game-book-bow.de.png){ width="480" .pixel }
 
 ## Die 11 Kapitel { #the-11-chapters }
 

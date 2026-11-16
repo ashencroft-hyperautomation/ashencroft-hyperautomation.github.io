@@ -276,7 +276,7 @@ Le **lutrin** de la maison porte **le livre de l’archer** : 56 pages illustr�
 - Les lecteurs d’écran lisent le texte et les noms de chaque dessin.
 - Pour les parents, les entraîneurs et les enseignants : comment le livre aide les enfants à apprendre les mots du tir à l’arc, dans [Éducation](education.md). Le livre entier, à imprimer : [Le livre de l’archer](book.md).
 
-![Cinq pages du chapitre L’arc, avec leurs noms en anglais : la poignée, les branches, la corde, le repose-flèche et le berger button, et le point d’encochage ; à droite, la silhouette sombre de chaque page telle qu’elle s’affiche tant qu’elle est verrouillée.](images/game-book-bow.png){ width="480" .pixel }
+![Cinq pages du chapitre L’arc, avec leurs noms en français : la poignée, les branches, la corde, le repose-flèche et le berger button, et le point d’encochage ; à droite, la silhouette sombre de chaque page telle qu’elle s’affiche tant qu’elle est verrouillée.](images/game-book-bow.fr.png){ width="480" .pixel }
 
 ## Les saisons { #seasons }
 

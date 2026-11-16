@@ -86,9 +86,9 @@ Geh zum **Spiegel**, um deine Figur einzukleiden. Die Vorschau bleibt oben, wäh
 
 ## Begleiter { #companions }
 
-Wähle am Spiegel einen Begleiter: von Anfang an einen **Hund**, eine **Katze**, einen **Fuchs** oder einen **Raben**, und noch einen, den du selbst entdecken darfst. Elf weitere kommen mit Abzeichen: eine **Eule**, ein **Habicht**, ein **Hase**, ein **Luchs**, ein **Wolf**, ein **Bärenjunges**, eine **Ziege**, ein **Eichhörnchen**, ein **Biber**, ein **Elchkalb** und ein **Seetaucher**. Dein Begleiter folgt dem Weg, den deine Figur gegangen ist, etwa einen Schritt dahinter, läuft also nie durch die Möbel, und setzt sich neben dich, wenn du stehen bleibst. Die Vierbeiner traben, die Vögel hüpfen, und manche blinzeln oder wedeln mit dem Schwanz.
+Wähle am Spiegel einen Begleiter: von Anfang an einen **Hund**, eine **Katze**, einen **Fuchs** oder einen **Raben**, und noch einen, den du selbst entdecken darfst. Elf weitere kommen mit Abzeichen: eine **Eule**, ein **Sperber**, ein **Hase**, ein **Luchs**, ein **Wolf**, ein **Bärenjunges**, eine **Ziege**, ein **Eichhörnchen**, ein **Biber**, ein **Elchkalb** und ein **Seetaucher**. Dein Begleiter folgt dem Weg, den deine Figur gegangen ist, etwa einen Schritt dahinter, läuft also nie durch die Möbel, und setzt sich neben dich, wenn du stehen bleibst. Die Vierbeiner traben, die Vögel hüpfen, und manche blinzeln oder wedeln mit dem Schwanz.
 
-![Die tierischen Begleiter: ein Hund, eine Katze, ein Fuchs, ein Rabe, eine Eule, ein Habicht, ein Hase, ein Luchs, ein Wolf, ein Bärenjunges, eine Ziege, ein Eichhörnchen, ein Biber, ein Elchkalb und ein Seetaucher.](images/game-companions.png){ .pixel }
+![Die tierischen Begleiter: ein Hund, eine Katze, ein Fuchs, ein Rabe, eine Eule, ein Sperber, ein Hase, ein Luchs, ein Wolf, ein Bärenjunges, eine Ziege, ein Eichhörnchen, ein Biber, ein Elchkalb und ein Seetaucher.](images/game-companions.png){ .pixel }
 
 ## Stufen, Abzeichen und Trophäen { #levels-badges-and-trophies }
 
@@ -96,7 +96,7 @@ Nur echtes Schießen bringt etwas ein: **10 Erfahrungspunkte** für jede bestät
 
 <div class="shots" markdown>
 <figure markdown>
-![Trophäen: Stufe 14, Legende; Abzeichen, 27 von 56; Meilensteine: Pfeile IV mit 4.332 von 5.000 Pfeilen und einem Balken, darunter die fünf Stufen (gekreuzte Pfeile, Lederstiefel, ein Fell neben dem Teppich, Werkbank des Pfeilmachers, und der Habicht noch zu verdienen); Einheiten IV und X-Treffer IV ebenso; Perfekte Passen noch grau.](images/screenshots/de/game-trophies.png){ .shot }
+![Trophäen: Stufe 14, Legende; Abzeichen, 27 von 56; Meilensteine: Pfeile IV mit 4.332 von 5.000 Pfeilen und einem Balken, darunter die fünf Stufen (gekreuzte Pfeile, Lederstiefel, ein Fell neben dem Teppich, Werkbank des Pfeilmachers, und der Sperber noch zu verdienen); Einheiten IV und X-Treffer IV ebenso; Perfekte Passen noch grau.](images/screenshots/de/game-trophies.png){ .shot }
 <figcaption><b>Meilensteine</b>, an der Trophäenwand.</figcaption>
 </figure>
 <figure markdown>
@@ -125,7 +125,7 @@ Alles zählt insgesamt, nie pro Tag: 300 Pfeile heute bringen nicht mehr, als n�
 | ![Medaille Pfeile II](images/game-medal-arrows-2.png){ width="36" .pixel } | **Pfeile II** | Schieße 500 Pfeile | Lederstiefel | Die Nocke |
 | ![Medaille Pfeile III](images/game-medal-arrows-3.png){ width="36" .pixel } | **Pfeile III** | Schieße 1.000 Pfeile | Ein Fell neben dem Teppich | Vanes und Federn |
 | ![Medaille Pfeile IV](images/game-medal-arrows-4.png){ width="36" .pixel } | **Pfeile IV** | Schieße 2.500 Pfeile | Werkbank des Pfeilmachers | Spitzen |
-| ![Medaille Pfeile V](images/game-medal-arrows-5.png){ width="36" .pixel } | **Pfeile V** | Schieße 5.000 Pfeile | Habicht | Spine |
+| ![Medaille Pfeile V](images/game-medal-arrows-5.png){ width="36" .pixel } | **Pfeile V** | Schieße 5.000 Pfeile | Sperber | Spine |
 | ![Medaille Einheiten I](images/game-medal-sessions-1.png){ width="36" .pixel } | **Einheiten I** | Beende 1 Einheit | Köcher | Das Mittelteil |
 | ![Medaille Einheiten II](images/game-medal-sessions-2.png){ width="36" .pixel } | **Einheiten II** | Beende 10 Einheiten | Ein Banner in der Halle | Die Wurfarme |
 | ![Medaille Einheiten III](images/game-medal-sessions-3.png){ width="36" .pixel } | **Einheiten III** | Beende 25 Einheiten | Hase | Die Sehne |
@@ -223,7 +223,7 @@ Was du beim Schießen verdienst, schaltet **Belohnungen** frei. Nichts wird geka
 <figcaption><b>Belohnungen</b> für Stufen, an der Trophäenwand.</figcaption>
 </figure>
 <figure markdown>
-![Am Spiegel, unter Zu verdienen: Lorbeerkranz (verdiene Perfekte Passen I), Federhut (verdiene Feld), Habicht (verdiene Pfeile V), Bärenfellumhang (verdiene Einheiten V), Luchs, Kettenhemd, Geweihkrone und Wolf, jeweils mit dem Abzeichen, das es braucht.](images/screenshots/de/game-earn.png){ .shot }
+![Am Spiegel, unter Zu verdienen: Lorbeerkranz (verdiene Perfekte Passen I), Federhut (verdiene Feld), Sperber (verdiene Pfeile V), Bärenfellumhang (verdiene Einheiten V), Luchs, Kettenhemd, Geweihkrone und Wolf, jeweils mit dem Abzeichen, das es braucht.](images/screenshots/de/game-earn.png){ .shot }
 <figcaption><b>Zu verdienen</b>, am Spiegel.</figcaption>
 </figure>
 </div>
@@ -276,7 +276,7 @@ Auf dem **Lesepult** in der Halle liegt **das Buch des Bogenschützen**: 56 bebi
 - Screenreader lesen den Text und die Beschriftungen jeder Zeichnung vor.
 - Für Eltern, Trainer und Lehrkräfte: wie das Buch Kindern hilft, die Wörter des Bogenschießens zu lernen, unter [Lernen](education.md). Das ganze Buch zum Ausdrucken: [Das Buch des Bogenschützen](book.md).
 
-![Fünf Seiten des Kapitels Der Bogen, mit englischen Beschriftungen: das Mittelteil, die Wurfarme, die Sehne, Pfeilauflage und Button, und der Nockpunkt; rechts der dunkle Umriss jeder Seite, wie er erscheint, solange sie gesperrt ist.](images/game-book-bow.png){ width="480" .pixel }
+![Fünf Seiten des Kapitels Der Bogen, mit deutschen Beschriftungen: das Mittelteil, die Wurfarme, die Sehne, Pfeilauflage und Button, und der Nockpunkt; rechts der dunkle Umriss jeder Seite, wie er erscheint, solange sie gesperrt ist.](images/game-book-bow.de.png){ width="480" .pixel }
 
 ## Jahreszeiten { #seasons }
 

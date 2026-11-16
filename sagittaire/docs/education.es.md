@@ -28,7 +28,7 @@ arqueros jóvenes. El libro completo también está en PDF para imprimir, en cua
 
 <div class="shots" markdown>
 <figure markdown>
-![El libro del arquero, índice: Flechas, 1 de 5 leídas (Partes de una flecha; El culatín, Aletas y plumas y Puntas marcadas como Nueva; Spine aún bloqueada, Consigue Flechas V para leer esta página); El arco, 3 de 5 leídas; La diana, 0 de 5 leídas.](images/screenshots/es/game-book.png){ .shot }
+![El libro del arquero, índice: Flechas, 1 de 5 leídas (Partes de una flecha; El culatín, Aletas y plumas y Puntas marcadas como Nueva; Rigidez (spine) aún bloqueada, Consigue Flechas V para leer esta página); El arco, 3 de 5 leídas; La diana, 0 de 5 leídas.](images/screenshots/es/game-book.png){ .shot }
 <figcaption><b>El índice.</b> Las páginas nuevas están marcadas; las bloqueadas dicen qué las abre.</figcaption>
 </figure>
 <figure markdown>
@@ -48,13 +48,13 @@ abre **El cuerpo (riser)**, tirar 100 flechas abre **Partes de una flecha**, tir
 al aire libre**, y practicar en cuatro semanas distintas abre **El calentamiento**. Las últimas páginas piden una temporada
 o más.
 
-![Cinco páginas del capítulo El arco, con sus nombres en inglés: el cuerpo, las palas, la cuerda, el reposaflechas y el botón de presión, y el punto de enfulque; a la derecha, la silueta oscura de cada página tal como se ve mientras está bloqueada.](images/game-book-bow.png){ width="480" .pixel }
+![Cinco páginas del capítulo El arco, con sus nombres en español: el cuerpo, las palas, la cuerda, el reposaflechas y el botón de presión, y el punto de enfulque; a la derecha, la silueta oscura de cada página tal como se ve mientras está bloqueada.](images/game-book-bow.es.png){ width="480" .pixel }
 
 ## Los 11 capítulos { #the-11-chapters }
 
 Cada página y el escalón de insignia que la abre:
 
-- **Flechas:** Partes de una flecha (Flechas I), El culatín (Flechas II), Aletas y plumas (Flechas III), Puntas (Flechas IV), Spine (Flechas V).
+- **Flechas:** Partes de una flecha (Flechas I), El culatín (Flechas II), Aletas y plumas (Flechas III), Puntas (Flechas IV), Rigidez (spine) (Flechas V).
 - **El arco:** El cuerpo (riser) (Sesiones I), Las palas (Sesiones II), La cuerda (Sesiones III), Reposaflechas y botón de presión (Sesiones IV), El punto de enfulque (Sesiones V).
 - **La diana:** La diana y sus colores (X I), Dianas de spot (X II), Dianas de campo (X III), Animales 3D (X IV), El parapeto y el caballete (X V).
 - **Apuntar:** El visor (Tandas perfectas I), El clicker (Tandas perfectas II), Estabilizadores (Tandas perfectas III), Anclaje y kisser (Tandas perfectas IV), String walking y face walking (Tandas perfectas V).

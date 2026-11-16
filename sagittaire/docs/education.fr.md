@@ -47,7 +47,7 @@ Les premières pages arrivent vite : un débutant voit le livre se remplir dès
 dehors**, et s’entraîner pendant quatre semaines différentes ouvre **L’échauffement**. Les dernières pages demandent une
 saison ou plus.
 
-![Cinq pages du chapitre L’arc, avec leurs noms en anglais : la poignée, les branches, la corde, le repose-flèche et le berger button, et le point d’encochage ; à droite, la silhouette sombre de chaque page telle qu’elle s’affiche tant qu’elle est verrouillée.](images/game-book-bow.png){ width="480" .pixel }
+![Cinq pages du chapitre L’arc, avec leurs noms en français : la poignée, les branches, la corde, le repose-flèche et le berger button, et le point d’encochage ; à droite, la silhouette sombre de chaque page telle qu’elle s’affiche tant qu’elle est verrouillée.](images/game-book-bow.fr.png){ width="480" .pixel }
 
 ## Les 11 chapitres { #the-11-chapters }
 
