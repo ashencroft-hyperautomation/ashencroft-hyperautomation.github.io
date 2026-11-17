@@ -13,7 +13,7 @@ En el modo normal, tres temas:
 
 | Tema | Para |
 |-------|-----|
-| **Original** | El rojo, el negro y el blanco de Archery Canada, claros u oscuros según el teléfono. |
+| **Original** | Rojo, negro y blanco, claros u oscuros según el teléfono. |
 | **Día de tiro** | Claro y de alto contraste, fácil de leer al sol. Puntuaciones en los colores de la diana. |
 | **Noche de tiro** | Oscuro con ámbar, para tirar en sala cubierta y por la tarde. Puntuaciones en los colores de la diana. |
 

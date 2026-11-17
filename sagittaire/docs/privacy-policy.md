@@ -1,6 +1,6 @@
 # Privacy policy
 
-*Version 5 · Effective November 14, 2026*
+*Version 6 · Effective November 16, 2026*
 
 This policy explains what information the sagitt·AI·re application (the "App") handles, where it is kept, when it leaves your device and what you can do about it. It is part of the terms of use. "Developer" means Ashencroft Studio — Responsible AI & Hyperautomation Experts, the developer of sagitt·AI·re.
 
@@ -85,7 +85,7 @@ If this policy changes in substance, the new version will be shown in the App, w
 
 ## 12. Questions
 
-The App and its website are made pro bono for Archery Canada and run by the Developer. For questions about this policy, open an issue at github.com/ashencroft-hyperautomation/ashencroft-hyperautomation.github.io/issues. Issues are public: do not include personal information, photos or API keys.
+The App and its website are made and run by the Developer. For questions about this policy, open an issue at github.com/ashencroft-hyperautomation/ashencroft-hyperautomation.github.io/issues. Issues are public: do not include personal information, photos or API keys.
 
 ## 13. Language
 

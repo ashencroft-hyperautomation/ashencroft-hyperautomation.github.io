@@ -13,7 +13,7 @@ Im Normalmodus gibt es drei Designs:
 
 | Design | Für |
 |-------|-----|
-| **Original** | Das Rot, Schwarz und Weiß von Archery Canada, hell oder dunkel, je nach Handy. |
+| **Original** | Rot, Schwarz und Weiß, hell oder dunkel, je nach Handy. |
 | **Tag am Platz** | Hell und kontrastreich, gut lesbar im Sonnenlicht. Ergebnisse in den Farben der Scheibe. |
 | **Nacht am Platz** | Dunkel mit Bernstein, fürs Schießen in der Halle und am Abend. Ergebnisse in den Farben der Scheibe. |
 

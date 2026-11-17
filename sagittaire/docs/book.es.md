@@ -6,9 +6,9 @@ para imprimir: 56 páginas ilustradas en 11 capítulos, cada una con un dibujo d
 que un niño puede leer.
 
 !!! note "Un borrador, aún por aprobar"
-    Los textos se revisaron y corrigieron en inglés y francés (ver más abajo), pero Archery Canada todavía no los ha
-    aprobado. El libro nombra las cosas y las explica; no es un reglamento ni un manual de entrenamiento. Para las
-    reglas del deporte, consulta [Archery Canada](https://archerycanada.ca/).
+    Los textos se revisaron y corrigieron en inglés y francés (ver más abajo), pero todavía no son
+    definitivos. El libro nombra las cosas y las explica; no es un reglamento ni un manual de entrenamiento. Para las
+    reglas del deporte, consulta [World Archery](https://www.worldarchery.sport/) o tu federación nacional.
 
 ## Descargar
 
@@ -24,7 +24,7 @@ impresora para doblarlo por la mitad.
 
 <div class="shots" markdown>
 <figure markdown>
-![La portada del libro del arquero: roja, con tres dibujos en píxeles (un arco recurvo, una flecha y Artemisa), el título y sagitt·AI·re, la app de Archery Canada.](images/book/preview-es-cover.png){ .shot }
+![La portada del libro del arquero: roja, con tres dibujos en píxeles (un arco recurvo, una flecha y Artemisa), el título y sagitt·AI·re.](images/book/preview-es-cover.png){ .shot }
 <figcaption><b>La portada</b></figcaption>
 </figure>
 <figure markdown>
@@ -42,8 +42,8 @@ un arquero joven vea qué buscar después. La lista completa de páginas, con el
 
 ## Cómo se revisaron los textos
 
-El 15 de noviembre de 2026, los textos en inglés y francés se revisaron página por página con World Archery, Archery
-Canada y sus reglamentos franceses de 2026, la federación francesa, las indicaciones de seguridad de los fabricantes
+El 15 de noviembre de 2026, los textos en inglés y francés se revisaron página por página con las reglas de
+World Archery, los reglamentos en francés de 2026, la federación francesa, las indicaciones de seguridad de los fabricantes
 de flechas (Easton, Gold Tip) y las fuentes antiguas de las leyendas. Las correcciones se hicieron en los cuatro
 idiomas, entre ellas:
 
@@ -59,6 +59,6 @@ El alemán y el español llevan las mismas correcciones; su redacción todavía 
 ## De dónde viene
 
 El PDF se hace a partir de la propia app: los mismos textos y nombres que el libro del modo juego, y los mismos
-dibujos en píxeles. Cuando los textos cambian en la app, el libro se vuelve a imprimir. sagitt·AI·re es la app de
-Archery Canada, creada pro bono por Estudio Ashencroft, para el entrenamiento y el ocio: sus puntuaciones nunca son
+dibujos en píxeles. Cuando los textos cambian en la app, el libro se vuelve a imprimir. sagitt·AI·re está
+creada por Estudio Ashencroft, para el entrenamiento y el ocio: sus puntuaciones nunca son
 oficiales.

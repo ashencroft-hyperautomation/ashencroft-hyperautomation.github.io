@@ -5,7 +5,7 @@ Die Regel macht aus Ringen Punkte. Jeder Pfeil behält den Ring, den er getroffe
 | Regel | Punkte |
 |------|--------|
 | **X und 10 zählen 10** | Der ganze 10er-Ring zählt 10. X werden für Gleichstände gezählt. World Archery Recurve und Blankbogen, die meisten Vereine. |
-| **Nur Innenzehn** | Nur der kleine innere Ring zählt 10; der Rest des Golds zählt 9. World Archery Compound; USA Archery und Archery Canada folgen World Archery. |
+| **Nur Innenzehn** | Nur der kleine innere Ring zählt 10; der Rest des Golds zählt 9. World Archery Compound; nationale Verbände folgen World Archery. |
 | **X zählt 11** | Der X-Ring zählt 11. Einige US-Turniere, etwa die Lancaster Classic. |
 
 **Linienregel (alle Regeln):** Ein Pfeil, der die Linie zwischen zwei Zonen berührt, zählt die höhere Zone. Ein Pfeil in der 8, der die Linie 8/9 berührt, ist eine 9.

@@ -1,6 +1,6 @@
 # El icono de la app { #the-app-icon }
 
-El icono de hoy es media diana y media hoja de arce: un círculo cuya mitad izquierda es una diana World Archery y cuya mitad derecha es una hoja de arce blanca sobre el rojo de Archery Canada. Antes hubo un símbolo rojo con neuronas y el signo de Sagitario, y una diana de madera tallada al estilo nórdico.
+El icono de hoy es media diana y media hoja de arce: un círculo cuya mitad izquierda es una diana World Archery y cuya mitad derecha es una hoja de arce blanca sobre rojo. Antes hubo un símbolo rojo con neuronas y el signo de Sagitario, y una diana de madera tallada al estilo nórdico.
 
 ## Cómo evolucionó { #how-it-evolved }
 
@@ -22,8 +22,8 @@ El icono de hoy es media diana y media hoja de arce: un círculo cuya mitad izqu
 <figcaption><b>4. El nuevo nombre.</b> Cuando Ullr pasó a ser sagitt·AI·re, las runas cambiaron para formar el nuevo nombre.</figcaption>
 </figure>
 <figure markdown>
-![Quinto icono: sobre el rojo de Archery Canada, un anillo de diana blanco con cuatro neuronas unidas al centro, y el signo de Sagitario en negro, cuya flecha termina en el centro blanco.](images/icons/5-archery-canada.png){ width="180" }
-<figcaption><b>5. Archery Canada.</b> sagitt·AI·re pasa a ser la app de Archery Canada: un nuevo símbolo, en su rojo.</figcaption>
+![Quinto icono: sobre rojo, un anillo de diana blanco con cuatro neuronas unidas al centro, y el signo de Sagitario en negro, cuya flecha termina en el centro blanco.](images/icons/5-red-mark.png){ width="180" }
+<figcaption><b>5. Un símbolo rojo.</b> Un nuevo símbolo, en rojo, con neuronas para la IA.</figcaption>
 </figure>
 <figure markdown>
 ![El icono de hoy: un círculo, a la izquierda media diana (blanco, negro, azul, rojo y oro), a la derecha media hoja de arce blanca sobre rojo.](images/icons/6-target-leaf.png){ width="180" }
@@ -34,9 +34,9 @@ El icono de hoy es media diana y media hoja de arce: un círculo cuya mitad izqu
 ## El icono de hoy { #todays-icon }
 
 - **La mitad izquierda** es una diana World Archery: blanco, negro, azul, rojo y oro.
-- **La mitad derecha** es una hoja de arce blanca sobre el rojo de Archery Canada.
+- **La mitad derecha** es una hoja de arce blanca sobre rojo.
 - Se unen en la línea central, así que la diana y la hoja forman un solo círculo.
-- **Un fondo blanco**, como el sitio web de Archery Canada; la pantalla de arranque también es blanca.
+- **Un fondo blanco**; la pantalla de arranque también es blanca.
 
 ## Variantes { #variants }
 

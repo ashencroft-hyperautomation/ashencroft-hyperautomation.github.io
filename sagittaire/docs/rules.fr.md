@@ -5,7 +5,7 @@ La règle transforme les zones en points. Chaque flèche garde la zone qu’elle
 | Règle | Points |
 |-------|--------|
 | **X et 10 valent 10** | Tout le 10 vaut 10. Les X départagent les égalités. Arc recourbé et arc nu World Archery, la plupart des clubs. |
-| **10 intérieur seulement** | Seul le petit cercle intérieur vaut 10 ; le reste du jaune vaut 9. Arc à poulies World Archery ; USA Archery et Tir à l’arc Canada suivent World Archery. |
+| **10 intérieur seulement** | Seul le petit cercle intérieur vaut 10 ; le reste du jaune vaut 9. Arc à poulies World Archery ; les fédérations nationales suivent World Archery. |
 | **X vaut 11** | Le X vaut 11. Certains tournois américains, comme le Lancaster Classic. |
 
 **Règle de la ligne (toutes les règles) :** une flèche qui touche la ligne entre deux zones prend la zone la plus haute. Une flèche dans le 8 qui touche la ligne entre le 8 et le 9 vaut 9.

@@ -26,7 +26,7 @@ Prises avec **sagitt·AI·re Demo**, une version de l'application remplie de six
 <figcaption><b>Une volée passée.</b> Chaque volée garde sa photo.</figcaption>
 </figure>
 <figure markdown>
-![Écran de chargement : blanc, le logo de Tir à l’arc Canada en haut, l'icône (moitié cible, moitié feuille d'érable blanche sur rouge) avec son bandeau DEMO, le nom de l'application, Carnet de tir à l'arc, une barre de progression et l'étape Peinture du blason, et la mention pro bono en bas.](images/screenshots/fr/loading.png){ .shot }
+![Écran de chargement : blanc, l'icône (moitié cible, moitié feuille d'érable blanche sur rouge) avec son bandeau DEMO, le nom de l'application, Carnet de tir à l'arc, une barre de progression et l'étape Peinture du blason, et la mention pro bono en bas.](images/screenshots/fr/loading.png){ .shot }
 <figcaption><b>Chargement.</b> Environ 2 secondes à l'ouverture.</figcaption>
 </figure>
 </div>
@@ -105,7 +105,7 @@ Prises avec **sagitt·AI·re Demo**, une version de l'application remplie de six
 <figcaption><b>Lieux enregistrés.</b> Renommer, fusionner ou supprimer; les séances restent.</figcaption>
 </figure>
 <figure markdown>
-![À propos et mentions légales : le logo de Tir à l’arc Canada, l’application et sa version, puis les conditions d’utilisation avec leur date d’acceptation, la politique de confidentialité et les licences de logiciels libres.](images/screenshots/fr/about.png){ .shot }
+![À propos et mentions légales : l’application et sa version, puis les conditions d’utilisation avec leur date d’acceptation, la politique de confidentialité et les licences de logiciels libres.](images/screenshots/fr/about.png){ .shot }
 <figcaption><b>À propos et mentions légales.</b> Conditions, confidentialité et licences.</figcaption>
 </figure>
 <figure markdown>

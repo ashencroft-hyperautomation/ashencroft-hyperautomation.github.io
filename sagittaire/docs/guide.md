@@ -4,7 +4,7 @@ From opening the app to your first confirmed end, in a few steps. Each step link
 
 <div class="shots" markdown>
 <figure markdown>
-![Loading screen: white, Archery Canada’s logo at the top, the half-target, half-maple-leaf icon and a progress bar, and the pro bono credit at the bottom.](images/screenshots/loading.png){ .shot }
+![Loading screen: white, the half-target, half-maple-leaf icon and a progress bar, and the credit at the bottom.](images/screenshots/loading.png){ .shot }
 <figcaption>The loading screen</figcaption>
 </figure>
 <figure markdown>

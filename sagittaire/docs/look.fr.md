@@ -13,7 +13,7 @@ En mode normal, trois thèmes :
 
 | Thème | Pour |
 |-------|------|
-| **Original** | Le rouge, le noir et le blanc de Tir à l’arc Canada, en clair ou en sombre selon le téléphone. |
+| **Original** | Rouge, noir et blanc, en clair ou en sombre selon le téléphone. |
 | **Jour de tir** | Clair et très contrasté, lisible en plein soleil. Les scores aux couleurs de la cible. |
 | **Tir de nuit** | Sombre avec de l’ambre, pour le tir en salle et en soirée. Les scores aux couleurs de la cible. |
 

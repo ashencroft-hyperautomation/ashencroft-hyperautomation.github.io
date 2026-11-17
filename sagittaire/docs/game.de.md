@@ -271,7 +271,7 @@ Auf dem **Lesepult** in der Halle liegt **das Buch des Bogenschützen**: 56 bebi
 - **Kapitel:** Pfeile, Der Bogen, Das Ziel, Zielen, Die Ausrüstung, Pflege und Gewohnheiten, Auf dem Bogenplatz, Legendäre Bogenschützen, Tuning, Arten des Bogenschießens, Bögen.
 - **Eine Seite** hat eine Zeichnung mit beschrifteten Teilen und einen kurzen Text. **Vorherige** und **Nächste** blättern um.
 - Eine Seite, die du noch nicht geöffnet hast, ist als **Neu** markiert. Eine gesperrte Seite zeigt, was sie freischaltet („Verdiene Pfeile V, um diese Seite zu lesen“).
-- Das Buch benennt Dinge und erklärt, wozu sie dienen. Es ist kein Regelwerk: Für die Wettkampfregeln siehe [Archery Canada](https://archerycanada.ca/).
+- Das Buch benennt Dinge und erklärt, wozu sie dienen. Es ist kein Regelwerk: Für die Wettkampfregeln siehe [World Archery](https://www.worldarchery.sport/) oder deinen nationalen Verband.
 - Die Seitentexte sind Entwürfe und werden noch geprüft.
 - Screenreader lesen den Text und die Beschriftungen jeder Zeichnung vor.
 - Für Eltern, Trainer und Lehrkräfte: wie das Buch Kindern hilft, die Wörter des Bogenschießens zu lernen, unter [Lernen](education.md). Das ganze Buch zum Ausdrucken: [Das Buch des Bogenschützen](book.md).

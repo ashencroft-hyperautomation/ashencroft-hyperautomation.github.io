@@ -13,7 +13,7 @@ In normal mode, three themes:
 
 | Theme | For |
 |-------|-----|
-| **Original** | Archery Canada's red, ink and white, light or dark following the phone. |
+| **Original** | Red, ink and white, light or dark following the phone. |
 | **Range day** | Light and high-contrast, easy to read in sunlight. Scores in the target's colours. |
 | **Night range** | Dark with amber, for indoor and evening shooting. Scores in the target's colours. |
 

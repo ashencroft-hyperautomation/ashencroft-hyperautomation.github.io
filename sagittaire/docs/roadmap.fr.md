@@ -36,7 +36,6 @@ sagitt·AI·re est un projet pro bono du Studio Ashencroft, construit au grand j
 - [x] **Jeux de flèches** et **carnet de réglages** pour chaque arc, avec les réglages sur la tendance des statistiques
 - [x] **Objectifs d’entraînement :** flèches par semaine et une moyenne à atteindre, à l’accueil, et un défi de la semaine en mode jeu
 - [x] Une vérification de l’accessibilité de chaque écran (grand texte, lecteur d’écran)
-- [x] Le logo de Tir à l’arc Canada sur l’écran de chargement, dans À propos et sur le site
 - [x] **Changer le blason** d’une séance après coup, et un avertissement quand la photo ne montre pas le blason de la séance
 - [x] Statistiques : le graphique des flèches dit ce qu’il montre, met en évidence une volée à la fois, et un nouveau graphique montre **le centre de chaque volée**
 - [x] Le comptage par IA trouve d’abord où chaque flèche entre dans le blason, puis décide sa zone (plus de zones justes sur les photos d’une soirée de club) ; une flèche signalée dit où l’IA l’a vue entrer

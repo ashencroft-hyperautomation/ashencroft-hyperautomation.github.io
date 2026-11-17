@@ -4,7 +4,7 @@ Vom Öffnen der App bis zu deiner ersten bestätigten Passe, in wenigen Schritte
 
 <div class="shots" markdown>
 <figure markdown>
-![Ladebildschirm: weiß, oben das Logo von Archery Canada, das Symbol halb Scheibe, halb Ahornblatt und ein Fortschrittsbalken, unten der Pro-bono-Hinweis.](images/screenshots/de/loading.png){ .shot }
+![Ladebildschirm: weiß, das Symbol halb Scheibe, halb Ahornblatt und ein Fortschrittsbalken, unten der Hinweis auf die Entwickler.](images/screenshots/de/loading.png){ .shot }
 <figcaption>Der Ladebildschirm</figcaption>
 </figure>
 <figure markdown>

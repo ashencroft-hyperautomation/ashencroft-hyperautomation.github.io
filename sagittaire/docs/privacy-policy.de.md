@@ -1,6 +1,6 @@
 # Datenschutzerklärung
 
-*Version 5 · Gültig ab 14. November 2026*
+*Version 6 · Gültig ab 16. November 2026*
 
 *Dies ist eine Übersetzung, die dir nur zur besseren Verständlichkeit bereitgestellt wird; maßgeblich sind allein die französische und die englische Fassung, die bei jeder Abweichung Vorrang haben.*
 
@@ -87,7 +87,7 @@ Wenn sich diese Erklärung inhaltlich ändert, wird die neue Fassung mit ihrem D
 
 ## 12. Fragen
 
-Die App und ihre Website werden pro bono für Archery Canada gemacht und vom Entwickler betrieben. Bei Fragen zu dieser Erklärung eröffne ein Issue unter github.com/ashencroft-hyperautomation/ashencroft-hyperautomation.github.io/issues. Issues sind öffentlich: Füge keine personenbezogenen Informationen, Fotos oder API-Schlüssel hinzu.
+Die App und ihre Website werden vom Entwickler gemacht und betrieben. Bei Fragen zu dieser Erklärung eröffne ein Issue unter github.com/ashencroft-hyperautomation/ashencroft-hyperautomation.github.io/issues. Issues sind öffentlich: Füge keine personenbezogenen Informationen, Fotos oder API-Schlüssel hinzu.
 
 ## 13. Sprache
 

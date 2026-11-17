@@ -5,7 +5,7 @@ The rule turns rings into points. Each arrow keeps the ring it hit, so you can c
 | Rule | Points |
 |------|--------|
 | **X and 10 count 10** | The whole 10 ring scores 10. Xs are counted for ties. World Archery recurve and barebow, most clubs. |
-| **Inner 10 only** | Only the small inner ring scores 10; the rest of the gold scores 9. World Archery compound; USA Archery and Archery Canada follow World Archery. |
+| **Inner 10 only** | Only the small inner ring scores 10; the rest of the gold scores 9. World Archery compound; national federations follow World Archery. |
 | **X counts 11** | The X ring scores 11. Some US tournaments, such as the Lancaster Classic. |
 
 **Line rule (all rules):** an arrow that touches the line between two zones scores the higher zone. An arrow in the 8 that touches the 8/9 line is a 9.

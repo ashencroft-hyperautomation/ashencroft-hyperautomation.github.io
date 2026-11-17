@@ -6,7 +6,7 @@ hide:
 ---
 
 <div class="hero" markdown>
-![sagitt·AI·re, registros de tiro con arco con puntuación por IA: el icono, mitad diana de World Archery, mitad hoja de arce blanca sobre el rojo de Archery Canada, el nombre y dos pantallas de teléfono que muestran la pantalla de inicio y una tanda con dos flechas por revisar.](images/banner.es.png)
+![sagitt·AI·re, registros de tiro con arco con puntuación por IA: el icono, mitad diana de World Archery, mitad hoja de arce blanca sobre rojo, el nombre y dos pantallas de teléfono que muestran la pantalla de inicio y una tanda con dos flechas por revisar.](images/banner.es.png)
 </div>
 
 # sagitt·AI·re { #sagittaire }
@@ -15,9 +15,7 @@ hide:
 
 *Su nombre: Sagittaire, Sagitario en francés, el arquero de las estrellas, con la IA (AI) en el centro.*
 
-![Logotipo de Archery Canada](images/brand/archery-canada.svg){ .owner-logo }
-
-**sagitt·AI·re es la app de Archery Canada**, creada pro bono por Estudio Ashencroft. Es para el entrenamiento y el ocio: sus puntuaciones nunca son oficiales, y en competición solo cuentan las hojas de puntuación oficiales.
+**sagitt·AI·re está creada por Estudio Ashencroft.** Es para el entrenamiento y el ocio: sus puntuaciones nunca son oficiales, y en competición solo cuentan las hojas de puntuación oficiales.
 
 <div class="game-band" markdown>
 

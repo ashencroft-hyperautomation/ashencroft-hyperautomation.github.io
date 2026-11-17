@@ -1,12 +1,12 @@
 # Conditions d’utilisation
 
-*Version 5 · En vigueur le 14 novembre 2026*
+*Version 6 · En vigueur le 16 novembre 2026*
 
 Veuillez lire attentivement les présentes conditions. Elles constituent une entente juridique entre vous et le Studio Ashencroft — Experts en IA & Hyper Automatisation Responsable, développeur de sagitt·AI·re (le « Développeur »). En touchant **Accepter et continuer**, ou en installant, en ouvrant ou en utilisant de toute autre façon l’application sagitt·AI·re (l’« Application »), vous confirmez avoir lu, compris et accepté les présentes conditions. Si vous ne les acceptez pas, n’utilisez pas l’Application et désinstallez-la.
 
 ## 1. L’Application
 
-L’Application est une application gratuite qui sert à tenir des registres de tir à l’arc, créée pro bono pour Tir à l’arc Canada par le Développeur. Elle est faite pour l’entraînement et le loisir. Elle propose des pointages à partir de photos de la cible à l’aide de services d’intelligence artificielle (« IA ») que vous choisissez, ou vous permet d’entrer vous-même les pointages. Ses pointages ne sont jamais officiels : elle n’est pas un système de pointage officiel, et en compétition seules comptent les feuilles de marque tenues selon les règles de World Archery, de Tir à l’arc Canada ou de l’organisateur.
+L’Application est une application gratuite qui sert à tenir des registres de tir à l’arc, créée par le Développeur. Elle est faite pour l’entraînement et le loisir. Elle propose des pointages à partir de photos de la cible à l’aide de services d’intelligence artificielle (« IA ») que vous choisissez, ou vous permet d’entrer vous-même les pointages. Ses pointages ne sont jamais officiels : elle n’est pas un système de pointage officiel, et en compétition seules comptent les feuilles de marque tenues selon les règles de World Archery, de la fédération nationale ou de l’organisateur.
 
 ## 2. Fournie « telle quelle »
 

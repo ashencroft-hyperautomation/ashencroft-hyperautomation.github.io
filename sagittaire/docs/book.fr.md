@@ -6,9 +6,9 @@ imprimer : 56 pages illustrées en 11 chapitres, chacune avec un dessin dont le
 texte qu’un enfant peut lire.
 
 !!! note "Un brouillon, encore à approuver"
-    Les textes ont été vérifiés et corrigés en anglais et en français (voir plus bas), mais Tir à l’arc Canada ne
-    les a pas encore approuvés. Le livre nomme les choses et les explique ; ce n’est ni un règlement ni un manuel
-    d’entraînement. Pour les règles du sport, voir [Tir à l’arc Canada](https://archerycanada.ca/).
+    Les textes ont été vérifiés et corrigés en anglais et en français (voir plus bas), mais ils ne sont
+    pas encore définitifs. Le livre nomme les choses et les explique ; ce n’est ni un règlement ni un manuel
+    d’entraînement. Pour les règles du sport, voir [World Archery](https://www.worldarchery.sport/) ou votre fédération nationale.
 
 ## Télécharger
 
@@ -24,7 +24,7 @@ Pour l’imprimer, choisissez votre format de papier (Lettre ou A4) et deux page
 
 <div class="shots" markdown>
 <figure markdown>
-![La couverture du livre de l’archer : rouge, avec trois dessins en pixels (un arc recourbé, une flèche et Artémis), le titre et sagitt·AI·re, l’application de Tir à l’arc Canada.](images/book/preview-fr-cover.png){ .shot }
+![La couverture du livre de l’archer : rouge, avec trois dessins en pixels (un arc recourbé, une flèche et Artémis), le titre et sagitt·AI·re.](images/book/preview-fr-cover.png){ .shot }
 <figcaption><b>La couverture</b></figcaption>
 </figure>
 <figure markdown>
@@ -42,8 +42,8 @@ l’étape de chacune, se trouve sur [Éducation](education.md#the-11-chapters).
 
 ## Comment les textes ont été vérifiés
 
-Le 15 novembre 2026, les textes anglais et français ont été vérifiés page par page à partir de World Archery, de
-Tir à l’arc Canada et de ses règlements français 2026, de la fédération française, des consignes de sécurité des
+Le 15 novembre 2026, les textes anglais et français ont été vérifiés page par page à partir des règles de
+World Archery, des règlements en français de 2026, de la fédération française, des consignes de sécurité des
 fabricants de flèches (Easton, Gold Tip) et des sources anciennes des légendes. Les corrections ont été faites
 dans les quatre langues, entre autres :
 
@@ -53,7 +53,7 @@ dans les quatre langues, entre autres :
   en pliant la flèche loin de tous.
 - **Réglage** (band, tiller) : avec un entraîneur ou un adulte, dans les limites du manuel de l’arc.
 - **L’arc recourbé :** l’arc à poulies fait son entrée aux Jeux olympiques à Los Angeles 2028.
-- **Les termes français** de Tir à l’arc Canada, par exemple *point de visée*, *bouton de pression* et *arc bandé*.
+- **Les termes français** des règlements canadiens, par exemple *point de visée*, *bouton de pression* et *arc bandé*.
 
 L’allemand et l’espagnol portent les mêmes corrections ; leur formulation n’a pas encore eu de vérification à part.
 
@@ -61,5 +61,5 @@ L’allemand et l’espagnol portent les mêmes corrections ; leur formulation 
 
 Le PDF est fait à partir de l’application elle-même : les mêmes textes et les mêmes noms que le livre du mode jeu,
 et les mêmes dessins en pixels. Quand les textes changent dans l’application, le livre est réimprimé. sagitt·AI·re
-est l’application de Tir à l’arc Canada, créée pro bono par le Studio Ashencroft, pour l’entraînement et le
+est créée par le Studio Ashencroft, pour l’entraînement et le
 loisir : ses pointages ne sont jamais officiels.

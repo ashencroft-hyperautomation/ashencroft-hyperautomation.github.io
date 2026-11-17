@@ -1,6 +1,6 @@
 # Das App-Symbol { #the-app-icon }
 
-Das heutige Symbol ist halb Scheibe, halb Ahornblatt: ein Kreis, dessen linke Hälfte eine World-Archery-Scheibe ist und dessen rechte Hälfte ein weißes Ahornblatt auf dem Rot von Archery Canada. Davor gab es ein rotes Zeichen mit Neuronen und dem Zeichen des Schützen und eine geschnitzte Holzscheibe im nordischen Stil.
+Das heutige Symbol ist halb Scheibe, halb Ahornblatt: ein Kreis, dessen linke Hälfte eine World-Archery-Scheibe ist und dessen rechte Hälfte ein weißes Ahornblatt auf Rot. Davor gab es ein rotes Zeichen mit Neuronen und dem Zeichen des Schützen und eine geschnitzte Holzscheibe im nordischen Stil.
 
 ## Wie es entstand { #how-it-evolved }
 
@@ -22,8 +22,8 @@ Das heutige Symbol ist halb Scheibe, halb Ahornblatt: ein Kreis, dessen linke H�
 <figcaption><b>4. Der neue Name.</b> Als aus Ullr sagitt·AI·re wurde, schreiben die Runen nun den neuen Namen.</figcaption>
 </figure>
 <figure markdown>
-![Fünftes Symbol: auf dem Rot von Archery Canada ein weißer Scheibenring mit vier Neuronen, die mit der Mitte verbunden sind, und das Zeichen des Schützen in Schwarz, dessen Pfeil in der weißen Mitte endet.](images/icons/5-archery-canada.png){ width="180" }
-<figcaption><b>5. Archery Canada.</b> sagitt·AI·re wird die App von Archery Canada: ein neues Zeichen, in ihrem Rot.</figcaption>
+![Fünftes Symbol: auf Rot ein weißer Scheibenring mit vier Neuronen, die mit der Mitte verbunden sind, und das Zeichen des Schützen in Schwarz, dessen Pfeil in der weißen Mitte endet.](images/icons/5-red-mark.png){ width="180" }
+<figcaption><b>5. Ein rotes Zeichen.</b> Ein neues Zeichen, in Rot, mit Neuronen für die KI.</figcaption>
 </figure>
 <figure markdown>
 ![Das heutige Symbol: ein Kreis, links eine halbe Scheibe (Weiß, Schwarz, Blau, Rot und Gold), rechts ein halbes weißes Ahornblatt auf Rot.](images/icons/6-target-leaf.png){ width="180" }
@@ -34,9 +34,9 @@ Das heutige Symbol ist halb Scheibe, halb Ahornblatt: ein Kreis, dessen linke H�
 ## Das heutige Symbol { #todays-icon }
 
 - **Die linke Hälfte** ist eine World-Archery-Scheibe: Weiß, Schwarz, Blau, Rot und Gold.
-- **Die rechte Hälfte** ist ein weißes Ahornblatt auf dem Rot von Archery Canada.
+- **Die rechte Hälfte** ist ein weißes Ahornblatt auf Rot.
 - Sie treffen sich auf der Mittellinie, sodass Scheibe und Blatt einen Kreis bilden.
-- **Ein weißer Hintergrund**, wie die Website von Archery Canada, und auch der Startbildschirm ist weiß.
+- **Ein weißer Hintergrund**, und auch der Startbildschirm ist weiß.
 
 ## Varianten { #variants }
 

@@ -1,12 +1,12 @@
 # Terms of use
 
-*Version 5 · Effective November 14, 2026*
+*Version 6 · Effective November 16, 2026*
 
 Please read these terms carefully. They form a legal agreement between you and Ashencroft Studio — Responsible AI & Hyperautomation Experts, the developer of sagitt·AI·re (the "Developer"). By tapping **Accept and continue**, or by installing, opening or otherwise using the sagitt·AI·re application (the "App"), you confirm that you have read, understood and accepted these terms. If you do not accept them, do not use the App and uninstall it.
 
 ## 1. What the App is
 
-The App is a free app for keeping archery records, made pro bono for Archery Canada by the Developer. It is for practice and leisure. It suggests scores from photos of the target with the help of artificial-intelligence ("AI") services that you choose, or lets you enter scores yourself. Its scores are never official: it is not an official scoring system, and in competition only the scorecards kept under the rules of World Archery, Archery Canada or the organizer count.
+The App is a free app for keeping archery records, made by the Developer. It is for practice and leisure. It suggests scores from photos of the target with the help of artificial-intelligence ("AI") services that you choose, or lets you enter scores yourself. Its scores are never official: it is not an official scoring system, and in competition only the scorecards kept under the rules of World Archery, the national federation or the organizer count.
 
 ## 2. Provided "as is"
 

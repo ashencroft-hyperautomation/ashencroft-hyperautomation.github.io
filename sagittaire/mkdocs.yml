@@ -1,8 +1,8 @@
-# Public website for end users (English, French, German and Spanish), in Archery Canada's colours. Built by tools/site.py; no security or developer pages here.
+# Public website for end users (English, French, German and Spanish), in the app's colours. Built by tools/site.py; no security or developer pages here.
 site_name: sagitt·AI·re
 site_description: Archery records with AI or manual scoring, for Android. Photograph the target, check the arrows the AI is unsure about or place them yourself, keep your history on your phone.
 site_url: https://ashencroft-hyperautomation.github.io/sagittaire/
-copyright: sagitt·AI·re, Archery Canada’s app · Created pro bono by <strong>Ashencroft Studio</strong> — Responsible AI &amp; Hyperautomation Experts
+copyright: sagitt·AI·re · Created pro bono by <strong>Ashencroft Studio</strong> — Responsible AI &amp; Hyperautomation Experts
 
 theme:
   name: material
@@ -55,7 +55,7 @@ plugins:
           build: true
           site_name: sagitt·AI·re
           site_description: Le carnet de tir à l'arc avec comptage par IA, pour Android. Photographiez la cible, vérifiez les flèches dont l'IA doute, gardez votre historique sur votre téléphone.
-          copyright: sagitt·AI·re, l’application de Tir à l’arc Canada · Créée pro bono par le <strong>Studio Ashencroft</strong> — Experts en IA &amp; Hyper Automatisation Responsable
+          copyright: sagitt·AI·re · Créée pro bono par le <strong>Studio Ashencroft</strong> — Experts en IA &amp; Hyper Automatisation Responsable
           nav_translations:
             Home: Accueil
             Privacy, sovereignty and responsible AI: Vie privée, souveraineté et IA responsable
@@ -95,7 +95,7 @@ plugins:
           build: true
           site_name: sagitt·AI·re
           site_description: Das Bogenschieß-Tagebuch mit KI-Wertung, für Android. Fotografiere die Scheibe, prüfe die Pfeile, bei denen die KI unsicher ist, und behalte deinen Verlauf auf deinem Handy.
-          copyright: sagitt·AI·re, die App von Archery Canada · Pro bono entwickelt von <strong>Ashencroft Studio</strong> — Experten für verantwortungsvolle KI &amp; Hyperautomatisierung
+          copyright: sagitt·AI·re · Pro bono entwickelt von <strong>Ashencroft Studio</strong> — Experten für verantwortungsvolle KI &amp; Hyperautomatisierung
           nav_translations:
             Home: Start
             Privacy, sovereignty and responsible AI: Datenschutz, Souveränität und verantwortungsvolle KI
@@ -134,7 +134,7 @@ plugins:
           build: true
           site_name: sagitt·AI·re
           site_description: El registro de tiro con arco con puntuación por IA, para Android. Fotografía la diana, revisa las flechas de las que la IA duda y guarda tu historial en tu teléfono.
-          copyright: sagitt·AI·re, la app de Archery Canada · Creada pro bono por <strong>Estudio Ashencroft</strong> — Expertos en IA y Hiperautomatización Responsables
+          copyright: sagitt·AI·re · Creada pro bono por <strong>Estudio Ashencroft</strong> — Expertos en IA y Hiperautomatización Responsables
           nav_translations:
             Home: Inicio
             Privacy, sovereignty and responsible AI: Privacidad, soberanía e IA responsable

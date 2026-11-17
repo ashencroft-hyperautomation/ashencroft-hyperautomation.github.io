@@ -5,7 +5,7 @@ La regla convierte las zonas en puntos. Cada flecha guarda la zona en la que imp
 | Regla | Puntos |
 |------|--------|
 | **X y 10 valen 10** | Toda la zona del 10 vale 10. Las X se cuentan para los desempates. Recurvo y arco desnudo de World Archery, la mayoría de los clubes. |
-| **Solo el 10 interior** | Solo la pequeña zona interior vale 10; el resto del amarillo vale 9. Compuesto de World Archery; USA Archery y Archery Canada siguen a World Archery. |
+| **Solo el 10 interior** | Solo la pequeña zona interior vale 10; el resto del amarillo vale 9. Compuesto de World Archery; las federaciones nacionales siguen a World Archery. |
 | **La X vale 11** | La zona de la X vale 11. Algunos torneos de EE. UU., como el Lancaster Classic. |
 
 **Regla de la línea (todas las reglas):** una flecha que toca la línea entre dos zonas puntúa la zona más alta. Una flecha en el 8 que toca la línea 8/9 es un 9.

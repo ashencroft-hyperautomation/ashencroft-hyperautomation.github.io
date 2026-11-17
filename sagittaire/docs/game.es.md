@@ -271,7 +271,7 @@ El **atril** del salón sostiene **el libro del arquero**: 56 páginas ilustrada
 - **Capítulos:** Flechas, El arco, La diana, Apuntar, El equipo del arquero, Cuidados y hábitos, En el campo de tiro, Arqueros de leyenda, Ajuste, Modalidades, Arcos.
 - **Una página** tiene un dibujo con sus partes nombradas y un texto corto. **Anterior** y **Siguiente** pasan las páginas.
 - Una página que aún no has abierto está marcada como **Nueva**. Una página bloqueada indica qué la desbloquea («Consigue Flechas V para leer esta página»).
-- El libro nombra las cosas y explica para qué sirven. No es un reglamento: para las reglas de competición, consulta [Archery Canada](https://archerycanada.ca/).
+- El libro nombra las cosas y explica para qué sirven. No es un reglamento: para las reglas de competición, consulta [World Archery](https://www.worldarchery.sport/) o tu federación nacional.
 - Los textos de las páginas son borradores que aún se están revisando.
 - Los lectores de pantalla leen el texto y los nombres de cada dibujo.
 - Para familias, entrenadores y docentes: cómo el libro ayuda a los niños a aprender las palabras del tiro con arco, en [Educación](education.md). El libro completo, para imprimir: [El libro del arquero](book.md).

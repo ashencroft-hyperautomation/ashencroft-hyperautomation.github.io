@@ -1,6 +1,6 @@
 # Nutzungsbedingungen
 
-*Version 5 · Gültig ab 14. November 2026*
+*Version 6 · Gültig ab 16. November 2026*
 
 *Dies ist eine Übersetzung, die dir nur zur besseren Verständlichkeit bereitgestellt wird; maßgeblich sind allein die französische und die englische Fassung, die bei jeder Abweichung Vorrang haben.*
 
@@ -8,7 +8,7 @@ Bitte lies diese Bedingungen sorgfältig. Sie bilden eine rechtliche Vereinbarun
 
 ## 1. Was die App ist
 
-Die App ist eine kostenlose App, mit der du deine Bogenschieß-Aufzeichnungen führen kannst, pro bono vom Entwickler für Archery Canada gemacht. Sie ist für Training und Freizeit gedacht. Sie schlägt Ergebnisse anhand von Fotos der Scheibe vor, mithilfe von Diensten der künstlichen Intelligenz („KI“), die du selbst auswählst, oder lässt dich die Ergebnisse selbst eingeben. Ihre Ergebnisse sind nie offiziell: Sie ist kein offizielles Wertungssystem, und im Wettkampf zählen nur die Schießzettel, die nach den Regeln von World Archery, Archery Canada oder des Veranstalters geführt werden.
+Die App ist eine kostenlose App, mit der du deine Bogenschieß-Aufzeichnungen führen kannst, vom Entwickler gemacht. Sie ist für Training und Freizeit gedacht. Sie schlägt Ergebnisse anhand von Fotos der Scheibe vor, mithilfe von Diensten der künstlichen Intelligenz („KI“), die du selbst auswählst, oder lässt dich die Ergebnisse selbst eingeben. Ihre Ergebnisse sind nie offiziell: Sie ist kein offizielles Wertungssystem, und im Wettkampf zählen nur die Schießzettel, die nach den Regeln von World Archery, des nationalen Verbands oder des Veranstalters geführt werden.
 
 ## 2. Bereitstellung „wie besehen“
 

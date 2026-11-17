@@ -271,7 +271,7 @@ The **lectern** in the hall holds **the archer's book**: 56 illustrated pages in
 - **Chapters:** Arrows, The bow, The target, Aiming, The archer's kit, Care and habits, Out on the range, Archers of legend, Tuning, Kinds of archery, Bows.
 - **A page** has a drawing with its parts labelled and a short text. **Previous** and **Next** turn the pages.
 - A page you haven't opened yet is marked **New**. A locked page shows what earns it ("Earn Arrows V to read this page").
-- The book names things and explains what they do. It is not a rule book: for the rules of competition, see [Archery Canada](https://archerycanada.ca/).
+- The book names things and explains what they do. It is not a rule book: for the rules of competition, see [World Archery](https://www.worldarchery.sport/) or your national federation.
 - The page texts are drafts, still being checked.
 - Screen readers read the text and the labels of each drawing.
 - For parents, coaches and teachers: how the book helps children learn the words of archery, in [Education](education.md). The whole book, to print: [The archer's book](book.md).

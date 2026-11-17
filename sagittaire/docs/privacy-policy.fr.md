@@ -1,6 +1,6 @@
 # Politique de confidentialité
 
-*Version 5 · En vigueur le 14 novembre 2026*
+*Version 6 · En vigueur le 16 novembre 2026*
 
 La présente politique explique quels renseignements l’application sagitt·AI·re (l’« Application ») traite, où ils sont conservés, quand ils quittent votre appareil et ce que vous pouvez faire à leur égard. Elle fait partie des conditions d’utilisation. Le « Développeur » désigne le Studio Ashencroft — Experts en IA & Hyper Automatisation Responsable, développeur de sagitt·AI·re.
 
@@ -85,7 +85,7 @@ Si la présente politique change de façon importante, la nouvelle version sera 
 
 ## 12. Questions
 
-L’Application et son site Web sont créés pro bono pour Tir à l’arc Canada et gérés par le Développeur. Pour toute question sur la présente politique, ouvrez un billet (« issue ») à l’adresse github.com/ashencroft-hyperautomation/ashencroft-hyperautomation.github.io/issues. Les billets sont publics : n’y incluez aucun renseignement personnel, aucune photo et aucune clé API.
+L’Application et son site Web sont créés et gérés par le Développeur. Pour toute question sur la présente politique, ouvrez un billet (« issue ») à l’adresse github.com/ashencroft-hyperautomation/ashencroft-hyperautomation.github.io/issues. Les billets sont publics : n’y incluez aucun renseignement personnel, aucune photo et aucune clé API.
 
 ## 13. Langue
 

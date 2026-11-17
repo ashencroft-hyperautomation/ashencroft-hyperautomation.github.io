@@ -6,9 +6,9 @@ gibt es das Buch zum Ausdrucken: 56 bebilderte Seiten in 11 Kapiteln, jede mit e
 Teilen und einem kurzen Text, den ein Kind lesen kann.
 
 !!! note "Ein Entwurf, noch nicht freigegeben"
-    Die Texte wurden auf Englisch und Französisch geprüft und korrigiert (siehe unten), aber Archery Canada hat sie
-    noch nicht freigegeben. Das Buch benennt Dinge und erklärt sie; es ist weder ein Regelwerk noch ein
-    Trainingshandbuch. Für die Regeln des Sports siehe [Archery Canada](https://archerycanada.ca/).
+    Die Texte wurden auf Englisch und Französisch geprüft und korrigiert (siehe unten), aber sie sind
+    noch nicht endgültig. Das Buch benennt Dinge und erklärt sie; es ist weder ein Regelwerk noch ein
+    Trainingshandbuch. Für die Regeln des Sports siehe [World Archery](https://www.worldarchery.sport/) oder deinen nationalen Verband.
 
 ## Herunterladen
 
@@ -24,7 +24,7 @@ deines Druckers, um es in der Mitte zu falten.
 
 <div class="shots" markdown>
 <figure markdown>
-![Der Umschlag des Buchs des Bogenschützen: rot, mit drei Pixelzeichnungen (ein Recurvebogen, ein Pfeil und Artemis), dem Titel und sagitt·AI·re, die App von Archery Canada.](images/book/preview-de-cover.png){ .shot }
+![Der Umschlag des Buchs des Bogenschützen: rot, mit drei Pixelzeichnungen (ein Recurvebogen, ein Pfeil und Artemis), dem Titel und sagitt·AI·re.](images/book/preview-de-cover.png){ .shot }
 <figcaption><b>Der Umschlag</b></figcaption>
 </figure>
 <figure markdown>
@@ -42,9 +42,9 @@ Stufen steht unter [Lernen](education.md#the-11-chapters).
 
 ## Wie die Texte geprüft wurden
 
-Am 15. November 2026 wurden die englischen und französischen Texte Seite für Seite anhand von World Archery,
-Archery Canada und seinen französischen Regelbüchern 2026, dem französischen Verband, den Sicherheitshinweisen der
-Pfeilhersteller (Easton, Gold Tip) und den alten Quellen der Legenden geprüft. Die Korrekturen wurden in allen vier
+Am 15. November 2026 wurden die englischen und französischen Texte Seite für Seite anhand der Regeln von
+World Archery, der französischsprachigen Regelbücher 2026, des französischen Verbands, der Sicherheitshinweise der
+Pfeilhersteller (Easton, Gold Tip) und der alten Quellen der Legenden geprüft. Die Korrekturen wurden in allen vier
 Sprachen übernommen, darunter:
 
 - **Pfeile ziehen** (Die Scheibe und der Ständer): warten, bis alle fertig geschossen haben, seitlich stehen und
@@ -60,5 +60,5 @@ Deutsch und Spanisch tragen dieselben Korrekturen; ihr Wortlaut wurde noch nicht
 ## Woher es kommt
 
 Das PDF wird aus der App selbst gemacht: dieselben Texte und Beschriftungen wie das Buch im Spielmodus und dieselben
-Pixelzeichnungen. Wenn sich die Texte in der App ändern, wird das Buch neu gedruckt. sagitt·AI·re ist die App von
-Archery Canada, pro bono entwickelt von Ashencroft Studio, für Training und Freizeit: Ergebnisse sind nie offiziell.
+Pixelzeichnungen. Wenn sich die Texte in der App ändern, wird das Buch neu gedruckt. sagitt·AI·re ist
+von Ashencroft Studio entwickelt, für Training und Freizeit: Ergebnisse sind nie offiziell.

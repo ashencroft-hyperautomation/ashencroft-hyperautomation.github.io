@@ -10,7 +10,7 @@ archers à apprendre. Le livre entier existe aussi en PDF à imprimer, en quatre
 !!! note "Le livre est un brouillon"
     Les 56 pages du livre sont encore en cours de vérification avant une diffusion plus large de l’application. Il nomme
     les choses et explique à quoi elles servent ; ce n’est ni un règlement ni un manuel d’entraînement. Pour les règles
-    du sport, voir [Tir à l’arc Canada](https://archerycanada.ca/).
+    du sport, voir [World Archery](https://www.worldarchery.sport/) ou votre fédération nationale.
 
 ## Comment ça marche
 

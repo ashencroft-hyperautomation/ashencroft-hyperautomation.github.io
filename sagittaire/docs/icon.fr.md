@@ -1,6 +1,6 @@
 # L'icône
 
-L'icône d'aujourd'hui est moitié cible, moitié feuille d'érable : un cercle dont la moitié gauche est une cible World Archery et la moitié droite une feuille d'érable blanche sur le rouge de Tir à l'arc Canada. Avant elle, il y a eu un symbole rouge avec des neurones et le signe du Sagittaire, et une cible de bois sculptée, à la manière nordique.
+L'icône d'aujourd'hui est moitié cible, moitié feuille d'érable : un cercle dont la moitié gauche est une cible World Archery et la moitié droite une feuille d'érable blanche sur fond rouge. Avant elle, il y a eu un symbole rouge avec des neurones et le signe du Sagittaire, et une cible de bois sculptée, à la manière nordique.
 
 ## Son évolution
 
@@ -22,8 +22,8 @@ L'icône d'aujourd'hui est moitié cible, moitié feuille d'érable : un cercle
 <figcaption><b>4. Le nouveau nom.</b> Quand Ullr est devenue sagitt·AI·re, les runes ont changé pour écrire le nouveau nom.</figcaption>
 </figure>
 <figure markdown>
-![Cinquième icône : sur le rouge de Tir à l'arc Canada, un anneau de cible blanc avec quatre neurones reliés au centre, et le signe du Sagittaire en noir, dont la flèche finit dans le centre blanc.](images/icons/5-archery-canada.png){ width="180" }
-<figcaption><b>5. Tir à l'arc Canada.</b> sagitt·AI·re devient l'application de Tir à l'arc Canada : un nouveau symbole, dans son rouge.</figcaption>
+![Cinquième icône : sur fond rouge, un anneau de cible blanc avec quatre neurones reliés au centre, et le signe du Sagittaire en noir, dont la flèche finit dans le centre blanc.](images/icons/5-red-mark.png){ width="180" }
+<figcaption><b>5. Un symbole rouge.</b> Un nouveau symbole, en rouge, avec des neurones pour l'IA.</figcaption>
 </figure>
 <figure markdown>
 ![L'icône d'aujourd'hui : un cercle dont la moitié gauche est une cible (blanc, noir, bleu, rouge et or) et la moitié droite une feuille d'érable blanche sur rouge.](images/icons/6-target-leaf.png){ width="180" }
@@ -34,9 +34,9 @@ L'icône d'aujourd'hui est moitié cible, moitié feuille d'érable : un cercle
 ## L'icône d'aujourd'hui
 
 - **La moitié gauche** est une cible World Archery : blanc, noir, bleu, rouge et or.
-- **La moitié droite** est une feuille d'érable blanche sur le rouge de Tir à l'arc Canada.
+- **La moitié droite** est une feuille d'érable blanche sur fond rouge.
 - Elles se rejoignent sur la ligne du milieu : la cible et la feuille forment un seul cercle.
-- **Un fond blanc**, comme le site de Tir à l'arc Canada, et l'écran de lancement est blanc aussi.
+- **Un fond blanc**, et l'écran de lancement est blanc aussi.
 
 ## Les variantes
 

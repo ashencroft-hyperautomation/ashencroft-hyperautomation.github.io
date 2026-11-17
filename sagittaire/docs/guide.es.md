@@ -4,7 +4,7 @@ De abrir la app a tu primera tanda confirmada, en pocos pasos. Cada paso lleva a
 
 <div class="shots" markdown>
 <figure markdown>
-![Pantalla de carga: blanca, el logotipo de Archery Canada arriba, el icono mitad diana, mitad hoja de arce y una barra de progreso, y la mención pro bono abajo.](images/screenshots/es/loading.png){ .shot }
+![Pantalla de carga: blanca, el icono mitad diana, mitad hoja de arce y una barra de progreso, y la mención del autor abajo.](images/screenshots/es/loading.png){ .shot }
 <figcaption>La pantalla de carga</figcaption>
 </figure>
 <figure markdown>

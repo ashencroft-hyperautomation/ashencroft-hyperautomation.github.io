@@ -11,7 +11,7 @@ arqueros jóvenes. El libro completo también está en PDF para imprimir, en cua
 !!! note "El libro es un borrador"
     Las 56 páginas del libro aún se están revisando antes de que la app se reparta más. Nombra las cosas y explica para qué
     sirven; no es un reglamento ni un manual de entrenamiento. Para las reglas del deporte, consulta
-    [Archery Canada](https://archerycanada.ca/).
+    [World Archery](https://www.worldarchery.sport/) o tu federación nacional.
 
 ## Cómo funciona
 

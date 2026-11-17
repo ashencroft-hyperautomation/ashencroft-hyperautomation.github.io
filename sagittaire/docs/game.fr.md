@@ -271,7 +271,7 @@ Le **lutrin** de la maison porte **le livre de l’archer** : 56 pages illustr�
 - **Chapitres :** Les flèches, L’arc, La cible, La visée, L’équipement de l’archer, Soins et habitudes, Sur le terrain, Archers de légende, Le réglage, Les disciplines, Les arcs.
 - **Une page** a un dessin avec ses parties nommées et un court texte. **Précédente** et **Suivante** tournent les pages.
 - Une page pas encore ouverte est marquée **Nouvelle**. Une page verrouillée indique ce qui la débloque (« Obtenez Flèches V pour lire cette page »).
-- Le livre nomme les choses et explique à quoi elles servent. Ce n’est pas un règlement : pour les règles de compétition, voir [Tir à l’arc Canada](https://archerycanada.ca/).
+- Le livre nomme les choses et explique à quoi elles servent. Ce n’est pas un règlement : pour les règles de compétition, voir [World Archery](https://www.worldarchery.sport/) ou votre fédération nationale.
 - Les textes des pages sont des brouillons, encore en cours de vérification.
 - Les lecteurs d’écran lisent le texte et les noms de chaque dessin.
 - Pour les parents, les entraîneurs et les enseignants : comment le livre aide les enfants à apprendre les mots du tir à l’arc, dans [Éducation](education.md). Le livre entier, à imprimer : [Le livre de l’archer](book.md).

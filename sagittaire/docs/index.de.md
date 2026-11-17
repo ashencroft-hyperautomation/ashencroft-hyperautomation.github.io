@@ -6,7 +6,7 @@ hide:
 ---
 
 <div class="hero" markdown>
-![sagitt·AI·re, Bogenschieß-Aufzeichnungen mit KI-Wertung: das Symbol, halb World-Archery-Scheibe, halb weißes Ahornblatt auf dem Rot von Archery Canada, der Name und zwei Handy-Bildschirme mit der Übersicht und einer Passe mit zwei Pfeilen zum Prüfen.](images/banner.de.png)
+![sagitt·AI·re, Bogenschieß-Aufzeichnungen mit KI-Wertung: das Symbol, halb World-Archery-Scheibe, halb weißes Ahornblatt auf Rot, der Name und zwei Handy-Bildschirme mit der Übersicht und einer Passe mit zwei Pfeilen zum Prüfen.](images/banner.de.png)
 </div>
 
 # sagitt·AI·re { #sagittaire }
@@ -15,9 +15,7 @@ hide:
 
 *Der Name: Sagittaire, französisch für das Sternbild Schütze, mit AI (KI) in der Mitte.*
 
-![Logo von Archery Canada](images/brand/archery-canada.svg){ .owner-logo }
-
-**sagitt·AI·re ist die App von Archery Canada**, pro bono entwickelt von Ashencroft Studio. Sie ist für Training und Freizeit: Ihre Ergebnisse sind nie offiziell, im Wettkampf zählen nur die offiziellen Schießzettel.
+**sagitt·AI·re wird von Ashencroft Studio entwickelt.** Sie ist für Training und Freizeit: Ihre Ergebnisse sind nie offiziell, im Wettkampf zählen nur die offiziellen Schießzettel.
 
 <div class="game-band" markdown>
 

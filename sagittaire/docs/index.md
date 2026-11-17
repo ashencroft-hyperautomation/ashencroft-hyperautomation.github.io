@@ -6,7 +6,7 @@ hide:
 ---
 
 <div class="hero" markdown>
-![sagitt·AI·re, archery records with AI scoring: the icon, half a World Archery target and half a white maple leaf on Archery Canada red, the name, and two phone screens showing the dashboard and an end with two arrows to check.](images/banner.png)
+![sagitt·AI·re, archery records with AI scoring: the icon, half a World Archery target and half a white maple leaf on red, the name, and two phone screens showing the dashboard and an end with two arrows to check.](images/banner.png)
 </div>
 
 # sagitt·AI·re
@@ -15,9 +15,7 @@ hide:
 
 *Its name: Sagittaire, French for Sagittarius, the archer among the stars, with AI at its heart.*
 
-![Archery Canada’s logo](images/brand/archery-canada.svg){ .owner-logo }
-
-**sagitt·AI·re is Archery Canada’s app**, created pro bono by Ashencroft Studio. It is for practice and leisure: its scores are never official, and in competition only the official scorecards count.
+**sagitt·AI·re is created by Ashencroft Studio.** It is for practice and leisure: its scores are never official, and in competition only the official scorecards count.
 
 <div class="game-band" markdown>
 

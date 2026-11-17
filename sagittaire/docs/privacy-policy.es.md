@@ -1,6 +1,6 @@
 # Política de privacidad
 
-*Versión 5 · Vigente desde el 14 de noviembre de 2026*
+*Versión 6 · Vigente desde el 16 de noviembre de 2026*
 
 *Esta es una traducción que se ofrece solo para tu comodidad; únicamente las versiones en francés y en inglés hacen fe y, si hay cualquier diferencia, prevalecen sobre esta.*
 
@@ -87,7 +87,7 @@ Si esta política cambia de forma sustancial, la nueva versión se mostrará en 
 
 ## 12. Preguntas
 
-La App y su sitio web están hechos pro bono para Archery Canada y los gestiona el Desarrollador. Si tienes preguntas sobre esta política, abre una incidencia (issue) en github.com/ashencroft-hyperautomation/ashencroft-hyperautomation.github.io/issues. Las incidencias son públicas: no incluyas información personal, fotos ni claves de API.
+La App y su sitio web los hace y los gestiona el Desarrollador. Si tienes preguntas sobre esta política, abre una incidencia (issue) en github.com/ashencroft-hyperautomation/ashencroft-hyperautomation.github.io/issues. Las incidencias son públicas: no incluyas información personal, fotos ni claves de API.
 
 ## 13. Idioma
 

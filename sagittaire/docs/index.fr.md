@@ -6,7 +6,7 @@ hide:
 ---
 
 <div class="hero" markdown>
-![sagitt·AI·re, carnet de tir à l’arc avec comptage par IA : l’icône, moitié cible World Archery, moitié feuille d’érable blanche sur le rouge de Tir à l’arc Canada, le nom, et deux écrans de téléphone montrant le tableau de bord et une volée avec deux flèches à vérifier.](images/banner.fr.png)
+![sagitt·AI·re, carnet de tir à l’arc avec comptage par IA : l’icône, moitié cible World Archery, moitié feuille d’érable blanche sur fond rouge, le nom, et deux écrans de téléphone montrant le tableau de bord et une volée avec deux flèches à vérifier.](images/banner.fr.png)
 </div>
 
 # sagitt·AI·re
@@ -15,9 +15,7 @@ hide:
 
 *Son nom : le Sagittaire, l’archer des étoiles, avec l’IA (AI) en son cœur.*
 
-![Logo de Tir à l’arc Canada](images/brand/archery-canada.svg){ .owner-logo }
-
-**sagitt·AI·re est l’application de Tir à l’arc Canada**, créée pro bono par le Studio Ashencroft. Elle sert à l’entraînement et au loisir : ses pointages ne sont jamais officiels, et en compétition seules les feuilles de marque officielles comptent.
+**sagitt·AI·re est créée par le Studio Ashencroft.** Elle sert à l’entraînement et au loisir : ses pointages ne sont jamais officiels, et en compétition seules les feuilles de marque officielles comptent.
 
 <div class="game-band" markdown>
 

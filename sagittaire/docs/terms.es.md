@@ -1,6 +1,6 @@
 # Condiciones de uso
 
-*Versión 5 · Vigente desde el 14 de noviembre de 2026*
+*Versión 6 · Vigente desde el 16 de noviembre de 2026*
 
 *Esta es una traducción que se ofrece solo para tu comodidad; únicamente las versiones en francés y en inglés hacen fe y, si hay cualquier diferencia, prevalecen sobre esta.*
 
@@ -8,7 +8,7 @@ Lee atentamente estas condiciones. Constituyen un acuerdo legal entre tú y el E
 
 ## 1. Qué es la App
 
-La App es una app gratuita para llevar tus registros de tiro con arco, hecha pro bono para Archery Canada por el Desarrollador. Está pensada para el entrenamiento y el ocio. Sugiere puntuaciones a partir de fotos de la diana con la ayuda de servicios de inteligencia artificial («IA») que tú eliges, o te permite introducir las puntuaciones tú mismo. Sus puntuaciones nunca son oficiales: no es un sistema oficial de puntuación, y en competición solo cuentan las hojas de puntuación llevadas según las reglas de World Archery, Archery Canada o el organizador.
+La App es una app gratuita para llevar tus registros de tiro con arco, hecha por el Desarrollador. Está pensada para el entrenamiento y el ocio. Sugiere puntuaciones a partir de fotos de la diana con la ayuda de servicios de inteligencia artificial («IA») que tú eliges, o te permite introducir las puntuaciones tú mismo. Sus puntuaciones nunca son oficiales: no es un sistema oficial de puntuación, y en competición solo cuentan las hojas de puntuación llevadas según las reglas de World Archery, la federación nacional o el organizador.
 
 ## 2. Se proporciona «tal cual»
 

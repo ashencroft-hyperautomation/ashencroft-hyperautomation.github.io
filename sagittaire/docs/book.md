@@ -5,9 +5,9 @@ sagitt·AI·re's game mode, where each badge step opens one of its pages. Here i
 illustrated pages in 11 chapters, each with a drawing whose parts are named and a short text a child can read.
 
 !!! note "A draft, still to be approved"
-    The texts were researched and corrected in English and French (see below), but Archery Canada has not yet
-    approved them. The book names things and explains them; it is not a rule book or a coaching manual. For the
-    rules of the sport, see [Archery Canada](https://archerycanada.ca/).
+    The texts were researched and corrected in English and French (see below), but they are not
+    final yet. The book names things and explains them; it is not a rule book or a coaching manual. For the
+    rules of the sport, see [World Archery](https://www.worldarchery.sport/) or your national federation.
 
 ## Download
 
@@ -23,7 +23,7 @@ it in half.
 
 <div class="shots" markdown>
 <figure markdown>
-![The cover of the archer's book: red, with three pixel drawings (a recurve bow, an arrow and Artemis), the title and sagitt·AI·re, Archery Canada's app.](images/book/preview-en-cover.png){ .shot }
+![The cover of the archer's book: red, with three pixel drawings (a recurve bow, an arrow and Artemis), the title and sagitt·AI·re.](images/book/preview-en-cover.png){ .shot }
 <figcaption><b>The cover</b></figcaption>
 </figure>
 <figure markdown>
@@ -40,8 +40,8 @@ can see what to aim for next. The full list of pages, with the step for each, is
 
 ## How the texts were checked
 
-On 15 November 2026, the English and French texts were checked page by page against World Archery, Archery Canada
-and its 2026 French rulebooks, the French federation, arrow makers' safety notes (Easton, Gold Tip) and the old
+On 15 November 2026, the English and French texts were checked page by page against World Archery's
+rules, the 2026 French-language rulebooks, the French federation, arrow makers' safety notes (Easton, Gold Tip) and the old
 sources of the legends. The corrections were made in all four languages, among them:
 
 - **Pulling arrows** (The boss and stand): wait until everyone has stopped shooting, stand to one side and check
@@ -49,7 +49,7 @@ sources of the legends. The corrections were made in all four languages, among t
 - **Checking arrows:** the flex test for carbon arrows is shown by a coach or an adult, bending away from everyone.
 - **Tuning** (brace height, tiller): done with a coach or an adult, within the limits in the bow's manual.
 - **Recurve:** a compound event joins the Olympic Games at Los Angeles 2028.
-- **French terms** as Tir à l'arc Canada uses them, for example *point de visée*, *bouton de pression* and
+- **French terms** as Canadian French rulebooks use them, for example *point de visée*, *bouton de pression* and
   *arc bandé*.
 
 German and Spanish carry the same corrections; their wording has not had a separate check yet.
@@ -57,5 +57,5 @@ German and Spanish carry the same corrections; their wording has not had a separ
 ## Where it comes from
 
 The PDF is made from the app itself: the same texts and labels as the book in game mode, and the same pixel
-drawings. When the texts change in the app, the book is printed again. sagitt·AI·re is Archery Canada's app,
-created pro bono by Ashencroft Studio, for practice and leisure: its scores are never official.
+drawings. When the texts change in the app, the book is printed again. sagitt·AI·re is
+created by Ashencroft Studio, for practice and leisure: its scores are never official.

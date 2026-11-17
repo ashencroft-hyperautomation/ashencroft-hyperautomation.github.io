@@ -11,7 +11,7 @@ Bogenschützen beim Lernen zu helfen. Das ganze Buch gibt es auch als PDF zum Au
 !!! note "Das Buch ist ein Entwurf"
     Die 56 Seiten des Buchs werden noch geprüft, bevor die App breiter verteilt wird. Es benennt Dinge und erklärt, wozu
     sie dienen; es ist weder ein Regelwerk noch ein Trainingshandbuch. Für die Regeln des Sports siehe
-    [Archery Canada](https://archerycanada.ca/).
+    [World Archery](https://www.worldarchery.sport/) oder deinen nationalen Verband.
 
 ## So funktioniert es
 

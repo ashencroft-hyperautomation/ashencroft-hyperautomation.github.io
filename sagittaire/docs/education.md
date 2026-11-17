@@ -9,7 +9,7 @@ This page is for parents, coaches and teachers who want to use the game to help 
 !!! note "The book is a draft"
     The book's 56 pages are still being checked before the app is handed out more widely. It names things and
     explains what they do; it is not a rule book or a coaching manual. For the rules of the sport, see
-    [Archery Canada](https://archerycanada.ca/).
+    [World Archery](https://www.worldarchery.sport/) or your national federation.
 
 ## How it works
 

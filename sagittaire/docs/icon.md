@@ -1,6 +1,6 @@
 # The app icon
 
-Today's icon is half a target and half a maple leaf: a circle whose left half is a World Archery target and whose right half is a white maple leaf on Archery Canada red. Before it came a red mark with neurons and the Sagittarius sign, and a carved wooden target, Norse style.
+Today's icon is half a target and half a maple leaf: a circle whose left half is a World Archery target and whose right half is a white maple leaf on red. Before it came a red mark with neurons and the Sagittarius sign, and a carved wooden target, Norse style.
 
 ## How it evolved
 
@@ -22,8 +22,8 @@ Today's icon is half a target and half a maple leaf: a circle whose left half is
 <figcaption><b>4. Renamed.</b> When Ullr became sagitt·AI·re, the runes changed to spell the new name.</figcaption>
 </figure>
 <figure markdown>
-![Fifth icon: on Archery Canada red, a white target ring with four neurons linked to the centre, and the Sagittarius sign in ink, its arrow ending in the white bullseye.](images/icons/5-archery-canada.png){ width="180" }
-<figcaption><b>5. Archery Canada.</b> sagitt·AI·re becomes Archery Canada's app: a new mark, in its red.</figcaption>
+![Fifth icon: on red, a white target ring with four neurons linked to the centre, and the Sagittarius sign in ink, its arrow ending in the white bullseye.](images/icons/5-red-mark.png){ width="180" }
+<figcaption><b>5. A red mark.</b> A new mark, in red, with neurons for the AI.</figcaption>
 </figure>
 <figure markdown>
 ![Today's icon: a circle, its left half a target (white, black, blue, red and gold), its right half a white maple leaf on red.](images/icons/6-target-leaf.png){ width="180" }
@@ -34,9 +34,9 @@ Today's icon is half a target and half a maple leaf: a circle whose left half is
 ## Today's icon
 
 - **The left half** is a World Archery target: white, black, blue, red and gold.
-- **The right half** is a white maple leaf on Archery Canada red.
+- **The right half** is a white maple leaf on red.
 - They meet on the centre line, so the target and the leaf make one circle.
-- **A white background**, like Archery Canada's website, and the launch screen is white too.
+- **A white background**, and the launch screen is white too.
 
 ## Variants
 
